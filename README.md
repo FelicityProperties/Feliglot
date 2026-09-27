@@ -14,9 +14,22 @@ can be learned from any other.
 - `/translate` — phrasebook matches between any two languages, plus optional
   AI "translate & explain" (see below)
 
-Progress (lessons passed, points, daily streak) is kept in the learner's
-browser. Accounts that sync across devices are the next step; the Neon
-database connected in Vercel is not used yet.
+Progress (lessons passed, points, daily streak, "I speak") is always kept in
+the learner's browser, so the site works without signing up. With an account
+(`/account`, email + password) it is also saved to the Neon database and
+follows the learner to any device:
+
+- Signing up or in keeps what was done on that device and adds it to the
+  account. Copies are merged, never overwritten: lessons and streak days are
+  combined and the higher point total wins (`src/lib/progress.ts`), so two
+  devices can't erase each other's progress.
+- Logging out clears that device's copy (shared phones and computers).
+- Passwords are stored as salted scrypt hashes; sessions are random tokens in
+  an httpOnly cookie, stored only as hashes. Log-in attempts are slowed per
+  visitor and per account; write endpoints refuse cross-site requests.
+- Tables (`fg_users`, `fg_sessions`, `fg_progress`) are created automatically
+  on first use — there is no separate setup step.
+- No password reset yet: that needs an email service.
 
 ## Content
 
@@ -42,6 +55,7 @@ can be heard varies; buttons say so when a device has no voice.
 | Name | Needed? | What it does |
 | --- | --- | --- |
 | `ANTHROPIC_API_KEY` | Optional | Turns on "Translate & explain" (AI translation with word-by-word breakdown). Without it the translator shows phrasebook matches only. Every translation is billed to this key — set a monthly spend limit on it in the Anthropic Console. |
+| `DATABASE_URL` | For accounts | The Neon connection string. Added automatically when Neon is connected to the project in Vercel (`POSTGRES_URL` also works). Without it, the Sign in link is hidden and progress stays in the browser. |
 | `NEXT_PUBLIC_SITE_URL` | Optional | The public address used in the sitemap and link previews. Defaults to https://feliglot.vercel.app. |
 
 ## Run it
