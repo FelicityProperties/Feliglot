@@ -7,6 +7,7 @@ import { getLanguage } from "@/lib/languages";
 import { addXp, markUnitDone, useSpeakLanguage } from "@/lib/store";
 import { speak } from "@/lib/speech";
 import { useContent } from "@/lib/useContent";
+import SavePrompt from "./SavePrompt";
 import SpeakButton from "./SpeakButton";
 
 type Mode = "learn" | "cards" | "quiz";
@@ -277,6 +278,7 @@ function Quiz({
         <p className="mt-2 text-ink-600">
           {passed ? `Lesson passed — +${score * XP_PER_ANSWER} points.` : "Keep going — get 70% to pass the lesson."}
         </p>
+        {passed && <SavePrompt />}
         <div className="mt-6 flex flex-wrap justify-center gap-3">
           <button onClick={start} className="btn-secondary">
             Try again

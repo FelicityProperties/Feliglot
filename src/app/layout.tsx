@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import Link from "next/link";
+import AccountLink from "@/components/AccountLink";
 import HeaderStats from "@/components/HeaderStats";
 import SpeakSelect from "@/components/SpeakSelect";
 import { LANGUAGES } from "@/lib/languages";
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
                 Translate
               </Link>
               <HeaderStats />
+              <AccountLink />
             </div>
             <div className="w-full sm:w-auto">
               <SpeakSelect compact />
