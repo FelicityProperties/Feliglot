@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sand-50: #fbf8f3;
+  --color-sand-100: #f4eee3;
+  --color-sand-200: #e9e0cf;
+  --color-sand-300: #d9cbb1;
+  --color-ink-500: #6b6f76;
+  --color-ink-600: #4f535a;
+  --color-ink-700: #373a40;
+  --color-ink-900: #16181c;
+  --color-teal-50: #e8f5f3;
+  --color-teal-600: #0f8a7e;
+  --color-teal-700: #0b6d63;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-arabic: "Noto Naskh Arabic", "Geeza Pro", "Segoe UI", "Arial", sans-serif;
+}
+
+body {
+  background: var(--color-sand-50);
+  color: var(--color-ink-900);
+  font-family: var(--font-sans);
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center rounded-full bg-teal-700 px-5 py-3 font-medium text-white hover:bg-teal-600;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center rounded-full border border-sand-300 bg-white px-5 py-3 font-medium text-ink-700 hover:bg-sand-100;
+  }
+}
