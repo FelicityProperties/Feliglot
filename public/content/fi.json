@@ -1,0 +1,387 @@
+{
+  "code": "fi",
+  "phrases": {
+    "hello": {
+      "text": "Hei",
+      "note": "Sounds like 'hey'. Just as common: Moi. Both are fine with anyone; formal: Päivää."
+    },
+    "goodbye": {
+      "text": "Näkemiin",
+      "note": "Everyday: Hei hei! or Moi moi! On the phone: Kuulemiin."
+    },
+    "please": {
+      "text": "Ole hyvä",
+      "note": "For offering or inviting: Ole hyvä ja istu (please sit). In requests Finns add kiitos: Kahvi, kiitos."
+    },
+    "thank_you": {
+      "text": "Kiitos",
+      "note": "Stress the first syllable: KII-tos. More: Kiitos paljon! Casual: Kiitti!"
+    },
+    "youre_welcome": {
+      "text": "Ei kestä",
+      "note": "Also common: Eipä kestä, or Ole hyvä."
+    },
+    "yes": {
+      "text": "Kyllä",
+      "note": "Everyday: Joo. Finns often answer by repeating the verb: Tuletko? – Tulen."
+    },
+    "no": {
+      "text": "Ei",
+      "note": "Ei is a verb and changes with the person: En tule (I'm not coming), Et tule (you're not coming)."
+    },
+    "sorry": {
+      "text": "Anteeksi",
+      "note": "The same word also means 'excuse me'. Casual: Sori."
+    },
+    "excuse_me": {
+      "text": "Anteeksi",
+      "note": "Same word as sorry: Anteeksi, missä on asema? (Excuse me, where is the station?)"
+    },
+    "good_morning": {
+      "text": "Hyvää huomenta",
+      "note": "Short: Huomenta! Double letters are held longer: hyvää has a long ää."
+    },
+    "how_are_you": {
+      "text": "Mitä kuuluu?",
+      "note": "Finns expect an honest answer, not just small talk. Formal: Mitä teille kuuluu?"
+    },
+    "im_fine": {
+      "text": "Hyvää, kiitos",
+      "note": "The usual answer to Mitä kuuluu? Add: Entä sinulle? (And you?)"
+    },
+    "whats_your_name": {
+      "text": "Mikä teidän nimenne on?",
+      "note": "Everyday: Mikä sun nimi on? Finns switch to the informal quickly."
+    },
+    "my_name_is": {
+      "text": "Nimeni on …",
+      "note": "Very common: Olen Anna. Spoken: Mä oon Anna."
+    },
+    "nice_to_meet_you": {
+      "text": "Hauska tutustua",
+      "note": "Also: Mukava tavata."
+    },
+    "where_from": {
+      "text": "Mistä olette kotoisin?",
+      "note": "Informal: Mistä olet kotoisin?"
+    },
+    "im_from": {
+      "text": "Olen kotoisin …",
+      "note": "Most countries take -sta/-stä: Olen kotoisin Ranskasta. A few take -lta: Venäjältä. Shorter: Olen Ranskasta."
+    },
+    "speak_english": {
+      "text": "Puhutteko englantia?",
+      "note": "Informal: Puhutko englantia?"
+    },
+    "dont_understand": {
+      "text": "En ymmärrä",
+      "note": "Softer: Anteeksi, en ymmärrä."
+    },
+    "speak_slowly": {
+      "text": "Voisitteko puhua hitaammin?",
+      "note": "Informal: Voisitko puhua hitaammin?"
+    },
+    "where": {
+      "text": "Missä?",
+      "note": "Where to? Mihin? Where from? Mistä?"
+    },
+    "what": {
+      "text": "Mitä?",
+      "note": "Didn't catch that? Politer: Anteeksi? For 'what is it', use mikä: Mikä tämä on?"
+    },
+    "when": {
+      "text": "Milloin?",
+      "note": "Spoken, very common: Koska?"
+    },
+    "why": {
+      "text": "Miksi?",
+      "note": "Spoken: Miks?"
+    },
+    "who": {
+      "text": "Kuka?"
+    },
+    "how_much": {
+      "text": "Paljonko tämä maksaa?",
+      "note": "Also: Mitä tämä maksaa?"
+    },
+    "where_bathroom": {
+      "text": "Missä on vessa?",
+      "note": "Signs say WC (vee-see); N is for women (naiset), M for men (miehet)."
+    },
+    "can_you_help": {
+      "text": "Voisitteko auttaa minua?",
+      "note": "Informal: Voisitko auttaa minua?"
+    },
+    "what_time": {
+      "text": "Paljonko kello on?",
+      "note": "Also: Mitä kello on?"
+    },
+    "what_means": {
+      "text": "Mitä tämä tarkoittaa?"
+    },
+    "one": {
+      "text": "Yksi",
+      "note": "Spoken: yks. The y sounds like German ü or French u."
+    },
+    "two": {
+      "text": "Kaksi",
+      "note": "Spoken: kaks."
+    },
+    "three": {
+      "text": "Kolme"
+    },
+    "four": {
+      "text": "Neljä",
+      "note": "ä sounds like the a in 'cat'."
+    },
+    "five": {
+      "text": "Viisi",
+      "note": "Spoken: viis."
+    },
+    "six": {
+      "text": "Kuusi",
+      "note": "Spoken: kuus."
+    },
+    "seven": {
+      "text": "Seitsemän",
+      "note": "Spoken: seittemän."
+    },
+    "eight": {
+      "text": "Kahdeksan",
+      "note": "Spoken: kaheksan. As a name (bus 8, school grade 8): kasi."
+    },
+    "nine": {
+      "text": "Yhdeksän",
+      "note": "Spoken: yheksän. As a name (bus 9, school grade 9): ysi."
+    },
+    "ten": {
+      "text": "Kymmenen",
+      "note": "As a name (school grade 10, a €10 note): kymppi."
+    },
+    "water": {
+      "text": "Vesi",
+      "note": "Tap water is fine to drink. Some water, please: Vettä, kiitos."
+    },
+    "coffee": {
+      "text": "Kahvi",
+      "note": "Ordering: Yksi kahvi, kiitos."
+    },
+    "tea": {
+      "text": "Tee"
+    },
+    "bread": {
+      "text": "Leipä",
+      "note": "Everyday Finnish bread is dark rye: ruisleipä."
+    },
+    "im_hungry": {
+      "text": "Minulla on nälkä",
+      "note": "Spoken: Mulla on nälkä."
+    },
+    "menu_please": {
+      "text": "Saisinko ruokalistan?",
+      "note": "Also: Ruokalista, kiitos. Lunch menu: lounaslista."
+    },
+    "bill_please": {
+      "text": "Saisinko laskun?",
+      "note": "Also: Voisinko maksaa? Tipping isn't expected in Finland."
+    },
+    "delicious": {
+      "text": "Herkullista!",
+      "note": "Everyday: Tosi hyvää!"
+    },
+    "no_meat": {
+      "text": "En syö lihaa",
+      "note": "I'm a vegetarian: Olen kasvissyöjä. Vegan: vegaani."
+    },
+    "enjoy_meal": {
+      "text": "Hyvää ruokahalua!",
+      "note": "Often skipped before eating; after the meal it's polite to say Kiitos ruoasta."
+    },
+    "left": {
+      "text": "Vasemmalle",
+      "note": "For directions (turn left). On the left: vasemmalla. The adjective is vasen."
+    },
+    "right": {
+      "text": "Oikealle",
+      "note": "For directions (turn right). On the right: oikealla. Oikea also means 'correct'."
+    },
+    "straight_ahead": {
+      "text": "Suoraan eteenpäin",
+      "note": "Often just: Suoraan."
+    },
+    "stop_here": {
+      "text": "Voisitteko pysähtyä tähän?",
+      "note": "In a taxi you can simply say: Tähän, kiitos."
+    },
+    "airport": {
+      "text": "Lentokenttä",
+      "note": "Signs say lentoasema."
+    },
+    "hotel": {
+      "text": "Hotelli"
+    },
+    "train_station": {
+      "text": "Rautatieasema",
+      "note": "Everyday: juna-asema, or just asema."
+    },
+    "want_to_go": {
+      "text": "Haluaisin mennä …",
+      "note": "The place takes a 'to' ending: Haluaisin mennä Helsinkiin / asemalle."
+    },
+    "is_it_far": {
+      "text": "Onko se kaukana?",
+      "note": "Is it near? Onko se lähellä?"
+    },
+    "one_ticket": {
+      "text": "Yksi lippu, kiitos"
+    },
+    "too_expensive": {
+      "text": "Se on liian kallis",
+      "note": "Haggling is rare in Finland; prices are fixed except at flea markets."
+    },
+    "cheaper": {
+      "text": "Onko teillä mitään halvempaa?"
+    },
+    "id_like_this": {
+      "text": "Ottaisin tämän, kiitos",
+      "note": "Also: Haluaisin tämän."
+    },
+    "just_looking": {
+      "text": "Katselen vain",
+      "note": "Spoken: Mä vaan katselen, kiitos."
+    },
+    "pay_card": {
+      "text": "Voinko maksaa kortilla?"
+    },
+    "cash": {
+      "text": "Käteinen",
+      "note": "Paying in cash: käteisellä (Maksan käteisellä)."
+    },
+    "open": {
+      "text": "Avoinna",
+      "note": "Spoken, and on some doors: auki."
+    },
+    "closed": {
+      "text": "Suljettu",
+      "note": "Spoken: kiinni."
+    },
+    "big": {
+      "text": "Iso",
+      "note": "Also: suuri, a little more formal."
+    },
+    "small": {
+      "text": "Pieni"
+    },
+    "today": {
+      "text": "Tänään"
+    },
+    "tomorrow": {
+      "text": "Huomenna",
+      "note": "Don't mix it up with huomenta (the morning greeting)."
+    },
+    "yesterday": {
+      "text": "Eilen"
+    },
+    "now": {
+      "text": "Nyt"
+    },
+    "later": {
+      "text": "Myöhemmin",
+      "note": "Soon: kohta."
+    },
+    "good_evening": {
+      "text": "Hyvää iltaa",
+      "note": "Short: Iltaa!"
+    },
+    "good_night": {
+      "text": "Hyvää yötä",
+      "note": "Casual: Öitä! Or: Nuku hyvin (sleep well)."
+    },
+    "see_you_later": {
+      "text": "Nähdään myöhemmin",
+      "note": "Often just: Nähdään! See you tomorrow: Nähdään huomenna."
+    },
+    "wait_moment": {
+      "text": "Odottakaa hetki",
+      "note": "Informal: Odota hetki. Quick: Hetkinen!"
+    },
+    "every_day": {
+      "text": "Joka päivä"
+    },
+    "help": {
+      "text": "Apua!",
+      "note": "Emergency number in Finland: 112."
+    },
+    "call_police": {
+      "text": "Soittakaa poliisi!",
+      "note": "Soittakaa speaks to several people (or formally). To one person: Soita poliisi!"
+    },
+    "need_doctor": {
+      "text": "Tarvitsen lääkärin"
+    },
+    "im_lost": {
+      "text": "Olen eksynyt"
+    },
+    "dont_feel_well": {
+      "text": "Minulla on huono olo",
+      "note": "Spoken: Mulla on huono olo."
+    },
+    "pharmacy": {
+      "text": "Apteekki"
+    },
+    "hospital": {
+      "text": "Sairaala",
+      "note": "Emergency room: päivystys."
+    },
+    "lost_phone": {
+      "text": "Kadotin puhelimeni",
+      "note": "Spoken: Mä hukkasin mun puhelimen."
+    },
+    "allergic": {
+      "text": "Olen allerginen …",
+      "note": "The allergen takes -lle: Olen allerginen pähkinöille (nuts), maidolle (milk)."
+    },
+    "be_careful": {
+      "text": "Ole varovainen!",
+      "note": "Sudden warning: Varo! (Watch out!)"
+    },
+    "no_problem": {
+      "text": "Ei se mitään",
+      "note": "Replies to sorry or thanks. Agreeing to a request: Ei ongelmaa or Onnistuu! No worries: Ei hätää."
+    },
+    "of_course": {
+      "text": "Totta kai",
+      "note": "Also: Tietysti or Tietenkin."
+    },
+    "maybe": {
+      "text": "Ehkä"
+    },
+    "dont_know": {
+      "text": "En tiedä",
+      "note": "Spoken: En tiiä or Emmä tiiä."
+    },
+    "i_like_it": {
+      "text": "Pidän siitä",
+      "note": "Spoken: Tykkään siitä. What you like takes -sta/-stä: Pidän kahvista."
+    },
+    "dont_like_it": {
+      "text": "En pidä siitä",
+      "note": "Spoken: En tykkää siitä."
+    },
+    "im_tired": {
+      "text": "Olen väsynyt",
+      "note": "Spoken: Mä oon väsyny."
+    },
+    "im_happy": {
+      "text": "Olen iloinen",
+      "note": "Happy with life: Olen onnellinen."
+    },
+    "welcome": {
+      "text": "Tervetuloa!"
+    },
+    "congratulations": {
+      "text": "Onneksi olkoon!",
+      "note": "Casual: Onnea! Happy birthday: Hyvää syntymäpäivää!"
+    }
+  }
+}

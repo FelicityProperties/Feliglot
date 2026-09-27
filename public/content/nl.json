@@ -1,0 +1,404 @@
+{
+  "code": "nl",
+  "phrases": {
+    "hello": {
+      "text": "Hallo",
+      "note": "Casual: Hoi! More formal: Goedendag. Dag! works for both hello and goodbye."
+    },
+    "goodbye": {
+      "text": "Tot ziens",
+      "note": "Casual: Doei! or Dag!"
+    },
+    "please": {
+      "text": "Alstublieft",
+      "note": "To a friend: alsjeblieft. Both are also said when handing something over (here you are)."
+    },
+    "thank_you": {
+      "text": "Dank u wel",
+      "note": "To a friend: dank je wel. Short and very common with anyone: Bedankt!"
+    },
+    "youre_welcome": {
+      "text": "Graag gedaan",
+      "note": "Also common: Geen dank."
+    },
+    "yes": {
+      "text": "Ja",
+      "note": "The j sounds like English y: 'yah'."
+    },
+    "no": {
+      "text": "Nee",
+      "note": "'Not' is niet, and 'no' before a noun is geen: geen tijd (no time)."
+    },
+    "sorry": {
+      "text": "Sorry",
+      "note": "Dutch really uses sorry. For real regret: Het spijt me. Formal: Mijn excuses."
+    },
+    "excuse_me": {
+      "text": "Pardon",
+      "note": "Usually followed by a question: Pardon, mag ik u iets vragen? Also common: Sorry, …"
+    },
+    "good_morning": {
+      "text": "Goedemorgen",
+      "note": "Casual: Goeiemorgen or just Morgen! Used until about noon, then Goedemiddag."
+    },
+    "how_are_you": {
+      "text": "Hoe gaat het met u?",
+      "note": "Casual: Hoe gaat het? or Hoe is het?"
+    },
+    "im_fine": {
+      "text": "Het gaat goed, dank u",
+      "note": "Shorter: Goed, dank u! To a friend: dank je. To ask back: En met u?"
+    },
+    "whats_your_name": {
+      "text": "Hoe heet u?",
+      "note": "Casual: Hoe heet je? More formal: Wat is uw naam?"
+    },
+    "my_name_is": {
+      "text": "Ik heet …",
+      "note": "Also common: Mijn naam is … Informally, just: Ik ben …"
+    },
+    "nice_to_meet_you": {
+      "text": "Aangenaam",
+      "note": "Said while shaking hands. Less formal: Leuk je te ontmoeten or Leuk kennis te maken."
+    },
+    "where_from": {
+      "text": "Waar komt u vandaan?",
+      "note": "Casual: Waar kom je vandaan?"
+    },
+    "im_from": {
+      "text": "Ik kom uit …",
+      "note": "A few countries take an article: uit de Verenigde Staten, uit het Verenigd Koninkrijk."
+    },
+    "speak_english": {
+      "text": "Spreekt u Engels?",
+      "note": "Casual: Spreek je Engels? Many Dutch people will happily switch to English."
+    },
+    "dont_understand": {
+      "text": "Ik begrijp het niet",
+      "note": "Casual: Ik snap het niet. If you didn't catch the words: Ik versta u niet."
+    },
+    "speak_slowly": {
+      "text": "Kunt u alstublieft wat langzamer praten?",
+      "note": "Also useful: Kunt u dat herhalen? (Can you repeat that?)"
+    },
+    "where": {
+      "text": "Waar?",
+      "note": "Where to? is Waarnaartoe?, where from? is Waarvandaan?"
+    },
+    "what": {
+      "text": "Wat?",
+      "note": "Wat? alone can sound blunt; to ask someone to repeat, say Pardon?"
+    },
+    "when": {
+      "text": "Wanneer?",
+      "note": "Stress on the second part: wa-NEER."
+    },
+    "why": {
+      "text": "Waarom?",
+      "note": "Casual: Hoezo? (How come?)"
+    },
+    "who": {
+      "text": "Wie?",
+      "note": "Sounds like English 'wee'. Whose? is Van wie?"
+    },
+    "how_much": {
+      "text": "Hoeveel kost dit?",
+      "note": "Also very common: Wat kost dit?"
+    },
+    "where_bathroom": {
+      "text": "Waar is het toilet?",
+      "note": "Also very common: Waar is de wc? Politer: start with Pardon, …"
+    },
+    "can_you_help": {
+      "text": "Kunt u mij helpen?",
+      "note": "Even more polite: Zou u mij kunnen helpen?"
+    },
+    "what_time": {
+      "text": "Hoe laat is het?",
+      "note": "Hoe laat also asks 'at what time': Hoe laat gaat de winkel open?"
+    },
+    "what_means": {
+      "text": "Wat betekent dit?",
+      "note": "Also common: Wat wil dit zeggen?"
+    },
+    "one": {
+      "text": "Eén",
+      "note": "Mid-sentence: één. The accents tell it apart from een (a, an), which is unstressed: een koffie."
+    },
+    "two": {
+      "text": "Twee",
+      "note": "ee sounds like 'ay' in 'day': 'tway'."
+    },
+    "three": {
+      "text": "Drie",
+      "note": "ie sounds like 'ee': 'dree'."
+    },
+    "four": {
+      "text": "Vier",
+      "note": "The v is soft, close to f: 'feer'."
+    },
+    "five": {
+      "text": "Vijf",
+      "note": "ij sounds between 'ay' and 'eye': roughly 'fayf'."
+    },
+    "six": {
+      "text": "Zes",
+      "note": "Rhymes with English 'mess'; in the Netherlands the z often sounds close to s."
+    },
+    "seven": {
+      "text": "Zeven",
+      "note": "Say 'ZAY-vuh'; the final n is often dropped in speech."
+    },
+    "eight": {
+      "text": "Acht",
+      "note": "The ch is a throaty sound, as in Scottish 'loch'."
+    },
+    "nine": {
+      "text": "Negen",
+      "note": "The g is throaty, like ch: 'NAY-khuh'. The final n is often dropped too."
+    },
+    "ten": {
+      "text": "Tien",
+      "note": "Sounds like 'teen'."
+    },
+    "water": {
+      "text": "Water",
+      "note": "het water. Still: plat water; sparkling: bruisend water. Tap water: kraanwater."
+    },
+    "coffee": {
+      "text": "Koffie",
+      "note": "de koffie. A milky coffee is a koffie verkeerd."
+    },
+    "tea": {
+      "text": "Thee",
+      "note": "de thee. The th is just a t: 'tay'."
+    },
+    "bread": {
+      "text": "Brood",
+      "note": "het brood. A bread roll or a sandwich is a broodje."
+    },
+    "im_hungry": {
+      "text": "Ik heb honger",
+      "note": "Dutch says 'I have hunger'. Casual for very hungry: Ik rammel!"
+    },
+    "menu_please": {
+      "text": "De menukaart, alstublieft",
+      "note": "Often just: Mag ik de kaart, alstublieft?"
+    },
+    "bill_please": {
+      "text": "De rekening, alstublieft",
+      "note": "Also very common: Mag ik afrekenen?"
+    },
+    "delicious": {
+      "text": "Lekker!",
+      "note": "Also very common: Heerlijk! Lekker is also used for nice weather, good sleep and more."
+    },
+    "no_meat": {
+      "text": "Ik eet geen vlees",
+      "note": "Or: Ik ben vegetariër."
+    },
+    "enjoy_meal": {
+      "text": "Eet smakelijk!",
+      "note": "Often just: Smakelijk!"
+    },
+    "left": {
+      "text": "Links",
+      "note": "Turn left: Ga linksaf."
+    },
+    "right": {
+      "text": "Rechts",
+      "note": "Not 'correct' – that is goed or juist. Turn right: Ga rechtsaf."
+    },
+    "straight_ahead": {
+      "text": "Rechtdoor",
+      "note": "Stress on the end: recht-DOOR."
+    },
+    "stop_here": {
+      "text": "Kunt u hier stoppen, alstublieft?",
+      "note": "Also common: U kunt me hier afzetten (You can drop me off here)."
+    },
+    "airport": {
+      "text": "Vliegveld",
+      "note": "het vliegveld. On signs and in formal use: de luchthaven."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "het hotel. Stress on the end, ho-TEL, and the h is pronounced."
+    },
+    "train_station": {
+      "text": "Station",
+      "note": "het station. Also: het treinstation. Say 'sta-SHON'."
+    },
+    "want_to_go": {
+      "text": "Ik wil graag naar …",
+      "note": "Dutch usually leaves out gaan (go). Also very common: Ik moet naar … (I need to get to …)"
+    },
+    "is_it_far": {
+      "text": "Is het ver?",
+      "note": "Also: Is het ver lopen? (Is it a long walk?)"
+    },
+    "one_ticket": {
+      "text": "Eén kaartje, alstublieft",
+      "note": "Single: een enkele reis. Return: een retour or retourtje."
+    },
+    "too_expensive": {
+      "text": "Dat is te duur",
+      "note": "Haggling is unusual in Dutch shops, except at flea markets."
+    },
+    "cheaper": {
+      "text": "Heeft u iets goedkopers?",
+      "note": "Casual: Heb je iets goedkopers?"
+    },
+    "id_like_this": {
+      "text": "Ik wil dit graag",
+      "note": "Pointing at a de-word, say deze: Ik wil deze graag. When buying, also: Ik neem deze."
+    },
+    "just_looking": {
+      "text": "Ik kijk even rond, dank u",
+      "note": "Also common: Ik kijk alleen even."
+    },
+    "pay_card": {
+      "text": "Kan ik pinnen?",
+      "note": "Pinnen means paying by bank card. Credit card: Kan ik met een creditcard betalen?"
+    },
+    "cash": {
+      "text": "Contant",
+      "note": "As in contant betalen (to pay in cash). Many people also just say cash."
+    },
+    "open": {
+      "text": "Geopend",
+      "note": "Signs also often say just Open."
+    },
+    "closed": {
+      "text": "Gesloten",
+      "note": "In speech people usually say dicht: De winkel is dicht."
+    },
+    "big": {
+      "text": "Groot",
+      "note": "Before a noun it usually adds -e: een grote koffie."
+    },
+    "small": {
+      "text": "Klein",
+      "note": "Before a noun it usually adds -e: een kleine koffie."
+    },
+    "today": {
+      "text": "Vandaag"
+    },
+    "tomorrow": {
+      "text": "Morgen",
+      "note": "Also means morning. Tomorrow morning: morgenochtend."
+    },
+    "yesterday": {
+      "text": "Gisteren",
+      "note": "The g is throaty, like the ch in Scottish 'loch'."
+    },
+    "now": {
+      "text": "Nu",
+      "note": "The u is like French u. Right away: meteen."
+    },
+    "later": {
+      "text": "Later",
+      "note": "Same word as English, said 'LAH-ter'. For later today, Dutch often says straks."
+    },
+    "good_evening": {
+      "text": "Goedenavond",
+      "note": "Casual: Goeienavond. The usual greeting from about 6 pm."
+    },
+    "good_night": {
+      "text": "Welterusten",
+      "note": "Also said when parting late at night (sleep well). Casual: Slaap lekker! More formal: Goedenacht."
+    },
+    "see_you_later": {
+      "text": "Tot straks",
+      "note": "For later the same day. If you're not sure when: Tot later! Tomorrow: Tot morgen!"
+    },
+    "wait_moment": {
+      "text": "Een moment, alstublieft",
+      "note": "Casual: Momentje! or Wacht even!"
+    },
+    "every_day": {
+      "text": "Elke dag",
+      "note": "Also: iedere dag, or dagelijks (daily)."
+    },
+    "help": {
+      "text": "Help!",
+      "note": "Same shout as in English. The noun is hulp: Ik heb hulp nodig (I need help)."
+    },
+    "call_police": {
+      "text": "Bel de politie!",
+      "note": "The emergency number in the Netherlands and Belgium is 112."
+    },
+    "need_doctor": {
+      "text": "Ik heb een dokter nodig",
+      "note": "Also: een arts. Your family doctor is de huisarts. Emergency: Ik heb een ambulance nodig."
+    },
+    "im_lost": {
+      "text": "Ik ben verdwaald",
+      "note": "Also very common: Ik ben de weg kwijt."
+    },
+    "dont_feel_well": {
+      "text": "Ik voel me niet goed",
+      "note": "Casual: Ik voel me niet lekker."
+    },
+    "pharmacy": {
+      "text": "Apotheek",
+      "note": "de apotheek. For basic medicine and toiletries, go to the drogist."
+    },
+    "hospital": {
+      "text": "Ziekenhuis",
+      "note": "het ziekenhuis. Emergency department: de Spoedeisende Hulp (SEH)."
+    },
+    "lost_phone": {
+      "text": "Ik ben mijn telefoon kwijt",
+      "note": "Also: Ik heb mijn telefoon verloren. A mobile is also called a mobiel."
+    },
+    "allergic": {
+      "text": "Ik ben allergisch voor …",
+      "note": "Also common: Ik heb een notenallergie (a nut allergy)."
+    },
+    "be_careful": {
+      "text": "Pas op!",
+      "note": "Also very common: Kijk uit! or Voorzichtig!"
+    },
+    "no_problem": {
+      "text": "Geen probleem",
+      "note": "Casual: Geen punt!"
+    },
+    "of_course": {
+      "text": "Natuurlijk",
+      "note": "Casual: Tuurlijk! or Zeker!"
+    },
+    "maybe": {
+      "text": "Misschien",
+      "note": "Say 'mi-SKHEEN': an s followed by a throaty ch."
+    },
+    "dont_know": {
+      "text": "Ik weet het niet",
+      "note": "Casual: Weet ik niet or Geen idee! (no idea)."
+    },
+    "i_like_it": {
+      "text": "Ik vind het leuk",
+      "note": "For food: Ik vind het lekker. For something that looks nice: Ik vind het mooi."
+    },
+    "dont_like_it": {
+      "text": "Ik vind het niet leuk",
+      "note": "For food: Ik vind het niet lekker."
+    },
+    "im_tired": {
+      "text": "Ik ben moe",
+      "note": "Very tired: Ik ben doodmoe."
+    },
+    "im_happy": {
+      "text": "Ik ben blij",
+      "note": "For deep, lasting happiness: Ik ben gelukkig."
+    },
+    "welcome": {
+      "text": "Welkom!",
+      "note": "Warmer: Van harte welkom!"
+    },
+    "congratulations": {
+      "text": "Gefeliciteerd!",
+      "note": "At a birthday, Dutch people also congratulate the family: Gefeliciteerd met je zoon!"
+    }
+  }
+}

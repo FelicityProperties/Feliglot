@@ -1,0 +1,459 @@
+{
+  "code": "si",
+  "phrases": {
+    "hello": {
+      "text": "ආයුබෝවන්",
+      "roman": "ayubowan",
+      "note": "Said with palms pressed together; also works for goodbye. Friends just say the English හලෝ (halo)."
+    },
+    "goodbye": {
+      "text": "ගිහින් එන්නම්",
+      "roman": "gihin ennam",
+      "note": "Said by the one leaving ('I'll go and come back'). The reply: හා, ගිහින් එන්න (ha, gihin enna)."
+    },
+    "please": {
+      "text": "කරුණාකරලා",
+      "roman": "karunakarala",
+      "note": "Written/formal: කරුණාකර (karunakara). Often the polite -න්න (-nna) verb ending is enough on its own."
+    },
+    "thank_you": {
+      "text": "ස්තුතියි",
+      "roman": "stutiyi",
+      "note": "Warmer: බොහොම ස්තුතියි (bohoma stutiyi), 'thank you very much'."
+    },
+    "youre_welcome": {
+      "text": "කමක් නෑ",
+      "roman": "kamak nae",
+      "note": "Sinhala has no set reply to thanks; this ('it's nothing') or a smile is the natural one."
+    },
+    "yes": {
+      "text": "ඔව්",
+      "roman": "ow",
+      "note": "A side-to-side tilt of the head also means yes. හා (ha) is a casual 'OK'."
+    },
+    "no": {
+      "text": "නෑ",
+      "roman": "nae",
+      "note": "Fuller form: නැහැ (naehae)."
+    },
+    "sorry": {
+      "text": "සමාවෙන්න",
+      "roman": "samawenna",
+      "note": "For small slips the English සොරි (sori) is very common."
+    },
+    "excuse_me": {
+      "text": "සමාවෙන්න මහත්තයා",
+      "roman": "samawenna mahattaya",
+      "note": "To a woman: සමාවෙන්න නෝනා (samawenna nona)."
+    },
+    "good_morning": {
+      "text": "සුබ උදෑසනක්",
+      "roman": "suba udaesanak",
+      "note": "Rather formal; day to day people say ආයුබෝවන් (ayubowan) or the English 'good morning'."
+    },
+    "how_are_you": {
+      "text": "ඔයාට කොහොමද?",
+      "roman": "oyata kohomada?",
+      "note": "To an elder, use a title instead of ඔයා: මහත්තයාට කොහොමද? (mahattayata kohomada?)"
+    },
+    "im_fine": {
+      "text": "මට හොඳයි, ස්තුතියි",
+      "roman": "mata hondai, stutiyi"
+    },
+    "whats_your_name": {
+      "text": "ඔයාගේ නම මොකක්ද?",
+      "roman": "oyage nama mokakda?",
+      "note": "Softer: නම කියන්න පුළුවන්ද? (nama kiyanna puluwanda?)"
+    },
+    "my_name_is": {
+      "text": "මගේ නම …",
+      "roman": "mage nama …"
+    },
+    "nice_to_meet_you": {
+      "text": "ඔයාව හම්බවුණු එක සතුටක්",
+      "roman": "oyawa hambawunu eka satutak",
+      "note": "Sinhala has no fixed phrase for this; many people simply use the English 'nice to meet you'."
+    },
+    "where_from": {
+      "text": "ඔයා කොහෙන්ද?",
+      "roman": "oya kohenda?",
+      "note": "To ask the country: ඔයා කොයි රටෙන්ද? (oya koi ratenda?)"
+    },
+    "im_from": {
+      "text": "මම ආවේ … ඉඳලා",
+      "roman": "mama awe … indala",
+      "note": "The country ends in -ේ (-e): මම ආවේ ඇමරිකාවේ ඉඳලා (mama awe aemerikawe indala). Shorter: මම ඇමරිකාවෙන් (mama aemerikawen)."
+    },
+    "speak_english": {
+      "text": "ඔයාට ඉංග්‍රීසි කතා කරන්න පුළුවන්ද?",
+      "roman": "oyata ingrisi kata karanna puluwanda?"
+    },
+    "dont_understand": {
+      "text": "මට තේරෙන්නේ නෑ",
+      "roman": "mata terenne nae"
+    },
+    "speak_slowly": {
+      "text": "කරුණාකරලා පොඩ්ඩක් හෙමින් කතා කරන්න",
+      "roman": "karunakarala poddak hemin kata karanna"
+    },
+    "where": {
+      "text": "කොහෙද?",
+      "roman": "koheda?"
+    },
+    "what": {
+      "text": "මොකක්ද?",
+      "roman": "mokakda?",
+      "note": "In speech it usually sounds like 'mokadda'."
+    },
+    "when": {
+      "text": "කවදාද?",
+      "roman": "kawadada?",
+      "note": "Asks which day; 'at what time?' is කීයටද? (kiyatada?)"
+    },
+    "why": {
+      "text": "ඇයි?",
+      "roman": "aeyi?"
+    },
+    "who": {
+      "text": "කවුද?",
+      "roman": "kauda?"
+    },
+    "how_much": {
+      "text": "මේක කීයද?",
+      "roman": "meka kiyada?"
+    },
+    "where_bathroom": {
+      "text": "ටොයිලට් එක කොහෙද?",
+      "roman": "toilat eka koheda?",
+      "note": "The Sinhala word is වැසිකිළිය (waesikiliya), but the English loan is what most people say."
+    },
+    "can_you_help": {
+      "text": "මට උදව්වක් කරන්න පුළුවන්ද?",
+      "roman": "mata udawwak karanna puluwanda?"
+    },
+    "what_time": {
+      "text": "වෙලාව කීයද?",
+      "roman": "welawa kiyada?"
+    },
+    "what_means": {
+      "text": "මේකේ තේරුම මොකක්ද?",
+      "roman": "meke teruma mokakda?"
+    },
+    "one": {
+      "text": "එක",
+      "roman": "eka",
+      "note": "'One (of something)', e.g. when ordering: එකක් (ekak)."
+    },
+    "two": {
+      "text": "දෙක",
+      "roman": "deka"
+    },
+    "three": {
+      "text": "තුන",
+      "roman": "tuna"
+    },
+    "four": {
+      "text": "හතර",
+      "roman": "hatara"
+    },
+    "five": {
+      "text": "පහ",
+      "roman": "paha"
+    },
+    "six": {
+      "text": "හය",
+      "roman": "haya"
+    },
+    "seven": {
+      "text": "හත",
+      "roman": "hata"
+    },
+    "eight": {
+      "text": "අට",
+      "roman": "ata"
+    },
+    "nine": {
+      "text": "නවය",
+      "roman": "nawaya"
+    },
+    "ten": {
+      "text": "දහය",
+      "roman": "dahaya"
+    },
+    "water": {
+      "text": "වතුර",
+      "roman": "watura",
+      "note": "Drinking water: බොන වතුර (bona watura). A bottle of water: වතුර බෝතලයක් (watura botalayak)."
+    },
+    "coffee": {
+      "text": "කෝපි",
+      "roman": "kopi"
+    },
+    "tea": {
+      "text": "තේ",
+      "roman": "te",
+      "note": "Milk tea is කිරි තේ (kiri te); black tea is ප්ලේන්ටී (plenti, from 'plain tea')."
+    },
+    "bread": {
+      "text": "පාන්",
+      "roman": "pan",
+      "note": "A loaf: පාන් ගෙඩියක් (pan gediyak)."
+    },
+    "im_hungry": {
+      "text": "මට බඩගිනියි",
+      "roman": "mata badaginiyi"
+    },
+    "menu_please": {
+      "text": "මෙනු එක දෙන්න",
+      "roman": "menu eka denna",
+      "note": "Softer: මෙනු එක දෙන්න පුළුවන්ද? (menu eka denna puluwanda?)"
+    },
+    "bill_please": {
+      "text": "බිල ගේන්න",
+      "roman": "bila genna"
+    },
+    "delicious": {
+      "text": "හරිම රසයි!",
+      "roman": "harima rasai!"
+    },
+    "no_meat": {
+      "text": "මම මස් කන්නේ නෑ",
+      "roman": "mama mas kanne nae",
+      "note": "Fish isn't always counted as meat; to rule it out too: මස් මාළු කන්නේ නෑ (mas malu kanne nae)."
+    },
+    "enjoy_meal": {
+      "text": "හොඳට කන්න!",
+      "roman": "hondata kanna!",
+      "note": "There is no set phrase; hosts urge guests with this ('eat well')."
+    },
+    "left": {
+      "text": "වමට",
+      "roman": "wamata",
+      "note": "'Turn left': වමට හරවන්න (wamata harawanna)."
+    },
+    "right": {
+      "text": "දකුණට",
+      "roman": "dakunata",
+      "note": "දකුණ (dakuna) also means 'south'."
+    },
+    "straight_ahead": {
+      "text": "කෙළින්ම",
+      "roman": "kelinma",
+      "note": "'Go straight on': කෙළින්ම යන්න (kelinma yanna)."
+    },
+    "stop_here": {
+      "text": "මෙතන නවත්තන්න",
+      "roman": "metana nawattanna"
+    },
+    "airport": {
+      "text": "ගුවන් තොටුපළ",
+      "roman": "guwan totupala",
+      "note": "In speech people usually say එයාපෝට් එක (eyapot eka)."
+    },
+    "hotel": {
+      "text": "හෝටලය",
+      "roman": "hotalaya",
+      "note": "In Sri Lanka a හෝටලය can also mean a small local eatery."
+    },
+    "train_station": {
+      "text": "දුම්රිය ස්ථානය",
+      "roman": "dumriya stanaya",
+      "note": "In speech: ස්ටේෂන් එක (steshan eka). The train itself is කෝච්චිය (kochchiya)."
+    },
+    "want_to_go": {
+      "text": "මට … යන්න ඕනේ",
+      "roman": "mata … yanna one",
+      "note": "ඕනේ (one) sounds like 'oh-nay'."
+    },
+    "is_it_far": {
+      "text": "මෙතන ඉඳලා දුරද?",
+      "roman": "metana indala durada?"
+    },
+    "one_ticket": {
+      "text": "ටිකට් එකක් දෙන්න",
+      "roman": "tikat ekak denna",
+      "note": "With a destination: කොළඹට ටිකට් එකක් (kolambata tikat ekak)."
+    },
+    "too_expensive": {
+      "text": "ගණන් වැඩියි",
+      "roman": "ganan waediyi",
+      "note": "Casual: ගාණ වැඩියි (gana waediyi)."
+    },
+    "cheaper": {
+      "text": "මීට වඩා ලාබ එකක් තියෙනවාද?",
+      "roman": "mita wada laba ekak tiyenawada?"
+    },
+    "id_like_this": {
+      "text": "මම මේක ගන්නම්",
+      "roman": "mama meka gannam"
+    },
+    "just_looking": {
+      "text": "මම නිකම් බලනවා විතරයි",
+      "roman": "mama nikam balanawa witarai"
+    },
+    "pay_card": {
+      "text": "කාඩ් එකෙන් ගෙවන්න පුළුවන්ද?",
+      "roman": "kad eken gewanna puluwanda?"
+    },
+    "cash": {
+      "text": "සල්ලිවලින්",
+      "roman": "salliwalin",
+      "note": "The answer to 'card or cash?'. The English කෑෂ් (kaesh) is also widely used."
+    },
+    "open": {
+      "text": "විවෘතයි",
+      "roman": "wiwrutai",
+      "note": "In speech: ඇරලා (aerala), as in කඩේ ඇරලාද? (kade aeralada?)"
+    },
+    "closed": {
+      "text": "වසා ඇත",
+      "roman": "wasa aeta",
+      "note": "In speech: වහලා (wahala)."
+    },
+    "big": {
+      "text": "ලොකු",
+      "roman": "loku",
+      "note": "'It's big': ලොකුයි (lokui)."
+    },
+    "small": {
+      "text": "පොඩි",
+      "roman": "podi",
+      "note": "'It's small': පොඩියි (podiyi)."
+    },
+    "today": {
+      "text": "අද",
+      "roman": "ada"
+    },
+    "tomorrow": {
+      "text": "හෙට",
+      "roman": "heta"
+    },
+    "yesterday": {
+      "text": "ඊයේ",
+      "roman": "iye"
+    },
+    "now": {
+      "text": "දැන්",
+      "roman": "daen"
+    },
+    "later": {
+      "text": "පස්සේ",
+      "roman": "passe",
+      "note": "'In a little while': ටිකකින් (tikakin)."
+    },
+    "good_evening": {
+      "text": "සුබ සන්ධ්‍යාවක්",
+      "roman": "suba sandyawak",
+      "note": "Formal; in daily life people use ආයුබෝවන් (ayubowan) or the English 'good evening'."
+    },
+    "good_night": {
+      "text": "සුබ රාත්‍රියක්",
+      "roman": "suba ratriyak",
+      "note": "Rather formal; the English 'good night' is very common."
+    },
+    "see_you_later": {
+      "text": "පස්සේ හම්බවෙමු",
+      "roman": "passe hambawemu",
+      "note": "Also common: ආයෙත් හම්බවෙමු (ayet hambawemu), 'see you again'."
+    },
+    "wait_moment": {
+      "text": "පොඩ්ඩක් ඉන්න",
+      "roman": "poddak inna",
+      "note": "Friendlier: පොඩ්ඩක් ඉන්නකෝ (poddak innako)."
+    },
+    "every_day": {
+      "text": "හැමදාම",
+      "roman": "haemadama"
+    },
+    "help": {
+      "text": "උදව් කරන්න!",
+      "roman": "udaw karanna!",
+      "note": "In real danger people also shout බේරගන්න! (beraganna!), 'save me!'."
+    },
+    "call_police": {
+      "text": "පොලිසියට කතා කරන්න!",
+      "roman": "polisiyata kata karanna!",
+      "note": "The police emergency number in Sri Lanka is 119."
+    },
+    "need_doctor": {
+      "text": "මට දොස්තර කෙනෙක් ඕනේ",
+      "roman": "mata dostara kenek one"
+    },
+    "im_lost": {
+      "text": "මට පාර වැරදුණා",
+      "roman": "mata para waeraduna"
+    },
+    "dont_feel_well": {
+      "text": "මට සනීප නෑ",
+      "roman": "mata sanipa nae",
+      "note": "Also: මට අසනීපයි (mata asanipai), 'I'm ill'."
+    },
+    "pharmacy": {
+      "text": "ෆාමසිය",
+      "roman": "famasiya",
+      "note": "State-run pharmacies are called ඔසුසල (osusala)."
+    },
+    "hospital": {
+      "text": "රෝහල",
+      "roman": "rohala",
+      "note": "In speech: ඉස්පිරිතාලේ (ispiritale)."
+    },
+    "lost_phone": {
+      "text": "මගේ ෆෝන් එක නැති වුණා",
+      "roman": "mage fon eka naeti wuna"
+    },
+    "allergic": {
+      "text": "මට … ඇලර්ජියි",
+      "roman": "mata … aelarjiyi",
+      "note": "E.g. මට කජු ඇලර්ජියි (mata kaju aelarjiyi), allergic to cashews."
+    },
+    "be_careful": {
+      "text": "පරිස්සමින්!",
+      "roman": "parissamin!"
+    },
+    "no_problem": {
+      "text": "ප්‍රශ්නයක් නෑ",
+      "roman": "prashnayak nae"
+    },
+    "of_course": {
+      "text": "අනිවාර්‍යයෙන්ම",
+      "roman": "aniwaryayenma",
+      "note": "Casual: ඔව් ඉතින් (ow itin)."
+    },
+    "maybe": {
+      "text": "සමහරවිට",
+      "roman": "samaharawita"
+    },
+    "dont_know": {
+      "text": "මම දන්නේ නෑ",
+      "roman": "mama danne nae",
+      "note": "Casual shrug: මන්දා (manda)."
+    },
+    "i_like_it": {
+      "text": "මම ඒකට කැමතියි",
+      "roman": "mama ekata kaematiyi",
+      "note": "Colloquial: මට ඒක ආසයි (mata eka asai)."
+    },
+    "dont_like_it": {
+      "text": "මම ඒකට කැමති නෑ",
+      "roman": "mama ekata kaemati nae"
+    },
+    "im_tired": {
+      "text": "මට මහන්සියි",
+      "roman": "mata mahansiyi"
+    },
+    "im_happy": {
+      "text": "මට සතුටුයි",
+      "roman": "mata satutui"
+    },
+    "welcome": {
+      "text": "සාදරයෙන් පිළිගනිමු!",
+      "roman": "sadarayen piliganimu!",
+      "note": "Formal (signs, hotels). A host at home just says එන්න එන්න! (enna enna!), 'come in!'."
+    },
+    "congratulations": {
+      "text": "සුබ පැතුම්!",
+      "roman": "suba paetum!"
+    }
+  }
+}

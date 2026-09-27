@@ -1,0 +1,376 @@
+{
+  "code": "tr",
+  "phrases": {
+    "hello": {
+      "text": "Merhaba",
+      "note": "Casual: Selam."
+    },
+    "goodbye": {
+      "text": "Hoşça kalın",
+      "note": "Said by the one leaving; the one staying replies Güle güle. To a friend: Hoşça kal."
+    },
+    "please": {
+      "text": "Lütfen"
+    },
+    "thank_you": {
+      "text": "Teşekkür ederim",
+      "note": "Shorter and very common: Teşekkürler or Sağ olun."
+    },
+    "youre_welcome": {
+      "text": "Rica ederim",
+      "note": "Also common: Bir şey değil."
+    },
+    "yes": {
+      "text": "Evet"
+    },
+    "no": {
+      "text": "Hayır",
+      "note": "Casual: Yok. Tilting the head back with raised eyebrows also means no."
+    },
+    "sorry": {
+      "text": "Özür dilerim",
+      "note": "For small things: Pardon or Kusura bakmayın."
+    },
+    "excuse_me": {
+      "text": "Affedersiniz",
+      "note": "Pardon also works. To call a waiter: Bakar mısınız?"
+    },
+    "good_morning": {
+      "text": "Günaydın"
+    },
+    "how_are_you": {
+      "text": "Nasılsınız?",
+      "note": "To a friend: Nasılsın?"
+    },
+    "im_fine": {
+      "text": "İyiyim, teşekkür ederim",
+      "note": "Also common: İyiyim, sağ olun. Add Siz nasılsınız? to ask back."
+    },
+    "whats_your_name": {
+      "text": "Adınız ne?",
+      "note": "Also: İsminiz ne? To a child or friend: Adın ne?"
+    },
+    "my_name_is": {
+      "text": "Adım …",
+      "note": "Also common: Benim adım … or simply Ben …"
+    },
+    "nice_to_meet_you": {
+      "text": "Memnun oldum",
+      "note": "Fuller: Tanıştığımıza memnun oldum. The usual reply: Ben de."
+    },
+    "where_from": {
+      "text": "Nerelisiniz?",
+      "note": "To a friend: Nerelisin?"
+    },
+    "im_from": {
+      "text": "Ben …'danım",
+      "note": "Ending adapts to the country: -danım/-denim/-tanım/-tenim, e.g. Almanya'danım, İngiltere'denim, Irak'tanım."
+    },
+    "speak_english": {
+      "text": "İngilizce biliyor musunuz?",
+      "note": "Also: İngilizce konuşuyor musunuz?"
+    },
+    "dont_understand": {
+      "text": "Anlamıyorum",
+      "note": "Anlamadım (I didn't catch that) is just as common in conversation."
+    },
+    "speak_slowly": {
+      "text": "Lütfen daha yavaş konuşun",
+      "note": "Softer as a question: Daha yavaş konuşabilir misiniz?"
+    },
+    "where": {
+      "text": "Nerede?",
+      "note": "Where to? is Nereye?"
+    },
+    "what": {
+      "text": "Ne?",
+      "note": "Politer when you didn't hear someone: Efendim?"
+    },
+    "when": {
+      "text": "Ne zaman?"
+    },
+    "why": {
+      "text": "Neden?",
+      "note": "Also very common: Niye?"
+    },
+    "who": {
+      "text": "Kim?"
+    },
+    "how_much": {
+      "text": "Bu ne kadar?",
+      "note": "Also: Bu kaç lira?"
+    },
+    "where_bathroom": {
+      "text": "Tuvalet nerede?",
+      "note": "More discreet: Lavabo nerede? Add acaba at the end to sound softer."
+    },
+    "can_you_help": {
+      "text": "Bana yardım edebilir misiniz?"
+    },
+    "what_time": {
+      "text": "Saat kaç?"
+    },
+    "what_means": {
+      "text": "Bu ne demek?",
+      "note": "Also: Bunun anlamı ne?"
+    },
+    "one": {
+      "text": "Bir",
+      "note": "Also means 'a/an': bir çay (a tea)."
+    },
+    "two": {
+      "text": "İki",
+      "note": "The capital İ keeps its dot; I without a dot is a different letter."
+    },
+    "three": {
+      "text": "Üç",
+      "note": "ü as in German über; ç is 'ch'."
+    },
+    "four": {
+      "text": "Dört",
+      "note": "ö as in German schön."
+    },
+    "five": {
+      "text": "Beş",
+      "note": "ş is 'sh': say 'besh'."
+    },
+    "six": {
+      "text": "Altı",
+      "note": "ı (no dot) is a short 'uh' sound: al-TUH."
+    },
+    "seven": {
+      "text": "Yedi"
+    },
+    "eight": {
+      "text": "Sekiz"
+    },
+    "nine": {
+      "text": "Dokuz"
+    },
+    "ten": {
+      "text": "On",
+      "note": "Eleven is on bir (ten one), twelve on iki, and so on."
+    },
+    "water": {
+      "text": "Su"
+    },
+    "coffee": {
+      "text": "Kahve",
+      "note": "Türk kahvesi is Turkish coffee; filtre kahve is filter coffee."
+    },
+    "tea": {
+      "text": "Çay",
+      "note": "Ç is 'ch'. Usually served black in small tulip-shaped glasses."
+    },
+    "bread": {
+      "text": "Ekmek"
+    },
+    "im_hungry": {
+      "text": "Acıktım",
+      "note": "Literally 'I've become hungry'; the usual way to say it. Also: Açım."
+    },
+    "menu_please": {
+      "text": "Menüyü alabilir miyim?",
+      "note": "Shorter: Menü lütfen."
+    },
+    "bill_please": {
+      "text": "Hesap lütfen",
+      "note": "Politer: Hesabı alabilir miyim?"
+    },
+    "delicious": {
+      "text": "Çok lezzetli!",
+      "note": "Also: Nefis! To praise the cook: Elinize sağlık!"
+    },
+    "no_meat": {
+      "text": "Et yemiyorum",
+      "note": "Also: Vejetaryenim (I'm vegetarian)."
+    },
+    "enjoy_meal": {
+      "text": "Afiyet olsun!",
+      "note": "Also said while or after someone eats, and by staff when serving or selling food."
+    },
+    "left": {
+      "text": "Sol",
+      "note": "To the left: sola, as in Sola dönün (turn left)."
+    },
+    "right": {
+      "text": "Sağ",
+      "note": "To the right: sağa, as in Sağa dönün. The ğ is silent and lengthens the a."
+    },
+    "straight_ahead": {
+      "text": "Dümdüz",
+      "note": "Go straight ahead: Dümdüz gidin. Also simply: Düz."
+    },
+    "stop_here": {
+      "text": "Burada durur musunuz?",
+      "note": "More direct: Burada durun lütfen. In a dolmuş: Müsait bir yerde inebilir miyim?"
+    },
+    "airport": {
+      "text": "Havalimanı",
+      "note": "Also: Havaalanı."
+    },
+    "hotel": {
+      "text": "Otel"
+    },
+    "train_station": {
+      "text": "Tren istasyonu",
+      "note": "A city's main station is often called gar."
+    },
+    "want_to_go": {
+      "text": "…'a gitmek istiyorum",
+      "note": "-a or -e by vowel harmony, -ya/-ye after a vowel, e.g. Taksim'e, Ankara'ya. No apostrophe after common nouns: otele."
+    },
+    "is_it_far": {
+      "text": "Uzak mı?",
+      "note": "Is it near? is Yakın mı?"
+    },
+    "one_ticket": {
+      "text": "Bir bilet lütfen"
+    },
+    "too_expensive": {
+      "text": "Çok pahalı",
+      "note": "Çok means both 'very' and 'too'."
+    },
+    "cheaper": {
+      "text": "Daha ucuz bir şey var mı?"
+    },
+    "id_like_this": {
+      "text": "Bunu alayım lütfen",
+      "note": "Alayım is the everyday way to order or buy: Bir çay alayım."
+    },
+    "just_looking": {
+      "text": "Sadece bakıyorum",
+      "note": "Also common: Şimdilik bakıyorum, teşekkürler."
+    },
+    "pay_card": {
+      "text": "Kartla ödeyebilir miyim?",
+      "note": "Also: Kredi kartı geçiyor mu?"
+    },
+    "cash": {
+      "text": "Nakit",
+      "note": "I'll pay in cash: Nakit ödeyeceğim."
+    },
+    "open": {
+      "text": "Açık"
+    },
+    "closed": {
+      "text": "Kapalı"
+    },
+    "big": {
+      "text": "Büyük"
+    },
+    "small": {
+      "text": "Küçük"
+    },
+    "today": {
+      "text": "Bugün"
+    },
+    "tomorrow": {
+      "text": "Yarın"
+    },
+    "yesterday": {
+      "text": "Dün"
+    },
+    "now": {
+      "text": "Şimdi",
+      "note": "Right now / immediately: Hemen."
+    },
+    "later": {
+      "text": "Sonra",
+      "note": "Also: Daha sonra."
+    },
+    "good_evening": {
+      "text": "İyi akşamlar",
+      "note": "Also used as a goodbye in the evening."
+    },
+    "good_night": {
+      "text": "İyi geceler"
+    },
+    "see_you_later": {
+      "text": "Görüşürüz",
+      "note": "A little more formal: Görüşmek üzere."
+    },
+    "wait_moment": {
+      "text": "Bir dakika lütfen",
+      "note": "Politer: Bir dakika bekler misiniz? Also common: Bir saniye."
+    },
+    "every_day": {
+      "text": "Her gün"
+    },
+    "help": {
+      "text": "İmdat!",
+      "note": "Also shouted: Yardım edin!"
+    },
+    "call_police": {
+      "text": "Polisi arayın!",
+      "note": "The emergency number in Turkey is 112."
+    },
+    "need_doctor": {
+      "text": "Doktora ihtiyacım var",
+      "note": "More urgent: Doktor çağırın! (Call a doctor!)"
+    },
+    "im_lost": {
+      "text": "Kayboldum",
+      "note": "Also: Yolumu kaybettim."
+    },
+    "dont_feel_well": {
+      "text": "Kendimi iyi hissetmiyorum",
+      "note": "Shorter: İyi değilim."
+    },
+    "pharmacy": {
+      "text": "Eczane",
+      "note": "At night and on Sundays, look for the nöbetçi eczane (duty pharmacy)."
+    },
+    "hospital": {
+      "text": "Hastane"
+    },
+    "lost_phone": {
+      "text": "Telefonumu kaybettim"
+    },
+    "allergic": {
+      "text": "… alerjim var",
+      "note": "Literally 'I have a … allergy': Fıstık alerjim var. Also: Fıstığa alerjim var."
+    },
+    "be_careful": {
+      "text": "Dikkat edin!",
+      "note": "To a friend: Dikkat et! A shouted warning is just Dikkat!"
+    },
+    "no_problem": {
+      "text": "Sorun değil",
+      "note": "Also: Önemli değil or Problem değil."
+    },
+    "of_course": {
+      "text": "Tabii ki",
+      "note": "Also: Tabii or Elbette. Note the double i in tabii."
+    },
+    "maybe": {
+      "text": "Belki"
+    },
+    "dont_know": {
+      "text": "Bilmiyorum"
+    },
+    "i_like_it": {
+      "text": "Beğendim",
+      "note": "Also: Hoşuma gitti. For things you like in general: Seviyorum."
+    },
+    "dont_like_it": {
+      "text": "Beğenmedim",
+      "note": "Also: Hoşuma gitmedi."
+    },
+    "im_tired": {
+      "text": "Yorgunum",
+      "note": "Also very common: Yoruldum (literally 'I've become tired')."
+    },
+    "im_happy": {
+      "text": "Mutluyum"
+    },
+    "welcome": {
+      "text": "Hoş geldiniz!",
+      "note": "The guest replies: Hoş bulduk! To one friend: Hoş geldin!"
+    },
+    "congratulations": {
+      "text": "Tebrikler!",
+      "note": "Also: Tebrik ederim. For a new job, home or baby you'll also hear: Hayırlı olsun!"
+    }
+  }
+}

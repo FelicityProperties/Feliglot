@@ -1,0 +1,472 @@
+{
+  "code": "gu",
+  "phrases": {
+    "hello": {
+      "text": "નમસ્તે",
+      "roman": "namaste",
+      "note": "Just as common, to anyone: કેમ છો? (kem chho?). Many Gujaratis also greet with જય શ્રી કૃષ્ણ (jay shri krushna)."
+    },
+    "goodbye": {
+      "text": "આવજો",
+      "roman": "aavjo",
+      "note": "Literally 'come again'. Both sides say it; the one leaving may also say આવું છું (aavun chhun), 'I'll come again'."
+    },
+    "please": {
+      "text": "કૃપા કરીને",
+      "roman": "krupaa karine",
+      "note": "Formal. In speech, politeness usually comes from the -jo/-sho verb endings, e.g. આપજો (aapjo)."
+    },
+    "thank_you": {
+      "text": "આભાર",
+      "roman": "aabhaar",
+      "note": "Also ધન્યવાદ (dhanyavaad). In everyday speech many people simply say 'thank you'."
+    },
+    "youre_welcome": {
+      "text": "એમાં શું",
+      "roman": "emaan shun",
+      "note": "Gujarati has no set reply to thanks; this ('what's in that?') is the natural one. Also: કંઈ નહીં (kain nahin)."
+    },
+    "yes": {
+      "text": "હા",
+      "roman": "haa",
+      "note": "Politer: હા જી (haa ji) or just જી (ji)."
+    },
+    "no": {
+      "text": "ના",
+      "roman": "naa"
+    },
+    "sorry": {
+      "text": "માફ કરજો",
+      "roman": "maaf karjo",
+      "note": "Very common casually: સૉરી (sori)."
+    },
+    "excuse_me": {
+      "text": "જરા સાંભળો",
+      "roman": "jaraa saambhalo",
+      "note": "Or simply ભાઈ (bhaai) to a man, બહેન (ben) to a woman."
+    },
+    "good_morning": {
+      "text": "સુપ્રભાત",
+      "roman": "suprabhaat",
+      "note": "Formal; face to face people usually say નમસ્તે (namaste) or 'good morning'."
+    },
+    "how_are_you": {
+      "text": "તમે કેમ છો?",
+      "roman": "tame kem chho?",
+      "note": "The everyday greeting is just કેમ છો? (kem chho?)."
+    },
+    "im_fine": {
+      "text": "હું મજામાં છું, આભાર",
+      "roman": "hun majaamaan chhun, aabhaar",
+      "note": "Everyday short answer: મજામાં (majaamaan)."
+    },
+    "whats_your_name": {
+      "text": "તમારું નામ શું છે?",
+      "roman": "tamaarun naam shun chhe?"
+    },
+    "my_name_is": {
+      "text": "મારું નામ … છે",
+      "roman": "maarun naam … chhe"
+    },
+    "nice_to_meet_you": {
+      "text": "તમને મળીને આનંદ થયો",
+      "roman": "tamne maline aanand thayo",
+      "note": "Also: તમને મળીને ખુશી થઈ (tamne maline khushi thai)."
+    },
+    "where_from": {
+      "text": "તમે ક્યાંના છો?",
+      "roman": "tame kyaannaa chho?",
+      "note": "To a woman: તમે ક્યાંનાં છો? (tame kyaannaan chho?). Also: તમે ક્યાંથી આવો છો? (tame kyaanthi aavo chho?)"
+    },
+    "im_from": {
+      "text": "હું …નો છું",
+      "roman": "hun …no chhun",
+      "note": "A woman says: હું …ની છું (hun …ni chhun). Also: હું …થી આવું છું (hun …thi aavun chhun)."
+    },
+    "speak_english": {
+      "text": "તમે અંગ્રેજી બોલો છો?",
+      "roman": "tame angreji bolo chho?",
+      "note": "Also very natural: તમને અંગ્રેજી આવડે છે? (tamne angreji aavde chhe?)"
+    },
+    "dont_understand": {
+      "text": "મને સમજાતું નથી",
+      "roman": "mane samjaatun nathi",
+      "note": "About something just said: મને સમજ ના પડી (mane samaj naa padi)."
+    },
+    "speak_slowly": {
+      "text": "જરા ધીમે બોલશો?",
+      "roman": "jaraa dhime bolsho?",
+      "note": "The polite question form -sho ('would you…?') with જરા (jaraa, 'a bit') does the work of 'please'."
+    },
+    "where": {
+      "text": "ક્યાં?",
+      "roman": "kyaan?"
+    },
+    "what": {
+      "text": "શું?",
+      "roman": "shun?",
+      "note": "Didn't catch it? શું કીધું? (shun kidhun?)"
+    },
+    "when": {
+      "text": "ક્યારે?",
+      "roman": "kyaare?"
+    },
+    "why": {
+      "text": "કેમ?",
+      "roman": "kem?",
+      "note": "Also શા માટે? (shaa maate?). કેમ also means 'how', as in કેમ છો?"
+    },
+    "who": {
+      "text": "કોણ?",
+      "roman": "kon?"
+    },
+    "how_much": {
+      "text": "આ કેટલાનું છે?",
+      "roman": "aa ketlaanun chhe?",
+      "note": "At a market, just આના કેટલા? (aanaa ketlaa?)"
+    },
+    "where_bathroom": {
+      "text": "બાથરૂમ ક્યાં છે?",
+      "roman": "baathrum kyaan chhe?",
+      "note": "ટૉઇલેટ (toilet) is also understood; signs may say શૌચાલય (shauchaalay)."
+    },
+    "can_you_help": {
+      "text": "તમે મારી મદદ કરશો?",
+      "roman": "tame maari madad karsho?"
+    },
+    "what_time": {
+      "text": "કેટલા વાગ્યા છે?",
+      "roman": "ketlaa vaagyaa chhe?"
+    },
+    "what_means": {
+      "text": "આનો અર્થ શું છે?",
+      "roman": "aano arth shun chhe?",
+      "note": "Colloquial: આનો મતલબ શું? (aano matlab shun?)"
+    },
+    "one": {
+      "text": "એક",
+      "roman": "ek",
+      "note": "Written ૧."
+    },
+    "two": {
+      "text": "બે",
+      "roman": "be",
+      "note": "Written ૨."
+    },
+    "three": {
+      "text": "ત્રણ",
+      "roman": "tran",
+      "note": "Written ૩."
+    },
+    "four": {
+      "text": "ચાર",
+      "roman": "chaar",
+      "note": "Written ૪."
+    },
+    "five": {
+      "text": "પાંચ",
+      "roman": "paanch",
+      "note": "Written ૫."
+    },
+    "six": {
+      "text": "છ",
+      "roman": "chha",
+      "note": "Written ૬. Don't confuse with છે (chhe, 'is')."
+    },
+    "seven": {
+      "text": "સાત",
+      "roman": "saat",
+      "note": "Written ૭."
+    },
+    "eight": {
+      "text": "આઠ",
+      "roman": "aath",
+      "note": "Written ૮."
+    },
+    "nine": {
+      "text": "નવ",
+      "roman": "nav",
+      "note": "Written ૯."
+    },
+    "ten": {
+      "text": "દસ",
+      "roman": "das",
+      "note": "Written ૧૦."
+    },
+    "water": {
+      "text": "પાણી",
+      "roman": "paani"
+    },
+    "coffee": {
+      "text": "કૉફી",
+      "roman": "kofi"
+    },
+    "tea": {
+      "text": "ચા",
+      "roman": "chaa",
+      "note": "Usually means sweet milky tea."
+    },
+    "bread": {
+      "text": "રોટલી",
+      "roman": "rotli",
+      "note": "Thin wheat flatbread, the everyday bread. Loaf bread: બ્રેડ (bred)."
+    },
+    "im_hungry": {
+      "text": "મને ભૂખ લાગી છે",
+      "roman": "mane bhukh laagi chhe"
+    },
+    "menu_please": {
+      "text": "મેનુ આપજો",
+      "roman": "menu aapjo",
+      "note": "-jo makes it a polite request. Also: મેનુ આપશો? (menu aapsho?)"
+    },
+    "bill_please": {
+      "text": "બિલ આપજો",
+      "roman": "bil aapjo"
+    },
+    "delicious": {
+      "text": "ખૂબ સ્વાદિષ્ટ!",
+      "roman": "khub svaadisht!",
+      "note": "At someone's home: બહુ સરસ બન્યું છે! (bahu saras banyun chhe!)"
+    },
+    "no_meat": {
+      "text": "હું માંસ ખાતો નથી",
+      "roman": "hun maans khaato nathi",
+      "note": "A woman says: હું માંસ ખાતી નથી (hun maans khaati nathi). Vegetarian: શાકાહારી (shaakaahaari)."
+    },
+    "enjoy_meal": {
+      "text": "શાંતિથી જમજો",
+      "roman": "shaantithi jamjo",
+      "note": "No set phrase; hosts say this ('eat at leisure'). Also: પ્રેમથી જમજો (premthi jamjo)."
+    },
+    "left": {
+      "text": "ડાબી બાજુ",
+      "roman": "daabi baaju",
+      "note": "Short: ડાબે (daabe)."
+    },
+    "right": {
+      "text": "જમણી બાજુ",
+      "roman": "jamni baaju",
+      "note": "Short: જમણે (jamne)."
+    },
+    "straight_ahead": {
+      "text": "સીધું આગળ",
+      "roman": "sidhun aagal",
+      "note": "Giving directions: સીધા જાઓ (sidhaa jaao), 'go straight'."
+    },
+    "stop_here": {
+      "text": "અહીં ઊભી રાખજો",
+      "roman": "ahin ubhi raakhjo",
+      "note": "ઊભી agrees with ગાડી (gaadi, the vehicle). Also: અહીં ઉતારી દેજો (ahin utaari dejo)."
+    },
+    "airport": {
+      "text": "એરપોર્ટ",
+      "roman": "erport",
+      "note": "Formal/signs: હવાઈ મથક (havaai mathak)."
+    },
+    "hotel": {
+      "text": "હોટલ",
+      "roman": "hotal",
+      "note": "In India it can also mean a restaurant or eatery."
+    },
+    "train_station": {
+      "text": "રેલવે સ્ટેશન",
+      "roman": "relve steshan",
+      "note": "Often just સ્ટેશન (steshan)."
+    },
+    "want_to_go": {
+      "text": "મારે … જવું છે",
+      "roman": "maare … javun chhe",
+      "note": "No word for 'to' needed: મારે અમદાવાદ જવું છે (maare amdaavaad javun chhe)."
+    },
+    "is_it_far": {
+      "text": "દૂર છે?",
+      "roman": "dur chhe?"
+    },
+    "one_ticket": {
+      "text": "એક ટિકિટ આપજો",
+      "roman": "ek tikit aapjo"
+    },
+    "too_expensive": {
+      "text": "બહુ મોંઘું છે",
+      "roman": "bahu monghun chhe"
+    },
+    "cheaper": {
+      "text": "આનાથી સસ્તું કંઈ છે?",
+      "roman": "aanaathi sastun kain chhe?"
+    },
+    "id_like_this": {
+      "text": "મને આ જોઈએ છે",
+      "roman": "mane aa joiye chhe"
+    },
+    "just_looking": {
+      "text": "હું ખાલી જોઉં છું",
+      "roman": "hun khaali joun chhun"
+    },
+    "pay_card": {
+      "text": "કાર્ડ ચાલશે?",
+      "roman": "kaard chaalshe?",
+      "note": "Literally 'will a card do?'. Also: કાર્ડથી પેમેન્ટ થશે? (kaardthi pement thashe?)"
+    },
+    "cash": {
+      "text": "રોકડા",
+      "roman": "rokdaa",
+      "note": "The English કૅશ (kesh) is also widely used."
+    },
+    "open": {
+      "text": "ખુલ્લું",
+      "roman": "khullun"
+    },
+    "closed": {
+      "text": "બંધ",
+      "roman": "bandh"
+    },
+    "big": {
+      "text": "મોટું",
+      "roman": "motun",
+      "note": "Agrees with the noun: મોટો (moto) masc., મોટી (moti) fem.; મોટું is neuter."
+    },
+    "small": {
+      "text": "નાનું",
+      "roman": "naanun",
+      "note": "Agrees with the noun: નાનો (naano) masc., નાની (naani) fem.; નાનું is neuter."
+    },
+    "today": {
+      "text": "આજે",
+      "roman": "aaje"
+    },
+    "tomorrow": {
+      "text": "આવતીકાલે",
+      "roman": "aavtikaale",
+      "note": "In speech mostly just કાલે (kaale), which also means yesterday; the verb tense tells which."
+    },
+    "yesterday": {
+      "text": "ગઈકાલે",
+      "roman": "gaikaale",
+      "note": "In speech mostly just કાલે (kaale), same as tomorrow; the past tense makes it clear."
+    },
+    "now": {
+      "text": "અત્યારે",
+      "roman": "atyaare",
+      "note": "Also હમણાં (hamnaan), which can also mean 'in a moment'."
+    },
+    "later": {
+      "text": "પછી",
+      "roman": "pachhi"
+    },
+    "good_evening": {
+      "text": "શુભ સંધ્યા",
+      "roman": "shubh sandhyaa",
+      "note": "Formal; face to face people usually just say નમસ્તે (namaste)."
+    },
+    "good_night": {
+      "text": "શુભ રાત્રિ",
+      "roman": "shubh raatri",
+      "note": "Formal; people often say 'good night' in English, or આવજો (aavjo) when leaving."
+    },
+    "see_you_later": {
+      "text": "પછી મળીએ",
+      "roman": "pachhi maliye",
+      "note": "Also: ફરી મળીશું (fari malishun)."
+    },
+    "wait_moment": {
+      "text": "જરા રાહ જુઓ",
+      "roman": "jaraa raah juo",
+      "note": "Very common: એક મિનિટ! (ek minit!)"
+    },
+    "every_day": {
+      "text": "દરરોજ",
+      "roman": "darroj",
+      "note": "Also just રોજ (roj)."
+    },
+    "help": {
+      "text": "બચાવો!",
+      "roman": "bachaavo!"
+    },
+    "call_police": {
+      "text": "પોલીસને બોલાવો!",
+      "roman": "polisne bolaavo!"
+    },
+    "need_doctor": {
+      "text": "મારે ડૉક્ટરની જરૂર છે",
+      "roman": "maare doktarni jarur chhe"
+    },
+    "im_lost": {
+      "text": "હું રસ્તો ભૂલી ગયો છું",
+      "roman": "hun rasto bhuli gayo chhun",
+      "note": "A woman says: હું રસ્તો ભૂલી ગઈ છું (hun rasto bhuli gai chhun)."
+    },
+    "dont_feel_well": {
+      "text": "મારી તબિયત સારી નથી",
+      "roman": "maari tabiyat saari nathi"
+    },
+    "pharmacy": {
+      "text": "દવાની દુકાન",
+      "roman": "davaani dukaan",
+      "note": "In cities usually મેડિકલ સ્ટોર (medikal stor)."
+    },
+    "hospital": {
+      "text": "હૉસ્પિટલ",
+      "roman": "hospital",
+      "note": "દવાખાનું (davaakhaanun) is a clinic or small hospital."
+    },
+    "lost_phone": {
+      "text": "મારો ફોન ખોવાઈ ગયો",
+      "roman": "maaro fon khovaai gayo"
+    },
+    "allergic": {
+      "text": "મને …ની એલર્જી છે",
+      "roman": "mane …ni elarji chhe"
+    },
+    "be_careful": {
+      "text": "ધ્યાન રાખજો!",
+      "roman": "dhyaan raakhjo!",
+      "note": "As a sudden warning, like 'watch out!': સંભાળીને! (sambhaaline!)"
+    },
+    "no_problem": {
+      "text": "કોઈ વાંધો નહીં",
+      "roman": "koi vaandho nahin"
+    },
+    "of_course": {
+      "text": "ચોક્કસ",
+      "roman": "chokkas",
+      "note": "Also: કેમ નહીં? (kem nahin?), 'why not?'"
+    },
+    "maybe": {
+      "text": "કદાચ",
+      "roman": "kadaach"
+    },
+    "dont_know": {
+      "text": "મને ખબર નથી",
+      "roman": "mane khabar nathi"
+    },
+    "i_like_it": {
+      "text": "મને ગમે છે",
+      "roman": "mane game chhe",
+      "note": "About something just seen or tasted: મને ગમ્યું (mane gamyun)."
+    },
+    "dont_like_it": {
+      "text": "મને નથી ગમતું",
+      "roman": "mane nathi gamtun",
+      "note": "About something just seen or tasted: મને ન ગમ્યું (mane na gamyun)."
+    },
+    "im_tired": {
+      "text": "હું થાકી ગયો છું",
+      "roman": "hun thaaki gayo chhun",
+      "note": "A woman says: હું થાકી ગઈ છું (hun thaaki gai chhun)."
+    },
+    "im_happy": {
+      "text": "હું ખુશ છું",
+      "roman": "hun khush chhun"
+    },
+    "welcome": {
+      "text": "આવો, આવો!",
+      "roman": "aavo, aavo!",
+      "note": "More respectful: પધારો! (padhaaro!). Formal or on signs: આપનું સ્વાગત છે (aapnun svaagat chhe)."
+    },
+    "congratulations": {
+      "text": "અભિનંદન!",
+      "roman": "abhinandan!"
+    }
+  }
+}

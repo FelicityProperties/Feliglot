@@ -1,0 +1,396 @@
+{
+  "code": "af",
+  "phrases": {
+    "hello": {
+      "text": "Hallo",
+      "note": "Casual: Haai! More formal: Goeiedag."
+    },
+    "goodbye": {
+      "text": "Totsiens",
+      "note": "Casual: Baai! To someone who is leaving: Mooi loop! (go well)."
+    },
+    "please": {
+      "text": "Asseblief",
+      "note": "Stress the first syllable: AH-suh-bleef."
+    },
+    "thank_you": {
+      "text": "Dankie",
+      "note": "Thank you very much: Baie dankie."
+    },
+    "youre_welcome": {
+      "text": "Plesier",
+      "note": "Also common: Dis 'n plesier, or Nie te danke nie."
+    },
+    "yes": {
+      "text": "Ja",
+      "note": "Sounds like 'yah'."
+    },
+    "no": {
+      "text": "Nee",
+      "note": "Sounds like 'near' without the r. 'Not' is nie."
+    },
+    "sorry": {
+      "text": "Jammer",
+      "note": "Full form: Ek is jammer. Sorry is also used a lot."
+    },
+    "excuse_me": {
+      "text": "Verskoon my",
+      "note": "Also very common: Ekskuus! or Ekskuus tog!"
+    },
+    "good_morning": {
+      "text": "Goeiemôre",
+      "note": "Casual: Môre! The ô sounds like the 'aw' in 'law'."
+    },
+    "how_are_you": {
+      "text": "Hoe gaan dit met u?",
+      "note": "U is the polite 'you'. Casual: Hoe gaan dit? or Hoe gaan dit met jou?"
+    },
+    "im_fine": {
+      "text": "Dit gaan goed, dankie",
+      "note": "Shorter: Goed, dankie. To ask back: En met u?"
+    },
+    "whats_your_name": {
+      "text": "Wat is u naam?",
+      "note": "Casual: Wat is jou naam?"
+    },
+    "my_name_is": {
+      "text": "My naam is …",
+      "note": "Also common: Ek is …"
+    },
+    "nice_to_meet_you": {
+      "text": "Aangename kennis",
+      "note": "Less formal: Bly te kenne!"
+    },
+    "where_from": {
+      "text": "Waar kom u vandaan?",
+      "note": "Casual: Waar kom jy vandaan?"
+    },
+    "im_from": {
+      "text": "Ek kom van …",
+      "note": "Also common: Ek kom uit … or Ek is van …"
+    },
+    "speak_english": {
+      "text": "Praat u Engels?",
+      "note": "Casual: Praat jy Engels? Most Afrikaans speakers also speak English."
+    },
+    "dont_understand": {
+      "text": "Ek verstaan nie",
+      "note": "Longer sentences take a double nie: Ek verstaan nie wat u sê nie."
+    },
+    "speak_slowly": {
+      "text": "Praat asseblief stadiger",
+      "note": "Softer: Kan u asseblief stadiger praat?"
+    },
+    "where": {
+      "text": "Waar?",
+      "note": "The w is said like v: 'vaar'. Where to? Waarheen?"
+    },
+    "what": {
+      "text": "Wat?",
+      "note": "Wat? alone can sound blunt; to ask someone to repeat, say Ekskuus? or Sorry?"
+    },
+    "when": {
+      "text": "Wanneer?",
+      "note": "Stress on the second part: va-NEER."
+    },
+    "why": {
+      "text": "Hoekom?",
+      "note": "Also: Waarom? (a little more formal)."
+    },
+    "who": {
+      "text": "Wie?",
+      "note": "Sounds like 'vee'. Whose? is Wie s'n?"
+    },
+    "how_much": {
+      "text": "Hoeveel kos dit?",
+      "note": "Also very common: Wat kos dit?"
+    },
+    "where_bathroom": {
+      "text": "Waar is die toilet, asseblief?",
+      "note": "In someone's home, ask for die badkamer (the bathroom)."
+    },
+    "can_you_help": {
+      "text": "Kan u my asseblief help?",
+      "note": "Casual: Kan jy my help?"
+    },
+    "what_time": {
+      "text": "Hoe laat is dit?"
+    },
+    "what_means": {
+      "text": "Wat beteken dit?"
+    },
+    "one": {
+      "text": "Een",
+      "note": "Sounds like 'ee-un'. Not the same as 'n (a, an), which is said like a short 'uh'."
+    },
+    "two": {
+      "text": "Twee",
+      "note": "Said roughly 'twee-uh'."
+    },
+    "three": {
+      "text": "Drie",
+      "note": "Sounds like 'dree', with a rolled r."
+    },
+    "four": {
+      "text": "Vier",
+      "note": "The v is an f sound: 'feer'."
+    },
+    "five": {
+      "text": "Vyf",
+      "note": "The y sounds like the 'ay' in 'say': 'fayf'."
+    },
+    "six": {
+      "text": "Ses",
+      "note": "Rhymes with English 'mess'."
+    },
+    "seven": {
+      "text": "Sewe",
+      "note": "The w is a v sound: 'SEE-uh-vuh'."
+    },
+    "eight": {
+      "text": "Agt",
+      "note": "The g is throaty, like the ch in Scottish 'loch'."
+    },
+    "nine": {
+      "text": "Nege",
+      "note": "Said 'NEE-uh-khuh', with a throaty g."
+    },
+    "ten": {
+      "text": "Tien",
+      "note": "Sounds like 'teen'."
+    },
+    "water": {
+      "text": "Water",
+      "note": "Said 'VAH-tuhr': the w is a v sound and the r is pronounced. Tap water: kraanwater."
+    },
+    "coffee": {
+      "text": "Koffie",
+      "note": "With milk: koffie met melk."
+    },
+    "tea": {
+      "text": "Tee",
+      "note": "Rooibostee (rooibos tea) is a South African favourite."
+    },
+    "bread": {
+      "text": "Brood",
+      "note": "A bread roll is a broodjie."
+    },
+    "im_hungry": {
+      "text": "Ek is honger",
+      "note": "In speech often: Ek's honger. Very hungry: Ek is baie honger."
+    },
+    "menu_please": {
+      "text": "Die spyskaart, asseblief",
+      "note": "Many people also say die menu. Politer: Kan ek die spyskaart kry, asseblief?"
+    },
+    "bill_please": {
+      "text": "Die rekening, asseblief",
+      "note": "Politer: Kan ek die rekening kry, asseblief?"
+    },
+    "delicious": {
+      "text": "Heerlik!",
+      "note": "Everyday favourite: Lekker! It works for food, weather and good times."
+    },
+    "no_meat": {
+      "text": "Ek eet nie vleis nie",
+      "note": "Note the double nie. Also: Ek is 'n vegetariër."
+    },
+    "enjoy_meal": {
+      "text": "Smaaklike ete!",
+      "note": "Also common: Geniet die ete!"
+    },
+    "left": {
+      "text": "Links",
+      "note": "Turn left: Draai links."
+    },
+    "right": {
+      "text": "Regs",
+      "note": "Turn right: Draai regs. 'Correct' is reg, without the s."
+    },
+    "straight_ahead": {
+      "text": "Reguit",
+      "note": "Keep going straight: Gaan reguit aan."
+    },
+    "stop_here": {
+      "text": "Stop hier, asseblief",
+      "note": "Also common: Hou asseblief hier stil."
+    },
+    "airport": {
+      "text": "Lughawe",
+      "note": "The g is throaty: 'LUKH-hah-vuh'."
+    },
+    "hotel": {
+      "text": "Hotel"
+    },
+    "train_station": {
+      "text": "Treinstasie",
+      "note": "Often just die stasie (the station)."
+    },
+    "want_to_go": {
+      "text": "Ek wil na … gaan",
+      "note": "Very common in speech: Ek wil … toe gaan."
+    },
+    "is_it_far": {
+      "text": "Is dit ver?",
+      "note": "Is it a long walk? Is dit ver om te loop?"
+    },
+    "one_ticket": {
+      "text": "Een kaartjie, asseblief",
+      "note": "Return ticket: 'n retoerkaartjie."
+    },
+    "too_expensive": {
+      "text": "Dit is te duur",
+      "note": "In speech usually: Dis te duur."
+    },
+    "cheaper": {
+      "text": "Het u iets goedkopers?",
+      "note": "Casual: Het jy iets goedkopers?"
+    },
+    "id_like_this": {
+      "text": "Ek wil graag hierdie een hê, asseblief",
+      "note": "Also common: Ek sal hierdie een vat (I'll take this one)."
+    },
+    "just_looking": {
+      "text": "Ek kyk net, dankie",
+      "note": "Also: Ek kyk maar net rond."
+    },
+    "pay_card": {
+      "text": "Kan ek met 'n kaart betaal?",
+      "note": "'n (a) is said like a short 'uh'."
+    },
+    "cash": {
+      "text": "Kontant",
+      "note": "To pay in cash: kontant betaal."
+    },
+    "open": {
+      "text": "Oop",
+      "note": "Said roughly 'oo-up'."
+    },
+    "closed": {
+      "text": "Toe",
+      "note": "Sounds like 'too'. Formal signs may say Gesluit."
+    },
+    "big": {
+      "text": "Groot"
+    },
+    "small": {
+      "text": "Klein"
+    },
+    "today": {
+      "text": "Vandag"
+    },
+    "tomorrow": {
+      "text": "Môre",
+      "note": "Also means 'morning'. Tomorrow morning: môreoggend."
+    },
+    "yesterday": {
+      "text": "Gister",
+      "note": "The g is throaty, like the ch in Scottish 'loch'."
+    },
+    "now": {
+      "text": "Nou",
+      "note": "Careful: nou-nou means 'in a little while'. Right now: nou dadelik."
+    },
+    "later": {
+      "text": "Later",
+      "note": "Said 'LAH-tuhr', with the r pronounced. Also very common: netnou (in a while)."
+    },
+    "good_evening": {
+      "text": "Goeienaand",
+      "note": "Casual: Naand!"
+    },
+    "good_night": {
+      "text": "Goeienag",
+      "note": "Casual: Nag! When going to bed: Lekker slaap!"
+    },
+    "see_you_later": {
+      "text": "Sien jou later",
+      "note": "Also: Tot later! or just Sien jou!"
+    },
+    "wait_moment": {
+      "text": "Wag asseblief 'n oomblik",
+      "note": "Also: Net 'n oomblik, asseblief. Casual: Wag gou!"
+    },
+    "every_day": {
+      "text": "Elke dag",
+      "note": "Also: daagliks (daily)."
+    },
+    "help": {
+      "text": "Help!",
+      "note": "Also: Help my! (help me)."
+    },
+    "call_police": {
+      "text": "Bel die polisie!",
+      "note": "In South Africa the police emergency number is 10111."
+    },
+    "need_doctor": {
+      "text": "Ek het 'n dokter nodig",
+      "note": "Emergency: Ek het 'n ambulans nodig."
+    },
+    "im_lost": {
+      "text": "Ek is verdwaal",
+      "note": "Also: Ek het verdwaal."
+    },
+    "dont_feel_well": {
+      "text": "Ek voel nie lekker nie",
+      "note": "Lekker here means 'well'. Also: Ek is siek (I'm ill)."
+    },
+    "pharmacy": {
+      "text": "Apteek"
+    },
+    "hospital": {
+      "text": "Hospitaal"
+    },
+    "lost_phone": {
+      "text": "Ek het my selfoon verloor",
+      "note": "Many people just say foon."
+    },
+    "allergic": {
+      "text": "Ek is allergies vir …",
+      "note": "Example: Ek is allergies vir neute (nuts)."
+    },
+    "be_careful": {
+      "text": "Wees versigtig!",
+      "note": "Sudden warning: Pas op! (Watch out!)"
+    },
+    "no_problem": {
+      "text": "Geen probleem nie",
+      "note": "The final nie is the Afrikaans double negative. Casual: Dis reg! (That's fine)."
+    },
+    "of_course": {
+      "text": "Natuurlik",
+      "note": "Also: Beslis! (definitely)."
+    },
+    "maybe": {
+      "text": "Miskien"
+    },
+    "dont_know": {
+      "text": "Ek weet nie",
+      "note": "Also: Ek het geen idee nie (I have no idea)."
+    },
+    "i_like_it": {
+      "text": "Ek hou daarvan",
+      "note": "For food or something you enjoy: Dis lekker!"
+    },
+    "dont_like_it": {
+      "text": "Ek hou nie daarvan nie",
+      "note": "Note the double nie."
+    },
+    "im_tired": {
+      "text": "Ek is moeg",
+      "note": "Very tired: Ek is doodmoeg."
+    },
+    "im_happy": {
+      "text": "Ek is gelukkig",
+      "note": "Glad or pleased right now: Ek is bly."
+    },
+    "welcome": {
+      "text": "Welkom!",
+      "note": "Warmer: Baie welkom!"
+    },
+    "congratulations": {
+      "text": "Baie geluk!",
+      "note": "On a birthday: Veels geluk met jou verjaarsdag!"
+    }
+  }
+}

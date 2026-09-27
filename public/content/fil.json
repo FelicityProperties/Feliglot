@@ -1,0 +1,375 @@
+{
+  "code": "fil",
+  "phrases": {
+    "hello": {
+      "text": "Kumusta po",
+      "note": "Also means 'how are you?'. Hi and hello are just as common; formal: magandang araw po (good day)."
+    },
+    "goodbye": {
+      "text": "Paalam po",
+      "note": "Paalam can sound final. Day to day people say sige po, mauna na po ako (I'll go ahead) or bye."
+    },
+    "please": {
+      "text": "Pakiusap po",
+      "note": "Pakiusap is a real plea. For everyday requests add paki- to the verb (pakiabot po = please pass it)."
+    },
+    "thank_you": {
+      "text": "Salamat po",
+      "note": "Very grateful: maraming salamat po. With friends and equals: salamat."
+    },
+    "youre_welcome": {
+      "text": "Wala pong anuman",
+      "note": "Without po: walang anuman. Casual: wala 'yon (it's nothing) or walang problema."
+    },
+    "yes": {
+      "text": "Opo",
+      "note": "Opo is the respectful yes, for elders and strangers. With friends and equals: oo."
+    },
+    "no": {
+      "text": "Hindi po",
+      "note": "With friends and equals: hindi. For 'there isn't any / I don't have it' say wala po."
+    },
+    "sorry": {
+      "text": "Pasensya na po",
+      "note": "Sorry po is just as common. Formal: paumanhin po."
+    },
+    "excuse_me": {
+      "text": "Mawalang-galang na po",
+      "note": "Rather formal. Many simply say excuse me po, or call a stranger ate (to a woman) / kuya (to a man)."
+    },
+    "good_morning": {
+      "text": "Magandang umaga po"
+    },
+    "how_are_you": {
+      "text": "Kumusta po kayo?",
+      "note": "Kayo is the polite 'you'. With a friend: kumusta ka?"
+    },
+    "im_fine": {
+      "text": "Mabuti naman po, salamat",
+      "note": "Casual: okay lang or ayos lang. Ask back with: kayo po? (and you?)"
+    },
+    "whats_your_name": {
+      "text": "Ano po ang pangalan ninyo?",
+      "note": "Casual: anong pangalan mo?"
+    },
+    "my_name_is": {
+      "text": "Ako po si …",
+      "note": "Also: ang pangalan ko po ay … . Si is the marker used before a person's name."
+    },
+    "nice_to_meet_you": {
+      "text": "Ikinagagalak ko pong makilala kayo",
+      "note": "Formal. In casual speech many simply say nice to meet you po."
+    },
+    "where_from": {
+      "text": "Taga-saan po kayo?",
+      "note": "Taga- means 'from (a place)'; the answer uses it too."
+    },
+    "im_from": {
+      "text": "Taga-… po ako",
+      "note": "Join the place to taga- with a hyphen: taga-Canada po ako."
+    },
+    "speak_english": {
+      "text": "Marunong po ba kayong mag-Ingles?",
+      "note": "Most Filipinos know some English, and mixing both (Taglish) is completely normal."
+    },
+    "dont_understand": {
+      "text": "Hindi ko po naiintindihan"
+    },
+    "speak_slowly": {
+      "text": "Pakibagalan po ninyo ang pagsasalita",
+      "note": "Shorter and very common: dahan-dahan lang po (slowly, please)."
+    },
+    "where": {
+      "text": "Saan?",
+      "note": "To ask where something or someone is right now, use nasaan: nasaan po ang …?"
+    },
+    "what": {
+      "text": "Ano?",
+      "note": "To ask someone to repeat politely: ano po? or just po?"
+    },
+    "when": {
+      "text": "Kailan?"
+    },
+    "why": {
+      "text": "Bakit?"
+    },
+    "who": {
+      "text": "Sino?"
+    },
+    "how_much": {
+      "text": "Magkano po ito?"
+    },
+    "where_bathroom": {
+      "text": "Nasaan po ang CR?",
+      "note": "CR (comfort room, said see-ar) is the everyday word for a toilet. Banyo also works."
+    },
+    "can_you_help": {
+      "text": "Puwede po ba ninyo akong tulungan?",
+      "note": "Puwede is often spelled pwede."
+    },
+    "what_time": {
+      "text": "Anong oras na po?",
+      "note": "Clock times use Spanish numbers: alas-dos (two o'clock), alas-singko (five o'clock)."
+    },
+    "what_means": {
+      "text": "Ano po ang ibig sabihin nito?"
+    },
+    "one": {
+      "text": "Isa",
+      "note": "Before a noun it becomes isang: isang tiket (one ticket)."
+    },
+    "two": {
+      "text": "Dalawa"
+    },
+    "three": {
+      "text": "Tatlo"
+    },
+    "four": {
+      "text": "Apat"
+    },
+    "five": {
+      "text": "Lima"
+    },
+    "six": {
+      "text": "Anim"
+    },
+    "seven": {
+      "text": "Pito"
+    },
+    "eight": {
+      "text": "Walo"
+    },
+    "nine": {
+      "text": "Siyam",
+      "note": "In quick speech it often sounds like 'shyam'."
+    },
+    "ten": {
+      "text": "Sampu"
+    },
+    "water": {
+      "text": "Tubig"
+    },
+    "coffee": {
+      "text": "Kape"
+    },
+    "tea": {
+      "text": "Tsaa"
+    },
+    "bread": {
+      "text": "Tinapay",
+      "note": "Pandesal, the small breakfast roll, is the bread you will see everywhere."
+    },
+    "im_hungry": {
+      "text": "Gutom na ako",
+      "note": "Na adds 'already, by now'. To an elder: gutom na po ako."
+    },
+    "menu_please": {
+      "text": "Pahingi po ng menu"
+    },
+    "bill_please": {
+      "text": "Pahingi na po ng bill",
+      "note": "In restaurants you will also hear bill out po! or just bill po."
+    },
+    "delicious": {
+      "text": "Ang sarap!",
+      "note": "To describe food calmly: masarap po ito (this is tasty)."
+    },
+    "no_meat": {
+      "text": "Hindi po ako kumakain ng karne",
+      "note": "Karne may be taken as pork and beef only, so also mention manok (chicken) or isda (fish)."
+    },
+    "enjoy_meal": {
+      "text": "Kain na po tayo!",
+      "note": "Literally 'let's eat'. Kain tayo! is also a friendly invitation, even to someone passing by."
+    },
+    "left": {
+      "text": "Kaliwa"
+    },
+    "right": {
+      "text": "Kanan"
+    },
+    "straight_ahead": {
+      "text": "Diretso lang",
+      "note": "Lang means 'just'. Also spelled deretso."
+    },
+    "stop_here": {
+      "text": "Dito na lang po",
+      "note": "On a jeepney or bus, say para po! to get off."
+    },
+    "airport": {
+      "text": "Paliparan",
+      "note": "Used on signs and in formal Filipino; in everyday speech most people just say airport."
+    },
+    "hotel": {
+      "text": "Hotel"
+    },
+    "train_station": {
+      "text": "Istasyon ng tren",
+      "note": "In Metro Manila people usually name the line: istasyon ng MRT / LRT."
+    },
+    "want_to_go": {
+      "text": "Gusto ko pong pumunta sa …",
+      "note": "To a driver, simply: sa … po."
+    },
+    "is_it_far": {
+      "text": "Malayo po ba?",
+      "note": "On the way: malayo pa po ba? (is it much further?)"
+    },
+    "one_ticket": {
+      "text": "Isang tiket po",
+      "note": "On jeepneys you pass your fare forward saying bayad po (here's my fare)."
+    },
+    "too_expensive": {
+      "text": "Ang mahal naman po",
+      "note": "Naman makes it a gentle complaint. More literal: masyado pong mahal."
+    },
+    "cheaper": {
+      "text": "Mayroon po ba kayong mas mura?",
+      "note": "In speech mayroon is usually meron. To haggle: wala na po bang tawad? (no discount?)"
+    },
+    "id_like_this": {
+      "text": "Kukunin ko po ito",
+      "note": "Literally 'I'll take this'. Pointing and saying ito po (this one) also works."
+    },
+    "just_looking": {
+      "text": "Tumitingin-tingin lang po"
+    },
+    "pay_card": {
+      "text": "Puwede po bang magbayad gamit ang card?",
+      "note": "Also: tumatanggap po ba kayo ng card? (do you take cards?)"
+    },
+    "cash": {
+      "text": "Cash",
+      "note": "Filipinos use the English word. Keep barya (coins, small change) for jeepneys and small shops."
+    },
+    "open": {
+      "text": "Bukas",
+      "note": "Stress the end: bu-KAS. Said BU-kas it means tomorrow. Many signs are simply in English."
+    },
+    "closed": {
+      "text": "Sarado"
+    },
+    "big": {
+      "text": "Malaki"
+    },
+    "small": {
+      "text": "Maliit"
+    },
+    "today": {
+      "text": "Ngayong araw",
+      "note": "In speech ngayon (now) alone often means today: ngayon ang alis ko (I leave today)."
+    },
+    "tomorrow": {
+      "text": "Bukas",
+      "note": "Stress the start: BU-kas. Said bu-KAS it means open. The day after tomorrow: sa makalawa."
+    },
+    "yesterday": {
+      "text": "Kahapon",
+      "note": "The day before yesterday: kamakalawa."
+    },
+    "now": {
+      "text": "Ngayon",
+      "note": "Ngayon na! means 'right now!'"
+    },
+    "later": {
+      "text": "Mamaya",
+      "note": "Mamaya means later today. Mamaya na! = not now, later."
+    },
+    "good_evening": {
+      "text": "Magandang gabi po",
+      "note": "Also said when leaving at night. Good afternoon: magandang hapon po."
+    },
+    "good_night": {
+      "text": "Matulog ka nang mahimbing",
+      "note": "Said at bedtime ('sleep soundly'). When leaving at night: magandang gabi po. Many just say good night."
+    },
+    "see_you_later": {
+      "text": "Magkita tayo mamaya",
+      "note": "Playful and casual: kita-kits! Until next time: hanggang sa muli."
+    },
+    "wait_moment": {
+      "text": "Sandali lang po",
+      "note": "Also: saglit lang po. Casual: teka lang (hold on)."
+    },
+    "every_day": {
+      "text": "Araw-araw"
+    },
+    "help": {
+      "text": "Tulong!",
+      "note": "Saklolo! is also understood but sounds old-fashioned."
+    },
+    "call_police": {
+      "text": "Tumawag kayo ng pulis!",
+      "note": "The emergency number in the Philippines is 911."
+    },
+    "need_doctor": {
+      "text": "Kailangan ko po ng doktor"
+    },
+    "im_lost": {
+      "text": "Naliligaw po ako"
+    },
+    "dont_feel_well": {
+      "text": "Masama po ang pakiramdam ko",
+      "note": "For pain: masakit po ang ulo ko (my head hurts); swap in tiyan (stomach), ngipin (tooth)."
+    },
+    "pharmacy": {
+      "text": "Botika",
+      "note": "Drugstore is just as common, especially on signs."
+    },
+    "hospital": {
+      "text": "Ospital"
+    },
+    "lost_phone": {
+      "text": "Nawala po ang cellphone ko",
+      "note": "Cellphone (or cp, said see-pee) is the everyday word. If stolen: nanakaw po ang cellphone ko."
+    },
+    "allergic": {
+      "text": "Allergic po ako sa …",
+      "note": "This is how most people say it. Formal: may alerhiya po ako sa … ."
+    },
+    "be_careful": {
+      "text": "Mag-ingat po kayo!",
+      "note": "Ingat! on its own is also a friendly 'take care' when parting."
+    },
+    "no_problem": {
+      "text": "Wala pong problema",
+      "note": "With friends: walang problema. Also very common: okay lang po (it's fine)."
+    },
+    "of_course": {
+      "text": "Siyempre",
+      "note": "Often spelled syempre. As a reply to a request: oo naman / opo naman."
+    },
+    "maybe": {
+      "text": "Siguro",
+      "note": "Baka also means 'maybe', leaning towards 'it might': baka umulan (it might rain)."
+    },
+    "dont_know": {
+      "text": "Hindi ko po alam",
+      "note": "With friends: hindi ko alam. Casual ewan ko can sound curt."
+    },
+    "i_like_it": {
+      "text": "Gusto ko ito",
+      "note": "In speech ito is often shortened: gusto ko 'to. Gusto also means 'want'."
+    },
+    "dont_like_it": {
+      "text": "Hindi ko ito gusto",
+      "note": "Blunter and very common: ayoko nito (ayoko = ayaw ko, I don't want)."
+    },
+    "im_tired": {
+      "text": "Pagod na ako",
+      "note": "To an elder: pagod na po ako."
+    },
+    "im_happy": {
+      "text": "Masaya ako",
+      "note": "Very happy: masayang-masaya ako."
+    },
+    "welcome": {
+      "text": "Tuloy po kayo!",
+      "note": "What hosts say at the door ('come in'). On signs and at events: maligayang pagdating!"
+    },
+    "congratulations": {
+      "text": "Binabati ko po kayo!",
+      "note": "To a friend: binabati kita! Casual and very common: congrats!"
+    }
+  }
+}

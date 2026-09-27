@@ -1,0 +1,386 @@
+{
+  "code": "eo",
+  "phrases": {
+    "hello": {
+      "text": "Saluton",
+      "note": "Stress always falls on the second-to-last syllable: sa-LU-ton. Casual: Sal!"
+    },
+    "goodbye": {
+      "text": "Ĝis revido",
+      "note": "Ĝ sounds like j in 'jam'. Also: Ĝis la revido, or casually just Ĝis!"
+    },
+    "please": {
+      "text": "Bonvolu",
+      "note": "Goes before a verb: Bonvolu sidi. After a thing you ask for, say mi petas: Kafon, mi petas."
+    },
+    "thank_you": {
+      "text": "Dankon",
+      "note": "Thank you very much: Koran dankon! or Multan dankon!"
+    },
+    "youre_welcome": {
+      "text": "Ne dankinde",
+      "note": "Also written as one word: Nedankinde."
+    },
+    "yes": {
+      "text": "Jes",
+      "note": "J always sounds like English y, so this sounds just like 'yes'."
+    },
+    "no": {
+      "text": "Ne",
+      "note": "Also the word for 'not': Mi ne scias (I don't know)."
+    },
+    "sorry": {
+      "text": "Pardonon",
+      "note": "For deeper regret or sympathy: Mi bedaŭras."
+    },
+    "excuse_me": {
+      "text": "Pardonu min",
+      "note": "The shorter Pardonon! works here too, just as for 'sorry'."
+    },
+    "good_morning": {
+      "text": "Bonan matenon",
+      "note": "The -n marks the object of an unspoken 'I wish you'. Bonan tagon, Bonan vesperon work the same way."
+    },
+    "how_are_you": {
+      "text": "Kiel vi fartas?",
+      "note": "Vi is both polite and friendly: Esperanto has no separate formal 'you'."
+    },
+    "im_fine": {
+      "text": "Mi fartas bone, dankon",
+      "note": "Short: Bone, dankon. Ask back with Kaj vi?"
+    },
+    "whats_your_name": {
+      "text": "Kiel vi nomiĝas?",
+      "note": "Also: Kio estas via nomo?"
+    },
+    "my_name_is": {
+      "text": "Mi nomiĝas …",
+      "note": "Also: Mia nomo estas …"
+    },
+    "nice_to_meet_you": {
+      "text": "Mi ĝojas konatiĝi kun vi",
+      "note": "Shorter: Tre agrable! or Estas plezuro!"
+    },
+    "where_from": {
+      "text": "De kie vi venas?",
+      "note": "Also: El kiu lando vi estas?"
+    },
+    "im_from": {
+      "text": "Mi venas el …",
+      "note": "Also: Mi estas el … For example: Mi venas el Brazilo."
+    },
+    "speak_english": {
+      "text": "Ĉu vi parolas la anglan?",
+      "note": "Ĉ sounds like ch in 'church'. Ĉu at the start turns any sentence into a yes/no question."
+    },
+    "dont_understand": {
+      "text": "Mi ne komprenas"
+    },
+    "speak_slowly": {
+      "text": "Bonvolu paroli pli malrapide",
+      "note": "Mal- makes the opposite: rapide (fast) → malrapide (slowly). You will meet it everywhere."
+    },
+    "where": {
+      "text": "Kie?",
+      "note": "Question words start with ki-: kie, kio, kiam, kial, kiu. Where to? Kien?"
+    },
+    "what": {
+      "text": "Kio?",
+      "note": "Didn't catch something? Kion vi diris? (What did you say?)"
+    },
+    "when": {
+      "text": "Kiam?"
+    },
+    "why": {
+      "text": "Kial?",
+      "note": "Answer with ĉar (because). Also heard: Pro kio?"
+    },
+    "who": {
+      "text": "Kiu?",
+      "note": "Kiu also means 'which': Kiu libro? (Which book?)"
+    },
+    "how_much": {
+      "text": "Kiom tio kostas?",
+      "note": "Also common: Kiom ĝi kostas?"
+    },
+    "where_bathroom": {
+      "text": "Kie estas la necesejo?",
+      "note": "C always sounds like ts: ne-tse-SE-yo. Banĉambro is a room with a bath, not the toilet."
+    },
+    "can_you_help": {
+      "text": "Ĉu vi povas helpi min?",
+      "note": "Softer: Ĉu vi povus helpi min? (-us = would)"
+    },
+    "what_time": {
+      "text": "Kioma horo estas?",
+      "note": "Answer: Estas la tria (It's three o'clock)."
+    },
+    "what_means": {
+      "text": "Kion tio signifas?",
+      "note": "About a word: Kion signifas ĉi tiu vorto?"
+    },
+    "one": {
+      "text": "Unu",
+      "note": "Add -a for order: unua (first), dua (second), tria (third)."
+    },
+    "two": {
+      "text": "Du"
+    },
+    "three": {
+      "text": "Tri"
+    },
+    "four": {
+      "text": "Kvar",
+      "note": "Say the k and v together with no vowel between: KVAR."
+    },
+    "five": {
+      "text": "Kvin"
+    },
+    "six": {
+      "text": "Ses",
+      "note": "Both s sounds are sharp, as in 'see' — never like z."
+    },
+    "seven": {
+      "text": "Sep"
+    },
+    "eight": {
+      "text": "Ok"
+    },
+    "nine": {
+      "text": "Naŭ",
+      "note": "Aŭ sounds like 'ow' in 'now'."
+    },
+    "ten": {
+      "text": "Dek",
+      "note": "Tens are built from it: dudek (20), tridek (30), naŭdek (90)."
+    },
+    "water": {
+      "text": "Akvo"
+    },
+    "coffee": {
+      "text": "Kafo",
+      "note": "Ordering: Kafon, mi petas (add -n to the thing you ask for)."
+    },
+    "tea": {
+      "text": "Teo"
+    },
+    "bread": {
+      "text": "Pano"
+    },
+    "im_hungry": {
+      "text": "Mi malsatas",
+      "note": "Thirsty: Mi soifas."
+    },
+    "menu_please": {
+      "text": "La menuon, mi petas",
+      "note": "Also: la manĝokarton (the menu card)."
+    },
+    "bill_please": {
+      "text": "La kalkulon, mi petas",
+      "note": "Also: Ni ŝatus pagi (We'd like to pay)."
+    },
+    "delicious": {
+      "text": "Bongusta!",
+      "note": "Really delicious: Bongustega! (-eg- makes a word stronger)"
+    },
+    "no_meat": {
+      "text": "Mi ne manĝas viandon",
+      "note": "Also: Mi estas vegetarano (fits anyone; a woman may also say vegetaranino)."
+    },
+    "enjoy_meal": {
+      "text": "Bonan apetiton!",
+      "note": "Reply: Ankaŭ al vi! (You too!)"
+    },
+    "left": {
+      "text": "Maldekstren",
+      "note": "The -n means 'towards the left'. On the left: maldekstre."
+    },
+    "right": {
+      "text": "Dekstren",
+      "note": "The -n means 'towards the right'. On the right: dekstre."
+    },
+    "straight_ahead": {
+      "text": "Rekte antaŭen",
+      "note": "Often just: Rekte!"
+    },
+    "stop_here": {
+      "text": "Bonvolu halti ĉi tie",
+      "note": "Also: Haltu ĉi tie, mi petas."
+    },
+    "airport": {
+      "text": "Flughaveno",
+      "note": "Built from flug- (flight) + haveno (harbour)."
+    },
+    "hotel": {
+      "text": "Hotelo"
+    },
+    "train_station": {
+      "text": "Stacidomo",
+      "note": "Also: trajnstacio or fervoja stacio."
+    },
+    "want_to_go": {
+      "text": "Mi volas iri al …",
+      "note": "Politer: Mi ŝatus iri al …"
+    },
+    "is_it_far": {
+      "text": "Ĉu estas malproksime?",
+      "note": "Is it near? Ĉu estas proksime?"
+    },
+    "one_ticket": {
+      "text": "Unu bileton, mi petas",
+      "note": "Two tickets: Du biletojn, mi petas (-j for plural, -n for the object)."
+    },
+    "too_expensive": {
+      "text": "Ĝi estas tro multekosta",
+      "note": "Also: Ĝi estas tro kara."
+    },
+    "cheaper": {
+      "text": "Ĉu vi havas ion pli malmultekostan?"
+    },
+    "id_like_this": {
+      "text": "Mi ŝatus ĉi tion, mi petas",
+      "note": "Ŝ sounds like sh. At a counter, simply: Ĉi tion, mi petas."
+    },
+    "just_looking": {
+      "text": "Mi nur rigardas",
+      "note": "Politer: Dankon, mi nur rigardas."
+    },
+    "pay_card": {
+      "text": "Ĉu mi povas pagi per karto?",
+      "note": "Per means 'by means of': pagi per karto, veturi per buso."
+    },
+    "cash": {
+      "text": "Kontante",
+      "note": "As in Mi pagos kontante (I'll pay in cash). The money itself: kontanta mono."
+    },
+    "open": {
+      "text": "Malfermita",
+      "note": "Mal- again: fermita (closed) → malfermita (open)."
+    },
+    "closed": {
+      "text": "Fermita"
+    },
+    "big": {
+      "text": "Granda"
+    },
+    "small": {
+      "text": "Malgranda"
+    },
+    "today": {
+      "text": "Hodiaŭ",
+      "note": "Three syllables, stressed ho-DI-aŭ."
+    },
+    "tomorrow": {
+      "text": "Morgaŭ",
+      "note": "The day after tomorrow: postmorgaŭ."
+    },
+    "yesterday": {
+      "text": "Hieraŭ",
+      "note": "The day before yesterday: antaŭhieraŭ."
+    },
+    "now": {
+      "text": "Nun",
+      "note": "Right now: ĝuste nun. Immediately: tuj."
+    },
+    "later": {
+      "text": "Poste",
+      "note": "Also: pli malfrue (later on)."
+    },
+    "good_evening": {
+      "text": "Bonan vesperon"
+    },
+    "good_night": {
+      "text": "Bonan nokton",
+      "note": "Before sleep, also: Dormu bone!"
+    },
+    "see_you_later": {
+      "text": "Ĝis poste",
+      "note": "Also very common: Ĝis baldaŭ! (See you soon)"
+    },
+    "wait_moment": {
+      "text": "Bonvolu atendi momenton",
+      "note": "Casual: Momenton!"
+    },
+    "every_day": {
+      "text": "Ĉiutage",
+      "note": "Also as two words: ĉiun tagon."
+    },
+    "help": {
+      "text": "Helpon!",
+      "note": "Also: Helpu min!"
+    },
+    "call_police": {
+      "text": "Voku la policon!"
+    },
+    "need_doctor": {
+      "text": "Mi bezonas kuraciston",
+      "note": "Kuracisto is the everyday word; doktoro is mostly a title."
+    },
+    "im_lost": {
+      "text": "Mi perdiĝis",
+      "note": "-iĝ- makes it happen to you: perdi (to lose) → perdiĝi (to get lost)."
+    },
+    "dont_feel_well": {
+      "text": "Mi ne fartas bone",
+      "note": "Also: Mi sentas min malbone. I'm ill: Mi estas malsana."
+    },
+    "pharmacy": {
+      "text": "Apoteko"
+    },
+    "hospital": {
+      "text": "Hospitalo",
+      "note": "Also, built from Esperanto roots: malsanulejo (place for sick people)."
+    },
+    "lost_phone": {
+      "text": "Mi perdis mian telefonon",
+      "note": "Mobile phone: poŝtelefono."
+    },
+    "allergic": {
+      "text": "Mi estas alergia al …",
+      "note": "Also: Mi havas alergion kontraŭ …"
+    },
+    "be_careful": {
+      "text": "Atentu!",
+      "note": "Also: Estu singarda!"
+    },
+    "no_problem": {
+      "text": "Neniu problemo",
+      "note": "Also: Ne gravas (It doesn't matter)."
+    },
+    "of_course": {
+      "text": "Kompreneble",
+      "note": "From kompreni (to understand)."
+    },
+    "maybe": {
+      "text": "Eble"
+    },
+    "dont_know": {
+      "text": "Mi ne scias",
+      "note": "Sc is said s + ts: STSI-as."
+    },
+    "i_like_it": {
+      "text": "Mi ŝatas ĝin",
+      "note": "Also: Ĝi plaĉas al mi."
+    },
+    "dont_like_it": {
+      "text": "Mi ne ŝatas ĝin",
+      "note": "Also: Ĝi ne plaĉas al mi."
+    },
+    "im_tired": {
+      "text": "Mi estas laca",
+      "note": "Colloquially also: Mi lacas."
+    },
+    "im_happy": {
+      "text": "Mi estas feliĉa",
+      "note": "Glad about something: Mi ĝojas."
+    },
+    "welcome": {
+      "text": "Bonvenon!",
+      "note": "To several guests: Bonvenon al vi ĉiuj!"
+    },
+    "congratulations": {
+      "text": "Gratulon!",
+      "note": "Also: Mi gratulas vin! Happy birthday: Feliĉan naskiĝtagon!"
+    }
+  }
+}

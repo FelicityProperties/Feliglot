@@ -1,0 +1,471 @@
+{
+  "code": "he",
+  "phrases": {
+    "hello": {
+      "text": "שלום",
+      "roman": "shalom",
+      "note": "Also used for goodbye. Casual: היי (hai)."
+    },
+    "goodbye": {
+      "text": "להתראות",
+      "roman": "lehitra'ot",
+      "note": "Casual: ביי (bai)."
+    },
+    "please": {
+      "text": "בבקשה",
+      "roman": "bevakasha",
+      "note": "Also used for 'here you go' and as a reply to thanks."
+    },
+    "thank_you": {
+      "text": "תודה",
+      "roman": "toda",
+      "note": "Thank you very much: תודה רבה (toda raba)."
+    },
+    "youre_welcome": {
+      "text": "אין בעד מה",
+      "roman": "ein be'ad ma",
+      "note": "Also: בבקשה (bevakasha), or casual בכיף (bekef)."
+    },
+    "yes": {
+      "text": "כן",
+      "roman": "ken"
+    },
+    "no": {
+      "text": "לא",
+      "roman": "lo"
+    },
+    "sorry": {
+      "text": "מצטער",
+      "roman": "mitsta'er",
+      "note": "A woman says: מצטערת (mitsta'eret). For small slips, סליחה (slicha) is enough."
+    },
+    "excuse_me": {
+      "text": "סליחה",
+      "roman": "slicha"
+    },
+    "good_morning": {
+      "text": "בוקר טוב",
+      "roman": "boker tov",
+      "note": "Reply: בוקר אור (boker or)."
+    },
+    "how_are_you": {
+      "text": "מה שלומך?",
+      "roman": "ma shlomcha?",
+      "note": "To a woman: ma shlomech (same spelling). Casual: מה נשמע? (ma nishma?)"
+    },
+    "im_fine": {
+      "text": "אני בסדר, תודה",
+      "roman": "ani beseder, toda",
+      "note": "Also common: טוב, תודה (tov, toda)."
+    },
+    "whats_your_name": {
+      "text": "איך קוראים לך?",
+      "roman": "eich kor'im lecha?",
+      "note": "To a woman: eich kor'im lach? (same spelling)."
+    },
+    "my_name_is": {
+      "text": "קוראים לי …",
+      "roman": "kor'im li …",
+      "note": "Also: השם שלי … (hashem sheli …)."
+    },
+    "nice_to_meet_you": {
+      "text": "נעים מאוד",
+      "roman": "na'im me'od",
+      "note": "Common reply: גם לי (gam li), 'me too'."
+    },
+    "where_from": {
+      "text": "מאיפה אתה?",
+      "roman": "me'eifo ata?",
+      "note": "To a woman: מאיפה את? (me'eifo at?)"
+    },
+    "im_from": {
+      "text": "אני מ…",
+      "roman": "ani mi…",
+      "note": "מ (mi-; me- before א, ה, ע, ר) is joined to the country: אני מקנדה (ani mikanada), מאנגליה (me'anglia)."
+    },
+    "speak_english": {
+      "text": "אתה מדבר אנגלית?",
+      "roman": "ata medaber anglit?",
+      "note": "To a woman: את מדברת אנגלית? (at medaberet anglit?)"
+    },
+    "dont_understand": {
+      "text": "אני לא מבין",
+      "roman": "ani lo mevin",
+      "note": "A woman says: אני לא מבינה (ani lo mevina)."
+    },
+    "speak_slowly": {
+      "text": "אפשר לדבר יותר לאט, בבקשה?",
+      "roman": "efshar ledaber yoter le'at, bevakasha?",
+      "note": "אפשר (efshar) + verb is a polite request that works for anyone, man or woman."
+    },
+    "where": {
+      "text": "איפה?",
+      "roman": "eifo?"
+    },
+    "what": {
+      "text": "מה?",
+      "roman": "ma?"
+    },
+    "when": {
+      "text": "מתי?",
+      "roman": "matai?"
+    },
+    "why": {
+      "text": "למה?",
+      "roman": "lama?"
+    },
+    "who": {
+      "text": "מי?",
+      "roman": "mi?"
+    },
+    "how_much": {
+      "text": "כמה זה עולה?",
+      "roman": "kama ze ole?"
+    },
+    "where_bathroom": {
+      "text": "איפה השירותים?",
+      "roman": "eifo hasherutim?",
+      "note": "Start with סליחה (slicha) to be polite."
+    },
+    "can_you_help": {
+      "text": "אתה יכול לעזור לי?",
+      "roman": "ata yachol la'azor li?",
+      "note": "To a woman: את יכולה לעזור לי? (at yechola la'azor li?)"
+    },
+    "what_time": {
+      "text": "מה השעה?",
+      "roman": "ma hasha'a?"
+    },
+    "what_means": {
+      "text": "מה זה אומר?",
+      "roman": "ma ze omer?"
+    },
+    "one": {
+      "text": "אחת",
+      "roman": "achat",
+      "note": "Counting form. With masculine nouns: אחד (echad)."
+    },
+    "two": {
+      "text": "שתיים",
+      "roman": "shtayim",
+      "note": "Counting form. Masculine: שניים (shnayim). Right before a noun: שתי / שני (shtei / shnei)."
+    },
+    "three": {
+      "text": "שלוש",
+      "roman": "shalosh",
+      "note": "Counting form. With masculine nouns: שלושה (shlosha)."
+    },
+    "four": {
+      "text": "ארבע",
+      "roman": "arba",
+      "note": "Counting form. With masculine nouns: ארבעה (arba'a)."
+    },
+    "five": {
+      "text": "חמש",
+      "roman": "chamesh",
+      "note": "Counting form. With masculine nouns: חמישה (chamisha)."
+    },
+    "six": {
+      "text": "שש",
+      "roman": "shesh",
+      "note": "Counting form. With masculine nouns: שישה (shisha)."
+    },
+    "seven": {
+      "text": "שבע",
+      "roman": "sheva",
+      "note": "Counting form. With masculine nouns: שבעה (shiv'a)."
+    },
+    "eight": {
+      "text": "שמונה",
+      "roman": "shmone",
+      "note": "Counting form. With masculine nouns: shmona (same spelling)."
+    },
+    "nine": {
+      "text": "תשע",
+      "roman": "tesha",
+      "note": "Counting form. With masculine nouns: תשעה (tish'a)."
+    },
+    "ten": {
+      "text": "עשר",
+      "roman": "eser",
+      "note": "Counting form. With masculine nouns: עשרה (asara)."
+    },
+    "water": {
+      "text": "מים",
+      "roman": "mayim",
+      "note": "A glass of water: כוס מים (kos mayim)."
+    },
+    "coffee": {
+      "text": "קפה",
+      "roman": "kafe",
+      "note": "The Israeli milky coffee (like a latte) is הפוך (hafuch)."
+    },
+    "tea": {
+      "text": "תה",
+      "roman": "te"
+    },
+    "bread": {
+      "text": "לחם",
+      "roman": "lechem"
+    },
+    "im_hungry": {
+      "text": "אני רעב",
+      "roman": "ani ra'ev",
+      "note": "A woman says: אני רעבה (ani re'eva)."
+    },
+    "menu_please": {
+      "text": "אפשר תפריט, בבקשה?",
+      "roman": "efshar tafrit, bevakasha?"
+    },
+    "bill_please": {
+      "text": "אפשר חשבון, בבקשה?",
+      "roman": "efshar cheshbon, bevakasha?"
+    },
+    "delicious": {
+      "text": "טעים!",
+      "roman": "ta'im!",
+      "note": "Stronger: טעים מאוד (ta'im me'od)."
+    },
+    "no_meat": {
+      "text": "אני לא אוכל בשר",
+      "roman": "ani lo ochel basar",
+      "note": "A woman says: אני לא אוכלת בשר (ani lo ochelet basar)."
+    },
+    "enjoy_meal": {
+      "text": "בתיאבון!",
+      "roman": "bete'avon!"
+    },
+    "left": {
+      "text": "שמאלה",
+      "roman": "smola",
+      "note": "The side itself is שמאל (smol)."
+    },
+    "right": {
+      "text": "ימינה",
+      "roman": "yamina",
+      "note": "The side itself is ימין (yamin)."
+    },
+    "straight_ahead": {
+      "text": "ישר",
+      "roman": "yashar",
+      "note": "Also: ישר קדימה (yashar kadima)."
+    },
+    "stop_here": {
+      "text": "תעצור פה, בבקשה",
+      "roman": "ta'atsor po, bevakasha",
+      "note": "To a woman driver: תעצרי פה, בבקשה (ta'atsri po, bevakasha)."
+    },
+    "airport": {
+      "text": "שדה תעופה",
+      "roman": "sde te'ufa",
+      "note": "Ben Gurion Airport is usually just called נתב״ג (natbag)."
+    },
+    "hotel": {
+      "text": "מלון",
+      "roman": "malon",
+      "note": "Also: בית מלון (beit malon)."
+    },
+    "train_station": {
+      "text": "תחנת רכבת",
+      "roman": "tachanat rakevet"
+    },
+    "want_to_go": {
+      "text": "אני רוצה לנסוע ל…",
+      "roman": "ani rotse linso'a le…",
+      "note": "A woman says ani rotsa (same spelling). ל (le-) is joined to the place: לחיפה (lecheifa)."
+    },
+    "is_it_far": {
+      "text": "זה רחוק?",
+      "roman": "ze rachok?"
+    },
+    "one_ticket": {
+      "text": "כרטיס אחד, בבקשה",
+      "roman": "kartis echad, bevakasha",
+      "note": "Most buses and trains take the רב-קו (rav-kav) smart card instead."
+    },
+    "too_expensive": {
+      "text": "זה יקר מדי",
+      "roman": "ze yakar midai"
+    },
+    "cheaper": {
+      "text": "יש משהו יותר זול?",
+      "roman": "yesh mashehu yoter zol?"
+    },
+    "id_like_this": {
+      "text": "אני רוצה את זה, בבקשה",
+      "roman": "ani rotse et ze, bevakasha",
+      "note": "A woman says ani rotsa (same spelling). Also: אני אקח את זה (ani ekach et ze), 'I'll take it'."
+    },
+    "just_looking": {
+      "text": "אני רק מסתכל, תודה",
+      "roman": "ani rak mistakel, toda",
+      "note": "A woman says: אני רק מסתכלת, תודה (ani rak mistakelet, toda)."
+    },
+    "pay_card": {
+      "text": "אפשר לשלם באשראי?",
+      "roman": "efshar leshalem be'ashrai?",
+      "note": "אשראי (ashrai), literally 'credit', is everyday shorthand for a credit card. בכרטיס (bekartis), 'by card', also works."
+    },
+    "cash": {
+      "text": "מזומן",
+      "roman": "mezuman",
+      "note": "In cash: במזומן (bimzuman)."
+    },
+    "open": {
+      "text": "פתוח",
+      "roman": "patuach"
+    },
+    "closed": {
+      "text": "סגור",
+      "roman": "sagur"
+    },
+    "big": {
+      "text": "גדול",
+      "roman": "gadol",
+      "note": "Feminine: גדולה (gdola)."
+    },
+    "small": {
+      "text": "קטן",
+      "roman": "katan",
+      "note": "Feminine: קטנה (ktana)."
+    },
+    "today": {
+      "text": "היום",
+      "roman": "hayom"
+    },
+    "tomorrow": {
+      "text": "מחר",
+      "roman": "machar"
+    },
+    "yesterday": {
+      "text": "אתמול",
+      "roman": "etmol"
+    },
+    "now": {
+      "text": "עכשיו",
+      "roman": "achshav"
+    },
+    "later": {
+      "text": "אחר כך",
+      "roman": "achar kach",
+      "note": "Also: יותר מאוחר (yoter me'uchar)."
+    },
+    "good_evening": {
+      "text": "ערב טוב",
+      "roman": "erev tov"
+    },
+    "good_night": {
+      "text": "לילה טוב",
+      "roman": "laila tov"
+    },
+    "see_you_later": {
+      "text": "נתראה",
+      "roman": "nitra'e",
+      "note": "Also: נתראה אחר כך (nitra'e achar kach)."
+    },
+    "wait_moment": {
+      "text": "רק רגע, בבקשה",
+      "roman": "rak rega, bevakasha",
+      "note": "Or: חכה רגע (chake rega); to a woman: חכי רגע (chaki rega)."
+    },
+    "every_day": {
+      "text": "כל יום",
+      "roman": "kol yom"
+    },
+    "help": {
+      "text": "הצילו!",
+      "roman": "hatsilu!",
+      "note": "Also: עזרה! (ezra!)"
+    },
+    "call_police": {
+      "text": "תזמינו משטרה!",
+      "roman": "tazminu mishtara!",
+      "note": "Plural, shouted to everyone around. Police emergency number in Israel: 100."
+    },
+    "need_doctor": {
+      "text": "אני צריך רופא",
+      "roman": "ani tsarich rofe",
+      "note": "A woman says: אני צריכה רופא (ani tsricha rofe). Ambulance (Magen David Adom): 101."
+    },
+    "im_lost": {
+      "text": "הלכתי לאיבוד",
+      "roman": "halachti le'ibud"
+    },
+    "dont_feel_well": {
+      "text": "אני לא מרגיש טוב",
+      "roman": "ani lo margish tov",
+      "note": "A woman says: אני לא מרגישה טוב (ani lo margisha tov)."
+    },
+    "pharmacy": {
+      "text": "בית מרקחת",
+      "roman": "beit mirkachat"
+    },
+    "hospital": {
+      "text": "בית חולים",
+      "roman": "beit cholim"
+    },
+    "lost_phone": {
+      "text": "איבדתי את הטלפון שלי",
+      "roman": "ibadti et hatelefon sheli",
+      "note": "A mobile phone is also commonly called פלאפון (pelefon)."
+    },
+    "allergic": {
+      "text": "אני אלרגי ל…",
+      "roman": "ani alergi le…",
+      "note": "A woman says: אני אלרגית ל… (ani alergit le…)."
+    },
+    "be_careful": {
+      "text": "תיזהר!",
+      "roman": "tizaher!",
+      "note": "To a woman: תיזהרי! (tizahari!). Also: זהירות! (zehirut!)"
+    },
+    "no_problem": {
+      "text": "אין בעיה",
+      "roman": "ein be'aya"
+    },
+    "of_course": {
+      "text": "כמובן",
+      "roman": "kamuvan",
+      "note": "Casual: בטח (betach)."
+    },
+    "maybe": {
+      "text": "אולי",
+      "roman": "ulai"
+    },
+    "dont_know": {
+      "text": "אני לא יודע",
+      "roman": "ani lo yode'a",
+      "note": "A woman says: אני לא יודעת (ani lo yoda'at)."
+    },
+    "i_like_it": {
+      "text": "אני אוהב את זה",
+      "roman": "ani ohev et ze",
+      "note": "A woman says ani ohevet (אוהבת). Also: זה מוצא חן בעיניי (ze motse chen be'einai)."
+    },
+    "dont_like_it": {
+      "text": "אני לא אוהב את זה",
+      "roman": "ani lo ohev et ze",
+      "note": "A woman says: אני לא אוהבת את זה (ani lo ohevet et ze)."
+    },
+    "im_tired": {
+      "text": "אני עייף",
+      "roman": "ani ayef",
+      "note": "A woman says: אני עייפה (ani ayefa)."
+    },
+    "im_happy": {
+      "text": "אני שמח",
+      "roman": "ani same'ach",
+      "note": "A woman says: אני שמחה (ani smecha)."
+    },
+    "welcome": {
+      "text": "ברוך הבא!",
+      "roman": "baruch haba!",
+      "note": "To a woman: ברוכה הבאה (brucha haba'a); to a group: ברוכים הבאים (bruchim haba'im)."
+    },
+    "congratulations": {
+      "text": "מזל טוב!",
+      "roman": "mazal tov!",
+      "note": "For an achievement, Israelis often say כל הכבוד (kol hakavod)."
+    }
+  }
+}

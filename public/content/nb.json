@@ -1,0 +1,399 @@
+{
+  "code": "nb",
+  "phrases": {
+    "hello": {
+      "text": "Hei",
+      "note": "Also: Hallo. Casual: Heisann! or Hei hei! Formal, e.g. in an office: God dag."
+    },
+    "goodbye": {
+      "text": "Ha det bra",
+      "note": "Short and very common: Ha det! Casual: Hei hei! or Snakkes! (talk soon)."
+    },
+    "please": {
+      "text": "Vær så snill",
+      "note": "Can sound pleading. In everyday requests Norwegians add takk instead: En kaffe, takk."
+    },
+    "thank_you": {
+      "text": "Takk",
+      "note": "Warmer: Tusen takk (a thousand thanks) or Takk skal du ha."
+    },
+    "youre_welcome": {
+      "text": "Bare hyggelig",
+      "note": "Also common: Ingen årsak. When handing something over, say Vær så god."
+    },
+    "yes": {
+      "text": "Ja",
+      "note": "To say yes to a negative question, use jo: Kommer du ikke? – Jo!"
+    },
+    "no": {
+      "text": "Nei"
+    },
+    "sorry": {
+      "text": "Unnskyld",
+      "note": "Also very common: Beklager. For real regret: Jeg er lei for det."
+    },
+    "excuse_me": {
+      "text": "Unnskyld meg",
+      "note": "Often just Unnskyld, followed by your question: Unnskyld, vet du hvor stasjonen er?"
+    },
+    "good_morning": {
+      "text": "God morgen",
+      "note": "Casual: Morn! Many people also use Morn as a quick hello later in the day."
+    },
+    "how_are_you": {
+      "text": "Hvordan har du det?",
+      "note": "Norwegians say du to almost everyone; the formal De is now rare. Also: Hvordan går det?"
+    },
+    "im_fine": {
+      "text": "Jeg har det bra, takk",
+      "note": "Shorter: Bra, takk! To ask back: Og du?"
+    },
+    "whats_your_name": {
+      "text": "Hva heter du?",
+      "note": "The h in hva is silent: 'va HAY-ter doo'. Du is polite enough, even with strangers."
+    },
+    "my_name_is": {
+      "text": "Jeg heter …",
+      "note": "Jeg sounds like 'yai'. More formal: Mitt navn er …"
+    },
+    "nice_to_meet_you": {
+      "text": "Hyggelig å treffe deg",
+      "note": "Often just: Hyggelig! Also common: Hyggelig å hilse på deg."
+    },
+    "where_from": {
+      "text": "Hvor kommer du fra?",
+      "note": "The h in hv- words is silent: hvor sounds like 'voor'."
+    },
+    "im_from": {
+      "text": "Jeg kommer fra …",
+      "note": "Also common: Jeg er fra …"
+    },
+    "speak_english": {
+      "text": "Snakker du engelsk?",
+      "note": "Most Norwegians speak English well. Start politely: Unnskyld, snakker du engelsk?"
+    },
+    "dont_understand": {
+      "text": "Jeg forstår ikke",
+      "note": "Also common: Jeg skjønner ikke. To ask someone to repeat: Hva sa du?"
+    },
+    "speak_slowly": {
+      "text": "Kan du snakke litt saktere?",
+      "note": "Norwegian softens requests with litt (a bit) rather than a word for please. Also: langsommere."
+    },
+    "where": {
+      "text": "Hvor?",
+      "note": "Said 'voor'. Where to? is hvor hen? Where from? is hvorfra?"
+    },
+    "what": {
+      "text": "Hva?",
+      "note": "Said 'va'. Hva? alone can sound blunt; to ask someone to repeat, say Unnskyld? or Hva sa du?"
+    },
+    "when": {
+      "text": "Når?",
+      "note": "Å sounds like the 'aw' in law: 'nawr'."
+    },
+    "why": {
+      "text": "Hvorfor?",
+      "note": "Said 'VOOR-for'. Also common in speech: Hvorfor det?"
+    },
+    "who": {
+      "text": "Hvem?",
+      "note": "Said 'vem'. Don't mix it up with hvor (where)."
+    },
+    "how_much": {
+      "text": "Hva koster det?",
+      "note": "Also: Hvor mye koster dette?"
+    },
+    "where_bathroom": {
+      "text": "Hvor er toalettet?",
+      "note": "Casual: Hvor er doen? Signs say WC; Damer = women, Herrer = men."
+    },
+    "can_you_help": {
+      "text": "Kan du hjelpe meg?",
+      "note": "The h in hjelpe is silent: 'YEL-peh'. Extra polite: Kunne du hjelpe meg?"
+    },
+    "what_time": {
+      "text": "Hva er klokka?",
+      "note": "Also written and said: Hva er klokken? Both are correct."
+    },
+    "what_means": {
+      "text": "Hva betyr dette?",
+      "note": "Also common: Hva vil det si?"
+    },
+    "one": {
+      "text": "En",
+      "note": "With neuter nouns it is ett: ett glass. Written én when stressed, to tell it from the article en."
+    },
+    "two": {
+      "text": "To",
+      "note": "Sounds like English 'too'."
+    },
+    "three": {
+      "text": "Tre"
+    },
+    "four": {
+      "text": "Fire",
+      "note": "Not the English word: say 'FEE-reh'."
+    },
+    "five": {
+      "text": "Fem"
+    },
+    "six": {
+      "text": "Seks"
+    },
+    "seven": {
+      "text": "Sju",
+      "note": "Syv is also correct and very common in speech."
+    },
+    "eight": {
+      "text": "Åtte",
+      "note": "Å sounds like the 'aw' in law: 'AW-teh'."
+    },
+    "nine": {
+      "text": "Ni",
+      "note": "Say 'nee'."
+    },
+    "ten": {
+      "text": "Ti",
+      "note": "Say 'tee'."
+    },
+    "water": {
+      "text": "Vann",
+      "note": "Tap water is good to drink. In a café: Kan jeg få et glass vann?"
+    },
+    "coffee": {
+      "text": "Kaffe"
+    },
+    "tea": {
+      "text": "Te"
+    },
+    "bread": {
+      "text": "Brød",
+      "note": "The d is silent: 'brø'. Ø is like the vowel in French deux."
+    },
+    "im_hungry": {
+      "text": "Jeg er sulten",
+      "note": "Starving: Jeg er skrubbsulten."
+    },
+    "menu_please": {
+      "text": "Kan jeg få menyen?",
+      "note": "Kan jeg få …? is the everyday polite way to ask for anything. Short form: Menyen, takk."
+    },
+    "bill_please": {
+      "text": "Kan jeg få regningen?",
+      "note": "Short form: Regningen, takk. For the whole table: Kan vi få regningen?"
+    },
+    "delicious": {
+      "text": "Så godt!",
+      "note": "Also: Deilig! or Nydelig! About a whole meal: Dette var kjempegodt!"
+    },
+    "no_meat": {
+      "text": "Jeg spiser ikke kjøtt",
+      "note": "Or: Jeg er vegetarianer. Kj is a soft hiss, like the ch in German ich."
+    },
+    "enjoy_meal": {
+      "text": "God appetitt!",
+      "note": "A host often says Vær så god! (help yourself). After eating, guests say Takk for maten!"
+    },
+    "left": {
+      "text": "Venstre",
+      "note": "Turn left: Ta til venstre."
+    },
+    "right": {
+      "text": "Høyre",
+      "note": "Not 'correct', which is riktig. Turn right: Ta til høyre."
+    },
+    "straight_ahead": {
+      "text": "Rett fram",
+      "note": "Also spelt rett frem. Both are correct."
+    },
+    "stop_here": {
+      "text": "Kan du stoppe her?",
+      "note": "Also very natural: Du kan slippe meg av her (you can let me off here)."
+    },
+    "airport": {
+      "text": "Flyplass",
+      "note": "Official names and signs often use lufthavn, as in Oslo lufthavn."
+    },
+    "hotel": {
+      "text": "Hotell",
+      "note": "Double l, stress on the end: ho-TELL."
+    },
+    "train_station": {
+      "text": "Jernbanestasjon",
+      "note": "In everyday speech: togstasjon, or just stasjonen. Oslo's main station is Oslo S."
+    },
+    "want_to_go": {
+      "text": "Jeg vil gjerne til …",
+      "note": "Norwegian can drop the verb go here. Also very common: Jeg skal til … (I'm going to …)."
+    },
+    "is_it_far": {
+      "text": "Er det langt?",
+      "note": "Also: Er det langt herfra? (from here)"
+    },
+    "one_ticket": {
+      "text": "En billett, takk",
+      "note": "Return ticket: tur-retur. In many cities you buy tickets in an app."
+    },
+    "too_expensive": {
+      "text": "Det er for dyrt",
+      "note": "Haggling is not usual in Norwegian shops, except at flea markets (loppemarked)."
+    },
+    "cheaper": {
+      "text": "Har du noe billigere?",
+      "note": "Asking about the shop's range: Har dere noe billigere? (dere = you, plural)"
+    },
+    "id_like_this": {
+      "text": "Jeg vil gjerne ha denne",
+      "note": "For a neuter noun: dette. When buying, also common: Jeg tar denne."
+    },
+    "just_looking": {
+      "text": "Jeg bare kikker, takk",
+      "note": "Also: Jeg bare ser meg litt rundt."
+    },
+    "pay_card": {
+      "text": "Kan jeg betale med kort?",
+      "note": "Cards are taken almost everywhere, and some places no longer accept cash."
+    },
+    "cash": {
+      "text": "Kontanter",
+      "note": "To pay in cash: betale kontant."
+    },
+    "open": {
+      "text": "Åpent",
+      "note": "Opening hours: åpningstider."
+    },
+    "closed": {
+      "text": "Stengt",
+      "note": "Signs also say Lukket. Most shops are closed on Sundays."
+    },
+    "big": {
+      "text": "Stor",
+      "note": "With neuter nouns: stort (et stort glass). Plural: store."
+    },
+    "small": {
+      "text": "Liten",
+      "note": "Irregular: lite with neuter nouns (et lite glass), små in the plural."
+    },
+    "today": {
+      "text": "I dag",
+      "note": "Two words in Bokmål."
+    },
+    "tomorrow": {
+      "text": "I morgen",
+      "note": "Morgen alone means morning. Tomorrow morning: i morgen tidlig."
+    },
+    "yesterday": {
+      "text": "I går",
+      "note": "Yesterday evening: i går kveld."
+    },
+    "now": {
+      "text": "Nå",
+      "note": "Right away: med en gang."
+    },
+    "later": {
+      "text": "Senere",
+      "note": "Also spelt seinere. Afterwards: etterpå. Soon: snart."
+    },
+    "good_evening": {
+      "text": "God kveld",
+      "note": "Hei works at any time of day, too."
+    },
+    "good_night": {
+      "text": "God natt",
+      "note": "Also said when parting late at night. Leaving earlier in the evening: Ha en fin kveld!"
+    },
+    "see_you_later": {
+      "text": "Vi ses",
+      "note": "Also: Ses senere! Tomorrow: Vi ses i morgen! Casual: Snakkes!"
+    },
+    "wait_moment": {
+      "text": "Et øyeblikk",
+      "note": "Also: Bare et øyeblikk. Casual: Vent litt!"
+    },
+    "every_day": {
+      "text": "Hver dag",
+      "note": "The h is silent: hver sounds like 'vair'."
+    },
+    "help": {
+      "text": "Hjelp!",
+      "note": "The h is silent: 'yelp'."
+    },
+    "call_police": {
+      "text": "Ring politiet!",
+      "note": "In Norway dial 112 for the police, 113 for an ambulance, 110 for the fire brigade."
+    },
+    "need_doctor": {
+      "text": "Jeg trenger en lege",
+      "note": "Lege is used for both male and female doctors."
+    },
+    "im_lost": {
+      "text": "Jeg har gått meg vill",
+      "note": "On foot. When driving: Jeg har kjørt meg vill."
+    },
+    "dont_feel_well": {
+      "text": "Jeg føler meg ikke bra",
+      "note": "Also: Jeg er ikke helt i form. Ill: Jeg er syk."
+    },
+    "pharmacy": {
+      "text": "Apotek",
+      "note": "Stress on the end: a-po-TEK."
+    },
+    "hospital": {
+      "text": "Sykehus",
+      "note": "Out of hours, for urgent but not life-threatening problems, go to the legevakt."
+    },
+    "lost_phone": {
+      "text": "Jeg har mistet mobilen min",
+      "note": "Mobil is the everyday word for a mobile phone. Telefonen also works."
+    },
+    "allergic": {
+      "text": "Jeg er allergisk mot …",
+      "note": "E.g. allergisk mot nøtter (nuts), melk (milk), gluten."
+    },
+    "be_careful": {
+      "text": "Vær forsiktig!",
+      "note": "Sudden warning: Pass på! or Se opp!"
+    },
+    "no_problem": {
+      "text": "Ikke noe problem",
+      "note": "Casual: Null problem!"
+    },
+    "of_course": {
+      "text": "Selvfølgelig",
+      "note": "Casual: Klart! or Så klart!"
+    },
+    "maybe": {
+      "text": "Kanskje",
+      "note": "Skj sounds like 'sh': 'KAN-sheh'."
+    },
+    "dont_know": {
+      "text": "Jeg vet ikke",
+      "note": "Casual: Aner ikke (no idea)."
+    },
+    "i_like_it": {
+      "text": "Jeg liker det",
+      "note": "About food, also: Det smaker godt."
+    },
+    "dont_like_it": {
+      "text": "Jeg liker det ikke",
+      "note": "Also common: Det liker jeg ikke."
+    },
+    "im_tired": {
+      "text": "Jeg er trøtt",
+      "note": "Worn out: Jeg er sliten."
+    },
+    "im_happy": {
+      "text": "Jeg er glad",
+      "note": "Glad is the everyday word for happy. Deeply happy: lykkelig."
+    },
+    "welcome": {
+      "text": "Velkommen!",
+      "note": "Warmer: Hjertelig velkommen!"
+    },
+    "congratulations": {
+      "text": "Gratulerer!",
+      "note": "On a birthday: Gratulerer med dagen!"
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "code": "id",
+  "phrases": {
+    "hello": {
+      "text": "Halo",
+      "note": "Time-of-day greetings like selamat pagi are just as common. Many Muslims greet with assalamualaikum."
+    },
+    "goodbye": {
+      "text": "Sampai jumpa",
+      "note": "Casual: dah! Selamat jalan is said to someone setting off on a trip."
+    },
+    "please": {
+      "text": "Tolong",
+      "note": "Tolong asks for help or a favour. When offering (please, go ahead / help yourself), say silakan."
+    },
+    "thank_you": {
+      "text": "Terima kasih",
+      "note": "Very grateful: terima kasih banyak. Casual: makasih."
+    },
+    "youre_welcome": {
+      "text": "Sama-sama",
+      "note": "Formal alternative: kembali."
+    },
+    "yes": {
+      "text": "Ya",
+      "note": "Iya is softer and very common in speech."
+    },
+    "no": {
+      "text": "Tidak",
+      "note": "Casual: nggak. Bukan negates nouns instead: bukan yang ini (not this one)."
+    },
+    "sorry": {
+      "text": "Maaf",
+      "note": "Fuller apology: saya minta maaf. Formal: mohon maaf."
+    },
+    "excuse_me": {
+      "text": "Permisi",
+      "note": "Also said when passing in front of someone. Adding Pak (to a man) or Bu (to a woman) is even politer."
+    },
+    "good_morning": {
+      "text": "Selamat pagi",
+      "note": "Until about 11 a.m. Then selamat siang (midday) and selamat sore (afternoon)."
+    },
+    "how_are_you": {
+      "text": "Apa kabar?",
+      "note": "Warmer with a title: apa kabar, Pak? (to a man) / apa kabar, Bu? (to a woman)."
+    },
+    "im_fine": {
+      "text": "Baik, terima kasih",
+      "note": "Also: kabar baik. To ask back: bagaimana dengan Anda?"
+    },
+    "whats_your_name": {
+      "text": "Siapa nama Anda?",
+      "note": "Anda is polite but formal; people often say Bapak (sir) or Ibu (madam) instead. Casual: namanya siapa?"
+    },
+    "my_name_is": {
+      "text": "Nama saya …",
+      "note": "Saya is the polite 'I'; with friends, aku."
+    },
+    "nice_to_meet_you": {
+      "text": "Senang berkenalan dengan Anda",
+      "note": "Casual: salam kenal. Also: senang bertemu dengan Anda."
+    },
+    "where_from": {
+      "text": "Anda berasal dari mana?",
+      "note": "In speech also: asalnya dari mana?"
+    },
+    "im_from": {
+      "text": "Saya dari …",
+      "note": "Fuller: saya berasal dari …"
+    },
+    "speak_english": {
+      "text": "Apakah Anda bisa berbahasa Inggris?",
+      "note": "In speech often just: bisa bahasa Inggris?"
+    },
+    "dont_understand": {
+      "text": "Saya tidak mengerti",
+      "note": "Also: saya tidak paham. Casual: nggak ngerti."
+    },
+    "speak_slowly": {
+      "text": "Tolong bicara lebih pelan",
+      "note": "Softer, as a question: bisa bicara lebih pelan?"
+    },
+    "where": {
+      "text": "Di mana?",
+      "note": "Where to: ke mana? Where from: dari mana?"
+    },
+    "what": {
+      "text": "Apa?",
+      "note": "To ask someone to repeat, maaf? or bagaimana? is politer than a bare apa?"
+    },
+    "when": {
+      "text": "Kapan?",
+      "note": "Only for questions; in statements 'when' is ketika or waktu."
+    },
+    "why": {
+      "text": "Kenapa?",
+      "note": "More formal: mengapa?"
+    },
+    "who": {
+      "text": "Siapa?"
+    },
+    "how_much": {
+      "text": "Berapa harganya?",
+      "note": "Pointing at something, simply: ini berapa?"
+    },
+    "where_bathroom": {
+      "text": "Permisi, toiletnya di mana?",
+      "note": "Also: kamar kecil (more polite) or WC, said weh-seh."
+    },
+    "can_you_help": {
+      "text": "Bisa tolong bantu saya?",
+      "note": "Also very natural: boleh minta tolong? (may I ask a favour?)"
+    },
+    "what_time": {
+      "text": "Jam berapa sekarang?",
+      "note": "Also: sekarang jam berapa? Formal: pukul berapa sekarang?"
+    },
+    "what_means": {
+      "text": "Apa artinya ini?",
+      "note": "About a word: apa arti kata ini?"
+    },
+    "one": {
+      "text": "Satu",
+      "note": "In compounds it becomes se-: sepuluh (10), seratus (100), seribu (1,000)."
+    },
+    "two": {
+      "text": "Dua"
+    },
+    "three": {
+      "text": "Tiga"
+    },
+    "four": {
+      "text": "Empat",
+      "note": "The e is a short 'uh' sound, as in about. Same in enam, delapan and sembilan."
+    },
+    "five": {
+      "text": "Lima"
+    },
+    "six": {
+      "text": "Enam"
+    },
+    "seven": {
+      "text": "Tujuh",
+      "note": "The final h is lightly breathed, not silent."
+    },
+    "eight": {
+      "text": "Delapan"
+    },
+    "nine": {
+      "text": "Sembilan"
+    },
+    "ten": {
+      "text": "Sepuluh",
+      "note": "Literally 'one ten'. 11 is sebelas, 20 is dua puluh."
+    },
+    "water": {
+      "text": "Air putih",
+      "note": "Plain drinking water (literally 'white water'). Air, said a-ir, alone is water in general."
+    },
+    "coffee": {
+      "text": "Kopi"
+    },
+    "tea": {
+      "text": "Teh",
+      "note": "Usually served sweet; for unsweetened ask for teh tawar. Iced tea: es teh."
+    },
+    "bread": {
+      "text": "Roti"
+    },
+    "im_hungry": {
+      "text": "Saya lapar",
+      "note": "Casual: aku laper."
+    },
+    "menu_please": {
+      "text": "Boleh minta menunya?",
+      "note": "To call staff: Mas! (to a young man) or Mbak! (to a young woman)."
+    },
+    "bill_please": {
+      "text": "Boleh minta bonnya?",
+      "note": "Also common: minta bill-nya, or just ask the total: totalnya berapa?"
+    },
+    "delicious": {
+      "text": "Enak sekali!",
+      "note": "Casual: enak banget! Formal: lezat."
+    },
+    "no_meat": {
+      "text": "Saya tidak makan daging",
+      "note": "Daging often means red meat only; to be clear add: ayam dan ikan juga tidak (no chicken or fish either)."
+    },
+    "enjoy_meal": {
+      "text": "Selamat makan!"
+    },
+    "left": {
+      "text": "Kiri",
+      "note": "Calling kiri! is also how you ask a minibus (angkot) driver to stop."
+    },
+    "right": {
+      "text": "Kanan"
+    },
+    "straight_ahead": {
+      "text": "Lurus terus",
+      "note": "Also: jalan terus (keep going)."
+    },
+    "stop_here": {
+      "text": "Tolong berhenti di sini, Pak",
+      "note": "To a woman driver, end with Bu. Very common too: di sini saja, Pak (right here is fine)."
+    },
+    "airport": {
+      "text": "Bandara",
+      "note": "Short for bandar udara."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same word as in English. Cheaper guesthouses: penginapan or losmen."
+    },
+    "train_station": {
+      "text": "Stasiun kereta",
+      "note": "Stasiun alone usually means the train station; a bus station is a terminal."
+    },
+    "want_to_go": {
+      "text": "Saya mau ke …",
+      "note": "More formal: saya ingin pergi ke …"
+    },
+    "is_it_far": {
+      "text": "Jauh dari sini?",
+      "note": "Casual: jauh nggak? More formal: apakah jauh dari sini?"
+    },
+    "one_ticket": {
+      "text": "Satu tiket, ya",
+      "note": "Ending with ya softens a request, like please. Fuller: saya mau beli satu tiket."
+    },
+    "too_expensive": {
+      "text": "Terlalu mahal",
+      "note": "Casual: mahal banget! To bargain: bisa kurang? (can you go lower?)"
+    },
+    "cheaper": {
+      "text": "Ada yang lebih murah?"
+    },
+    "id_like_this": {
+      "text": "Saya mau yang ini",
+      "note": "Also: saya ambil yang ini (I'll take this one)."
+    },
+    "just_looking": {
+      "text": "Lihat-lihat saja",
+      "note": "Also: lihat-lihat dulu, ya (just looking for now)."
+    },
+    "pay_card": {
+      "text": "Bisa bayar pakai kartu?",
+      "note": "More formal: bisa bayar dengan kartu? Credit card: kartu kredit; debit card: kartu debit."
+    },
+    "cash": {
+      "text": "Tunai",
+      "note": "Also: uang tunai. In speech many simply say cash."
+    },
+    "open": {
+      "text": "Buka"
+    },
+    "closed": {
+      "text": "Tutup"
+    },
+    "big": {
+      "text": "Besar",
+      "note": "Casual: gede."
+    },
+    "small": {
+      "text": "Kecil"
+    },
+    "today": {
+      "text": "Hari ini"
+    },
+    "tomorrow": {
+      "text": "Besok"
+    },
+    "yesterday": {
+      "text": "Kemarin"
+    },
+    "now": {
+      "text": "Sekarang"
+    },
+    "later": {
+      "text": "Nanti",
+      "note": "Vague on purpose: it can mean in a minute or in a few days."
+    },
+    "good_evening": {
+      "text": "Selamat malam",
+      "note": "From about 6 p.m. Late afternoon: selamat sore."
+    },
+    "good_night": {
+      "text": "Selamat tidur",
+      "note": "Only before sleep. When leaving at night, people say selamat malam, the same as good evening."
+    },
+    "see_you_later": {
+      "text": "Sampai nanti",
+      "note": "Also: sampai ketemu lagi (see you again)."
+    },
+    "wait_moment": {
+      "text": "Tunggu sebentar, ya",
+      "note": "Very common: sebentar, ya! Formal: mohon tunggu sebentar."
+    },
+    "every_day": {
+      "text": "Setiap hari",
+      "note": "Casual: tiap hari."
+    },
+    "help": {
+      "text": "Tolong!",
+      "note": "The same tolong that makes a request polite."
+    },
+    "call_police": {
+      "text": "Panggil polisi!"
+    },
+    "need_doctor": {
+      "text": "Saya butuh dokter",
+      "note": "Also: saya perlu dokter."
+    },
+    "im_lost": {
+      "text": "Saya tersesat",
+      "note": "Casual: saya nyasar."
+    },
+    "dont_feel_well": {
+      "text": "Saya kurang enak badan",
+      "note": "Also: saya tidak enak badan. Saya sakit means I'm ill."
+    },
+    "pharmacy": {
+      "text": "Apotek",
+      "note": "Small shops with basic medicines: toko obat."
+    },
+    "hospital": {
+      "text": "Rumah sakit",
+      "note": "Often shortened to RS on signs."
+    },
+    "lost_phone": {
+      "text": "HP saya hilang",
+      "note": "HP (said ha-peh) is the everyday word for a mobile phone; formal: ponsel."
+    },
+    "allergic": {
+      "text": "Saya alergi …",
+      "note": "For example: saya alergi kacang (nuts)."
+    },
+    "be_careful": {
+      "text": "Hati-hati!",
+      "note": "Also a friendly goodbye to someone setting off: hati-hati di jalan."
+    },
+    "no_problem": {
+      "text": "Tidak apa-apa",
+      "note": "Casual: nggak apa-apa (often said gapapa). Also: tidak masalah."
+    },
+    "of_course": {
+      "text": "Tentu saja",
+      "note": "Casual: pasti! or iya dong!"
+    },
+    "maybe": {
+      "text": "Mungkin"
+    },
+    "dont_know": {
+      "text": "Saya tidak tahu",
+      "note": "Casual: nggak tahu, often said nggak tau."
+    },
+    "i_like_it": {
+      "text": "Saya suka",
+      "note": "Pointing at something: saya suka yang ini."
+    },
+    "dont_like_it": {
+      "text": "Saya tidak suka",
+      "note": "Casual: nggak suka."
+    },
+    "im_tired": {
+      "text": "Saya capek",
+      "note": "More formal: saya lelah."
+    },
+    "im_happy": {
+      "text": "Saya senang",
+      "note": "Bahagia is a deeper, lasting happiness: saya bahagia."
+    },
+    "welcome": {
+      "text": "Selamat datang!",
+      "note": "Inviting a guest in: silakan masuk."
+    },
+    "congratulations": {
+      "text": "Selamat!",
+      "note": "The same selamat that starts greetings like selamat pagi."
+    }
+  }
+}

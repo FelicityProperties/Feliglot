@@ -1,0 +1,382 @@
+{
+  "code": "es",
+  "phrases": {
+    "hello": {
+      "text": "Hola",
+      "note": "The h is silent: say 'OH-la'."
+    },
+    "goodbye": {
+      "text": "Adiós",
+      "note": "Also very common: Hasta luego. Casual in Latin America: Chao."
+    },
+    "please": {
+      "text": "Por favor"
+    },
+    "thank_you": {
+      "text": "Gracias",
+      "note": "Thank you very much: Muchas gracias."
+    },
+    "youre_welcome": {
+      "text": "De nada",
+      "note": "Also: No hay de qué. In parts of Latin America (e.g. Colombia) you will often hear Con gusto."
+    },
+    "yes": {
+      "text": "Sí",
+      "note": "Keep the accent: si without it means 'if'."
+    },
+    "no": {
+      "text": "No",
+      "note": "Same spelling as English, but a short, pure 'o' with no glide."
+    },
+    "sorry": {
+      "text": "Lo siento",
+      "note": "For a small slip, like bumping into someone: Perdón."
+    },
+    "excuse_me": {
+      "text": "Disculpe",
+      "note": "Also: Perdone. To a friend (tú): Disculpa."
+    },
+    "good_morning": {
+      "text": "Buenos días",
+      "note": "Used until lunchtime, which in Spain can be 2 p.m."
+    },
+    "how_are_you": {
+      "text": "¿Cómo está usted?",
+      "note": "Usted is often dropped: ¿Cómo está? To a friend: ¿Cómo estás? or ¿Qué tal?"
+    },
+    "im_fine": {
+      "text": "Bien, gracias",
+      "note": "Fuller: Estoy bien, gracias. Ask back with ¿Y usted?"
+    },
+    "whats_your_name": {
+      "text": "¿Cómo se llama usted?",
+      "note": "To a friend or child: ¿Cómo te llamas?"
+    },
+    "my_name_is": {
+      "text": "Me llamo …",
+      "note": "Also: Mi nombre es …, which sounds a little more formal."
+    },
+    "nice_to_meet_you": {
+      "text": "Mucho gusto",
+      "note": "Also: Encantado; a woman says Encantada."
+    },
+    "where_from": {
+      "text": "¿De dónde es usted?",
+      "note": "To a friend: ¿De dónde eres?"
+    },
+    "im_from": {
+      "text": "Soy de …",
+      "note": "Uses ser, not estar, because origin is permanent."
+    },
+    "speak_english": {
+      "text": "¿Habla usted inglés?",
+      "note": "To a friend: ¿Hablas inglés?"
+    },
+    "dont_understand": {
+      "text": "No entiendo",
+      "note": "Also: No comprendo."
+    },
+    "speak_slowly": {
+      "text": "¿Puede hablar más despacio, por favor?",
+      "note": "Short version: Más despacio, por favor."
+    },
+    "where": {
+      "text": "¿Dónde?"
+    },
+    "what": {
+      "text": "¿Qué?",
+      "note": "To ask someone to repeat, ¿Cómo? sounds more polite."
+    },
+    "when": {
+      "text": "¿Cuándo?"
+    },
+    "why": {
+      "text": "¿Por qué?",
+      "note": "Two words with an accent. Porque (one word) means 'because'."
+    },
+    "who": {
+      "text": "¿Quién?",
+      "note": "Asking about more than one person: ¿Quiénes?"
+    },
+    "how_much": {
+      "text": "¿Cuánto cuesta esto?",
+      "note": "Often just ¿Cuánto cuesta? When paying the total: ¿Cuánto es?"
+    },
+    "where_bathroom": {
+      "text": "¿Dónde está el baño?",
+      "note": "In Spain also: ¿Dónde están los servicios? or ¿Dónde está el aseo?"
+    },
+    "can_you_help": {
+      "text": "¿Me puede ayudar?",
+      "note": "Also: ¿Puede ayudarme? To a friend: ¿Me ayudas?"
+    },
+    "what_time": {
+      "text": "¿Qué hora es?",
+      "note": "In parts of Latin America also: ¿Qué horas son?"
+    },
+    "what_means": {
+      "text": "¿Qué significa esto?",
+      "note": "Also: ¿Qué quiere decir esto?"
+    },
+    "one": {
+      "text": "Uno",
+      "note": "Before a masculine noun it becomes un (un café); feminine: una."
+    },
+    "two": {
+      "text": "Dos"
+    },
+    "three": {
+      "text": "Tres"
+    },
+    "four": {
+      "text": "Cuatro"
+    },
+    "five": {
+      "text": "Cinco",
+      "note": "In most of Spain the first c sounds like English 'th'; in Latin America like 's'."
+    },
+    "six": {
+      "text": "Seis"
+    },
+    "seven": {
+      "text": "Siete"
+    },
+    "eight": {
+      "text": "Ocho"
+    },
+    "nine": {
+      "text": "Nueve"
+    },
+    "ten": {
+      "text": "Diez"
+    },
+    "water": {
+      "text": "Agua",
+      "note": "Feminine, but takes el: el agua. Still water: agua sin gas."
+    },
+    "coffee": {
+      "text": "Café"
+    },
+    "tea": {
+      "text": "Té",
+      "note": "The accent tells it apart from te ('you')."
+    },
+    "bread": {
+      "text": "Pan"
+    },
+    "im_hungry": {
+      "text": "Tengo hambre",
+      "note": "Uses tener ('to have'), not estar."
+    },
+    "menu_please": {
+      "text": "La carta, por favor",
+      "note": "Latin America: El menú, por favor. In Spain, el menú often means the set lunch."
+    },
+    "bill_please": {
+      "text": "La cuenta, por favor"
+    },
+    "delicious": {
+      "text": "¡Está delicioso!",
+      "note": "Also very common: ¡Qué rico!"
+    },
+    "no_meat": {
+      "text": "No como carne",
+      "note": "Also: Soy vegetariano; a woman says Soy vegetariana."
+    },
+    "enjoy_meal": {
+      "text": "¡Buen provecho!",
+      "note": "In Spain also: ¡Que aproveche!"
+    },
+    "left": {
+      "text": "Izquierda",
+      "note": "Turn left: Gire a la izquierda."
+    },
+    "right": {
+      "text": "Derecha",
+      "note": "Don't mix it up with derecho, which means 'straight on' in Latin America."
+    },
+    "straight_ahead": {
+      "text": "Todo recto",
+      "note": "In Latin America: Derecho or Todo derecho."
+    },
+    "stop_here": {
+      "text": "Pare aquí, por favor",
+      "note": "Also common: Déjeme aquí, por favor."
+    },
+    "airport": {
+      "text": "Aeropuerto"
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same spelling as English, but the h is silent: 'o-TEL'."
+    },
+    "train_station": {
+      "text": "Estación de tren"
+    },
+    "want_to_go": {
+      "text": "Quiero ir a …",
+      "note": "Softer: Quisiera ir a … Before el, a + el becomes al (al centro)."
+    },
+    "is_it_far": {
+      "text": "¿Está lejos?",
+      "note": "The answer you hope for: Está cerca ('it's close')."
+    },
+    "one_ticket": {
+      "text": "Un billete, por favor",
+      "note": "In Latin America: Un boleto, por favor (in some countries, un pasaje)."
+    },
+    "too_expensive": {
+      "text": "Es demasiado caro",
+      "note": "For a feminine noun: demasiado cara. Casual: ¡Qué caro!"
+    },
+    "cheaper": {
+      "text": "¿Tiene algo más barato?"
+    },
+    "id_like_this": {
+      "text": "Quisiera esto, por favor",
+      "note": "When buying, also very common: Me llevo esto."
+    },
+    "just_looking": {
+      "text": "Solo estoy mirando, gracias",
+      "note": "In Latin America also: Solo estoy viendo, gracias."
+    },
+    "pay_card": {
+      "text": "¿Puedo pagar con tarjeta?"
+    },
+    "cash": {
+      "text": "En efectivo",
+      "note": "Cash as a noun: el efectivo."
+    },
+    "open": {
+      "text": "Abierto"
+    },
+    "closed": {
+      "text": "Cerrado"
+    },
+    "big": {
+      "text": "Grande",
+      "note": "Same form for masculine and feminine."
+    },
+    "small": {
+      "text": "Pequeño",
+      "note": "Feminine: pequeña. In much of Latin America also: chico / chica."
+    },
+    "today": {
+      "text": "Hoy",
+      "note": "The h is silent: sounds like 'oy'."
+    },
+    "tomorrow": {
+      "text": "Mañana",
+      "note": "Also means 'morning': por la mañana."
+    },
+    "yesterday": {
+      "text": "Ayer"
+    },
+    "now": {
+      "text": "Ahora",
+      "note": "Right now: ahora mismo. In Mexico, ahorita can mean 'now' or 'in a little while'."
+    },
+    "later": {
+      "text": "Más tarde",
+      "note": "Also: luego or después."
+    },
+    "good_evening": {
+      "text": "Buenas tardes",
+      "note": "Used from lunch until dark. After dark the greeting is Buenas noches."
+    },
+    "good_night": {
+      "text": "Buenas noches",
+      "note": "Also the greeting after dark. Before bed you can add: Que descanse."
+    },
+    "see_you_later": {
+      "text": "Hasta luego",
+      "note": "More casual: Nos vemos."
+    },
+    "wait_moment": {
+      "text": "Un momento, por favor",
+      "note": "Fuller: Espere un momento, por favor."
+    },
+    "every_day": {
+      "text": "Todos los días",
+      "note": "Also: cada día."
+    },
+    "help": {
+      "text": "¡Socorro!",
+      "note": "Also shouted: ¡Ayuda!"
+    },
+    "call_police": {
+      "text": "¡Llame a la policía!",
+      "note": "To a friend (tú): ¡Llama a la policía!"
+    },
+    "need_doctor": {
+      "text": "Necesito un médico",
+      "note": "In Latin America also: Necesito un doctor."
+    },
+    "im_lost": {
+      "text": "Estoy perdido",
+      "note": "A woman says: Estoy perdida."
+    },
+    "dont_feel_well": {
+      "text": "No me siento bien",
+      "note": "In Spain also: Me encuentro mal."
+    },
+    "pharmacy": {
+      "text": "Farmacia"
+    },
+    "hospital": {
+      "text": "Hospital",
+      "note": "Same spelling as English, but the h is silent and the stress is on the end: os-pee-TAL."
+    },
+    "lost_phone": {
+      "text": "Perdí mi teléfono",
+      "note": "Spain: He perdido el móvil. Latin America: Perdí mi celular."
+    },
+    "allergic": {
+      "text": "Soy alérgico a …",
+      "note": "A woman says: Soy alérgica a …"
+    },
+    "be_careful": {
+      "text": "¡Tenga cuidado!",
+      "note": "As a quick warning shout: ¡Cuidado! To a friend: ¡Ten cuidado!"
+    },
+    "no_problem": {
+      "text": "No hay problema",
+      "note": "Also: Sin problema."
+    },
+    "of_course": {
+      "text": "Por supuesto",
+      "note": "In everyday talk, ¡Claro! is even more common."
+    },
+    "maybe": {
+      "text": "Quizás",
+      "note": "Also: tal vez. In casual speech, in Spain and Latin America alike: a lo mejor."
+    },
+    "dont_know": {
+      "text": "No sé",
+      "note": "Keep the accent: se without it is a different word."
+    },
+    "i_like_it": {
+      "text": "Me gusta",
+      "note": "For plural things: Me gustan."
+    },
+    "dont_like_it": {
+      "text": "No me gusta"
+    },
+    "im_tired": {
+      "text": "Estoy cansado",
+      "note": "A woman says: Estoy cansada."
+    },
+    "im_happy": {
+      "text": "Estoy contento",
+      "note": "A woman says: Estoy contenta. Also common: Estoy feliz (same for both)."
+    },
+    "welcome": {
+      "text": "¡Bienvenido!",
+      "note": "To a woman: ¡Bienvenida! To a group: ¡Bienvenidos!"
+    },
+    "congratulations": {
+      "text": "¡Felicidades!",
+      "note": "Spain also: ¡Enhorabuena! Latin America also: ¡Felicitaciones!"
+    }
+  }
+}

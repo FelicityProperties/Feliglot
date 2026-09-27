@@ -1,0 +1,477 @@
+{
+  "code": "ru",
+  "phrases": {
+    "hello": {
+      "text": "Здравствуйте",
+      "roman": "Zdravstvuyte",
+      "note": "The first в is silent: zdrastvuyte. Casual: Привет (privet)."
+    },
+    "goodbye": {
+      "text": "До свидания",
+      "roman": "Do svidaniya",
+      "note": "Said almost as one word: dasvidanya. Casual: Пока (poka)."
+    },
+    "please": {
+      "text": "Пожалуйста",
+      "roman": "Pozhaluysta",
+      "note": "Also answers a thank-you and means 'here you are'. Often said pozhalsta."
+    },
+    "thank_you": {
+      "text": "Спасибо",
+      "roman": "Spasibo",
+      "note": "Warmer: Большое спасибо (bolshoye spasibo)."
+    },
+    "youre_welcome": {
+      "text": "Не за что",
+      "roman": "Ne za chto",
+      "note": "Stress on ne; что sounds like shto. Also very common: Пожалуйста (pozhaluysta)."
+    },
+    "yes": {
+      "text": "Да",
+      "roman": "Da"
+    },
+    "no": {
+      "text": "Нет",
+      "roman": "Net"
+    },
+    "sorry": {
+      "text": "Извините",
+      "roman": "Izvinite",
+      "note": "Casual: Извини (izvini). More formal: Прошу прощения (proshu proshcheniya)."
+    },
+    "excuse_me": {
+      "text": "Простите",
+      "roman": "Prostite",
+      "note": "Извините (izvinite) works just as well. Both also mean 'sorry'."
+    },
+    "good_morning": {
+      "text": "Доброе утро",
+      "roman": "Dobroye utro"
+    },
+    "how_are_you": {
+      "text": "Как у вас дела?",
+      "roman": "Kak u vas dela?",
+      "note": "Casual: Как дела? (kak dela?). Expect an honest answer, not just 'fine'."
+    },
+    "im_fine": {
+      "text": "Хорошо, спасибо",
+      "roman": "Khorosho, spasibo",
+      "note": "Very common and more modest: Нормально (normalno), 'OK'."
+    },
+    "whats_your_name": {
+      "text": "Как вас зовут?",
+      "roman": "Kak vas zovut?",
+      "note": "Casual: Как тебя зовут? (kak tebya zovut?)"
+    },
+    "my_name_is": {
+      "text": "Меня зовут …",
+      "roman": "Menya zovut …",
+      "note": "Literally 'they call me …'. Or simply: Я … (ya …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Очень приятно",
+      "roman": "Ochen priyatno",
+      "note": "Also common: Приятно познакомиться (priyatno poznakomitsya)."
+    },
+    "where_from": {
+      "text": "Откуда вы?",
+      "roman": "Otkuda vy?",
+      "note": "Casual: Ты откуда? (ty otkuda?)"
+    },
+    "im_from": {
+      "text": "Я из …",
+      "roman": "Ya iz …",
+      "note": "The country changes its ending: из России (iz Rossii), из Америки (iz Ameriki)."
+    },
+    "speak_english": {
+      "text": "Вы говорите по-английски?",
+      "roman": "Vy govorite po-angliyski?"
+    },
+    "dont_understand": {
+      "text": "Я не понимаю",
+      "roman": "Ya ne ponimayu",
+      "note": "To ask for a repeat: Повторите, пожалуйста (povtorite, pozhaluysta)."
+    },
+    "speak_slowly": {
+      "text": "Говорите, пожалуйста, помедленнее",
+      "roman": "Govorite, pozhaluysta, pomedlenneye"
+    },
+    "where": {
+      "text": "Где?",
+      "roman": "Gde?",
+      "note": "For 'where to?': Куда? (kuda?). For 'where from?': Откуда? (otkuda?)"
+    },
+    "what": {
+      "text": "Что?",
+      "roman": "Chto?",
+      "note": "Pronounced shto."
+    },
+    "when": {
+      "text": "Когда?",
+      "roman": "Kogda?"
+    },
+    "why": {
+      "text": "Почему?",
+      "roman": "Pochemu?",
+      "note": "Also: Зачем? (zachem?), 'what for?'."
+    },
+    "who": {
+      "text": "Кто?",
+      "roman": "Kto?"
+    },
+    "how_much": {
+      "text": "Сколько это стоит?",
+      "roman": "Skolko eto stoit?",
+      "note": "When pointing at something, just: Сколько? (skolko?)"
+    },
+    "where_bathroom": {
+      "text": "Извините, где здесь туалет?",
+      "roman": "Izvinite, gde zdes tualet?",
+      "note": "Toilet doors are often marked М (men) and Ж (women)."
+    },
+    "can_you_help": {
+      "text": "Вы можете мне помочь?",
+      "roman": "Vy mozhete mne pomoch?",
+      "note": "Softer: Вы не могли бы мне помочь? (vy ne mogli by mne pomoch?)"
+    },
+    "what_time": {
+      "text": "Который час?",
+      "roman": "Kotoryy chas?",
+      "note": "Also very common: Сколько времени? (skolko vremeni?)"
+    },
+    "what_means": {
+      "text": "Что это значит?",
+      "roman": "Chto eto znachit?"
+    },
+    "one": {
+      "text": "Один",
+      "roman": "Odin",
+      "note": "With feminine nouns: одна (odna); neuter: одно (odno). Counting aloud: раз (raz)."
+    },
+    "two": {
+      "text": "Два",
+      "roman": "Dva",
+      "note": "With feminine nouns: две (dve)."
+    },
+    "three": {
+      "text": "Три",
+      "roman": "Tri"
+    },
+    "four": {
+      "text": "Четыре",
+      "roman": "Chetyre"
+    },
+    "five": {
+      "text": "Пять",
+      "roman": "Pyat",
+      "note": "From five on, nouns take the genitive plural: пять рублей (pyat rubley)."
+    },
+    "six": {
+      "text": "Шесть",
+      "roman": "Shest"
+    },
+    "seven": {
+      "text": "Семь",
+      "roman": "Sem"
+    },
+    "eight": {
+      "text": "Восемь",
+      "roman": "Vosem"
+    },
+    "nine": {
+      "text": "Девять",
+      "roman": "Devyat"
+    },
+    "ten": {
+      "text": "Десять",
+      "roman": "Desyat"
+    },
+    "water": {
+      "text": "Вода",
+      "roman": "Voda",
+      "note": "Still: без газа (bez gaza). Sparkling: с газом (s gazom)."
+    },
+    "coffee": {
+      "text": "Кофе",
+      "roman": "Kofe",
+      "note": "Never changes its ending, and is traditionally treated as masculine."
+    },
+    "tea": {
+      "text": "Чай",
+      "roman": "Chay",
+      "note": "With lemon: с лимоном (s limonom)."
+    },
+    "bread": {
+      "text": "Хлеб",
+      "roman": "Khleb",
+      "note": "The final б sounds like p: khlep."
+    },
+    "im_hungry": {
+      "text": "Я хочу есть",
+      "roman": "Ya khochu yest",
+      "note": "Literally 'I want to eat'. Also: Я голоден (ya goloden); a woman says: Я голодна (ya golodna)."
+    },
+    "menu_please": {
+      "text": "Меню, пожалуйста",
+      "roman": "Menyu, pozhaluysta",
+      "note": "Stress on the last syllable of меню, which never changes its ending."
+    },
+    "bill_please": {
+      "text": "Счёт, пожалуйста",
+      "roman": "Schyot, pozhaluysta",
+      "note": "Сч sounds like a long soft sh. Also very common: Можно счёт? (mozhno schyot?)"
+    },
+    "delicious": {
+      "text": "Очень вкусно!",
+      "roman": "Ochen vkusno!",
+      "note": "To thank a host after the meal: Было очень вкусно! (bylo ochen vkusno!)"
+    },
+    "no_meat": {
+      "text": "Я не ем мясо",
+      "roman": "Ya ne yem myaso",
+      "note": "I'm vegetarian: Я вегетарианец (ya vegetarianets); a woman says: Я вегетарианка (ya vegetarianka)."
+    },
+    "enjoy_meal": {
+      "text": "Приятного аппетита!",
+      "roman": "Priyatnogo appetita!",
+      "note": "The г in -ого is said v: priyatnovo. Often just Приятного! (priyatnogo!)"
+    },
+    "left": {
+      "text": "Налево",
+      "roman": "Nalevo",
+      "note": "For where something is: слева (sleva), on the left."
+    },
+    "right": {
+      "text": "Направо",
+      "roman": "Napravo",
+      "note": "For where something is: справа (sprava), on the right."
+    },
+    "straight_ahead": {
+      "text": "Прямо",
+      "roman": "Pryamo"
+    },
+    "stop_here": {
+      "text": "Остановите здесь, пожалуйста",
+      "roman": "Ostanovite zdes, pozhaluysta"
+    },
+    "airport": {
+      "text": "Аэропорт",
+      "roman": "Aeroport",
+      "note": "To the airport: в аэропорт (v aeroport)."
+    },
+    "hotel": {
+      "text": "Гостиница",
+      "roman": "Gostinitsa",
+      "note": "Отель (otel) is also common, especially for upscale hotels."
+    },
+    "train_station": {
+      "text": "Вокзал",
+      "roman": "Vokzal",
+      "note": "A city's railway station. A metro station is станция (stantsiya)."
+    },
+    "want_to_go": {
+      "text": "Мне нужно в …",
+      "roman": "Mne nuzhno v …",
+      "note": "Some places take на, not в: на вокзал (na vokzal). Literal: Я хочу поехать в … (ya khochu poyekhat v …)."
+    },
+    "is_it_far": {
+      "text": "Это далеко?",
+      "roman": "Eto daleko?"
+    },
+    "one_ticket": {
+      "text": "Один билет, пожалуйста",
+      "roman": "Odin bilet, pozhaluysta",
+      "note": "Two tickets: Два билета (dva bileta)."
+    },
+    "too_expensive": {
+      "text": "Это слишком дорого",
+      "roman": "Eto slishkom dorogo",
+      "note": "Softer: Дороговато (dorogovato), 'a bit pricey'."
+    },
+    "cheaper": {
+      "text": "У вас есть что-нибудь подешевле?",
+      "roman": "U vas yest chto-nibud podeshevle?",
+      "note": "Casual: А подешевле нет? (a podeshevle net?)"
+    },
+    "id_like_this": {
+      "text": "Мне вот это, пожалуйста",
+      "roman": "Mne vot eto, pozhaluysta",
+      "note": "When buying: Я возьму это (ya vozmu eto), 'I'll take this'."
+    },
+    "just_looking": {
+      "text": "Я просто смотрю",
+      "roman": "Ya prosto smotryu",
+      "note": "Often the answer to Вам помочь? (vam pomoch?), 'Can I help you?'."
+    },
+    "pay_card": {
+      "text": "Можно оплатить картой?",
+      "roman": "Mozhno oplatit kartoy?",
+      "note": "Short and very common: Можно картой? (mozhno kartoy?)"
+    },
+    "cash": {
+      "text": "Наличными",
+      "roman": "Nalichnymi",
+      "note": "The answer to 'card or cash?'. Cash itself is наличные (nalichnyye), casually наличка (nalichka)."
+    },
+    "open": {
+      "text": "Открыто",
+      "roman": "Otkryto"
+    },
+    "closed": {
+      "text": "Закрыто",
+      "roman": "Zakryto",
+      "note": "Also on doors: Перерыв (pereryv), closed for a break."
+    },
+    "big": {
+      "text": "Большой",
+      "roman": "Bolshoy",
+      "note": "Feminine: большая (bolshaya); neuter: большое (bolshoye)."
+    },
+    "small": {
+      "text": "Маленький",
+      "roman": "Malenkiy",
+      "note": "Feminine: маленькая (malenkaya); neuter: маленькое (malenkoye)."
+    },
+    "today": {
+      "text": "Сегодня",
+      "roman": "Segodnya",
+      "note": "The г is said v: sevodnya."
+    },
+    "tomorrow": {
+      "text": "Завтра",
+      "roman": "Zavtra"
+    },
+    "yesterday": {
+      "text": "Вчера",
+      "roman": "Vchera"
+    },
+    "now": {
+      "text": "Сейчас",
+      "roman": "Seychas",
+      "note": "Also 'in a moment': Сейчас! means 'Coming!'. In fast speech it sounds like shchas."
+    },
+    "later": {
+      "text": "Позже",
+      "roman": "Pozzhe",
+      "note": "The зж is one long zh sound, with no separate z. Just as common: потом (potom), 'afterwards'."
+    },
+    "good_evening": {
+      "text": "Добрый вечер",
+      "roman": "Dobryy vecher"
+    },
+    "good_night": {
+      "text": "Спокойной ночи",
+      "roman": "Spokoynoy nochi",
+      "note": "Wishes a good sleep. When leaving late in the evening: Доброй ночи (dobroy nochi)."
+    },
+    "see_you_later": {
+      "text": "До встречи",
+      "roman": "Do vstrechi",
+      "note": "Casual: Увидимся! (uvidimsya!) or Пока! (poka!)"
+    },
+    "wait_moment": {
+      "text": "Подождите минутку, пожалуйста",
+      "roman": "Podozhdite minutku, pozhaluysta",
+      "note": "Short and very common: Минуточку! (minutochku!)"
+    },
+    "every_day": {
+      "text": "Каждый день",
+      "roman": "Kazhdyy den"
+    },
+    "help": {
+      "text": "Помогите!",
+      "roman": "Pomogite!"
+    },
+    "call_police": {
+      "text": "Вызовите полицию!",
+      "roman": "Vyzovite politsiyu!",
+      "note": "In Russia, 112 reaches all emergency services."
+    },
+    "need_doctor": {
+      "text": "Мне нужен врач",
+      "roman": "Mne nuzhen vrach",
+      "note": "Call an ambulance: Вызовите скорую! (vyzovite skoruyu!)"
+    },
+    "im_lost": {
+      "text": "Я заблудился",
+      "roman": "Ya zabludilsya",
+      "note": "A woman says: Я заблудилась (ya zabludilas)."
+    },
+    "dont_feel_well": {
+      "text": "Я плохо себя чувствую",
+      "roman": "Ya plokho sebya chuvstvuyu",
+      "note": "The first в is silent: chustvuyu. Sudden and serious: Мне плохо (mne plokho)."
+    },
+    "pharmacy": {
+      "text": "Аптека",
+      "roman": "Apteka"
+    },
+    "hospital": {
+      "text": "Больница",
+      "roman": "Bolnitsa"
+    },
+    "lost_phone": {
+      "text": "Я потерял телефон",
+      "roman": "Ya poteryal telefon",
+      "note": "A woman says: Я потеряла телефон (ya poteryala telefon)."
+    },
+    "allergic": {
+      "text": "У меня аллергия на …",
+      "roman": "U menya allergiya na …",
+      "note": "A final -а becomes -у, -я becomes -ю: на рыбу (na rybu), to fish."
+    },
+    "be_careful": {
+      "text": "Осторожно!",
+      "roman": "Ostorozhno!",
+      "note": "As parting advice: Будьте осторожны! (budte ostorozhny!)"
+    },
+    "no_problem": {
+      "text": "Без проблем",
+      "roman": "Bez problem",
+      "note": "After an apology: Ничего страшного (nichego strashnogo), 'no harm done'."
+    },
+    "of_course": {
+      "text": "Конечно",
+      "roman": "Konechno",
+      "note": "The чн is said shn: koneshno."
+    },
+    "maybe": {
+      "text": "Может быть",
+      "roman": "Mozhet byt",
+      "note": "Casually just: Может (mozhet)."
+    },
+    "dont_know": {
+      "text": "Я не знаю",
+      "roman": "Ya ne znayu"
+    },
+    "i_like_it": {
+      "text": "Мне нравится",
+      "roman": "Mne nravitsya",
+      "note": "Built as 'it pleases me', so the thing liked is the subject: Мне нравится чай (mne nravitsya chay)."
+    },
+    "dont_like_it": {
+      "text": "Мне не нравится",
+      "roman": "Mne ne nravitsya"
+    },
+    "im_tired": {
+      "text": "Я устал",
+      "roman": "Ya ustal",
+      "note": "A woman says: Я устала (ya ustala)."
+    },
+    "im_happy": {
+      "text": "Я счастлив",
+      "roman": "Ya schastliv",
+      "note": "A woman says: Я счастлива (ya schastliva). The т is silent. 'Glad': рад, a woman рада (rad, rada)."
+    },
+    "welcome": {
+      "text": "Добро пожаловать!",
+      "roman": "Dobro pozhalovat!",
+      "note": "At the door you will also hear Проходите! (prokhodite!), 'come in!'."
+    },
+    "congratulations": {
+      "text": "Поздравляю!",
+      "roman": "Pozdravlyayu!",
+      "note": "From several people: Поздравляем! (pozdravlyayem!)"
+    }
+  }
+}

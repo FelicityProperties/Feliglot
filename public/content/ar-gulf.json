@@ -1,0 +1,485 @@
+{
+  "code": "ar-gulf",
+  "phrases": {
+    "hello": {
+      "text": "السلام عليكم",
+      "roman": "is-salaam 'alaikum",
+      "note": "Reply: وعليكم السلام (w 'alaikum is-salaam). Casual: هلا (hala) or مرحبا (marhaba)."
+    },
+    "goodbye": {
+      "text": "مع السلامة",
+      "roman": "ma'a is-salaama",
+      "note": "Also very Gulf: في أمان الله (fi amaan illah), 'in God's safekeeping'."
+    },
+    "please": {
+      "text": "من فضلك",
+      "roman": "min fadhlak",
+      "note": "To a woman: من فضلج (min fadhlich). In everyday Gulf requests لو سمحت (law samaht) is more common."
+    },
+    "thank_you": {
+      "text": "مشكور",
+      "roman": "mashkoor",
+      "note": "To a woman: مشكورة (mashkoora). Also: شكرا (shukran), تسلم (tislam)."
+    },
+    "youre_welcome": {
+      "text": "العفو",
+      "roman": "il-'afu",
+      "note": "Also Gulf: حاضرين (haadhreen), 'at your service'."
+    },
+    "yes": {
+      "text": "إيه",
+      "roman": "eeh",
+      "note": "Emiratis also say هيه (heeh). Formal: نعم (na'am)."
+    },
+    "no": {
+      "text": "لا",
+      "roman": "la"
+    },
+    "sorry": {
+      "text": "آسف",
+      "roman": "aasif",
+      "note": "A woman says: آسفة (aasfa). Very Emirati: السموحة (is-smooha)."
+    },
+    "excuse_me": {
+      "text": "لو سمحت",
+      "roman": "law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Very polite Gulf: طال عمرك (taal 'umrak)."
+    },
+    "good_morning": {
+      "text": "صباح الخير",
+      "roman": "sabaah il-khair",
+      "note": "Reply: صباح النور (sabaah in-noor)."
+    },
+    "how_are_you": {
+      "text": "شحالك؟",
+      "roman": "sh-haalak?",
+      "note": "To a woman: شحالج؟ (sh-haalich?). Elsewhere in the Gulf: شلونك؟ (shlonak?)"
+    },
+    "im_fine": {
+      "text": "بخير، الله يسلمك",
+      "roman": "bkhair, allah ysalmak",
+      "note": "Lit. 'well, God keep you safe', the usual thanks. To a woman: الله يسلمج (allah ysalmich)."
+    },
+    "whats_your_name": {
+      "text": "شو اسمك؟",
+      "roman": "shu ismak?",
+      "note": "To a woman: شو اسمج؟ (shu ismich?). Extra polite: شو الاسم الكريم؟ (shu il-ism il-kareem?)"
+    },
+    "my_name_is": {
+      "text": "اسمي …",
+      "roman": "ismi …"
+    },
+    "nice_to_meet_you": {
+      "text": "تشرفنا",
+      "roman": "tsharrafna",
+      "note": "Reply: الشرف لي (ish-sharaf li)."
+    },
+    "where_from": {
+      "text": "إنت من وين؟",
+      "roman": "inta min wain?",
+      "note": "To a woman: إنتي من وين؟ (inti min wain?)"
+    },
+    "im_from": {
+      "text": "أنا من …",
+      "roman": "ana min …"
+    },
+    "speak_english": {
+      "text": "تتكلم إنجليزي؟",
+      "roman": "titkallam ingleezi?",
+      "note": "To a woman: تتكلمين إنجليزي؟ (titkallameen ingleezi?)"
+    },
+    "dont_understand": {
+      "text": "ما فهمت",
+      "roman": "ma fhimt",
+      "note": "Lit. 'I didn't understand'. Emirati also: مب فاهم (mob faahim); a woman says مب فاهمة (mob faahma)."
+    },
+    "speak_slowly": {
+      "text": "لو سمحت، تكلم شوي شوي",
+      "roman": "law samaht, tkallam shwai shwai",
+      "note": "To a woman: لو سمحتي، تكلمي شوي شوي (law samahti, tkallami shwai shwai)."
+    },
+    "where": {
+      "text": "وين؟",
+      "roman": "wain?"
+    },
+    "what": {
+      "text": "شو؟",
+      "roman": "shu?",
+      "note": "Elsewhere in the Gulf: شنو؟ (shinu?) or وش؟ (wish?). Polite 'pardon?': نعم؟ (na'am?)"
+    },
+    "when": {
+      "text": "متى؟",
+      "roman": "mita?"
+    },
+    "why": {
+      "text": "ليش؟",
+      "roman": "laish?"
+    },
+    "who": {
+      "text": "منو؟",
+      "roman": "minu?"
+    },
+    "how_much": {
+      "text": "بكم هذا؟",
+      "roman": "bkam hadha?",
+      "note": "Often pronounced bcham in the Emirates."
+    },
+    "where_bathroom": {
+      "text": "لو سمحت، وين الحمام؟",
+      "roman": "law samaht, wain il-hammaam?",
+      "note": "To a woman: لو سمحتي (law samahti)."
+    },
+    "can_you_help": {
+      "text": "ممكن تساعدني؟",
+      "roman": "mumkin tsaa'idni?",
+      "note": "To a woman: ممكن تساعديني؟ (mumkin tsaa'ideeni?)"
+    },
+    "what_time": {
+      "text": "كم الساعة؟",
+      "roman": "kam is-saa'a?"
+    },
+    "what_means": {
+      "text": "شو يعني هذا؟",
+      "roman": "shu ya'ni hadha?"
+    },
+    "one": {
+      "text": "واحد",
+      "roman": "waahid",
+      "note": "Arabic digit: ١"
+    },
+    "two": {
+      "text": "اثنين",
+      "roman": "ithnain",
+      "note": "Arabic digit: ٢"
+    },
+    "three": {
+      "text": "ثلاثة",
+      "roman": "thalaatha",
+      "note": "Arabic digit: ٣"
+    },
+    "four": {
+      "text": "أربعة",
+      "roman": "arba'a",
+      "note": "Arabic digit: ٤"
+    },
+    "five": {
+      "text": "خمسة",
+      "roman": "khamsa",
+      "note": "Arabic digit: ٥"
+    },
+    "six": {
+      "text": "ستة",
+      "roman": "sitta",
+      "note": "Arabic digit: ٦"
+    },
+    "seven": {
+      "text": "سبعة",
+      "roman": "sab'a",
+      "note": "Arabic digit: ٧"
+    },
+    "eight": {
+      "text": "ثمانية",
+      "roman": "thamaanya",
+      "note": "Arabic digit: ٨"
+    },
+    "nine": {
+      "text": "تسعة",
+      "roman": "tis'a",
+      "note": "Arabic digit: ٩"
+    },
+    "ten": {
+      "text": "عشرة",
+      "roman": "'ashra",
+      "note": "Arabic digits: ١٠"
+    },
+    "water": {
+      "text": "ماي",
+      "roman": "maay",
+      "note": "The everyday Gulf word; formal ماء (maa) is understood too."
+    },
+    "coffee": {
+      "text": "قهوة",
+      "roman": "gahwa",
+      "note": "In the Gulf this usually means Arabic coffee with cardamom, served in small cups."
+    },
+    "tea": {
+      "text": "شاي",
+      "roman": "shaay",
+      "note": "Many Gulf speakers say chaay. Local favourite: كرك (karak), strong spiced milk tea."
+    },
+    "bread": {
+      "text": "خبز",
+      "roman": "khubz",
+      "note": "Careful: عيش ('aish) means rice in the Gulf, not bread."
+    },
+    "im_hungry": {
+      "text": "أنا جوعان",
+      "roman": "ana joo'aan",
+      "note": "A woman says: أنا جوعانة (ana joo'aana). Many Emiratis say يوعان (yoo'aan)."
+    },
+    "menu_please": {
+      "text": "المنيو لو سمحت",
+      "roman": "il-menyu law samaht",
+      "note": "To a woman: لو سمحتي (law samahti)."
+    },
+    "bill_please": {
+      "text": "الحساب لو سمحت",
+      "roman": "il-hisaab law samaht",
+      "note": "To a woman: لو سمحتي (law samahti)."
+    },
+    "delicious": {
+      "text": "لذيذ!",
+      "roman": "ladheedh!",
+      "note": "Also: وايد حلو (waayed hilu), 'really good'. Very Gulf: بنين (bneen)."
+    },
+    "no_meat": {
+      "text": "أنا ما آكل لحم",
+      "roman": "ana ma aakil laham",
+      "note": "Vegetarian: نباتي (nabaati); a woman says نباتية (nabaatiyya)."
+    },
+    "enjoy_meal": {
+      "text": "بالعافية",
+      "roman": "bil-'aafya",
+      "note": "Reply: الله يعافيك (allah y'aafeek)."
+    },
+    "left": {
+      "text": "يسار",
+      "roman": "yisaar",
+      "note": "To a driver: لف يسار (liff yisaar), 'turn left'."
+    },
+    "right": {
+      "text": "يمين",
+      "roman": "yimeen",
+      "note": "To a driver: لف يمين (liff yimeen), 'turn right'."
+    },
+    "straight_ahead": {
+      "text": "سيده",
+      "roman": "seeda",
+      "note": "The everyday Gulf word; you'll also hear على طول ('ala tool)."
+    },
+    "stop_here": {
+      "text": "وقف هني لو سمحت",
+      "roman": "waggif hni law samaht",
+      "note": "To a woman: وقفي هني لو سمحتي (waggfi hni law samahti). Also: نزلني هني (nazzilni hni), 'drop me here'."
+    },
+    "airport": {
+      "text": "مطار",
+      "roman": "mataar",
+      "note": "The airport: المطار (il-mataar)."
+    },
+    "hotel": {
+      "text": "فندق",
+      "roman": "fundug",
+      "note": "The ق is said as g in the Gulf: fundug, not funduq."
+    },
+    "train_station": {
+      "text": "محطة القطار",
+      "roman": "mahattat il-gitaar",
+      "note": "In Dubai you'll more often want محطة المترو (mahattat il-metro), the metro station."
+    },
+    "want_to_go": {
+      "text": "أبا أروح …",
+      "roman": "aba arooh …",
+      "note": "To a taxi: ودني … (waddni …), 'take me to …'. Elsewhere in the Gulf: أبي / أبغى (abi / abgha)."
+    },
+    "is_it_far": {
+      "text": "بعيد من هني؟",
+      "roman": "ba'eed min hni?"
+    },
+    "one_ticket": {
+      "text": "تذكرة وحدة لو سمحت",
+      "roman": "tadhkara wahda law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Also common: تكت (tikit)."
+    },
+    "too_expensive": {
+      "text": "وايد غالي",
+      "roman": "waayed ghaali",
+      "note": "وايد (waayed), 'very, a lot', is a key Gulf word."
+    },
+    "cheaper": {
+      "text": "عندكم شي أرخص؟",
+      "roman": "'indkum shay arkhas?",
+      "note": "Plural 'you', addressing the shop, so it suits any assistant."
+    },
+    "id_like_this": {
+      "text": "أبا هذا لو سمحت",
+      "roman": "aba hadha law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Also: بآخذ هذا (baakhidh hadha), 'I'll take this'."
+    },
+    "just_looking": {
+      "text": "بس أطالع",
+      "roman": "bas ataali'",
+      "note": "Also: بس أشوف (bas ashoof). Add مشكور (mashkoor) to thank them."
+    },
+    "pay_card": {
+      "text": "أقدر أدفع بالبطاقة؟",
+      "roman": "agdar adfa' bil-bitaaga?",
+      "note": "Shops often ask: كاش ولا كارد؟ (kaash walla kaard?), 'cash or card?'"
+    },
+    "cash": {
+      "text": "كاش",
+      "roman": "kaash",
+      "note": "More formal: نقدا (naqdan)."
+    },
+    "open": {
+      "text": "مفتوح",
+      "roman": "maftooh"
+    },
+    "closed": {
+      "text": "مسكر",
+      "roman": "msakkar",
+      "note": "Signs usually say مغلق (mughlaq)."
+    },
+    "big": {
+      "text": "كبير",
+      "roman": "kbeer",
+      "note": "Often pronounced chbeer in the Emirates."
+    },
+    "small": {
+      "text": "صغير",
+      "roman": "sgheer"
+    },
+    "today": {
+      "text": "اليوم",
+      "roman": "il-yoom"
+    },
+    "tomorrow": {
+      "text": "باكر",
+      "roman": "baachir",
+      "note": "Also heard: بكرة (bukra), from other Arabic dialects."
+    },
+    "yesterday": {
+      "text": "أمس",
+      "roman": "ams",
+      "note": "البارحة (il-baarha) is last night, and often just yesterday."
+    },
+    "now": {
+      "text": "الحين",
+      "roman": "il-heen"
+    },
+    "later": {
+      "text": "بعدين",
+      "roman": "ba'dain"
+    },
+    "good_evening": {
+      "text": "مساء الخير",
+      "roman": "masaa il-khair",
+      "note": "Reply: مساء النور (masaa in-noor)."
+    },
+    "good_night": {
+      "text": "تصبح على خير",
+      "roman": "tisbah 'ala khair",
+      "note": "To a woman: تصبحين على خير (tisbaheen 'ala khair). Reply: وإنت من أهله (w inta min ahla)."
+    },
+    "see_you_later": {
+      "text": "أشوفك بعدين",
+      "roman": "ashoofak ba'dain",
+      "note": "To a woman: أشوفج بعدين (ashoofich ba'dain)."
+    },
+    "wait_moment": {
+      "text": "لحظة لو سمحت",
+      "roman": "lahdha law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Casual: اصبر شوي (isbir shwai), 'hang on a bit'."
+    },
+    "every_day": {
+      "text": "كل يوم",
+      "roman": "kil yoom"
+    },
+    "help": {
+      "text": "ساعدوني!",
+      "roman": "saa'dooni!",
+      "note": "Also: الحقوني! (ilhagooni!), 'come quick!'"
+    },
+    "call_police": {
+      "text": "اتصل بالشرطة!",
+      "roman": "ittasil bish-shurta!",
+      "note": "To a woman: اتصلي بالشرطة! (ittasli bish-shurta!). UAE police emergency: 999."
+    },
+    "need_doctor": {
+      "text": "محتاج دكتور",
+      "roman": "mihtaaj diktoor",
+      "note": "A woman says: محتاجة دكتور (mihtaaja diktoor)."
+    },
+    "im_lost": {
+      "text": "أنا ضايع",
+      "roman": "ana dhaayi'",
+      "note": "A woman says: أنا ضايعة (ana dhaay'a). Also: ضعت (dhi't), 'I got lost'."
+    },
+    "dont_feel_well": {
+      "text": "أحس بتعب",
+      "roman": "ahiss bta'ab",
+      "note": "Also: أنا مريض (ana mareedh), 'I'm ill'; a woman says مريضة (mareedha)."
+    },
+    "pharmacy": {
+      "text": "صيدلية",
+      "roman": "saidaliyya"
+    },
+    "hospital": {
+      "text": "مستشفى",
+      "roman": "mustashfa"
+    },
+    "lost_phone": {
+      "text": "ضيعت تلفوني",
+      "roman": "dhayya't tilifooni",
+      "note": "Also: موبايلي (mobaayli), 'my mobile'."
+    },
+    "allergic": {
+      "text": "عندي حساسية من …",
+      "roman": "'indi hasaasiyya min …"
+    },
+    "be_careful": {
+      "text": "انتبه!",
+      "roman": "intibih!",
+      "note": "To a woman: انتبهي! (intibhi!). Also: دير بالك! (deer baalak!)"
+    },
+    "no_problem": {
+      "text": "ما في مشكلة",
+      "roman": "ma fee mushkila",
+      "note": "Very Gulf: ما عليه (ma 'alaih), 'never mind, it's fine'."
+    },
+    "of_course": {
+      "text": "أكيد",
+      "roman": "akeed",
+      "note": "Agreeing to a request, Gulf speakers say أبشر (abshir); to a woman أبشري (abshiri)."
+    },
+    "maybe": {
+      "text": "يمكن",
+      "roman": "yimkin"
+    },
+    "dont_know": {
+      "text": "ما أدري",
+      "roman": "ma adri",
+      "note": "The Gulf way to say it; ما أعرف (ma a'rif) is also used."
+    },
+    "i_like_it": {
+      "text": "عاجبني",
+      "roman": "'aajibni",
+      "note": "For a feminine noun: عاجبتني ('aajbatni)."
+    },
+    "dont_like_it": {
+      "text": "مب عاجبني",
+      "roman": "mob 'aajibni",
+      "note": "مب (mob) is the Emirati 'not'; elsewhere in the Gulf: مو عاجبني (mu 'aajibni)."
+    },
+    "im_tired": {
+      "text": "أنا تعبان",
+      "roman": "ana ta'baan",
+      "note": "A woman says: أنا تعبانة (ana ta'baana). In the Gulf تعبان can also mean unwell."
+    },
+    "im_happy": {
+      "text": "أنا مستانس",
+      "roman": "ana mistaanis",
+      "note": "A woman says: أنا مستانسة (ana mistaansa). Also: فرحان (farhaan)."
+    },
+    "welcome": {
+      "text": "حياك الله",
+      "roman": "hayyaak allah",
+      "note": "To a woman: حياج الله (hayyaach allah). Also: أهلا وسهلا (ahlan wa sahlan)."
+    },
+    "congratulations": {
+      "text": "مبروك!",
+      "roman": "mabrook!",
+      "note": "Reply: الله يبارك فيك (allah ybaarik feek)."
+    }
+  }
+}

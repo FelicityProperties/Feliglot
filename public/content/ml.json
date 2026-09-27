@@ -1,0 +1,494 @@
+{
+  "code": "ml",
+  "phrases": {
+    "hello": {
+      "text": "നമസ്കാരം",
+      "roman": "namaskaram",
+      "note": "Respectful, often with palms pressed together. Friends usually just say 'hai'."
+    },
+    "goodbye": {
+      "text": "പോയിട്ട് വരാം",
+      "roman": "poyittu varam",
+      "note": "Lit. 'I'll go and come back', said by the one leaving; a bare 'I'm going' sounds final."
+    },
+    "please": {
+      "text": "ദയവായി",
+      "roman": "dayavayi",
+      "note": "Formal. In speech politeness usually comes from the ending -amo? ('could you?'), e.g. tharamo?"
+    },
+    "thank_you": {
+      "text": "നന്ദി",
+      "roman": "nanni",
+      "note": "Spelled nandi but said nanni. Thank you very much: valare nanni (വളരെ നന്ദി)."
+    },
+    "youre_welcome": {
+      "text": "അതിനെന്താ",
+      "roman": "athinentha",
+      "note": "Lit. 'What of it?', i.e. it was nothing. There is no set reply; saramilla ('it's nothing') is also common."
+    },
+    "yes": {
+      "text": "അതെ",
+      "roman": "athe",
+      "note": "Casual: um (ഉം). A sideways tilt of the head also means yes or OK."
+    },
+    "no": {
+      "text": "ഇല്ല",
+      "roman": "illa",
+      "note": "To turn down something offered, say venda (വേണ്ട, 'I don't want it')."
+    },
+    "sorry": {
+      "text": "ക്ഷമിക്കണം",
+      "roman": "kshamikkanam",
+      "note": "For small slips, the English 'sorry' is very common in everyday speech."
+    },
+    "excuse_me": {
+      "text": "ചേട്ടാ, ഒന്നു ചോദിച്ചോട്ടെ?",
+      "roman": "chetta, onnu chodichotte?",
+      "note": "To a woman: ചേച്ചീ, ഒന്നു ചോദിച്ചോട്ടെ? (chechee, onnu chodichotte?). Chetta/chechi = elder brother/sister."
+    },
+    "good_morning": {
+      "text": "സുപ്രഭാതം",
+      "roman": "suprabhatham",
+      "note": "Formal, heard on radio and TV. Face to face, most people say 'good morning' in English."
+    },
+    "how_are_you": {
+      "text": "സുഖമാണോ?",
+      "roman": "sukhamano?",
+      "note": "Friendly, to someone you know: enthokkeyundu vishesham? ('What's new?')"
+    },
+    "im_fine": {
+      "text": "സുഖമാണ്, നന്ദി",
+      "roman": "sukhamanu, nanni",
+      "note": "Often just sukham. To ask back: ningalkko? ('And you?')"
+    },
+    "whats_your_name": {
+      "text": "നിങ്ങളുടെ പേരെന്താണ്?",
+      "roman": "ningalude perenthanu?",
+      "note": "Very formal: thankalude instead of ningalude. Casual: perentha?"
+    },
+    "my_name_is": {
+      "text": "എന്റെ പേര് … എന്നാണ്",
+      "roman": "ente peru … ennanu",
+      "note": "Shorter: njan … anu (ഞാൻ … ആണ്, 'I am …')."
+    },
+    "nice_to_meet_you": {
+      "text": "പരിചയപ്പെട്ടതിൽ സന്തോഷം",
+      "roman": "parichayappettathil santhosham",
+      "note": "Lit. 'Glad to have got acquainted.'"
+    },
+    "where_from": {
+      "text": "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "roman": "ningal evide ninnanu?",
+      "note": "Between Malayalis the usual question is nadu evideya? ('Where's your home town?')"
+    },
+    "im_from": {
+      "text": "എന്റെ നാട് … ആണ്",
+      "roman": "ente nadu … anu",
+      "note": "Nadu means home country or home town. This pattern needs no case ending on the place name."
+    },
+    "speak_english": {
+      "text": "നിങ്ങൾക്ക് ഇംഗ്ലീഷ് അറിയാമോ?",
+      "roman": "ningalkku ingleesh ariyamo?",
+      "note": "Lit. 'Do you know English?', the usual way to ask."
+    },
+    "dont_understand": {
+      "text": "എനിക്ക് മനസ്സിലായില്ല",
+      "roman": "enikku manassilayilla"
+    },
+    "speak_slowly": {
+      "text": "കുറച്ച് പതുക്കെ പറയാമോ?",
+      "roman": "kurachu pathukke parayamo?",
+      "note": "The ending -amo? ('could you?') makes it a polite request. Pathukke also means 'softly'."
+    },
+    "where": {
+      "text": "എവിടെ?",
+      "roman": "evide?",
+      "note": "Where is …?: … evideyanu?"
+    },
+    "what": {
+      "text": "എന്ത്?",
+      "roman": "enthu?",
+      "note": "In speech usually എന്താ? (entha?)"
+    },
+    "when": {
+      "text": "എപ്പോൾ?",
+      "roman": "eppol?",
+      "note": "In speech usually eppo?"
+    },
+    "why": {
+      "text": "എന്തുകൊണ്ട്?",
+      "roman": "enthukondu?",
+      "note": "In speech often enthina? ('what for?') or enthe?"
+    },
+    "who": {
+      "text": "ആര്?",
+      "roman": "aru?",
+      "note": "In speech usually ആരാ? (ara?), e.g. at the door: 'Who is it?'"
+    },
+    "how_much": {
+      "text": "ഇതിന് എത്രയാണ്?",
+      "roman": "ithinu ethrayanu?",
+      "note": "Also: ithinu entha vila? ('What's its price?')"
+    },
+    "where_bathroom": {
+      "text": "ബാത്ത്റൂം എവിടെയാണ്?",
+      "roman": "batthroom evideyanu?",
+      "note": "'Toilet' (ടോയ്‌ലറ്റ്) is just as common. Public signs may say ശൗചാലയം."
+    },
+    "can_you_help": {
+      "text": "എന്നെ ഒന്നു സഹായിക്കാമോ?",
+      "roman": "enne onnu sahayikkamo?",
+      "note": "Onnu ('just a bit') softens a request."
+    },
+    "what_time": {
+      "text": "സമയം എത്രയായി?",
+      "roman": "samayam ethrayayi?"
+    },
+    "what_means": {
+      "text": "ഇതിന്റെ അർത്ഥം എന്താണ്?",
+      "roman": "ithinte artham enthanu?"
+    },
+    "one": {
+      "text": "ഒന്ന്",
+      "roman": "onnu",
+      "note": "Before a noun it becomes oru: oru chaya (one tea). Old Malayalam digit: ൧."
+    },
+    "two": {
+      "text": "രണ്ട്",
+      "roman": "randu",
+      "note": "Malayalam digit: ൨ (rarely used today; 2 is standard)."
+    },
+    "three": {
+      "text": "മൂന്ന്",
+      "roman": "moonnu",
+      "note": "Malayalam digit: ൩"
+    },
+    "four": {
+      "text": "നാല്",
+      "roman": "nalu",
+      "note": "Malayalam digit: ൪"
+    },
+    "five": {
+      "text": "അഞ്ച്",
+      "roman": "anchu",
+      "note": "Malayalam digit: ൫"
+    },
+    "six": {
+      "text": "ആറ്",
+      "roman": "aru",
+      "note": "Also means 'river'. Malayalam digit: ൬"
+    },
+    "seven": {
+      "text": "ഏഴ്",
+      "roman": "ezhu",
+      "note": "zh is ഴ, said with the tongue curled back, somewhere between r and l. Digit: ൭"
+    },
+    "eight": {
+      "text": "എട്ട്",
+      "roman": "ettu",
+      "note": "Malayalam digit: ൮"
+    },
+    "nine": {
+      "text": "ഒമ്പത്",
+      "roman": "ombathu",
+      "note": "Also spelled ഒൻപത്. Malayalam digit: ൯"
+    },
+    "ten": {
+      "text": "പത്ത്",
+      "roman": "patthu",
+      "note": "The old sign for ten is ൰; today it is written 10."
+    },
+    "water": {
+      "text": "വെള്ളം",
+      "roman": "vellam",
+      "note": "Cold water: thanuttha vellam. Eateries often serve warm herbal water by default."
+    },
+    "coffee": {
+      "text": "കാപ്പി",
+      "roman": "kappi"
+    },
+    "tea": {
+      "text": "ചായ",
+      "roman": "chaya",
+      "note": "Comes with milk and sugar; black tea is kattan chaya (കട്ടൻ ചായ)."
+    },
+    "bread": {
+      "text": "റൊട്ടി",
+      "roman": "rotti",
+      "note": "Means loaf bread; 'bread' (ബ്രെഡ്) is also common. Flatbreads have their own names: chapathi, porotta."
+    },
+    "im_hungry": {
+      "text": "എനിക്ക് വിശക്കുന്നുണ്ട്",
+      "roman": "enikku vishakkunnundu"
+    },
+    "menu_please": {
+      "text": "മെനു തരാമോ?",
+      "roman": "menu tharamo?",
+      "note": "Small eateries may have no menu: ask enthokke undu? ('What is there?')"
+    },
+    "bill_please": {
+      "text": "ബിൽ തരാമോ?",
+      "roman": "bil tharamo?",
+      "note": "Also common: ethrayayi? ('How much has it come to?')"
+    },
+    "delicious": {
+      "text": "നല്ല രുചിയുണ്ട്!",
+      "roman": "nalla ruchiyundu!",
+      "note": "Casual praise: adipoli! ('awesome!')"
+    },
+    "no_meat": {
+      "text": "ഞാൻ ഇറച്ചി കഴിക്കില്ല",
+      "roman": "njan irachi kazhikkilla",
+      "note": "Fish and egg don't count as irachi. To rule them out too: njan vejitteriyan anu."
+    },
+    "enjoy_meal": {
+      "text": "നന്നായി കഴിച്ചോളൂ!",
+      "roman": "nannayi kazhicholoo!",
+      "note": "There is no set 'bon appétit'; hosts urge guests to eat like this. Lit. 'Eat well!'"
+    },
+    "left": {
+      "text": "ഇടത്",
+      "roman": "idathu",
+      "note": "To a driver: idatthottu (ഇടത്തോട്ട്, 'to the left')."
+    },
+    "right": {
+      "text": "വലത്",
+      "roman": "valathu",
+      "note": "To a driver: valatthottu (വലത്തോട്ട്, 'to the right')."
+    },
+    "straight_ahead": {
+      "text": "നേരെ",
+      "roman": "nere",
+      "note": "Go straight: nere pokoo (നേരെ പോകൂ)."
+    },
+    "stop_here": {
+      "text": "ഇവിടെ നിർത്തിയാൽ മതി",
+      "roman": "ivide nirtthiyal mathi",
+      "note": "Lit. 'Stopping here is enough', the usual line to taxi and auto drivers."
+    },
+    "airport": {
+      "text": "വിമാനത്താവളം",
+      "roman": "vimanatthavalam",
+      "note": "In everyday speech most people say eyarporttu (എയർപോർട്ട്)."
+    },
+    "hotel": {
+      "text": "ഹോട്ടൽ",
+      "roman": "hottal",
+      "note": "In Kerala hottal often means a restaurant; for a place to stay people also say lodge or 'room'."
+    },
+    "train_station": {
+      "text": "റെയിൽവേ സ്റ്റേഷൻ",
+      "roman": "reyilve steshan",
+      "note": "Train: theevandi (തീവണ്ടി), or just 'train'."
+    },
+    "want_to_go": {
+      "text": "എനിക്ക് … വരെ പോകണം",
+      "roman": "enikku … vare pokanam",
+      "note": "Vare means 'as far as'; it works with any place name, no case ending needed."
+    },
+    "is_it_far": {
+      "text": "ദൂരമുണ്ടോ?",
+      "roman": "dooramundo?",
+      "note": "Can I walk there?: nadannu pokan pattumo?"
+    },
+    "one_ticket": {
+      "text": "ഒരു ടിക്കറ്റ് വേണം",
+      "roman": "oru tikkattu venam",
+      "note": "On a bus, just tell the conductor the stop and the number, e.g. 'Aluva, onnu'."
+    },
+    "too_expensive": {
+      "text": "വില വളരെ കൂടുതലാണ്",
+      "roman": "vila valare kooduthalanu",
+      "note": "Casual: bhayankara vilayanallo! ('That's awfully pricey!')"
+    },
+    "cheaper": {
+      "text": "ഇതിലും വില കുറഞ്ഞതുണ്ടോ?",
+      "roman": "ithilum vila kuranjathundo?",
+      "note": "To bargain: kurachu kuraykkamo? ('Can you bring it down a bit?')"
+    },
+    "id_like_this": {
+      "text": "എനിക്ക് ഇത് മതി",
+      "roman": "enikku ithu mathi",
+      "note": "Lit. 'This will do for me.' Also: ithu edukkam ('I'll take this')."
+    },
+    "just_looking": {
+      "text": "ഞാൻ വെറുതെ നോക്കുകയാണ്",
+      "roman": "njan veruthe nokkukayanu",
+      "note": "Casual: veruthe nokkuva."
+    },
+    "pay_card": {
+      "text": "കാർഡ് എടുക്കുമോ?",
+      "roman": "kardu edukkumo?",
+      "note": "Lit. 'Do you take card?' Phone payments are more common: UPI undo?"
+    },
+    "cash": {
+      "text": "കാശ്",
+      "roman": "kashu",
+      "note": "I'll pay cash: kashayi tharam. Formal word: panam (പണം)."
+    },
+    "open": {
+      "text": "തുറന്നിരിക്കുന്നു",
+      "roman": "thurannirikkunnu",
+      "note": "Shop signs are mostly in English. To ask: thurannittundo? ('Is it open?')"
+    },
+    "closed": {
+      "text": "അടച്ചിരിക്കുന്നു",
+      "roman": "adachirikkunnu",
+      "note": "In speech: adachu ('it's shut')."
+    },
+    "big": {
+      "text": "വലിയ",
+      "roman": "valiya",
+      "note": "On its own ('a big one'): valuthu (വലുത്)."
+    },
+    "small": {
+      "text": "ചെറിയ",
+      "roman": "cheriya",
+      "note": "On its own ('a small one'): cheruthu (ചെറുത്)."
+    },
+    "today": {
+      "text": "ഇന്ന്",
+      "roman": "innu"
+    },
+    "tomorrow": {
+      "text": "നാളെ",
+      "roman": "nale"
+    },
+    "yesterday": {
+      "text": "ഇന്നലെ",
+      "roman": "innale",
+      "note": "Keep them apart: innu (today), innale (yesterday), nale (tomorrow)."
+    },
+    "now": {
+      "text": "ഇപ്പോൾ",
+      "roman": "ippol",
+      "note": "In speech: ippo. Right now: ippo thanne."
+    },
+    "later": {
+      "text": "പിന്നെ",
+      "roman": "pinne",
+      "note": "Also means 'then'. More formal: pinneedu (പിന്നീട്)."
+    },
+    "good_evening": {
+      "text": "ശുഭസന്ധ്യ",
+      "roman": "shubhasandhya",
+      "note": "Formal. In person most people say namaskaram or 'good evening'."
+    },
+    "good_night": {
+      "text": "ശുഭരാത്രി",
+      "roman": "shubharathri",
+      "note": "Formal. Family and friends usually say 'good night' in English."
+    },
+    "see_you_later": {
+      "text": "പിന്നെ കാണാം",
+      "roman": "pinne kanam"
+    },
+    "wait_moment": {
+      "text": "ഒരു നിമിഷം നിൽക്കണേ",
+      "roman": "oru nimisham nilkkane",
+      "note": "Very common in speech: oru minute! The -e ending makes it a gentle request."
+    },
+    "every_day": {
+      "text": "എല്ലാ ദിവസവും",
+      "roman": "ella divasavum",
+      "note": "Shorter: ennum (എന്നും, 'always, daily')."
+    },
+    "help": {
+      "text": "രക്ഷിക്കണേ!",
+      "roman": "rakshikkane!",
+      "note": "Ayyo! is the all-purpose cry of alarm and will also bring people running."
+    },
+    "call_police": {
+      "text": "പോലീസിനെ വിളിക്കൂ!",
+      "roman": "poleesine vilikkoo!",
+      "note": "Emergency number in India: 112."
+    },
+    "need_doctor": {
+      "text": "എനിക്ക് ഒരു ഡോക്ടറെ കാണണം",
+      "roman": "enikku oru doktare kananam"
+    },
+    "im_lost": {
+      "text": "എനിക്ക് വഴി തെറ്റി",
+      "roman": "enikku vazhi thetti",
+      "note": "Lit. 'The way went wrong for me.'"
+    },
+    "dont_feel_well": {
+      "text": "എനിക്ക് സുഖമില്ല",
+      "roman": "enikku sukhamilla",
+      "note": "Also very common: enikku vayya (എനിക്ക് വയ്യ, 'I'm not up to it')."
+    },
+    "pharmacy": {
+      "text": "മരുന്നുകട",
+      "roman": "marunnukada",
+      "note": "Most people say 'medical shop' (മെഡിക്കൽ ഷോപ്പ്)."
+    },
+    "hospital": {
+      "text": "ആശുപത്രി",
+      "roman": "ashupathri",
+      "note": "'Hospital' (ഹോസ്പിറ്റൽ) is also widely used."
+    },
+    "lost_phone": {
+      "text": "എന്റെ ഫോൺ കളഞ്ഞുപോയി",
+      "roman": "ente fon kalanjupoyi"
+    },
+    "allergic": {
+      "text": "എനിക്ക് … അലർജിയാണ്",
+      "roman": "enikku … alarjiyanu",
+      "note": "The item goes in unchanged, e.g. enikku podi alarjiyanu (dust)."
+    },
+    "be_careful": {
+      "text": "സൂക്ഷിക്കണേ!",
+      "roman": "sookshikkane!",
+      "note": "Also: shraddhikkanam! ('Pay attention!')"
+    },
+    "no_problem": {
+      "text": "കുഴപ്പമില്ല",
+      "roman": "kuzhappamilla",
+      "note": "Also: saramilla ('never mind'), the usual reply to an apology."
+    },
+    "of_course": {
+      "text": "തീർച്ചയായും",
+      "roman": "theerchayayum",
+      "note": "Casual: pinnallathe! ('What else!')"
+    },
+    "maybe": {
+      "text": "ചിലപ്പോൾ",
+      "roman": "chilappol",
+      "note": "Also means 'sometimes'. More formal: orupakshe (ഒരുപക്ഷേ)."
+    },
+    "dont_know": {
+      "text": "എനിക്കറിയില്ല",
+      "roman": "enikkariyilla"
+    },
+    "i_like_it": {
+      "text": "എനിക്ക് ഇത് ഇഷ്ടമാണ്",
+      "roman": "enikku ithu ishtamanu",
+      "note": "On first trying something: enikku ishtamayi ('I've taken to it')."
+    },
+    "dont_like_it": {
+      "text": "എനിക്ക് ഇത് ഇഷ്ടമല്ല",
+      "roman": "enikku ithu ishtamalla",
+      "note": "Softer: athra ishtamayilla ('I didn't like it much')."
+    },
+    "im_tired": {
+      "text": "എനിക്ക് ക്ഷീണമുണ്ട്",
+      "roman": "enikku ksheenamundu",
+      "note": "Worn out: aake ksheenichu."
+    },
+    "im_happy": {
+      "text": "എനിക്ക് സന്തോഷമുണ്ട്",
+      "roman": "enikku santhoshamundu",
+      "note": "Enikku ('to me') phrases stay the same whether a man or a woman says them."
+    },
+    "welcome": {
+      "text": "കയറി വരൂ!",
+      "roman": "kayari varoo!",
+      "note": "Swagatham (സ്വാഗതം) is for signs and speeches; at the door hosts say this."
+    },
+    "congratulations": {
+      "text": "അഭിനന്ദനങ്ങൾ!",
+      "roman": "abhinandanangal!",
+      "note": "Casual: 'congrats!' or kalakki! ('you nailed it!')"
+    }
+  }
+}

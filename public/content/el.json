@@ -1,0 +1,474 @@
+{
+  "code": "el",
+  "phrases": {
+    "hello": {
+      "text": "Γεια σας",
+      "roman": "Yia sas",
+      "note": "Polite, and also used as goodbye. To a friend or child: γεια σου (yia sou)."
+    },
+    "goodbye": {
+      "text": "Αντίο σας",
+      "roman": "Andío sas",
+      "note": "Γεια σας (yia sas) is just as common. Leaving a shop: καλή συνέχεια (kalí sinéchia)."
+    },
+    "please": {
+      "text": "Παρακαλώ",
+      "roman": "Parakaló",
+      "note": "Also the reply to 'thank you', and what you say when answering the phone."
+    },
+    "thank_you": {
+      "text": "Ευχαριστώ",
+      "roman": "Efcharistó",
+      "note": "Thank you very much: ευχαριστώ πολύ (efcharistó polí)."
+    },
+    "youre_welcome": {
+      "text": "Τίποτα",
+      "roman": "Típota",
+      "note": "Literally 'nothing'. Παρακαλώ (parakaló), the word for please, is just as common."
+    },
+    "yes": {
+      "text": "Ναι",
+      "roman": "Ne",
+      "note": "Sounds like 'neh' — don't mistake it for no! More formal: μάλιστα (málista)."
+    },
+    "no": {
+      "text": "Όχι",
+      "roman": "Óchi",
+      "note": "Before ι or ε, χ is a soft hiss like the h in 'huge' (German 'ich'), not the 'loch' sound."
+    },
+    "sorry": {
+      "text": "Συγγνώμη",
+      "roman": "Signómi",
+      "note": "Also used to get someone's attention or to squeeze past."
+    },
+    "excuse_me": {
+      "text": "Με συγχωρείτε",
+      "roman": "Me sinchoríte",
+      "note": "A quick συγγνώμη (signómi) works too and is very common."
+    },
+    "good_morning": {
+      "text": "Καλημέρα",
+      "roman": "Kaliméra",
+      "note": "Used until about midday; after that, καλησπέρα (kalispéra)."
+    },
+    "how_are_you": {
+      "text": "Τι κάνετε;",
+      "roman": "Ti kánete?",
+      "note": "Greek uses ; as its question mark. To a friend: τι κάνεις; (ti kánis)."
+    },
+    "im_fine": {
+      "text": "Καλά, ευχαριστώ",
+      "roman": "Kalá, efcharistó",
+      "note": "Add εσείς; (esís) to ask 'and you?'"
+    },
+    "whats_your_name": {
+      "text": "Πώς σας λένε;",
+      "roman": "Pos sas léne?",
+      "note": "To a friend: πώς σε λένε; (pos se léne). More formal: πώς λέγεστε; (pos léyeste)."
+    },
+    "my_name_is": {
+      "text": "Με λένε …",
+      "roman": "Me léne …",
+      "note": "More formal: ονομάζομαι … (onomázome …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Χαίρω πολύ",
+      "roman": "Chéro polí",
+      "note": "Also: χάρηκα (chárika). The usual reply is επίσης (epísis), 'likewise'."
+    },
+    "where_from": {
+      "text": "Από πού είστε;",
+      "roman": "Apó pou íste?",
+      "note": "To a friend: από πού είσαι; (apó pou íse)."
+    },
+    "im_from": {
+      "text": "Είμαι από …",
+      "roman": "Íme apó …",
+      "note": "Countries take 'the': είμαι από την Αγγλία (íme apó tin Anglía)."
+    },
+    "speak_english": {
+      "text": "Μιλάτε αγγλικά;",
+      "roman": "Miláte angliká?"
+    },
+    "dont_understand": {
+      "text": "Δεν καταλαβαίνω",
+      "roman": "Den katalavéno"
+    },
+    "speak_slowly": {
+      "text": "Μπορείτε να μιλάτε πιο αργά, παρακαλώ;",
+      "roman": "Boríte na miláte pio argá, parakaló?",
+      "note": "Initial μπ sounds like b."
+    },
+    "where": {
+      "text": "Πού;",
+      "roman": "Pou?",
+      "note": "Keep the accent: που without it means 'that' or 'which'."
+    },
+    "what": {
+      "text": "Τι;",
+      "roman": "Ti?",
+      "note": "To ask someone to repeat, the polite way is ορίστε; (oríste) or πώς; (pos)."
+    },
+    "when": {
+      "text": "Πότε;",
+      "roman": "Póte?"
+    },
+    "why": {
+      "text": "Γιατί;",
+      "roman": "Yiatí?",
+      "note": "The same word also means 'because'."
+    },
+    "who": {
+      "text": "Ποιος;",
+      "roman": "Pios?",
+      "note": "When asking about a woman: ποια; (pia)."
+    },
+    "how_much": {
+      "text": "Πόσο κάνει αυτό;",
+      "roman": "Póso káni aftó?"
+    },
+    "where_bathroom": {
+      "text": "Πού είναι η τουαλέτα;",
+      "roman": "Pou íne i toualéta?"
+    },
+    "can_you_help": {
+      "text": "Μπορείτε να με βοηθήσετε;",
+      "roman": "Boríte na me voithísete?"
+    },
+    "what_time": {
+      "text": "Τι ώρα είναι;",
+      "roman": "Ti óra íne?"
+    },
+    "what_means": {
+      "text": "Τι σημαίνει αυτό;",
+      "roman": "Ti siméni aftó?"
+    },
+    "one": {
+      "text": "Ένα",
+      "roman": "Éna",
+      "note": "Before a masculine noun: ένας (énas); before a feminine one: μία (mía)."
+    },
+    "two": {
+      "text": "Δύο",
+      "roman": "Dío",
+      "note": "The δ is soft, like 'th' in 'this'."
+    },
+    "three": {
+      "text": "Τρία",
+      "roman": "Tría",
+      "note": "Before masculine and feminine nouns: τρεις (tris)."
+    },
+    "four": {
+      "text": "Τέσσερα",
+      "roman": "Téssera",
+      "note": "Before masculine and feminine nouns: τέσσερις (tésseris)."
+    },
+    "five": {
+      "text": "Πέντε",
+      "roman": "Pénde"
+    },
+    "six": {
+      "text": "Έξι",
+      "roman": "Éxi",
+      "note": "ξ is pronounced ks."
+    },
+    "seven": {
+      "text": "Εφτά",
+      "roman": "Eftá",
+      "note": "Also επτά (eptá), the formal form you will see in writing."
+    },
+    "eight": {
+      "text": "Οχτώ",
+      "roman": "Ochtó",
+      "note": "Also οκτώ (októ), the formal form you will see in writing."
+    },
+    "nine": {
+      "text": "Εννιά",
+      "roman": "Enniá",
+      "note": "Sounds like 'e-NYA'. Also εννέα (ennéa), the formal form you will see in writing."
+    },
+    "ten": {
+      "text": "Δέκα",
+      "roman": "Déka"
+    },
+    "water": {
+      "text": "Νερό",
+      "roman": "Neró"
+    },
+    "coffee": {
+      "text": "Καφές",
+      "roman": "Kafés",
+      "note": "Greek coffee: ελληνικός (ellinikós). Iced: φρέντο (fréndo) or φραπέ (frapé)."
+    },
+    "tea": {
+      "text": "Τσάι",
+      "roman": "Tsái",
+      "note": "Two syllables, stress on the first: TSA-ee."
+    },
+    "bread": {
+      "text": "Ψωμί",
+      "roman": "Psomí",
+      "note": "Pronounce the p: ps as in 'lapse'."
+    },
+    "im_hungry": {
+      "text": "Πεινάω",
+      "roman": "Pináo"
+    },
+    "menu_please": {
+      "text": "Τον κατάλογο, παρακαλώ",
+      "roman": "Ton katálogo, parakaló",
+      "note": "Το μενού (to menoú) is also used."
+    },
+    "bill_please": {
+      "text": "Τον λογαριασμό, παρακαλώ",
+      "roman": "Ton logariasmó, parakaló"
+    },
+    "delicious": {
+      "text": "Πολύ νόστιμο!",
+      "roman": "Polí nóstimo!",
+      "note": "Even stronger: πεντανόστιμο! (pendanóstimo)."
+    },
+    "no_meat": {
+      "text": "Δεν τρώω κρέας",
+      "roman": "Den tróo kréas",
+      "note": "Vegetarian: χορτοφάγος (chortofágos)."
+    },
+    "enjoy_meal": {
+      "text": "Καλή όρεξη!",
+      "roman": "Kalí órexi!"
+    },
+    "left": {
+      "text": "Αριστερά",
+      "roman": "Aristerá"
+    },
+    "right": {
+      "text": "Δεξιά",
+      "roman": "Dexiá"
+    },
+    "straight_ahead": {
+      "text": "Ευθεία",
+      "roman": "Efthía",
+      "note": "In everyday speech also ίσια (ísia)."
+    },
+    "stop_here": {
+      "text": "Σταματήστε εδώ, παρακαλώ",
+      "roman": "Stamatíste edó, parakaló",
+      "note": "Or simply: εδώ, παρακαλώ (edó, parakaló)."
+    },
+    "airport": {
+      "text": "Αεροδρόμιο",
+      "roman": "Aerodrómio"
+    },
+    "hotel": {
+      "text": "Ξενοδοχείο",
+      "roman": "Xenodochío",
+      "note": "ξ is pronounced ks: kse-no-do-HEE-o."
+    },
+    "train_station": {
+      "text": "Σιδηροδρομικός σταθμός",
+      "roman": "Sidirodromikós stathmós",
+      "note": "Locals often just say ο σταθμός (o stathmós), 'the station'."
+    },
+    "want_to_go": {
+      "text": "Θέλω να πάω …",
+      "roman": "Thélo na páo …",
+      "note": "Put στο/στη(ν)/στον before the place: θέλω να πάω στην Αθήνα (stin Athína)."
+    },
+    "is_it_far": {
+      "text": "Είναι μακριά;",
+      "roman": "Íne makriá?"
+    },
+    "one_ticket": {
+      "text": "Ένα εισιτήριο, παρακαλώ",
+      "roman": "Éna isitírio, parakaló"
+    },
+    "too_expensive": {
+      "text": "Είναι πολύ ακριβό",
+      "roman": "Íne polí akrivó",
+      "note": "ακριβό agrees with the item: ακριβός (akrivós) if masculine, ακριβή (akriví) if feminine."
+    },
+    "cheaper": {
+      "text": "Έχετε κάτι πιο φτηνό;",
+      "roman": "Échete káti pio ftinó?"
+    },
+    "id_like_this": {
+      "text": "Θα ήθελα αυτό, παρακαλώ",
+      "roman": "Tha íthela aftó, parakaló",
+      "note": "Also: θα πάρω αυτό (tha páro aftó), 'I'll take this'."
+    },
+    "just_looking": {
+      "text": "Απλώς κοιτάζω",
+      "roman": "Aplós kitázo",
+      "note": "Add ευχαριστώ (efcharistó). Also: ρίχνω μια ματιά (ríchno mia matiá)."
+    },
+    "pay_card": {
+      "text": "Μπορώ να πληρώσω με κάρτα;",
+      "roman": "Boró na pliróso me kárta?"
+    },
+    "cash": {
+      "text": "Μετρητά",
+      "roman": "Metritá",
+      "note": "In cash: με μετρητά (me metritá)."
+    },
+    "open": {
+      "text": "Ανοιχτό",
+      "roman": "Anichtó",
+      "note": "Signs often use capitals and the formal spelling: ΑΝΟΙΚΤΟ."
+    },
+    "closed": {
+      "text": "Κλειστό",
+      "roman": "Klistó"
+    },
+    "big": {
+      "text": "Μεγάλο",
+      "roman": "Megálo",
+      "note": "Neuter form; masculine μεγάλος (megálos), feminine μεγάλη (megáli)."
+    },
+    "small": {
+      "text": "Μικρό",
+      "roman": "Mikró",
+      "note": "Neuter form; masculine μικρός (mikrós), feminine μικρή (mikrí)."
+    },
+    "today": {
+      "text": "Σήμερα",
+      "roman": "Símera"
+    },
+    "tomorrow": {
+      "text": "Αύριο",
+      "roman": "Ávrio"
+    },
+    "yesterday": {
+      "text": "Χθες",
+      "roman": "Chthes",
+      "note": "Often said and written χτες (chtes)."
+    },
+    "now": {
+      "text": "Τώρα",
+      "roman": "Tóra"
+    },
+    "later": {
+      "text": "Αργότερα",
+      "roman": "Argótera",
+      "note": "Also: μετά (metá), 'afterwards'."
+    },
+    "good_evening": {
+      "text": "Καλησπέρα",
+      "roman": "Kalispéra",
+      "note": "A greeting from the afternoon on. Leaving in the evening: καλό βράδυ (kaló vrádi)."
+    },
+    "good_night": {
+      "text": "Καληνύχτα",
+      "roman": "Kaliníchta"
+    },
+    "see_you_later": {
+      "text": "Τα λέμε!",
+      "roman": "Ta léme!",
+      "note": "Literally 'we say them', i.e. we'll talk. For later today: τα λέμε αργότερα (ta léme argótera)."
+    },
+    "wait_moment": {
+      "text": "Ένα λεπτό, παρακαλώ",
+      "roman": "Éna leptó, parakaló",
+      "note": "Literally 'one minute'. Also: περιμένετε λίγο (periménete lígo)."
+    },
+    "every_day": {
+      "text": "Κάθε μέρα",
+      "roman": "Káthe méra"
+    },
+    "help": {
+      "text": "Βοήθεια!",
+      "roman": "Voíthia!",
+      "note": "Stress the second syllable: vo-EE-thia."
+    },
+    "call_police": {
+      "text": "Καλέστε την αστυνομία!",
+      "roman": "Kaléste tin astinomía!",
+      "note": "Emergency number: 112. Police in Greece: 100."
+    },
+    "need_doctor": {
+      "text": "Χρειάζομαι γιατρό",
+      "roman": "Chriázome yiatró",
+      "note": "Ambulance in Greece: 166."
+    },
+    "im_lost": {
+      "text": "Έχω χαθεί",
+      "roman": "Écho chathí",
+      "note": "Also: χάθηκα (cháthika)."
+    },
+    "dont_feel_well": {
+      "text": "Δεν νιώθω καλά",
+      "roman": "Den niótho kalá",
+      "note": "Also: δεν αισθάνομαι καλά (den esthánome kalá)."
+    },
+    "pharmacy": {
+      "text": "Φαρμακείο",
+      "roman": "Farmakío",
+      "note": "Look for the green cross."
+    },
+    "hospital": {
+      "text": "Νοσοκομείο",
+      "roman": "Nosokomío"
+    },
+    "lost_phone": {
+      "text": "Έχασα το κινητό μου",
+      "roman": "Échasa to kinitó mou"
+    },
+    "allergic": {
+      "text": "Είμαι αλλεργικός σε …",
+      "roman": "Íme alleryikós se …",
+      "note": "A woman says: είμαι αλλεργική σε … (íme alleryikí se …). σε + 'the' → στο/στη(ν)/στα."
+    },
+    "be_careful": {
+      "text": "Προσοχή!",
+      "roman": "Prosochí!",
+      "note": "A warning shout. To one person: πρόσεχε! (próseche); polite or plural: προσέξτε! (proséxte)."
+    },
+    "no_problem": {
+      "text": "Κανένα πρόβλημα",
+      "roman": "Kanéna próvlima",
+      "note": "Also: δεν πειράζει (den pirázi), 'never mind'."
+    },
+    "of_course": {
+      "text": "Φυσικά",
+      "roman": "Fisiká",
+      "note": "Also: βεβαίως (vevéos) or βέβαια (vévea)."
+    },
+    "maybe": {
+      "text": "Ίσως",
+      "roman": "Ísos",
+      "note": "Also: μπορεί (borí), 'it may be'."
+    },
+    "dont_know": {
+      "text": "Δεν ξέρω",
+      "roman": "Den xéro"
+    },
+    "i_like_it": {
+      "text": "Μου αρέσει",
+      "roman": "Mou arési",
+      "note": "For more than one thing: μου αρέσουν (mou arésoun)."
+    },
+    "dont_like_it": {
+      "text": "Δεν μου αρέσει",
+      "roman": "Den mou arési"
+    },
+    "im_tired": {
+      "text": "Είμαι κουρασμένος",
+      "roman": "Íme kourasménos",
+      "note": "A woman says: είμαι κουρασμένη (íme kourasméni)."
+    },
+    "im_happy": {
+      "text": "Είμαι χαρούμενος",
+      "roman": "Íme charoúmenos",
+      "note": "A woman says: είμαι χαρούμενη (íme charoúmeni)."
+    },
+    "welcome": {
+      "text": "Καλώς ήρθατε!",
+      "roman": "Kalós írthate!",
+      "note": "To one friend: καλώς ήρθες! (kalós írthes). The guest replies: καλώς σας βρήκα (kalós sas vríka)."
+    },
+    "congratulations": {
+      "text": "Συγχαρητήρια!",
+      "roman": "Sincharitíria!",
+      "note": "For a job well done: μπράβο! (brávo)."
+    }
+  }
+}

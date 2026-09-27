@@ -1,0 +1,398 @@
+{
+  "code": "de",
+  "phrases": {
+    "hello": {
+      "text": "Hallo",
+      "note": "More formal, e.g. in an office: Guten Tag. In southern Germany and Austria: Grüß Gott."
+    },
+    "goodbye": {
+      "text": "Auf Wiedersehen",
+      "note": "Casual: Tschüss! On the phone: Auf Wiederhören."
+    },
+    "please": {
+      "text": "Bitte",
+      "note": "Bitte also answers a thank-you, and Wie bitte? asks someone to repeat."
+    },
+    "thank_you": {
+      "text": "Danke",
+      "note": "Warmer: Danke schön or Vielen Dank."
+    },
+    "youre_welcome": {
+      "text": "Gern geschehen",
+      "note": "Also very common: Bitte or Bitte schön. Casual: Gerne!"
+    },
+    "yes": {
+      "text": "Ja",
+      "note": "To say yes to a negative question, use doch: Kommen Sie nicht? – Doch!"
+    },
+    "no": {
+      "text": "Nein"
+    },
+    "sorry": {
+      "text": "Entschuldigung",
+      "note": "For real regret: Es tut mir leid. Casual: Sorry."
+    },
+    "excuse_me": {
+      "text": "Entschuldigen Sie",
+      "note": "Also very common: Entschuldigung. To get past someone: Darf ich mal vorbei?"
+    },
+    "good_morning": {
+      "text": "Guten Morgen",
+      "note": "Used until about 10 or 11 am, then Guten Tag. Casual: Morgen!"
+    },
+    "how_are_you": {
+      "text": "Wie geht es Ihnen?",
+      "note": "Casual: Wie geht’s? or Wie geht’s dir?"
+    },
+    "im_fine": {
+      "text": "Mir geht es gut, danke",
+      "note": "Shorter and very common: Danke, gut! To ask back: Und Ihnen?"
+    },
+    "whats_your_name": {
+      "text": "Wie heißen Sie?",
+      "note": "Casual: Wie heißt du? More formal: Wie ist Ihr Name?"
+    },
+    "my_name_is": {
+      "text": "Ich heiße …",
+      "note": "Also common, a bit more formal: Mein Name ist …"
+    },
+    "nice_to_meet_you": {
+      "text": "Freut mich",
+      "note": "Fuller: Freut mich, Sie kennenzulernen. Casual: Schön, dich kennenzulernen."
+    },
+    "where_from": {
+      "text": "Woher kommen Sie?",
+      "note": "Casual: Woher kommst du?"
+    },
+    "im_from": {
+      "text": "Ich komme aus …",
+      "note": "A few countries take an article: aus der Schweiz, aus den USA, aus dem Irak."
+    },
+    "speak_english": {
+      "text": "Sprechen Sie Englisch?",
+      "note": "To a stranger, start politely: Entschuldigung, sprechen Sie Englisch?"
+    },
+    "dont_understand": {
+      "text": "Ich verstehe nicht",
+      "note": "Also common: Das habe ich nicht verstanden. To ask someone to repeat: Wie bitte?"
+    },
+    "speak_slowly": {
+      "text": "Könnten Sie bitte langsamer sprechen?",
+      "note": "Also useful: Können Sie das bitte wiederholen? (Can you repeat that?)"
+    },
+    "where": {
+      "text": "Wo?",
+      "note": "Where to? is wohin?, where from? is woher?"
+    },
+    "what": {
+      "text": "Was?",
+      "note": "Was? alone can sound blunt; to ask someone to repeat, say Wie bitte?"
+    },
+    "when": {
+      "text": "Wann?",
+      "note": "Don’t confuse with wenn (if, whenever), which is never a question word."
+    },
+    "why": {
+      "text": "Warum?",
+      "note": "Also common: Wieso?"
+    },
+    "who": {
+      "text": "Wer?",
+      "note": "Looks like English 'where', but means who. Where is wo."
+    },
+    "how_much": {
+      "text": "Was kostet das?",
+      "note": "Also: Wie viel kostet das?"
+    },
+    "where_bathroom": {
+      "text": "Wo ist bitte die Toilette?",
+      "note": "Signs say WC. Damen = women, Herren = men."
+    },
+    "can_you_help": {
+      "text": "Können Sie mir bitte helfen?",
+      "note": "Even more polite: Könnten Sie mir bitte helfen?"
+    },
+    "what_time": {
+      "text": "Wie spät ist es?",
+      "note": "Also: Wie viel Uhr ist es?"
+    },
+    "what_means": {
+      "text": "Was bedeutet das?",
+      "note": "Also very common: Was heißt das?"
+    },
+    "one": {
+      "text": "Eins",
+      "note": "Before a noun it becomes ein or eine: ein Kaffee, eine Nacht."
+    },
+    "two": {
+      "text": "Zwei",
+      "note": "On the phone and in announcements often zwo, so it isn’t confused with drei."
+    },
+    "three": {
+      "text": "Drei"
+    },
+    "four": {
+      "text": "Vier",
+      "note": "The v sounds like f: 'feer'."
+    },
+    "five": {
+      "text": "Fünf",
+      "note": "For ü, say 'ee' with rounded lips."
+    },
+    "six": {
+      "text": "Sechs",
+      "note": "The chs sounds like ks: 'zeks'."
+    },
+    "seven": {
+      "text": "Sieben",
+      "note": "The s sounds like z: 'ZEE-ben'."
+    },
+    "eight": {
+      "text": "Acht",
+      "note": "The ch is a throaty sound, as in Scottish 'loch'."
+    },
+    "nine": {
+      "text": "Neun",
+      "note": "eu sounds like 'oy': 'noyn'."
+    },
+    "ten": {
+      "text": "Zehn",
+      "note": "The z sounds like ts: 'tsayn'."
+    },
+    "water": {
+      "text": "Wasser",
+      "note": "das Wasser. Bottled water is often sparkling; for still, ask for stilles Wasser."
+    },
+    "coffee": {
+      "text": "Kaffee",
+      "note": "der Kaffee."
+    },
+    "tea": {
+      "text": "Tee",
+      "note": "der Tee."
+    },
+    "bread": {
+      "text": "Brot",
+      "note": "das Brot. A bread roll is a Brötchen (in the south: Semmel)."
+    },
+    "im_hungry": {
+      "text": "Ich habe Hunger",
+      "note": "German says 'I have hunger'. Ich bin hungrig exists but is less common."
+    },
+    "menu_please": {
+      "text": "Die Speisekarte, bitte",
+      "note": "Often just: Die Karte, bitte. A Menü is a set meal, not the list of dishes."
+    },
+    "bill_please": {
+      "text": "Die Rechnung, bitte",
+      "note": "Also very common: Zahlen, bitte! or Ich möchte bitte zahlen."
+    },
+    "delicious": {
+      "text": "Lecker!",
+      "note": "To a host or waiter: Das schmeckt sehr gut! More elevated: Köstlich!"
+    },
+    "no_meat": {
+      "text": "Ich esse kein Fleisch",
+      "note": "Or: Ich bin Vegetarier (a woman says: Vegetarierin)."
+    },
+    "enjoy_meal": {
+      "text": "Guten Appetit!",
+      "note": "At work around lunchtime, people also greet each other with Mahlzeit!"
+    },
+    "left": {
+      "text": "Links",
+      "note": "Turn left: Biegen Sie links ab."
+    },
+    "right": {
+      "text": "Rechts",
+      "note": "Not 'correct' – that is richtig."
+    },
+    "straight_ahead": {
+      "text": "Geradeaus",
+      "note": "Stress on the end: ge-ra-de-AUS."
+    },
+    "stop_here": {
+      "text": "Halten Sie bitte hier",
+      "note": "Also common: Sie können mich hier rauslassen."
+    },
+    "airport": {
+      "text": "Flughafen",
+      "note": "der Flughafen."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "das Hotel. Same spelling as English; the h is pronounced and the stress is on -tel."
+    },
+    "train_station": {
+      "text": "Bahnhof",
+      "note": "der Bahnhof. The main station is the Hauptbahnhof, signed Hbf."
+    },
+    "want_to_go": {
+      "text": "Ich möchte nach …",
+      "note": "For cities and countries. For a place in town use zum or zur: Ich möchte zum Bahnhof."
+    },
+    "is_it_far": {
+      "text": "Ist es weit?",
+      "note": "Also common: Ist das weit von hier?"
+    },
+    "one_ticket": {
+      "text": "Eine Fahrkarte, bitte",
+      "note": "Also very common: Ein Ticket, bitte. Return ticket: hin und zurück."
+    },
+    "too_expensive": {
+      "text": "Das ist zu teuer",
+      "note": "Haggling is unusual in German shops, except at flea markets."
+    },
+    "cheaper": {
+      "text": "Haben Sie etwas Günstigeres?",
+      "note": "Etwas Billigeres also works, but billig can suggest poor quality."
+    },
+    "id_like_this": {
+      "text": "Ich möchte das hier, bitte",
+      "note": "When buying, also very common: Ich nehme das."
+    },
+    "just_looking": {
+      "text": "Ich schaue nur, danke",
+      "note": "In the north also: Ich gucke nur."
+    },
+    "pay_card": {
+      "text": "Kann ich mit Karte zahlen?",
+      "note": "Also: Nehmen Sie Karte? Some small shops and cafés still take cash only."
+    },
+    "cash": {
+      "text": "Bar",
+      "note": "As in bar zahlen (to pay in cash). Cash itself is das Bargeld."
+    },
+    "open": {
+      "text": "Geöffnet",
+      "note": "Signs also say Offen."
+    },
+    "closed": {
+      "text": "Geschlossen",
+      "note": "Most shops in Germany are closed on Sundays."
+    },
+    "big": {
+      "text": "Groß",
+      "note": "The ß sounds like ss. Before a noun it takes endings: ein großes Bier."
+    },
+    "small": {
+      "text": "Klein",
+      "note": "Before a noun it takes endings: ein kleines Bier."
+    },
+    "today": {
+      "text": "Heute",
+      "note": "eu sounds like 'oy': 'HOY-tuh'."
+    },
+    "tomorrow": {
+      "text": "Morgen",
+      "note": "Also means morning. Tomorrow morning: morgen früh."
+    },
+    "yesterday": {
+      "text": "Gestern"
+    },
+    "now": {
+      "text": "Jetzt",
+      "note": "Right away: sofort."
+    },
+    "later": {
+      "text": "Später",
+      "note": "In a moment: gleich."
+    },
+    "good_evening": {
+      "text": "Guten Abend",
+      "note": "The usual greeting from about 6 pm."
+    },
+    "good_night": {
+      "text": "Gute Nacht",
+      "note": "Only before bed or leaving very late. Leaving in the evening: Schönen Abend noch!"
+    },
+    "see_you_later": {
+      "text": "Bis später",
+      "note": "Casual: Bis dann! Next time, not sure when: Bis bald! Tomorrow: Bis morgen!"
+    },
+    "wait_moment": {
+      "text": "Einen Moment, bitte",
+      "note": "Fuller: Warten Sie bitte einen Moment. Casual: Moment mal!"
+    },
+    "every_day": {
+      "text": "Jeden Tag",
+      "note": "Also: täglich (daily)."
+    },
+    "help": {
+      "text": "Hilfe!"
+    },
+    "call_police": {
+      "text": "Rufen Sie die Polizei!",
+      "note": "In Germany dial 110 for the police, 112 for an ambulance or the fire brigade."
+    },
+    "need_doctor": {
+      "text": "Ich brauche einen Arzt",
+      "note": "A female doctor is eine Ärztin. In an emergency: Ich brauche einen Notarzt."
+    },
+    "im_lost": {
+      "text": "Ich habe mich verlaufen",
+      "note": "On foot. When driving: Ich habe mich verfahren."
+    },
+    "dont_feel_well": {
+      "text": "Mir geht es nicht gut",
+      "note": "Also: Ich fühle mich nicht wohl."
+    },
+    "pharmacy": {
+      "text": "Apotheke",
+      "note": "die Apotheke. Look for the red A sign."
+    },
+    "hospital": {
+      "text": "Krankenhaus",
+      "note": "das Krankenhaus. Also: die Klinik. Emergency department: die Notaufnahme."
+    },
+    "lost_phone": {
+      "text": "Ich habe mein Handy verloren",
+      "note": "Handy is the everyday German word for a mobile phone."
+    },
+    "allergic": {
+      "text": "Ich bin allergisch gegen …",
+      "note": "Also common: Ich habe eine Nussallergie (a nut allergy)."
+    },
+    "be_careful": {
+      "text": "Vorsicht!",
+      "note": "Fuller: Seien Sie vorsichtig! To a friend: Pass auf!"
+    },
+    "no_problem": {
+      "text": "Kein Problem"
+    },
+    "of_course": {
+      "text": "Natürlich",
+      "note": "Casual: Klar! More formal: Selbstverständlich."
+    },
+    "maybe": {
+      "text": "Vielleicht"
+    },
+    "dont_know": {
+      "text": "Ich weiß nicht",
+      "note": "Also: Das weiß ich nicht. Casual: Keine Ahnung (no idea)."
+    },
+    "i_like_it": {
+      "text": "Das gefällt mir",
+      "note": "For food: Das schmeckt mir. Also common: Ich mag das."
+    },
+    "dont_like_it": {
+      "text": "Das gefällt mir nicht",
+      "note": "For food: Das schmeckt mir nicht."
+    },
+    "im_tired": {
+      "text": "Ich bin müde"
+    },
+    "im_happy": {
+      "text": "Ich bin glücklich",
+      "note": "Glad about something: Ich freue mich or Ich bin froh."
+    },
+    "welcome": {
+      "text": "Willkommen!",
+      "note": "Warmer and very common: Herzlich willkommen!"
+    },
+    "congratulations": {
+      "text": "Herzlichen Glückwunsch!",
+      "note": "On a birthday: Alles Gute zum Geburtstag!"
+    }
+  }
+}

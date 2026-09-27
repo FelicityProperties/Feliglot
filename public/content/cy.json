@@ -1,0 +1,388 @@
+{
+  "code": "cy",
+  "phrases": {
+    "hello": {
+      "text": "Shwmae",
+      "note": "Also heard everywhere: helo. In North Wales: su'mae."
+    },
+    "goodbye": {
+      "text": "Hwyl fawr",
+      "note": "Casually just: hwyl!"
+    },
+    "please": {
+      "text": "Os gwelwch yn dda",
+      "note": "To a friend or child: os gweli di'n dda. Many speakers just say plîs."
+    },
+    "thank_you": {
+      "text": "Diolch",
+      "note": "Diolch yn fawr adds 'very much'."
+    },
+    "youre_welcome": {
+      "text": "Croeso",
+      "note": "The same word welcomes a guest. Casually also: dim problem."
+    },
+    "yes": {
+      "text": "Ie",
+      "note": "Welsh echoes the verb: ydw (I am), oes (there is), do (past). Ie (North: ia) is for questions not starting with a verb."
+    },
+    "no": {
+      "text": "Na",
+      "note": "Also echoes the verb: nac ydw (I'm not), nac oes (there isn't), naddo (past)."
+    },
+    "sorry": {
+      "text": "Mae'n ddrwg gen i",
+      "note": "South Wales: mae'n flin 'da fi — but in the North flin means angry. Casually: sori."
+    },
+    "excuse_me": {
+      "text": "Esgusodwch fi",
+      "note": "To a friend: esgusoda fi."
+    },
+    "good_morning": {
+      "text": "Bore da",
+      "note": "Bore has two syllables: BOR-eh."
+    },
+    "how_are_you": {
+      "text": "Sut dych chi?",
+      "note": "Fuller: sut ydych chi? South: shwd ych chi? North: sut dach chi? To a friend: sut wyt ti?"
+    },
+    "im_fine": {
+      "text": "Da iawn, diolch",
+      "note": "Also: iawn, diolch. 'Not bad': ddim yn ddrwg."
+    },
+    "whats_your_name": {
+      "text": "Beth yw'ch enw chi?",
+      "note": "North Wales: beth ydy'ch enw chi? To a friend: beth yw dy enw di?"
+    },
+    "my_name_is": {
+      "text": "Fy enw i yw …",
+      "note": "North Wales: fy enw i ydy Siân. Just as natural: Siân dw i ('I'm Siân')."
+    },
+    "nice_to_meet_you": {
+      "text": "Braf cwrdd â chi",
+      "note": "North Wales: braf cyfarfod â chi. To a friend, say â ti instead of â chi."
+    },
+    "where_from": {
+      "text": "O ble dych chi'n dod?",
+      "note": "To a friend: o ble wyt ti'n dod?"
+    },
+    "im_from": {
+      "text": "Dw i'n dod o …",
+      "note": "o softens the next word: Cymru → o Gymru, Lloegr → o Loegr."
+    },
+    "speak_english": {
+      "text": "Dych chi'n siarad Saesneg?",
+      "note": "Fuller: ydych chi'n siarad Saesneg? Answers: ydw (yes) / nac ydw (no)."
+    },
+    "dont_understand": {
+      "text": "Dw i ddim yn deall",
+      "note": "Spoken: sa i'n deall (South), dw i'm yn dallt (North)."
+    },
+    "speak_slowly": {
+      "text": "Siaradwch yn arafach, os gwelwch yn dda",
+      "note": "Softer as a question: allwch chi siarad yn arafach?"
+    },
+    "where": {
+      "text": "Ble?",
+      "note": "North Wales often: lle?"
+    },
+    "what": {
+      "text": "Beth?",
+      "note": "Casually: be?"
+    },
+    "when": {
+      "text": "Pryd?"
+    },
+    "why": {
+      "text": "Pam?"
+    },
+    "who": {
+      "text": "Pwy?",
+      "note": "In Welsh w is often a vowel: pwy sounds like 'pooy'."
+    },
+    "how_much": {
+      "text": "Faint yw hwn?",
+      "note": "North Wales: faint ydy hwn? Also common: faint mae hwn yn gostio?"
+    },
+    "where_bathroom": {
+      "text": "Ble mae'r tŷ bach?",
+      "note": "Tŷ bach is the everyday word; signs usually say toiledau."
+    },
+    "can_you_help": {
+      "text": "Allwch chi fy helpu i?",
+      "note": "To a friend: alli di fy helpu i?"
+    },
+    "what_time": {
+      "text": "Faint o'r gloch yw hi?",
+      "note": "North Wales: faint o'r gloch ydy hi?"
+    },
+    "what_means": {
+      "text": "Beth mae hyn yn ei olygu?",
+      "note": "Also common: beth yw ystyr hyn?"
+    },
+    "one": {
+      "text": "Un",
+      "note": "Sounds like 'een'."
+    },
+    "two": {
+      "text": "Dau",
+      "note": "Sounds like 'dye'. Before feminine nouns: dwy (dwy gath, two cats)."
+    },
+    "three": {
+      "text": "Tri",
+      "note": "Before feminine nouns: tair (tair cath)."
+    },
+    "four": {
+      "text": "Pedwar",
+      "note": "Before feminine nouns: pedair."
+    },
+    "five": {
+      "text": "Pump",
+      "note": "u sounds like the 'i' in 'pin'. Before a noun: pum (pum munud, five minutes)."
+    },
+    "six": {
+      "text": "Chwech",
+      "note": "ch as in Scottish 'loch'. Before a noun: chwe (chwe diwrnod, six days)."
+    },
+    "seven": {
+      "text": "Saith"
+    },
+    "eight": {
+      "text": "Wyth",
+      "note": "Sounds like 'oo-ith'."
+    },
+    "nine": {
+      "text": "Naw",
+      "note": "Rhymes with 'now'."
+    },
+    "ten": {
+      "text": "Deg"
+    },
+    "water": {
+      "text": "Dŵr",
+      "note": "Long 'oo' and a rolled r. Asking for some: ga i ddŵr, os gwelwch yn dda?"
+    },
+    "coffee": {
+      "text": "Coffi"
+    },
+    "tea": {
+      "text": "Te",
+      "note": "Said 'teh'. A cuppa: paned (said panad in the North) or dishgled (South)."
+    },
+    "bread": {
+      "text": "Bara"
+    },
+    "im_hungry": {
+      "text": "Mae eisiau bwyd arna i",
+      "note": "Colloquially: dw i eisiau bwyd (North: dw i isio bwyd). South also: mae chwant bwyd arna i."
+    },
+    "menu_please": {
+      "text": "Ga i'r fwydlen, os gwelwch yn dda?",
+      "note": "Bwydlen (menu) is feminine, so it softens after the: y fwydlen."
+    },
+    "bill_please": {
+      "text": "Ga i'r bil, os gwelwch yn dda?",
+      "note": "Ga i …? ('may I have') works for anything: ga i goffi? (coffi softens to goffi)."
+    },
+    "delicious": {
+      "text": "Blasus!"
+    },
+    "no_meat": {
+      "text": "Dw i ddim yn bwyta cig",
+      "note": "'I'm vegetarian': dw i'n llysieuwr (a woman says: llysieuwraig)."
+    },
+    "enjoy_meal": {
+      "text": "Mwynhewch eich bwyd!",
+      "note": "To a friend: mwynha dy fwyd! Often just: mwynhewch!"
+    },
+    "left": {
+      "text": "Chwith",
+      "note": "'To the left': i'r chwith. 'On the left': ar y chwith."
+    },
+    "right": {
+      "text": "De",
+      "note": "'To the right': i'r dde. De also means 'south'."
+    },
+    "straight_ahead": {
+      "text": "Yn syth ymlaen"
+    },
+    "stop_here": {
+      "text": "Stopiwch yma, os gwelwch yn dda",
+      "note": "Colloquially: stopiwch fan hyn (South) or stopiwch fan'ma (North)."
+    },
+    "airport": {
+      "text": "Maes awyr"
+    },
+    "hotel": {
+      "text": "Gwesty"
+    },
+    "train_station": {
+      "text": "Gorsaf drenau",
+      "note": "Often just: yr orsaf (the station)."
+    },
+    "want_to_go": {
+      "text": "Dw i eisiau mynd i …",
+      "note": "i softens the place name: Caerdydd → i Gaerdydd, Bangor → i Fangor. North: isio for eisiau."
+    },
+    "is_it_far": {
+      "text": "Ydy e'n bell?",
+      "note": "North Wales: ydy o'n bell? Answers: ydy (yes) / nac ydy (no)."
+    },
+    "one_ticket": {
+      "text": "Un tocyn, os gwelwch yn dda",
+      "note": "Single: tocyn unffordd. Return: tocyn dwyffordd."
+    },
+    "too_expensive": {
+      "text": "Mae'n rhy ddrud",
+      "note": "Drud (expensive) softens to ddrud after rhy (too)."
+    },
+    "cheaper": {
+      "text": "Oes gennych chi rywbeth rhatach?",
+      "note": "South Wales: oes rhywbeth rhatach 'da chi?"
+    },
+    "id_like_this": {
+      "text": "Ga i hwn, os gwelwch yn dda?",
+      "note": "More formal: hoffwn i gael hwn, os gwelwch yn dda."
+    },
+    "just_looking": {
+      "text": "Dim ond edrych dw i",
+      "note": "Very common in shops: jyst edrych, diolch."
+    },
+    "pay_card": {
+      "text": "Ga i dalu â cherdyn?",
+      "note": "Talu (pay) softens after ga i. Spoken also: gyda cherdyn (South), efo cerdyn (North)."
+    },
+    "cash": {
+      "text": "Arian parod",
+      "note": "In conversation people often just say arian (money) or cash."
+    },
+    "open": {
+      "text": "Ar agor"
+    },
+    "closed": {
+      "text": "Ar gau"
+    },
+    "big": {
+      "text": "Mawr",
+      "note": "Softens after yn: mae'n fawr (it's big)."
+    },
+    "small": {
+      "text": "Bach",
+      "note": "Softens after yn: mae'n fach. Also a warm term of endearment: diolch, bach!"
+    },
+    "today": {
+      "text": "Heddiw",
+      "note": "dd sounds like the 'th' in 'this'."
+    },
+    "tomorrow": {
+      "text": "Yfory",
+      "note": "Often shortened to fory in speech."
+    },
+    "yesterday": {
+      "text": "Ddoe",
+      "note": "Sounds like 'thoy', with the 'th' of 'this'."
+    },
+    "now": {
+      "text": "Nawr",
+      "note": "North Wales: rŵan."
+    },
+    "later": {
+      "text": "Wedyn",
+      "note": "Also: yn nes ymlaen (later on)."
+    },
+    "good_evening": {
+      "text": "Noswaith dda",
+      "note": "Not nos da — that is only for bedtime or leaving at night."
+    },
+    "good_night": {
+      "text": "Nos da"
+    },
+    "see_you_later": {
+      "text": "Wela i chi wedyn",
+      "note": "To a friend: wela i di wedyn. South Wales also: tan toc!"
+    },
+    "wait_moment": {
+      "text": "Arhoswch funud, os gwelwch yn dda",
+      "note": "To a friend: aros funud! Casually: eiliad! (one second)."
+    },
+    "every_day": {
+      "text": "Bob dydd",
+      "note": "Pob (every) softens to bob in time phrases: bob wythnos (every week)."
+    },
+    "help": {
+      "text": "Helpwch fi!",
+      "note": "A plain \"Help!\" is also heard, as in English."
+    },
+    "call_police": {
+      "text": "Ffoniwch yr heddlu!",
+      "note": "Emergency number: 999 (112 also works)."
+    },
+    "need_doctor": {
+      "text": "Mae angen meddyg arna i",
+      "note": "Colloquially: dw i angen doctor."
+    },
+    "im_lost": {
+      "text": "Dw i ar goll"
+    },
+    "dont_feel_well": {
+      "text": "Dw i ddim yn teimlo'n dda",
+      "note": "Also: dw i'n sâl (I'm ill)."
+    },
+    "pharmacy": {
+      "text": "Fferyllfa",
+      "note": "In speech many people just say y cemist."
+    },
+    "hospital": {
+      "text": "Ysbyty",
+      "note": "Stress the middle syllable: us-BUH-tee."
+    },
+    "lost_phone": {
+      "text": "Dw i wedi colli fy ffôn",
+      "note": "Spoken: dw i 'di colli fy ffôn."
+    },
+    "allergic": {
+      "text": "Mae gen i alergedd i …",
+      "note": "i softens the next word: cnau (nuts) → i gnau. South: mae alergedd 'da fi i gnau."
+    },
+    "be_careful": {
+      "text": "Byddwch yn ofalus!",
+      "note": "To a friend: bydd yn ofalus!"
+    },
+    "no_problem": {
+      "text": "Dim problem"
+    },
+    "of_course": {
+      "text": "Wrth gwrs"
+    },
+    "maybe": {
+      "text": "Efallai",
+      "note": "Spoken: falle (South), ella (North)."
+    },
+    "dont_know": {
+      "text": "Dw i ddim yn gwybod",
+      "note": "Spoken: sa i'n gwbod (South), dwn i'm (North)."
+    },
+    "i_like_it": {
+      "text": "Dw i'n ei hoffi",
+      "note": "Spoken: dw i'n hoffi fe (South), dw i'n licio fo (North)."
+    },
+    "dont_like_it": {
+      "text": "Dw i ddim yn ei hoffi",
+      "note": "Spoken: sa i'n hoffi fe (South), dw i'm yn licio fo (North)."
+    },
+    "im_tired": {
+      "text": "Dw i wedi blino",
+      "note": "Worn out: dw i wedi blino'n lân."
+    },
+    "im_happy": {
+      "text": "Dw i'n hapus"
+    },
+    "welcome": {
+      "text": "Croeso!",
+      "note": "Also: croeso i chi! Signs at the border say Croeso i Gymru (Welcome to Wales)."
+    },
+    "congratulations": {
+      "text": "Llongyfarchiadau!",
+      "note": "Stress: llon-guh-var-KHYAH-dye (kh as in 'loch'). For ll, place your tongue for 'l' and blow."
+    }
+  }
+}

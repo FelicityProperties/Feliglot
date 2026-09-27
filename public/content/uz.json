@@ -1,0 +1,365 @@
+{
+  "code": "uz",
+  "phrases": {
+    "hello": {
+      "text": "Assalomu alaykum",
+      "note": "Casual: Salom. The reply is Vaalaykum assalom."
+    },
+    "goodbye": {
+      "text": "Xayr",
+      "note": "More polite: Xayr, salomat boʻling ('goodbye, stay well')."
+    },
+    "please": {
+      "text": "Iltimos",
+      "note": "Goes before or after the request: Iltimos, suv bering or Suv bering, iltimos ('Water, please')."
+    },
+    "thank_you": {
+      "text": "Rahmat",
+      "note": "Thank you very much: Katta rahmat. More formal: Tashakkur."
+    },
+    "youre_welcome": {
+      "text": "Arzimaydi",
+      "note": "Literally 'it's not worth it'. Also heard: Sogʻ boʻling ('be healthy')."
+    },
+    "yes": {
+      "text": "Ha",
+      "note": "Agreeing to a request: Xoʻp ('all right')."
+    },
+    "no": {
+      "text": "Yoʻq",
+      "note": "No, thank you: Yoʻq, rahmat."
+    },
+    "sorry": {
+      "text": "Uzr",
+      "note": "Kechirasiz is just as common. More formal: Uzr soʻrayman ('I apologise')."
+    },
+    "excuse_me": {
+      "text": "Kechirasiz",
+      "note": "People often add aka (to a man) or opa (to a woman): Kechirasiz, aka!"
+    },
+    "good_morning": {
+      "text": "Xayrli tong",
+      "note": "In practice many people simply say Assalomu alaykum at any time of day."
+    },
+    "how_are_you": {
+      "text": "Qalaysiz?",
+      "note": "Also very common: Yaxshimisiz? ('Are you well?'). To a friend: Qalaysan?"
+    },
+    "im_fine": {
+      "text": "Yaxshiman, rahmat",
+      "note": "Then ask back: Oʻzingiz qalaysiz? ('And how are you?')"
+    },
+    "whats_your_name": {
+      "text": "Ismingiz nima?",
+      "note": "Extra polite: Ismingizni bilsam boʻladimi? ('May I know your name?')"
+    },
+    "my_name_is": {
+      "text": "Mening ismim …",
+      "note": "Shorter and very common: Ismim …"
+    },
+    "nice_to_meet_you": {
+      "text": "Tanishganimdan xursandman"
+    },
+    "where_from": {
+      "text": "Qayerdansiz?",
+      "note": "Also common: Qayerliksiz?"
+    },
+    "im_from": {
+      "text": "Men …danman",
+      "note": "The ending -dan attaches to the country: Men Fransiyadanman ('I'm from France')."
+    },
+    "speak_english": {
+      "text": "Inglizcha gapirasizmi?",
+      "note": "Also very natural: Ingliz tilini bilasizmi? ('Do you know English?')"
+    },
+    "dont_understand": {
+      "text": "Tushunmadim",
+      "note": "Literally 'I didn't understand' — the usual way to say it in the moment."
+    },
+    "speak_slowly": {
+      "text": "Iltimos, sekinroq gapiring"
+    },
+    "where": {
+      "text": "Qayerda?",
+      "note": "Where to? is Qayerga? and where from? is Qayerdan?"
+    },
+    "what": {
+      "text": "Nima?",
+      "note": "To politely ask someone to repeat, say Labbay? instead."
+    },
+    "when": {
+      "text": "Qachon?"
+    },
+    "why": {
+      "text": "Nega?",
+      "note": "More formal: Nima uchun?"
+    },
+    "who": {
+      "text": "Kim?"
+    },
+    "how_much": {
+      "text": "Bu qancha turadi?",
+      "note": "At the bazaar people usually just say: Necha pul?"
+    },
+    "where_bathroom": {
+      "text": "Hojatxona qayerda?",
+      "note": "In everyday speech Tualet qayerda? is very common."
+    },
+    "can_you_help": {
+      "text": "Menga yordam bera olasizmi?"
+    },
+    "what_time": {
+      "text": "Soat necha boʻldi?",
+      "note": "Shorter: Soat necha?"
+    },
+    "what_means": {
+      "text": "Bu nima degani?",
+      "note": "More formal: Bu nimani anglatadi?"
+    },
+    "one": {
+      "text": "Bir",
+      "note": "When counting things people say bitta: bitta choy ('one tea')."
+    },
+    "two": {
+      "text": "Ikki"
+    },
+    "three": {
+      "text": "Uch"
+    },
+    "four": {
+      "text": "Toʻrt"
+    },
+    "five": {
+      "text": "Besh"
+    },
+    "six": {
+      "text": "Olti"
+    },
+    "seven": {
+      "text": "Yetti"
+    },
+    "eight": {
+      "text": "Sakkiz"
+    },
+    "nine": {
+      "text": "Toʻqqiz"
+    },
+    "ten": {
+      "text": "Oʻn"
+    },
+    "water": {
+      "text": "Suv"
+    },
+    "coffee": {
+      "text": "Qahva",
+      "note": "In everyday speech also kofe."
+    },
+    "tea": {
+      "text": "Choy",
+      "note": "Green tea: koʻk choy. Black tea: qora choy."
+    },
+    "bread": {
+      "text": "Non"
+    },
+    "im_hungry": {
+      "text": "Qornim och",
+      "note": "Literally 'my stomach is hungry'. Also common: Qornim ochdi."
+    },
+    "menu_please": {
+      "text": "Menyuni bering, iltimos"
+    },
+    "bill_please": {
+      "text": "Hisobni olib keling, iltimos",
+      "note": "Colloquially: Hisob-kitob qilamiz ('let's settle up')."
+    },
+    "delicious": {
+      "text": "Juda mazali!",
+      "note": "On first tasting something: Mazali ekan! ('it's tasty!')"
+    },
+    "no_meat": {
+      "text": "Men goʻsht yemayman"
+    },
+    "enjoy_meal": {
+      "text": "Yoqimli ishtaha!",
+      "note": "Osh boʻlsin! is said to someone eating or who has just finished."
+    },
+    "left": {
+      "text": "Chapga",
+      "note": "Chap is 'left'; chapga means 'to the left', as in directions."
+    },
+    "right": {
+      "text": "Oʻngga",
+      "note": "Oʻng is 'right'; oʻngga means 'to the right', as in directions."
+    },
+    "straight_ahead": {
+      "text": "Toʻgʻriga"
+    },
+    "stop_here": {
+      "text": "Shu yerda toʻxtang, iltimos",
+      "note": "Also very natural: Shu yerda toʻxtatib bering."
+    },
+    "airport": {
+      "text": "Aeroport"
+    },
+    "hotel": {
+      "text": "Mehmonxona"
+    },
+    "train_station": {
+      "text": "Temir yoʻl vokzali",
+      "note": "In everyday speech simply: vokzal."
+    },
+    "want_to_go": {
+      "text": "Men …ga bormoqchiman",
+      "note": "-ga attaches to the place: Samarqandga. After k it becomes -ka, after q -qa."
+    },
+    "is_it_far": {
+      "text": "Uzoqmi?"
+    },
+    "one_ticket": {
+      "text": "Bitta chipta bering, iltimos",
+      "note": "Bitta, not bir, is used when counting things."
+    },
+    "too_expensive": {
+      "text": "Bu juda qimmat",
+      "note": "At the bazaar, Qimmat-ku! is a good way to start bargaining."
+    },
+    "cheaper": {
+      "text": "Arzonrogʻi bormi?"
+    },
+    "id_like_this": {
+      "text": "Shuni bering, iltimos",
+      "note": "Also: Shuni olaman ('I'll take this')."
+    },
+    "just_looking": {
+      "text": "Shunchaki koʻryapman"
+    },
+    "pay_card": {
+      "text": "Karta bilan toʻlasam boʻladimi?",
+      "note": "Also heard: Terminal bormi? ('Is there a card terminal?')"
+    },
+    "cash": {
+      "text": "Naqd pul",
+      "note": "Often just naqd: Naqd toʻlayman ('I'll pay cash')."
+    },
+    "open": {
+      "text": "Ochiq"
+    },
+    "closed": {
+      "text": "Yopiq"
+    },
+    "big": {
+      "text": "Katta"
+    },
+    "small": {
+      "text": "Kichik",
+      "note": "In speech also kichkina."
+    },
+    "today": {
+      "text": "Bugun"
+    },
+    "tomorrow": {
+      "text": "Ertaga"
+    },
+    "yesterday": {
+      "text": "Kecha",
+      "note": "Kecha also means 'night'; context makes it clear."
+    },
+    "now": {
+      "text": "Hozir",
+      "note": "Right now, immediately: hoziroq."
+    },
+    "later": {
+      "text": "Keyinroq"
+    },
+    "good_evening": {
+      "text": "Xayrli kech"
+    },
+    "good_night": {
+      "text": "Xayrli tun",
+      "note": "Warmer: Yaxshi dam oling ('rest well')."
+    },
+    "see_you_later": {
+      "text": "Koʻrishguncha",
+      "note": "Also: Keyin koʻrishamiz ('we'll see each other later')."
+    },
+    "wait_moment": {
+      "text": "Bir daqiqa kuting, iltimos",
+      "note": "In speech often just: Bir minut!"
+    },
+    "every_day": {
+      "text": "Har kuni"
+    },
+    "help": {
+      "text": "Yordam bering!"
+    },
+    "call_police": {
+      "text": "Militsiyani chaqiring!",
+      "note": "Politsiya is also understood. Police emergency number: 102."
+    },
+    "need_doctor": {
+      "text": "Menga shifokor kerak",
+      "note": "In speech also vrach or doktor."
+    },
+    "im_lost": {
+      "text": "Men adashib qoldim"
+    },
+    "dont_feel_well": {
+      "text": "Mazam yoʻq",
+      "note": "Also common: Tobim yoʻq."
+    },
+    "pharmacy": {
+      "text": "Dorixona",
+      "note": "Also heard: apteka."
+    },
+    "hospital": {
+      "text": "Kasalxona",
+      "note": "More formal: shifoxona."
+    },
+    "lost_phone": {
+      "text": "Telefonimni yoʻqotib qoʻydim"
+    },
+    "allergic": {
+      "text": "Menda …ga allergiya bor",
+      "note": "-ga attaches to the allergen; after q it becomes -qa: yeryongʻoqqa ('to peanuts')."
+    },
+    "be_careful": {
+      "text": "Ehtiyot boʻling!"
+    },
+    "no_problem": {
+      "text": "Hechqisi yoʻq",
+      "note": "Agreeing to a request: Bemalol ('go ahead, no problem')."
+    },
+    "of_course": {
+      "text": "Albatta"
+    },
+    "maybe": {
+      "text": "Balki",
+      "note": "Also: ehtimol."
+    },
+    "dont_know": {
+      "text": "Bilmayman"
+    },
+    "i_like_it": {
+      "text": "Menga yoqadi",
+      "note": "About something you've just seen or tried: Menga yoqdi."
+    },
+    "dont_like_it": {
+      "text": "Menga yoqmaydi",
+      "note": "About something you've just seen or tried: Menga yoqmadi."
+    },
+    "im_tired": {
+      "text": "Charchadim"
+    },
+    "im_happy": {
+      "text": "Men xursandman"
+    },
+    "welcome": {
+      "text": "Xush kelibsiz!",
+      "note": "At the door you will also hear: Keling, marhamat! ('come in, please')."
+    },
+    "congratulations": {
+      "text": "Tabriklayman!",
+      "note": "For weddings, a new baby or holidays: Muborak boʻlsin!"
+    }
+  }
+}

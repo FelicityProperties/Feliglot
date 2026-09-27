@@ -1,0 +1,473 @@
+{
+  "code": "kk",
+  "phrases": {
+    "hello": {
+      "text": "Сәлеметсіз бе",
+      "roman": "salemetsiz be",
+      "note": "Casual: Сәлем (salem). To elders, men often say Ассалаумағалейкум (assalaumaghaleykum)."
+    },
+    "goodbye": {
+      "text": "Сау болыңыз",
+      "roman": "sau bolyngyz",
+      "note": "To a friend: Сау бол (sau bol)."
+    },
+    "please": {
+      "text": "Өтінемін",
+      "roman": "otinemin",
+      "note": "Requests are usually softened with -шы/-ші on the verb: беріңізші (beringizshi), 'please give'."
+    },
+    "thank_you": {
+      "text": "Рахмет",
+      "roman": "rakhmet",
+      "note": "Dictionary spelling: Рақмет (raqmet); both are common. Thank you very much: Көп рахмет (kop rakhmet)."
+    },
+    "youre_welcome": {
+      "text": "Оқасы жоқ",
+      "roman": "oqasy zhoq",
+      "note": "When thanked for food, say Денсаулығыңызға (densaulyghyngyzgha), 'to your health'."
+    },
+    "yes": {
+      "text": "Иә",
+      "roman": "ia",
+      "note": "Pronounced roughly 'ee-ya'."
+    },
+    "no": {
+      "text": "Жоқ",
+      "roman": "zhoq",
+      "note": "No, thank you: Жоқ, рахмет (zhoq, rakhmet)."
+    },
+    "sorry": {
+      "text": "Кешірім сұраймын",
+      "roman": "keshirim suraymyn",
+      "note": "For small slips just Кешіріңіз (keshiringiz). To a friend: Кешір (keshir)."
+    },
+    "excuse_me": {
+      "text": "Кешіріңіз",
+      "roman": "keshiringiz",
+      "note": "Also a quick 'sorry'. People often add аға (agha) to an older man, апай (apay) to an older woman."
+    },
+    "good_morning": {
+      "text": "Қайырлы таң",
+      "roman": "qayyrly tang"
+    },
+    "how_are_you": {
+      "text": "Қалыңыз қалай?",
+      "roman": "qalyngyz qalay?",
+      "note": "Also polite: Қалайсыз? (qalaysyz?). To a friend: Қалайсың? (qalaysyng?)"
+    },
+    "im_fine": {
+      "text": "Жақсы, рахмет",
+      "roman": "zhaqsy, rakhmet",
+      "note": "Also: Жаман емес (zhaman emes), 'not bad'."
+    },
+    "whats_your_name": {
+      "text": "Атыңыз кім?",
+      "roman": "atyngyz kim?",
+      "note": "Kazakh asks 'who' (кім), not 'what'. To a child or friend: Атың кім? (atyng kim?)"
+    },
+    "my_name_is": {
+      "text": "Менің атым …",
+      "roman": "mening atym …",
+      "note": "Casual: Атым … (atym …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Танысқаныма қуаныштымын",
+      "roman": "tanysqanyma quanyshtymyn",
+      "note": "Easy reply: Мен де (men de), 'me too'."
+    },
+    "where_from": {
+      "text": "Сіз қайдансыз?",
+      "roman": "siz qaydansyz?",
+      "note": "To a friend: Қайдансың? (qaydansyng?)"
+    },
+    "im_from": {
+      "text": "Мен …данмын",
+      "roman": "men …danmyn",
+      "note": "The ending varies with the country: Қытайданмын (qytaydanmyn), Египеттенмін (egipettenmin)."
+    },
+    "speak_english": {
+      "text": "Ағылшынша сөйлейсіз бе?",
+      "roman": "aghylshynsha soyleysiz be?",
+      "note": "Also: Ағылшын тілін білесіз бе? (aghylshyn tilin bilesiz be?), 'do you know English?'"
+    },
+    "dont_understand": {
+      "text": "Түсінбеймін",
+      "roman": "tusinbeymin",
+      "note": "About something just said: Түсінбедім (tusinbedim), 'I didn't understand'."
+    },
+    "speak_slowly": {
+      "text": "Баяуырақ сөйлеңізші",
+      "roman": "bayauyraq soylengizshi",
+      "note": "Say it again, please: Қайталаңызшы (qaytalangyzshy)."
+    },
+    "where": {
+      "text": "Қайда?",
+      "roman": "qayda?"
+    },
+    "what": {
+      "text": "Не?",
+      "roman": "ne?",
+      "note": "Didn't catch it? Не дедіңіз? (ne dedingiz?), 'what did you say?'"
+    },
+    "when": {
+      "text": "Қашан?",
+      "roman": "qashan?"
+    },
+    "why": {
+      "text": "Неге?",
+      "roman": "nege?",
+      "note": "More formal: Неліктен? (nelikten?)"
+    },
+    "who": {
+      "text": "Кім?",
+      "roman": "kim?"
+    },
+    "how_much": {
+      "text": "Бұл қанша тұрады?",
+      "roman": "bul qansha turady?",
+      "note": "Also common: Бағасы қанша? (baghasy qansha?), 'what's the price?'"
+    },
+    "where_bathroom": {
+      "text": "Дәретхана қайда?",
+      "roman": "daretkhana qayda?",
+      "note": "Also: әжетхана (azhetkhana). Start with Кешіріңіз (keshiringiz) to be polite."
+    },
+    "can_you_help": {
+      "text": "Маған көмектесе аласыз ба?",
+      "roman": "maghan komektese alasyz ba?",
+      "note": "Softer and very common: Көмектесіп жіберіңізші (komektesip zhiberingizshi)."
+    },
+    "what_time": {
+      "text": "Сағат қанша?",
+      "roman": "saghat qansha?"
+    },
+    "what_means": {
+      "text": "Бұл нені білдіреді?",
+      "roman": "bul neni bildiredi?",
+      "note": "About a word: Бұл сөз нені білдіреді? (bul soz neni bildiredi?)"
+    },
+    "one": {
+      "text": "Бір",
+      "roman": "bir"
+    },
+    "two": {
+      "text": "Екі",
+      "roman": "eki"
+    },
+    "three": {
+      "text": "Үш",
+      "roman": "ush",
+      "note": "ү sounds like German ü."
+    },
+    "four": {
+      "text": "Төрт",
+      "roman": "tort",
+      "note": "ө sounds like German ö."
+    },
+    "five": {
+      "text": "Бес",
+      "roman": "bes"
+    },
+    "six": {
+      "text": "Алты",
+      "roman": "alty"
+    },
+    "seven": {
+      "text": "Жеті",
+      "roman": "zheti",
+      "note": "ж (zh) sounds like the s in 'measure'."
+    },
+    "eight": {
+      "text": "Сегіз",
+      "roman": "segiz"
+    },
+    "nine": {
+      "text": "Тоғыз",
+      "roman": "toghyz",
+      "note": "ғ (gh) is a soft throaty g, close to a French r."
+    },
+    "ten": {
+      "text": "Он",
+      "roman": "on"
+    },
+    "water": {
+      "text": "Су",
+      "roman": "su",
+      "note": "Drinking water: ауыз су (auyz su)."
+    },
+    "coffee": {
+      "text": "Кофе",
+      "roman": "kofe"
+    },
+    "tea": {
+      "text": "Шай",
+      "roman": "shay",
+      "note": "Tea usually comes with milk: сүтті шай (sutti shay)."
+    },
+    "bread": {
+      "text": "Нан",
+      "roman": "nan"
+    },
+    "im_hungry": {
+      "text": "Қарным ашты",
+      "roman": "qarnym ashty",
+      "note": "Literally 'my stomach got hungry'."
+    },
+    "menu_please": {
+      "text": "Мәзірді беріңізші",
+      "roman": "mazirdi beringizshi",
+      "note": "The word меню (menyu) is also widely used."
+    },
+    "bill_please": {
+      "text": "Шотты әкеліңізші",
+      "roman": "shotty akelingizshi",
+      "note": "Also common: Есептеп жіберіңізші (eseptep zhiberingizshi), 'please add it up'."
+    },
+    "delicious": {
+      "text": "Өте дәмді!",
+      "roman": "ote damdi!",
+      "note": "Very natural: Дәмді екен! (damdi eken!)"
+    },
+    "no_meat": {
+      "text": "Мен ет жемеймін",
+      "roman": "men et zhemeymin"
+    },
+    "enjoy_meal": {
+      "text": "Ас болсын!",
+      "roman": "as bolsyn!",
+      "note": "After the meal, guests say: Дастарқаныңызға береке! (dastarqanyngyzgha bereke!), 'plenty to your table'."
+    },
+    "left": {
+      "text": "Солға",
+      "roman": "solgha",
+      "note": "Turn left: Солға бұрылыңыз (solgha burylyngyz)."
+    },
+    "right": {
+      "text": "Оңға",
+      "roman": "onggha",
+      "note": "Turn right: Оңға бұрылыңыз (onggha burylyngyz)."
+    },
+    "straight_ahead": {
+      "text": "Тура",
+      "roman": "tura",
+      "note": "Go straight on: Тура жүріңіз (tura zhuringiz)."
+    },
+    "stop_here": {
+      "text": "Осы жерге тоқтаңызшы",
+      "roman": "osy zherge toqtangyzshy",
+      "note": "Shorter: Осында тоқтаңызшы (osynda toqtangyzshy)."
+    },
+    "airport": {
+      "text": "Әуежай",
+      "roman": "auezhay",
+      "note": "Taxi drivers also say аэропорт (aeroport)."
+    },
+    "hotel": {
+      "text": "Қонақүй",
+      "roman": "qonaquy",
+      "note": "In speech also отель (otel)."
+    },
+    "train_station": {
+      "text": "Теміржол вокзалы",
+      "roman": "temirzhol vokzaly",
+      "note": "Usually just вокзал (vokzal)."
+    },
+    "want_to_go": {
+      "text": "Мен …ға барғым келеді",
+      "roman": "men …gha barghym keledi",
+      "note": "-ға/-ге/-қа/-ке matches the place: Алматыға (almatygha), Шымкентке (shymkentke)."
+    },
+    "is_it_far": {
+      "text": "Алыс па?",
+      "roman": "alys pa?",
+      "note": "The question word па changes to ба/ма/пе/бе/ме to match the word before it."
+    },
+    "one_ticket": {
+      "text": "Бір билет беріңізші",
+      "roman": "bir bilet beringizshi"
+    },
+    "too_expensive": {
+      "text": "Тым қымбат",
+      "roman": "tym qymbat",
+      "note": "Also very common: Қымбат екен (qymbat eken)."
+    },
+    "cheaper": {
+      "text": "Арзанырақ бар ма?",
+      "roman": "arzanyraq bar ma?"
+    },
+    "id_like_this": {
+      "text": "Мынаны беріңізші",
+      "roman": "mynany beringizshi",
+      "note": "Or: Мынаны алайын (mynany alayyn), 'I'll take this one'."
+    },
+    "just_looking": {
+      "text": "Жай қарап жүрмін",
+      "roman": "zhay qarap zhurmin"
+    },
+    "pay_card": {
+      "text": "Картамен төлеуге бола ма?",
+      "roman": "kartamen toleuge bola ma?"
+    },
+    "cash": {
+      "text": "Қолма-қол ақша",
+      "roman": "qolma-qol aqsha",
+      "note": "Also said: нақты ақша (naqty aqsha)."
+    },
+    "open": {
+      "text": "Ашық",
+      "roman": "ashyq"
+    },
+    "closed": {
+      "text": "Жабық",
+      "roman": "zhabyq"
+    },
+    "big": {
+      "text": "Үлкен",
+      "roman": "ulken"
+    },
+    "small": {
+      "text": "Кішкентай",
+      "roman": "kishkentay",
+      "note": "For sizes and comparisons also кіші (kishi)."
+    },
+    "today": {
+      "text": "Бүгін",
+      "roman": "bugin"
+    },
+    "tomorrow": {
+      "text": "Ертең",
+      "roman": "erteng"
+    },
+    "yesterday": {
+      "text": "Кеше",
+      "roman": "keshe"
+    },
+    "now": {
+      "text": "Қазір",
+      "roman": "qazir",
+      "note": "Right now: Дәл қазір (dal qazir)."
+    },
+    "later": {
+      "text": "Кейін",
+      "roman": "keyin",
+      "note": "A bit later: Кейінірек (keyinirek)."
+    },
+    "good_evening": {
+      "text": "Қайырлы кеш",
+      "roman": "qayyrly kesh"
+    },
+    "good_night": {
+      "text": "Қайырлы түн",
+      "roman": "qayyrly tun",
+      "note": "Also: Тыныш ұйықтаңыз (tynysh uyyqtangyz), 'sleep well'."
+    },
+    "see_you_later": {
+      "text": "Кездескенше",
+      "roman": "kezdeskenshe",
+      "note": "Also common: Көріскенше (koriskenshe)."
+    },
+    "wait_moment": {
+      "text": "Сәл күте тұрыңызшы",
+      "roman": "sal kute turyngyzshy",
+      "note": "Quick version: Бір минут (bir minut)."
+    },
+    "every_day": {
+      "text": "Күн сайын",
+      "roman": "kun sayyn",
+      "note": "Colloquially: Күнде (kunde)."
+    },
+    "help": {
+      "text": "Көмектесіңдер!",
+      "roman": "komektesingder!",
+      "note": "Also shouted: Құтқарыңдар! (qutqaryngdar!), 'save me!'"
+    },
+    "call_police": {
+      "text": "Полицияны шақырыңыз!",
+      "roman": "politsiyany shaqyryngyz!",
+      "note": "In Kazakhstan: police 102, ambulance 103, any emergency 112."
+    },
+    "need_doctor": {
+      "text": "Маған дәрігер керек",
+      "roman": "maghan dariger kerek",
+      "note": "Call an ambulance: Жедел жәрдем шақырыңыз (zhedel zhardem shaqyryngyz)."
+    },
+    "im_lost": {
+      "text": "Мен адасып қалдым",
+      "roman": "men adasyp qaldym"
+    },
+    "dont_feel_well": {
+      "text": "Өзімді жаман сезініп тұрмын",
+      "roman": "ozimdi zhaman sezinip turmyn",
+      "note": "Shorter: Халім нашар (khalim nashar)."
+    },
+    "pharmacy": {
+      "text": "Дәріхана",
+      "roman": "darikhana"
+    },
+    "hospital": {
+      "text": "Аурухана",
+      "roman": "aurukhana"
+    },
+    "lost_phone": {
+      "text": "Телефонымды жоғалтып алдым",
+      "roman": "telefonymdy zhoghaltyp aldym"
+    },
+    "allergic": {
+      "text": "Менің …ға аллергиям бар",
+      "roman": "mening …gha allergiyam bar",
+      "note": "-ға/-ге/-қа/-ке matches the word: сүтке (sutke), to milk; жаңғаққа (zhangghaqqa), to nuts."
+    },
+    "be_careful": {
+      "text": "Абай болыңыз!",
+      "roman": "abay bolyngyz!",
+      "note": "Also: Сақ болыңыз! (saq bolyngyz!). To a friend: Абай бол! (abay bol!)"
+    },
+    "no_problem": {
+      "text": "Ештеңе етпейді",
+      "roman": "eshtenge etpeydi",
+      "note": "Also very common: Оқасы жоқ (oqasy zhoq)."
+    },
+    "of_course": {
+      "text": "Әрине",
+      "roman": "arine"
+    },
+    "maybe": {
+      "text": "Мүмкін",
+      "roman": "mumkin",
+      "note": "Also: Бәлкім (balkim)."
+    },
+    "dont_know": {
+      "text": "Білмеймін",
+      "roman": "bilmeymin"
+    },
+    "i_like_it": {
+      "text": "Маған ұнайды",
+      "roman": "maghan unaydy",
+      "note": "About something you just saw or tried: Маған ұнады (maghan unady)."
+    },
+    "dont_like_it": {
+      "text": "Маған ұнамайды",
+      "roman": "maghan unamaydy"
+    },
+    "im_tired": {
+      "text": "Шаршадым",
+      "roman": "sharshadym",
+      "note": "Past form is the normal way to say it: literally 'I got tired'."
+    },
+    "im_happy": {
+      "text": "Мен бақыттымын",
+      "roman": "men baqyttymyn",
+      "note": "Glad, pleased: Қуаныштымын (quanyshtymyn)."
+    },
+    "welcome": {
+      "text": "Қош келдіңіз!",
+      "roman": "qosh keldingiz!",
+      "note": "To several guests: Қош келдіңіздер! (qosh keldingizder!)"
+    },
+    "congratulations": {
+      "text": "Құттықтаймын!",
+      "roman": "quttyqtaymyn!",
+      "note": "For a new home, car or baby: Құтты болсын! (qutty bolsyn!)"
+    }
+  }
+}

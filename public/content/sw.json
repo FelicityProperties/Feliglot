@@ -1,0 +1,391 @@
+{
+  "code": "sw",
+  "phrases": {
+    "hello": {
+      "text": "Hujambo",
+      "note": "Reply: sijambo. Greet elders with shikamoo (they answer marahaba). Tourists mostly hear jambo."
+    },
+    "goodbye": {
+      "text": "Kwa heri",
+      "note": "To several people: kwa herini."
+    },
+    "please": {
+      "text": "Tafadhali",
+      "note": "When asking for something, naomba … (I request …) often sounds more natural."
+    },
+    "thank_you": {
+      "text": "Asante",
+      "note": "Asante sana: thank you very much. To several people: asanteni."
+    },
+    "youre_welcome": {
+      "text": "Karibu",
+      "note": "The same word also means 'welcome' and 'come in'."
+    },
+    "yes": {
+      "text": "Ndiyo",
+      "note": "Also written ndio. Casual: eeh."
+    },
+    "no": {
+      "text": "Hapana"
+    },
+    "sorry": {
+      "text": "Samahani",
+      "note": "Pole shows sympathy (someone is hurt or tired); it is not an apology. For a real wrong: nisamehe."
+    },
+    "excuse_me": {
+      "text": "Samahani",
+      "note": "Same word as for 'sorry': samahani covers both."
+    },
+    "good_morning": {
+      "text": "Habari za asubuhi",
+      "note": "Reply: nzuri. Also common: umeamkaje? (how did you wake up?)"
+    },
+    "how_are_you": {
+      "text": "Habari yako?",
+      "note": "Reply: nzuri (good). Casual among young people: mambo? — answer poa."
+    },
+    "im_fine": {
+      "text": "Nzuri, asante",
+      "note": "The usual answer to habari? To hujambo? answer sijambo. Ask back: na wewe?"
+    },
+    "whats_your_name": {
+      "text": "Jina lako ni nani?",
+      "note": "Also common: unaitwa nani? (what are you called?)"
+    },
+    "my_name_is": {
+      "text": "Jina langu ni …",
+      "note": "Also common: ninaitwa … (I am called …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Nimefurahi kukufahamu",
+      "note": "Also: nimefurahi kukutana nawe (I'm glad to have met you)."
+    },
+    "where_from": {
+      "text": "Unatoka wapi?",
+      "note": "Can also mean 'where are you coming from now?'. Clearer for a country: unatoka nchi gani?"
+    },
+    "im_from": {
+      "text": "Ninatoka …",
+      "note": "In speech often natoka … For nationality: mimi ni Mkenya (I'm Kenyan)."
+    },
+    "speak_english": {
+      "text": "Unazungumza Kiingereza?",
+      "note": "In Kenya also: unaongea Kiingereza? Written questions often start with je."
+    },
+    "dont_understand": {
+      "text": "Sielewi",
+      "note": "Also very common: sijaelewa (I haven't understood)."
+    },
+    "speak_slowly": {
+      "text": "Tafadhali sema polepole",
+      "note": "Add zaidi for 'even more slowly': polepole zaidi."
+    },
+    "where": {
+      "text": "Wapi?",
+      "note": "Usually comes after the verb: unaenda wapi? (where are you going?)"
+    },
+    "what": {
+      "text": "Nini?",
+      "note": "Usually comes after the verb: unataka nini? (what do you want?)"
+    },
+    "when": {
+      "text": "Lini?",
+      "note": "Usually comes at the end: utarudi lini? (when will you come back?)"
+    },
+    "why": {
+      "text": "Kwa nini?"
+    },
+    "who": {
+      "text": "Nani?",
+      "note": "Also used to ask a name: jina lako ni nani?"
+    },
+    "how_much": {
+      "text": "Hii ni bei gani?",
+      "note": "Also common: ni shilingi ngapi? (how many shillings?)"
+    },
+    "where_bathroom": {
+      "text": "Samahani, choo kiko wapi?",
+      "note": "Door signs: wanaume (men), wanawake (women)."
+    },
+    "can_you_help": {
+      "text": "Unaweza kunisaidia, tafadhali?",
+      "note": "Also polite and very common: naomba msaada (I'd like some help)."
+    },
+    "what_time": {
+      "text": "Ni saa ngapi?",
+      "note": "Swahili time counts from dawn: 7 am is saa moja (hour one), 8 am is saa mbili."
+    },
+    "what_means": {
+      "text": "Hii ina maana gani?",
+      "note": "About a word: neno hili lina maana gani?"
+    },
+    "one": {
+      "text": "Moja",
+      "note": "Changes with some nouns: mtu mmoja (one person), kitu kimoja (one thing)."
+    },
+    "two": {
+      "text": "Mbili",
+      "note": "With people: watu wawili."
+    },
+    "three": {
+      "text": "Tatu"
+    },
+    "four": {
+      "text": "Nne",
+      "note": "Say both n's: n-ne. With people: watu wanne."
+    },
+    "five": {
+      "text": "Tano"
+    },
+    "six": {
+      "text": "Sita",
+      "note": "From Arabic, like saba and tisa, so it never changes: watu sita."
+    },
+    "seven": {
+      "text": "Saba"
+    },
+    "eight": {
+      "text": "Nane",
+      "note": "With people: watu wanane."
+    },
+    "nine": {
+      "text": "Tisa"
+    },
+    "ten": {
+      "text": "Kumi"
+    },
+    "water": {
+      "text": "Maji",
+      "note": "Drinking water: maji ya kunywa. Bottled water: maji ya chupa."
+    },
+    "coffee": {
+      "text": "Kahawa",
+      "note": "With milk: kahawa ya maziwa."
+    },
+    "tea": {
+      "text": "Chai",
+      "note": "Usually served sweet with milk. Black tea: chai ya rangi or chai kavu; in Kenya often strungi."
+    },
+    "bread": {
+      "text": "Mkate"
+    },
+    "im_hungry": {
+      "text": "Nina njaa",
+      "note": "Literally 'I have hunger'; thirst works the same way: nina kiu."
+    },
+    "menu_please": {
+      "text": "Naomba menyu",
+      "note": "Naomba (I request) is the polite way to ask for anything; tafadhali is optional."
+    },
+    "bill_please": {
+      "text": "Naomba bili"
+    },
+    "delicious": {
+      "text": "Kitamu sana!",
+      "note": "Agrees with the noun: chakula ni kitamu (food), chai ni tamu (tea). Sana means 'very'."
+    },
+    "no_meat": {
+      "text": "Sili nyama",
+      "note": "Sili comes from kula (to eat). Same pattern: sili samaki (I don't eat fish)."
+    },
+    "enjoy_meal": {
+      "text": "Karibu chakula!",
+      "note": "The host's invitation to eat; people eating also say it to anyone passing by."
+    },
+    "left": {
+      "text": "Kushoto"
+    },
+    "right": {
+      "text": "Kulia",
+      "note": "Kulia also means 'to cry'; context makes it clear."
+    },
+    "straight_ahead": {
+      "text": "Moja kwa moja",
+      "note": "Also means 'directly' or 'non-stop'."
+    },
+    "stop_here": {
+      "text": "Nishushe hapa, tafadhali",
+      "note": "Literally 'drop me here'. Also: simama hapa (stop here)."
+    },
+    "airport": {
+      "text": "Uwanja wa ndege",
+      "note": "Ndege means both 'bird' and 'plane'."
+    },
+    "hotel": {
+      "text": "Hoteli",
+      "note": "In East Africa hoteli often means a simple eatery too. A guesthouse: nyumba ya wageni."
+    },
+    "train_station": {
+      "text": "Kituo cha treni",
+      "note": "Also common: stesheni. Kituo alone is any stop or station, e.g. kituo cha basi (bus stop)."
+    },
+    "want_to_go": {
+      "text": "Nataka kwenda …",
+      "note": "Softer: ningependa kwenda … (I'd like to go to …)."
+    },
+    "is_it_far": {
+      "text": "Ni mbali?",
+      "note": "Answers: si mbali (it's not far), ni karibu (it's near)."
+    },
+    "one_ticket": {
+      "text": "Tiketi moja, tafadhali",
+      "note": "On minibuses (matatu, daladala) you usually just pay the conductor (kondakta)."
+    },
+    "too_expensive": {
+      "text": "Ni ghali sana",
+      "note": "To bargain: punguza bei kidogo (lower the price a little)."
+    },
+    "cheaper": {
+      "text": "Una kitu cha bei nafuu zaidi?",
+      "note": "Rahisi (cheap, easy) also works: cha bei rahisi zaidi?"
+    },
+    "id_like_this": {
+      "text": "Ningependa hiki, tafadhali",
+      "note": "Hiki means 'this thing'. In a shop people also say nitachukua hiki (I'll take this)."
+    },
+    "just_looking": {
+      "text": "Ninaangalia tu, asante"
+    },
+    "pay_card": {
+      "text": "Naweza kulipa kwa kadi?",
+      "note": "Mobile money (e.g. M-Pesa) is often more widely accepted than cards."
+    },
+    "cash": {
+      "text": "Pesa taslimu",
+      "note": "Pesa alone means money. To pay cash: kulipa kwa pesa taslimu."
+    },
+    "open": {
+      "text": "Wazi",
+      "note": "Signs may also read tuko wazi (we're open)."
+    },
+    "closed": {
+      "text": "Imefungwa",
+      "note": "Also on signs: tumefunga (we've closed)."
+    },
+    "big": {
+      "text": "Kubwa",
+      "note": "Agrees with the noun: nyumba kubwa (house), kitu kikubwa (thing), mtu mkubwa (person)."
+    },
+    "small": {
+      "text": "Ndogo",
+      "note": "Agrees with the noun: nyumba ndogo, kitu kidogo, mtu mdogo. Kidogo also means 'a little'."
+    },
+    "today": {
+      "text": "Leo"
+    },
+    "tomorrow": {
+      "text": "Kesho",
+      "note": "The day after tomorrow: kesho kutwa."
+    },
+    "yesterday": {
+      "text": "Jana",
+      "note": "The day before yesterday: juzi."
+    },
+    "now": {
+      "text": "Sasa",
+      "note": "Right now: sasa hivi, though in practice it often means 'soon'."
+    },
+    "later": {
+      "text": "Baadaye"
+    },
+    "good_evening": {
+      "text": "Habari za jioni",
+      "note": "Reply: nzuri. Jioni runs from late afternoon to dusk."
+    },
+    "good_night": {
+      "text": "Usiku mwema",
+      "note": "Before sleep, also: lala salama (sleep well)."
+    },
+    "see_you_later": {
+      "text": "Tutaonana baadaye",
+      "note": "Often just tutaonana (we'll see each other)."
+    },
+    "wait_moment": {
+      "text": "Subiri kidogo, tafadhali",
+      "note": "Also common: ngoja kidogo."
+    },
+    "every_day": {
+      "text": "Kila siku",
+      "note": "Kila (every) comes before the noun: kila mtu (everyone)."
+    },
+    "help": {
+      "text": "Msaada!",
+      "note": "Also shouted: nisaidieni! (help me, everyone!)"
+    },
+    "call_police": {
+      "text": "Waite polisi!",
+      "note": "Or: piga simu polisi! (phone the police)."
+    },
+    "need_doctor": {
+      "text": "Ninahitaji daktari",
+      "note": "Take me to hospital: nipeleke hospitali."
+    },
+    "im_lost": {
+      "text": "Nimepotea",
+      "note": "Uses the -me- (perfect) tense: literally 'I have got lost'."
+    },
+    "dont_feel_well": {
+      "text": "Sijisikii vizuri",
+      "note": "Also: ninaumwa (I'm ill). A headache: kichwa kinauma."
+    },
+    "pharmacy": {
+      "text": "Duka la dawa",
+      "note": "Dawa means medicine. In Kenya pharmacies are also called chemists."
+    },
+    "hospital": {
+      "text": "Hospitali",
+      "note": "A small clinic: zahanati or kliniki."
+    },
+    "lost_phone": {
+      "text": "Nimepoteza simu yangu",
+      "note": "Kupoteza is to lose something; kupotea is to be lost yourself (nimepotea)."
+    },
+    "allergic": {
+      "text": "Nina mzio wa …",
+      "note": "Mzio is the standard word; in speech many use the loanword aleji: nina aleji ya karanga (peanuts)."
+    },
+    "be_careful": {
+      "text": "Kuwa mwangalifu!",
+      "note": "For sudden danger: angalia! (look out!)"
+    },
+    "no_problem": {
+      "text": "Hakuna shida",
+      "note": "Hakuna matata exists but is less common in daily speech. Casual: sawa (OK)."
+    },
+    "of_course": {
+      "text": "Bila shaka",
+      "note": "Casual: kabisa! (absolutely)"
+    },
+    "maybe": {
+      "text": "Labda",
+      "note": "Also: pengine or huenda."
+    },
+    "dont_know": {
+      "text": "Sijui"
+    },
+    "i_like_it": {
+      "text": "Ninaipenda",
+      "note": "Just tried or seen it? Nimeipenda (I've come to like it) is very common."
+    },
+    "dont_like_it": {
+      "text": "Siipendi",
+      "note": "Both i's are pronounced: si-i-pendi."
+    },
+    "im_tired": {
+      "text": "Nimechoka",
+      "note": "The kind reply is pole! (a word of sympathy)."
+    },
+    "im_happy": {
+      "text": "Nina furaha",
+      "note": "Also: nimefurahi (I'm pleased), e.g. at good news."
+    },
+    "welcome": {
+      "text": "Karibu!",
+      "note": "To several guests: karibuni! The reply is asante."
+    },
+    "congratulations": {
+      "text": "Hongera!",
+      "note": "To several people: hongereni!"
+    }
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "code": "te",
+  "phrases": {
+    "hello": {
+      "text": "నమస్కారం",
+      "roman": "namaskaaram",
+      "note": "Also: నమస్తే (namaste), said with palms together. Among friends people often just say 'hi'."
+    },
+    "goodbye": {
+      "text": "వెళ్ళొస్తాను",
+      "roman": "vellostaanu",
+      "note": "Literally 'I'll go and come back'. Also common: ఉంటాను (untaanu). Casual: 'bye'."
+    },
+    "please": {
+      "text": "దయచేసి",
+      "roman": "dayachesi",
+      "note": "Often left out: the polite verb ending -andi does the work, e.g. ఇవ్వండి (ivvandi) 'please give'."
+    },
+    "thank_you": {
+      "text": "ధన్యవాదాలు",
+      "roman": "dhanyavaadaalu",
+      "note": "In everyday speech many people simply say English 'thanks'."
+    },
+    "youre_welcome": {
+      "text": "పర్వాలేదు",
+      "roman": "parvaaledu",
+      "note": "Telugu has no fixed reply to thanks; people say this ('it's all right') or English 'welcome'."
+    },
+    "yes": {
+      "text": "అవును",
+      "roman": "avunu",
+      "note": "Polite: అవునండి (avunandi). Casual: ఆ (aa)."
+    },
+    "no": {
+      "text": "కాదు",
+      "roman": "kaadu",
+      "note": "Use లేదు (ledu) for 'there isn't / didn't', and వద్దు (vaddu) for 'I don't want it'."
+    },
+    "sorry": {
+      "text": "క్షమించండి",
+      "roman": "kshaminchandi",
+      "note": "Rather formal; in everyday speech English 'sorry' is used all the time."
+    },
+    "excuse_me": {
+      "text": "ఏమండీ",
+      "roman": "emandee",
+      "note": "The usual polite way to call a stranger. Many people also say English 'excuse me'."
+    },
+    "good_morning": {
+      "text": "శుభోదయం",
+      "roman": "shubhodayam",
+      "note": "Formal; in daily life people usually say namaskaaram or English 'good morning'."
+    },
+    "how_are_you": {
+      "text": "మీరు ఎలా ఉన్నారు?",
+      "roman": "meeru elaa unnaaru?",
+      "note": "Very common too: బాగున్నారా? (baagunnaaraa?) 'Are you well?'"
+    },
+    "im_fine": {
+      "text": "బాగున్నాను, ధన్యవాదాలు",
+      "roman": "baagunnaanu, dhanyavaadaalu",
+      "note": "Polite: బాగున్నానండి (baagunnaanandi). To ask back: మీరు? (meeru?)"
+    },
+    "whats_your_name": {
+      "text": "మీ పేరు ఏమిటి?",
+      "roman": "mee peru emiti?",
+      "note": "Everyday: మీ పేరేంటి? (mee perenti?)"
+    },
+    "my_name_is": {
+      "text": "నా పేరు …",
+      "roman": "naa peru …"
+    },
+    "nice_to_meet_you": {
+      "text": "మిమ్మల్ని కలవడం చాలా సంతోషంగా ఉంది",
+      "roman": "mimmalni kalavadam chaalaa santoshangaa undi"
+    },
+    "where_from": {
+      "text": "మీరు ఎక్కడి నుంచి వచ్చారు?",
+      "roman": "meeru ekkadi nunchi vachchaaru?",
+      "note": "Also: మీది ఏ ఊరు? (meedi e ooru?) 'Which town are you from?'"
+    },
+    "im_from": {
+      "text": "నేను … నుంచి వచ్చాను",
+      "roman": "nenu … nunchi vachchaanu",
+      "note": "Literally 'I came from …'. Also common: మాది … (maadi …)."
+    },
+    "speak_english": {
+      "text": "మీకు ఇంగ్లీష్ వచ్చా?",
+      "roman": "meeku ingleesh vachchaa?",
+      "note": "Literally 'Does English come to you?', the usual way to ask if someone knows a language."
+    },
+    "dont_understand": {
+      "text": "నాకు అర్థం కాలేదు",
+      "roman": "naaku artham kaaledu",
+      "note": "Literally 'I didn't understand', the natural form in conversation."
+    },
+    "speak_slowly": {
+      "text": "దయచేసి కొంచెం నెమ్మదిగా మాట్లాడండి",
+      "roman": "dayachesi konchem nemmadigaa maatlaadandi"
+    },
+    "where": {
+      "text": "ఎక్కడ?",
+      "roman": "ekkada?"
+    },
+    "what": {
+      "text": "ఏమిటి?",
+      "roman": "emiti?",
+      "note": "Colloquial: ఏంటి? (enti?)"
+    },
+    "when": {
+      "text": "ఎప్పుడు?",
+      "roman": "eppudu?"
+    },
+    "why": {
+      "text": "ఎందుకు?",
+      "roman": "enduku?"
+    },
+    "who": {
+      "text": "ఎవరు?",
+      "roman": "evaru?"
+    },
+    "how_much": {
+      "text": "ఇది ఎంత?",
+      "roman": "idi enta?",
+      "note": "Also: దీని ధర ఎంత? (deeni dhara enta?) 'What is its price?'"
+    },
+    "where_bathroom": {
+      "text": "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "roman": "baatroom ekkada undi?",
+      "note": "Also understood: టాయిలెట్ (taayilet)."
+    },
+    "can_you_help": {
+      "text": "నాకు కొంచెం సహాయం చేస్తారా?",
+      "roman": "naaku konchem sahaayam chestaaraa?"
+    },
+    "what_time": {
+      "text": "టైమ్ ఎంత అయింది?",
+      "roman": "taim enta ayindi?",
+      "note": "More formal: సమయం ఎంత అయింది? (samayam enta ayindi?)"
+    },
+    "what_means": {
+      "text": "దీని అర్థం ఏమిటి?",
+      "roman": "deeni artham emiti?"
+    },
+    "one": {
+      "text": "ఒకటి",
+      "roman": "okati",
+      "note": "Telugu digit: ౧ (everyday writing uses 1). Before a noun it becomes ఒక (oka)."
+    },
+    "two": {
+      "text": "రెండు",
+      "roman": "rendu",
+      "note": "Telugu digit: ౨"
+    },
+    "three": {
+      "text": "మూడు",
+      "roman": "moodu",
+      "note": "Telugu digit: ౩"
+    },
+    "four": {
+      "text": "నాలుగు",
+      "roman": "naalugu",
+      "note": "Telugu digit: ౪"
+    },
+    "five": {
+      "text": "ఐదు",
+      "roman": "aidu",
+      "note": "Telugu digit: ౫. Also spelled అయిదు (ayidu)."
+    },
+    "six": {
+      "text": "ఆరు",
+      "roman": "aaru",
+      "note": "Telugu digit: ౬"
+    },
+    "seven": {
+      "text": "ఏడు",
+      "roman": "edu",
+      "note": "Telugu digit: ౭. The e is long, like 'ay' in 'day'."
+    },
+    "eight": {
+      "text": "ఎనిమిది",
+      "roman": "enimidi",
+      "note": "Telugu digit: ౮"
+    },
+    "nine": {
+      "text": "తొమ్మిది",
+      "roman": "tommidi",
+      "note": "Telugu digit: ౯"
+    },
+    "ten": {
+      "text": "పది",
+      "roman": "padi",
+      "note": "Telugu digits: ౧౦"
+    },
+    "water": {
+      "text": "మంచినీళ్ళు",
+      "roman": "manchineellu",
+      "note": "Literally 'good water', the everyday word for drinking water. Water in general: నీళ్ళు (neellu)."
+    },
+    "coffee": {
+      "text": "కాఫీ",
+      "roman": "kaafee"
+    },
+    "tea": {
+      "text": "టీ",
+      "roman": "tee",
+      "note": "In Hyderabad and Telangana also చాయ్ (chaay)."
+    },
+    "bread": {
+      "text": "రొట్టె",
+      "roman": "rotte",
+      "note": "Traditional flatbread/roti; sliced loaf bread is బ్రెడ్ (bred)."
+    },
+    "im_hungry": {
+      "text": "నాకు ఆకలిగా ఉంది",
+      "roman": "naaku aakaligaa undi",
+      "note": "Colloquial: ఆకలేస్తోంది (aakalestondi)."
+    },
+    "menu_please": {
+      "text": "మెనూ ఇవ్వండి",
+      "roman": "menoo ivvandi"
+    },
+    "bill_please": {
+      "text": "బిల్లు తీసుకురండి",
+      "roman": "billu teesukurandi",
+      "note": "Also: బిల్లు ఇవ్వండి (billu ivvandi)."
+    },
+    "delicious": {
+      "text": "చాలా రుచిగా ఉంది!",
+      "roman": "chaalaa ruchigaa undi!",
+      "note": "Simply: చాలా బాగుంది! (chaalaa baagundi!)"
+    },
+    "no_meat": {
+      "text": "నేను మాంసం తినను",
+      "roman": "nenu maamsam tinanu",
+      "note": "Or: నేను శాకాహారిని (nenu shaakaahaarini) 'I'm vegetarian'."
+    },
+    "enjoy_meal": {
+      "text": "హాయిగా తినండి!",
+      "roman": "haayigaa tinandi!",
+      "note": "No fixed phrase in Telugu; hosts say this. Also: కడుపు నిండా తినండి (kadupu nindaa tinandi) 'eat your fill'."
+    },
+    "left": {
+      "text": "ఎడమ",
+      "roman": "edama",
+      "note": "To the left: ఎడమ వైపు (edama vaipu)."
+    },
+    "right": {
+      "text": "కుడి",
+      "roman": "kudi",
+      "note": "To the right: కుడి వైపు (kudi vaipu)."
+    },
+    "straight_ahead": {
+      "text": "నేరుగా",
+      "roman": "nerugaa",
+      "note": "Go straight: నేరుగా వెళ్ళండి (nerugaa vellandi). Also: తిన్నగా (tinnagaa)."
+    },
+    "stop_here": {
+      "text": "ఇక్కడ ఆపండి",
+      "roman": "ikkada aapandi"
+    },
+    "airport": {
+      "text": "ఎయిర్‌పోర్ట్",
+      "roman": "eyirport",
+      "note": "What everyone says. Formal and on signs: విమానాశ్రయం (vimaanaashrayam)."
+    },
+    "hotel": {
+      "text": "హోటల్",
+      "roman": "hotal",
+      "note": "In Telugu states 'hotel' often means a restaurant; a cheaper place to stay is a లాడ్జి (laadji)."
+    },
+    "train_station": {
+      "text": "రైల్వే స్టేషన్",
+      "roman": "railve steshan"
+    },
+    "want_to_go": {
+      "text": "నేను …కి వెళ్ళాలి",
+      "roman": "nenu …ki vellaali",
+      "note": "-ki ('to') joins the place name (-ku after some words). Literally 'I need to go to …'."
+    },
+    "is_it_far": {
+      "text": "అది దూరమా?",
+      "roman": "adi dooramaa?"
+    },
+    "one_ticket": {
+      "text": "ఒక టికెట్ ఇవ్వండి",
+      "roman": "oka tiket ivvandi"
+    },
+    "too_expensive": {
+      "text": "ఇది చాలా ఖరీదు",
+      "roman": "idi chaalaa khareedu",
+      "note": "When bargaining: చాలా ఎక్కువ చెబుతున్నారు (chaalaa ekkuva chebutunnaaru) 'You're asking too much'."
+    },
+    "cheaper": {
+      "text": "ఇంతకంటే తక్కువ ధరలో ఏమైనా ఉందా?",
+      "roman": "intakante takkuva dharalo emainaa undaa?"
+    },
+    "id_like_this": {
+      "text": "నాకు ఇది కావాలి",
+      "roman": "naaku idi kaavaali"
+    },
+    "just_looking": {
+      "text": "ఊరికే చూస్తున్నాను",
+      "roman": "oorike choostunnaanu"
+    },
+    "pay_card": {
+      "text": "కార్డుతో కట్టొచ్చా?",
+      "roman": "kaarduto kattochchaa?",
+      "note": "Also: కార్డు తీసుకుంటారా? (kaardu teesukuntaaraa?) 'Do you take cards?'"
+    },
+    "cash": {
+      "text": "నగదు",
+      "roman": "nagadu",
+      "note": "In everyday speech most people say క్యాష్ (kyaash)."
+    },
+    "open": {
+      "text": "తెరిచి ఉంది",
+      "roman": "terichi undi"
+    },
+    "closed": {
+      "text": "మూసి ఉంది",
+      "roman": "moosi undi"
+    },
+    "big": {
+      "text": "పెద్ద",
+      "roman": "pedda"
+    },
+    "small": {
+      "text": "చిన్న",
+      "roman": "chinna"
+    },
+    "today": {
+      "text": "ఈరోజు",
+      "roman": "eeroju",
+      "note": "Also common: ఇవాళ (ivaala)."
+    },
+    "tomorrow": {
+      "text": "రేపు",
+      "roman": "repu"
+    },
+    "yesterday": {
+      "text": "నిన్న",
+      "roman": "ninna"
+    },
+    "now": {
+      "text": "ఇప్పుడు",
+      "roman": "ippudu"
+    },
+    "later": {
+      "text": "తర్వాత",
+      "roman": "tarvaata",
+      "note": "Full form: తరువాత (taruvaata)."
+    },
+    "good_evening": {
+      "text": "శుభ సాయంత్రం",
+      "roman": "shubha saayantram",
+      "note": "Rare in daily life; people greet with namaskaaram or English 'good evening'."
+    },
+    "good_night": {
+      "text": "శుభ రాత్రి",
+      "roman": "shubha raatri",
+      "note": "English 'good night' is also very common."
+    },
+    "see_you_later": {
+      "text": "మళ్ళీ కలుద్దాం",
+      "roman": "mallee kaluddaam",
+      "note": "Literally 'let's meet again'."
+    },
+    "wait_moment": {
+      "text": "ఒక్క నిమిషం ఆగండి",
+      "roman": "okka nimisham aagandi"
+    },
+    "every_day": {
+      "text": "ప్రతిరోజూ",
+      "roman": "pratirojoo",
+      "note": "Casual: రోజూ (rojoo)."
+    },
+    "help": {
+      "text": "కాపాడండి!",
+      "roman": "kaapaadandi!",
+      "note": "Also: రక్షించండి! (rakshinchandi!)"
+    },
+    "call_police": {
+      "text": "పోలీసులను పిలవండి!",
+      "roman": "poleesulanu pilavandi!",
+      "note": "India's emergency number is 112."
+    },
+    "need_doctor": {
+      "text": "నాకు డాక్టర్ కావాలి",
+      "roman": "naaku daaktar kaavaali",
+      "note": "Formal word for doctor: వైద్యుడు (vaidyudu)."
+    },
+    "im_lost": {
+      "text": "నేను దారి తప్పిపోయాను",
+      "roman": "nenu daari tappipoyaanu"
+    },
+    "dont_feel_well": {
+      "text": "నాకు ఒంట్లో బాగాలేదు",
+      "roman": "naaku ontlo baagaaledu"
+    },
+    "pharmacy": {
+      "text": "మందుల షాపు",
+      "roman": "mandula shaapu",
+      "note": "Most people say మెడికల్ షాప్ (medikal shaap). Careful: మందు షాపు (mandu shaapu) often means a liquor shop!"
+    },
+    "hospital": {
+      "text": "ఆసుపత్రి",
+      "roman": "aasupatri",
+      "note": "Also common: హాస్పిటల్ (haaspital)."
+    },
+    "lost_phone": {
+      "text": "నా ఫోన్ పోయింది",
+      "roman": "naa fon poyindi"
+    },
+    "allergic": {
+      "text": "నాకు … అలర్జీ ఉంది",
+      "roman": "naaku … alarjee undi",
+      "note": "Also natural: నాకు … పడదు (naaku … padadu) '… doesn't agree with me'."
+    },
+    "be_careful": {
+      "text": "జాగ్రత్త!",
+      "roman": "jaagratta!",
+      "note": "Longer and polite: జాగ్రత్తగా ఉండండి (jaagrattagaa undandi)."
+    },
+    "no_problem": {
+      "text": "ఏం ఇబ్బంది లేదు",
+      "roman": "em ibbandi ledu",
+      "note": "Also very common: ఏం పర్లేదు (em parledu)."
+    },
+    "of_course": {
+      "text": "తప్పకుండా",
+      "roman": "tappakundaa"
+    },
+    "maybe": {
+      "text": "బహుశా",
+      "roman": "bahushaa",
+      "note": "As a reply people often say అవ్వొచ్చు (avvochchu) 'could be'."
+    },
+    "dont_know": {
+      "text": "నాకు తెలియదు",
+      "roman": "naaku teliyadu",
+      "note": "Colloquial: తెలీదు (teleedu)."
+    },
+    "i_like_it": {
+      "text": "నాకు నచ్చింది",
+      "roman": "naaku nachchindi",
+      "note": "For things you like in general: నాకు ఇష్టం (naaku ishtam)."
+    },
+    "dont_like_it": {
+      "text": "నాకు నచ్చలేదు",
+      "roman": "naaku nachchaledu",
+      "note": "For general dislikes: నాకు ఇష్టం లేదు (naaku ishtam ledu)."
+    },
+    "im_tired": {
+      "text": "నేను అలసిపోయాను",
+      "roman": "nenu alasipoyaanu"
+    },
+    "im_happy": {
+      "text": "నాకు సంతోషంగా ఉంది",
+      "roman": "naaku santoshangaa undi"
+    },
+    "welcome": {
+      "text": "రండి, రండి!",
+      "roman": "randi, randi!",
+      "note": "The warm everyday way to welcome a guest ('come in'). Formal and on signs: స్వాగతం (svaagatam)."
+    },
+    "congratulations": {
+      "text": "అభినందనలు!",
+      "roman": "abhinandanalu!"
+    }
+  }
+}

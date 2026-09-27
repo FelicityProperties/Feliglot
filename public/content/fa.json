@@ -1,0 +1,480 @@
+{
+  "code": "fa",
+  "phrases": {
+    "hello": {
+      "text": "سلام",
+      "roman": "salaam",
+      "note": "More formal: salaam aleykom (سلام علیکم)."
+    },
+    "goodbye": {
+      "text": "خداحافظ",
+      "roman": "khodaa-haafez",
+      "note": "In quick speech often khodaafez. Casual: baay (بای)."
+    },
+    "please": {
+      "text": "لطفاً",
+      "roman": "lotfan",
+      "note": "Used in requests. When offering something or inviting someone in, say befarmaayid (بفرمایید)."
+    },
+    "thank_you": {
+      "text": "ممنون",
+      "roman": "mamnoon",
+      "note": "Just as common: merci (مرسی). More formal: moteshakkeram (متشکرم)."
+    },
+    "youre_welcome": {
+      "text": "خواهش می‌کنم",
+      "roman": "khaahesh mikonam",
+      "note": "When thanked for something you gave: ghaabeli nadaasht (قابلی نداشت), 'it was nothing'."
+    },
+    "yes": {
+      "text": "بله",
+      "roman": "bale",
+      "note": "Casual: aare (آره)."
+    },
+    "no": {
+      "text": "نه",
+      "roman": "na",
+      "note": "Very polite or formal: kheyr (خیر)."
+    },
+    "sorry": {
+      "text": "معذرت می‌خوام",
+      "roman": "ma'zerat mikhaam",
+      "note": "For small things just say bebakhshid (ببخشید)."
+    },
+    "excuse_me": {
+      "text": "ببخشید",
+      "roman": "bebakhshid",
+      "note": "Also a quick 'sorry', e.g. when you bump into someone or squeeze past."
+    },
+    "good_morning": {
+      "text": "صبح بخیر",
+      "roman": "sobh bekheyr"
+    },
+    "how_are_you": {
+      "text": "حالتون چطوره؟",
+      "roman": "haaletoon chetore?",
+      "note": "Also common and polite: khoob hastid? (خوب هستید؟)"
+    },
+    "im_fine": {
+      "text": "خوبم، ممنون",
+      "roman": "khoobam, mamnoon",
+      "note": "It's polite to ask back: shomaa chetorid? (شما چطورید؟)"
+    },
+    "whats_your_name": {
+      "text": "اسمتون چیه؟",
+      "roman": "esmetoon chiye?",
+      "note": "Extra polite: esm-e sharifetoon chiye? (اسم شریفتون چیه؟)"
+    },
+    "my_name_is": {
+      "text": "من … هستم",
+      "roman": "man … hastam",
+      "note": "Lit. 'I am …', the usual way to introduce yourself. 'My name is Maryam' is esmam Maryame (اسمم مریمه)."
+    },
+    "nice_to_meet_you": {
+      "text": "از آشنایی‌تون خوشبختم",
+      "roman": "az aashnaayitoon khoshbakhtam",
+      "note": "Short and very common: khoshbakhtam (خوشبختم)."
+    },
+    "where_from": {
+      "text": "اهل کجا هستید؟",
+      "roman": "ahl-e kojaa hastid?"
+    },
+    "im_from": {
+      "text": "من اهل … هستم",
+      "roman": "man ahl-e … hastam"
+    },
+    "speak_english": {
+      "text": "انگلیسی بلدید؟",
+      "roman": "engelisi baladid?",
+      "note": "Lit. 'Do you know English?' Also: engelisi sohbat mikonid? (انگلیسی صحبت می‌کنید؟)"
+    },
+    "dont_understand": {
+      "text": "متوجه نمی‌شم",
+      "roman": "motevajjeh nemisham",
+      "note": "Simpler but blunter: nemifahmam (نمی‌فهمم)."
+    },
+    "speak_slowly": {
+      "text": "لطفاً آروم‌تر صحبت کنید",
+      "roman": "lotfan aaroomtar sohbat konid",
+      "note": "To ask for a repeat: mishe tekraar konid? (می‌شه تکرار کنید؟)"
+    },
+    "where": {
+      "text": "کجا؟",
+      "roman": "kojaa?",
+      "note": "For 'Where is …?' say … kojaast? (… کجاست؟)"
+    },
+    "what": {
+      "text": "چی؟",
+      "roman": "chi?",
+      "note": "Formal che (چه) is used inside a sentence, not alone. If you didn't catch something, bale? (بله؟) is politer."
+    },
+    "when": {
+      "text": "کِی؟",
+      "roman": "key?",
+      "note": "Key rhymes with 'day'. Same letters as ki (who); the vowel mark just tells them apart and is usually left out."
+    },
+    "why": {
+      "text": "چرا؟",
+      "roman": "cheraa?"
+    },
+    "who": {
+      "text": "کی؟",
+      "roman": "ki?",
+      "note": "Formal: che kasi (چه کسی). Same spelling as key (when); context tells them apart."
+    },
+    "how_much": {
+      "text": "این چنده؟",
+      "roman": "in chande?",
+      "note": "Also: gheymatesh chande? (قیمتش چنده؟)"
+    },
+    "where_bathroom": {
+      "text": "دستشویی کجاست؟",
+      "roman": "dastshooyi kojaast?",
+      "note": "Signs usually say servis-e behdaashti (سرویس بهداشتی)."
+    },
+    "can_you_help": {
+      "text": "می‌شه کمکم کنید؟",
+      "roman": "mishe komakam konid?",
+      "note": "Start with bebakhshid (ببخشید) when stopping a stranger."
+    },
+    "what_time": {
+      "text": "ساعت چنده؟",
+      "roman": "saa'at chande?"
+    },
+    "what_means": {
+      "text": "این یعنی چی؟",
+      "roman": "in ya'ni chi?"
+    },
+    "one": {
+      "text": "یک",
+      "roman": "yek",
+      "note": "Persian digit: ۱. Before a noun in speech it becomes ye (یه): ye chaay, 'one tea'."
+    },
+    "two": {
+      "text": "دو",
+      "roman": "do",
+      "note": "Persian digit: ۲"
+    },
+    "three": {
+      "text": "سه",
+      "roman": "se",
+      "note": "Persian digit: ۳"
+    },
+    "four": {
+      "text": "چهار",
+      "roman": "chahaar",
+      "note": "Persian digit: ۴. In everyday speech usually chaar."
+    },
+    "five": {
+      "text": "پنج",
+      "roman": "panj",
+      "note": "Persian digit: ۵"
+    },
+    "six": {
+      "text": "شش",
+      "roman": "shesh",
+      "note": "Persian digit: ۶. In Tehran speech often shish."
+    },
+    "seven": {
+      "text": "هفت",
+      "roman": "haft",
+      "note": "Persian digit: ۷"
+    },
+    "eight": {
+      "text": "هشت",
+      "roman": "hasht",
+      "note": "Persian digit: ۸"
+    },
+    "nine": {
+      "text": "نه",
+      "roman": "noh",
+      "note": "Persian digit: ۹. Spelled like na (no) but said noh."
+    },
+    "ten": {
+      "text": "ده",
+      "roman": "dah",
+      "note": "Persian digits: ۱۰"
+    },
+    "water": {
+      "text": "آب",
+      "roman": "aab",
+      "note": "Bottled water: aab-e ma'dani (آب معدنی)."
+    },
+    "coffee": {
+      "text": "قهوه",
+      "roman": "ghahve"
+    },
+    "tea": {
+      "text": "چای",
+      "roman": "chaay",
+      "note": "In everyday speech often chaayi (چایی)."
+    },
+    "bread": {
+      "text": "نان",
+      "roman": "naan",
+      "note": "In speech usually noon (نون)."
+    },
+    "im_hungry": {
+      "text": "گرسنمه",
+      "roman": "gorosname",
+      "note": "Very casual: goshname (گشنمه)."
+    },
+    "menu_please": {
+      "text": "لطفاً منو رو بیارید",
+      "roman": "lotfan menoo ro biyaarid"
+    },
+    "bill_please": {
+      "text": "لطفاً صورت‌حساب رو بیارید",
+      "roman": "lotfan soorat-hesaab ro biyaarid",
+      "note": "Where you pay at the counter, just ask: cheghadr shod? (چقدر شد؟), 'What do I owe?'"
+    },
+    "delicious": {
+      "text": "چه خوشمزه!",
+      "roman": "che khoshmaze!",
+      "note": "Often preceded by bah bah (به‌به). To thank the cook: dastetoon dard nakone (دستتون درد نکنه)."
+    },
+    "no_meat": {
+      "text": "من گوشت نمی‌خورم",
+      "roman": "man goosht nemikhoram",
+      "note": "Vegetarian: giyaahkhaar (گیاه‌خوار)."
+    },
+    "enjoy_meal": {
+      "text": "نوش جان!",
+      "roman": "noosh-e jaan!",
+      "note": "Said when serving food or to someone eating. A host invites guests to start with befarmaayid (بفرمایید)."
+    },
+    "left": {
+      "text": "چپ",
+      "roman": "chap",
+      "note": "On the left: dast-e chap (دست چپ). Turn left: bepichid chap (بپیچید چپ)."
+    },
+    "right": {
+      "text": "راست",
+      "roman": "raast",
+      "note": "On the right: dast-e raast (دست راست). Turn right: bepichid raast (بپیچید راست)."
+    },
+    "straight_ahead": {
+      "text": "مستقیم",
+      "roman": "mostaghim",
+      "note": "Go straight on: mostaghim berid (مستقیم برید)."
+    },
+    "stop_here": {
+      "text": "لطفاً همین‌جا نگه دارید",
+      "roman": "lotfan haminjaa negah daarid",
+      "note": "Very common in taxis: haminjaa piyaade misham (همین‌جا پیاده می‌شم), 'I'll get out here'."
+    },
+    "airport": {
+      "text": "فرودگاه",
+      "roman": "foroodgaah"
+    },
+    "hotel": {
+      "text": "هتل",
+      "roman": "hotel"
+    },
+    "train_station": {
+      "text": "ایستگاه قطار",
+      "roman": "istgaah-e ghataar",
+      "note": "A city's main station is often just called raah-aahan (راه‌آهن), 'the railway'."
+    },
+    "want_to_go": {
+      "text": "می‌خوام برم …",
+      "roman": "mikhaam beram …",
+      "note": "Also: mikhaam be … beram (می‌خوام به … برم). In a taxi, the place plus lotfan is enough."
+    },
+    "is_it_far": {
+      "text": "دوره؟",
+      "roman": "doore?",
+      "note": "Is it close?: nazdike? (نزدیکه؟)"
+    },
+    "one_ticket": {
+      "text": "یه بلیت، لطفاً",
+      "roman": "ye belit, lotfan",
+      "note": "Ye is spoken 'one' (written yek, یک). Belit is also spelled بلیط."
+    },
+    "too_expensive": {
+      "text": "خیلی گرونه",
+      "roman": "kheyli geroone",
+      "note": "To ask for a discount: takhfif midid? (تخفیف می‌دید؟)"
+    },
+    "cheaper": {
+      "text": "ارزون‌تر ندارید؟",
+      "roman": "arzoontar nadaarid?",
+      "note": "Lit. 'Don't you have cheaper?', which is how Iranians usually ask."
+    },
+    "id_like_this": {
+      "text": "لطفاً اینو بدید",
+      "roman": "lotfan ino bedid",
+      "note": "Also: ino barmidaaram (اینو برمی‌دارم), 'I'll take this'."
+    },
+    "just_looking": {
+      "text": "فقط دارم نگاه می‌کنم",
+      "roman": "faghat daaram negaah mikonam"
+    },
+    "pay_card": {
+      "text": "می‌تونم با کارت حساب کنم؟",
+      "roman": "mitoonam baa kaart hesaab konam?",
+      "note": "Also common: kaartkhaan daarid? (کارت‌خوان دارید؟), 'Do you have a card machine?'"
+    },
+    "cash": {
+      "text": "پول نقد",
+      "roman": "pool-e naghd",
+      "note": "I'll pay cash: naghdi hesaab mikonam (نقدی حساب می‌کنم)."
+    },
+    "open": {
+      "text": "باز",
+      "roman": "baaz",
+      "note": "Door signs often read baaz ast (باز است), 'is open'."
+    },
+    "closed": {
+      "text": "بسته",
+      "roman": "baste",
+      "note": "Shut for the day or a holiday: ta'til (تعطیل), also common on signs."
+    },
+    "big": {
+      "text": "بزرگ",
+      "roman": "bozorg"
+    },
+    "small": {
+      "text": "کوچک",
+      "roman": "koochak",
+      "note": "In speech usually koochik (کوچیک)."
+    },
+    "today": {
+      "text": "امروز",
+      "roman": "emrooz"
+    },
+    "tomorrow": {
+      "text": "فردا",
+      "roman": "fardaa"
+    },
+    "yesterday": {
+      "text": "دیروز",
+      "roman": "dirooz"
+    },
+    "now": {
+      "text": "الان",
+      "roman": "alaan",
+      "note": "Right now: hamin alaan (همین الان)."
+    },
+    "later": {
+      "text": "بعداً",
+      "roman": "ba'dan"
+    },
+    "good_evening": {
+      "text": "عصر بخیر",
+      "roman": "asr bekheyr",
+      "note": "Asr is late afternoon to early evening; after dark most people simply say salaam."
+    },
+    "good_night": {
+      "text": "شب بخیر",
+      "roman": "shab bekheyr"
+    },
+    "see_you_later": {
+      "text": "بعداً می‌بینمتون",
+      "roman": "ba'dan mibinametoon",
+      "note": "To a friend: ba'dan mibinamet (بعداً می‌بینمت). Also common: fe'lan (فعلاً), 'bye for now'."
+    },
+    "wait_moment": {
+      "text": "لطفاً یه لحظه صبر کنید",
+      "roman": "lotfan ye lahze sabr konid",
+      "note": "Short and very common: ye lahze (یه لحظه)."
+    },
+    "every_day": {
+      "text": "هر روز",
+      "roman": "har rooz"
+    },
+    "help": {
+      "text": "کمک!",
+      "roman": "komak!",
+      "note": "Also: komakam konid! (کمکم کنید!), 'Help me!'"
+    },
+    "call_police": {
+      "text": "به پلیس زنگ بزنید!",
+      "roman": "be polis zang bezanid!"
+    },
+    "need_doctor": {
+      "text": "به دکتر احتیاج دارم",
+      "roman": "be doktor ehtiyaaj daaram",
+      "note": "More casual: doktor laazem daaram (دکتر لازم دارم)."
+    },
+    "im_lost": {
+      "text": "گم شدم",
+      "roman": "gom shodam",
+      "note": "Also: raahamo gom kardam (راهمو گم کردم), 'I've lost my way'."
+    },
+    "dont_feel_well": {
+      "text": "حالم خوب نیست",
+      "roman": "haalam khoob nist"
+    },
+    "pharmacy": {
+      "text": "داروخانه",
+      "roman": "daarookhaane",
+      "note": "In speech often daarookhoone (داروخونه)."
+    },
+    "hospital": {
+      "text": "بیمارستان",
+      "roman": "bimaarestaan"
+    },
+    "lost_phone": {
+      "text": "گوشیمو گم کردم",
+      "roman": "gooshimo gom kardam",
+      "note": "Gooshi (گوشی) is the everyday word for a mobile phone."
+    },
+    "allergic": {
+      "text": "به … حساسیت دارم",
+      "roman": "be … hasaasiyat daaram"
+    },
+    "be_careful": {
+      "text": "مواظب باشید!",
+      "roman": "movaazeb baashid!",
+      "note": "To one friend: movaazeb baash! (مواظب باش!)"
+    },
+    "no_problem": {
+      "text": "مشکلی نیست",
+      "roman": "moshkeli nist",
+      "note": "Also very common: eshkaal nadaare (اشکال نداره), 'it's okay'."
+    },
+    "of_course": {
+      "text": "حتماً",
+      "roman": "hatman",
+      "note": "Also: albatte (البته)."
+    },
+    "maybe": {
+      "text": "شاید",
+      "roman": "shaayad"
+    },
+    "dont_know": {
+      "text": "نمی‌دونم",
+      "roman": "nemidoonam",
+      "note": "Written form: nemidaanam (نمی‌دانم)."
+    },
+    "i_like_it": {
+      "text": "ازش خوشم میاد",
+      "roman": "azash khosham miyaad",
+      "note": "On first seeing or tasting it: khosham oomad (خوشم اومد)."
+    },
+    "dont_like_it": {
+      "text": "ازش خوشم نمیاد",
+      "roman": "azash khosham nemiyaad"
+    },
+    "im_tired": {
+      "text": "خسته‌ام",
+      "roman": "khaste-am",
+      "note": "In fast speech: khastam."
+    },
+    "im_happy": {
+      "text": "خوشحالم",
+      "roman": "khoshhaalam"
+    },
+    "welcome": {
+      "text": "خوش اومدید!",
+      "roman": "khosh oomadid!",
+      "note": "Written and on signs: khosh aamadid (خوش آمدید)."
+    },
+    "congratulations": {
+      "text": "تبریک می‌گم!",
+      "roman": "tabrik migam!",
+      "note": "For a birthday, wedding or new purchase: mobaarak baashe! (مبارک باشه!)"
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "code": "zu",
+  "phrases": {
+    "hello": {
+      "text": "Sawubona",
+      "note": "To several people or to show respect to an elder: sanibonani. Reply: yebo, sawubona."
+    },
+    "goodbye": {
+      "text": "Sala kahle",
+      "note": "Said by the one leaving. To someone who is leaving: hamba kahle."
+    },
+    "please": {
+      "text": "Ngiyacela",
+      "note": "Before what you ask for, drop -ya-: ngicela amanzi (water, please)."
+    },
+    "thank_you": {
+      "text": "Ngiyabonga",
+      "note": "Ngiyabonga kakhulu: thank you very much. Siyabonga (we thank you) is also very common."
+    },
+    "youre_welcome": {
+      "text": "Kulungile",
+      "note": "There is no fixed reply; kulungile (it's fine) is usual. The calque wamukelekile is heard too."
+    },
+    "yes": {
+      "text": "Yebo",
+      "note": "Also the standard reply to sawubona. Casual: ehe."
+    },
+    "no": {
+      "text": "Cha",
+      "note": "The c is a click: the 'tsk' sound, tongue behind the front teeth."
+    },
+    "sorry": {
+      "text": "Ngiyaxolisa",
+      "note": "The x is a click, like urging on a horse. For a small slip, uxolo is enough."
+    },
+    "excuse_me": {
+      "text": "Uxolo",
+      "note": "Add baba (to a man) or mama (to a woman) to sound respectful: uxolo, baba."
+    },
+    "good_morning": {
+      "text": "Uvuke kanjani?",
+      "note": "Asks how you woke up. Reply: ngivuke kahle. Sawubona also works at any hour."
+    },
+    "how_are_you": {
+      "text": "Unjani?",
+      "note": "To an elder or several people: ninjani? Casual: kunjani? (how's it going?)"
+    },
+    "im_fine": {
+      "text": "Ngiyaphila, ngiyabonga",
+      "note": "Also: ngikhona (I'm here). Then ask back: wena unjani?"
+    },
+    "whats_your_name": {
+      "text": "Ngubani igama lakho?",
+      "note": "In speech often shortened to: ubani igama lakho?"
+    },
+    "my_name_is": {
+      "text": "Igama lami ngu…",
+      "note": "Ngu- joins the name: igama lami nguThabo. Also common: nginguThabo (I'm Thabo)."
+    },
+    "nice_to_meet_you": {
+      "text": "Ngiyajabula ukukwazi",
+      "note": "Reply: nami ngiyajabula (me too)."
+    },
+    "where_from": {
+      "text": "Uvelaphi?",
+      "note": "Can also mean 'where have you just come from?'. Ungowaphi? asks only about origin."
+    },
+    "im_from": {
+      "text": "Ngivela e…",
+      "note": "The place joins the e-: ngivela eJalimane (from Germany). A few places take kwa- instead."
+    },
+    "speak_english": {
+      "text": "Uyasikhuluma isiNgisi?",
+      "note": "Also common: uyasazi isiNgisi? (do you know English?)"
+    },
+    "dont_understand": {
+      "text": "Angizwa",
+      "note": "Literally 'I don't hear', the everyday way to say it. Angizwa isiZulu: I don't understand Zulu."
+    },
+    "speak_slowly": {
+      "text": "Ngicela ukhulume kancane"
+    },
+    "where": {
+      "text": "Kuphi?",
+      "note": "Usually a suffix: uyaphi? (where are you going?), iphi? (where is it?)"
+    },
+    "what": {
+      "text": "Yini?",
+      "note": "Usually a suffix: ufunani? (what do you want?). 'What did you say?': uthini?"
+    },
+    "when": {
+      "text": "Nini?"
+    },
+    "why": {
+      "text": "Kungani?"
+    },
+    "who": {
+      "text": "Ubani?"
+    },
+    "how_much": {
+      "text": "Lokhu kubiza malini?",
+      "note": "Also: yimalini? (how much money is it?)"
+    },
+    "where_bathroom": {
+      "text": "Iphi indlu yangasese?",
+      "note": "Ithoyilethi (toilet) is also widely used."
+    },
+    "can_you_help": {
+      "text": "Ungangisiza?",
+      "note": "Softer: ngicela ungisize (please help me)."
+    },
+    "what_time": {
+      "text": "Yisikhathi sini?",
+      "note": "Just as common: sithini isikhathi? (literally 'what does the time say?')"
+    },
+    "what_means": {
+      "text": "Lokhu kusho ukuthini?",
+      "note": "For a single word: leli gama lisho ukuthini?"
+    },
+    "one": {
+      "text": "Kunye",
+      "note": "The counting form. In daily life prices and times are often said in English."
+    },
+    "two": {
+      "text": "Kubili",
+      "note": "With a noun it agrees: izinto ezimbili (two things)."
+    },
+    "three": {
+      "text": "Kuthathu",
+      "note": "With a noun it agrees: abantu abathathu (three people)."
+    },
+    "four": {
+      "text": "Kune"
+    },
+    "five": {
+      "text": "Kuhlanu",
+      "note": "hl is like Welsh ll: breathe out past the side of the tongue."
+    },
+    "six": {
+      "text": "Isithupha",
+      "note": "Literally 'thumb': counting on the fingers moves on to the second hand."
+    },
+    "seven": {
+      "text": "Isikhombisa",
+      "note": "Literally 'the pointer', the index finger."
+    },
+    "eight": {
+      "text": "Isishiyagalombili",
+      "note": "Literally 'leave out two (fingers)'."
+    },
+    "nine": {
+      "text": "Isishiyagalolunye",
+      "note": "Literally 'leave out one (finger)'."
+    },
+    "ten": {
+      "text": "Ishumi"
+    },
+    "water": {
+      "text": "Amanzi",
+      "note": "Ngicela amanzi: water, please."
+    },
+    "coffee": {
+      "text": "Ikhofi"
+    },
+    "tea": {
+      "text": "Itiye"
+    },
+    "bread": {
+      "text": "Isinkwa"
+    },
+    "im_hungry": {
+      "text": "Ngilambile",
+      "note": "Ngomile: I'm thirsty."
+    },
+    "menu_please": {
+      "text": "Ngicela imenyu"
+    },
+    "bill_please": {
+      "text": "Ngicela ibhili",
+      "note": "Or: ngicela ukukhokha (I'd like to pay)."
+    },
+    "delicious": {
+      "text": "Kumnandi!",
+      "note": "Kumnandi kakhulu!: really delicious. Mnandi also means nice or fun."
+    },
+    "no_meat": {
+      "text": "Angiyidli inyama"
+    },
+    "enjoy_meal": {
+      "text": "Udle kamnandi!",
+      "note": "To several people: nidle kamnandi!"
+    },
+    "left": {
+      "text": "Kwesokunxele",
+      "note": "The x is a click. Turn left: jika ngakwesokunxele."
+    },
+    "right": {
+      "text": "Kwesokudla",
+      "note": "From -dla, to eat: the side of the hand you eat with."
+    },
+    "straight_ahead": {
+      "text": "Qonda ngqo",
+      "note": "Both q's are clicks. Phambili means ahead, forward."
+    },
+    "stop_here": {
+      "text": "Ngicela umise lapha",
+      "note": "In a minibus taxi: ngiyehla lapha (I'm getting off here)."
+    },
+    "airport": {
+      "text": "Isikhumulo sezindiza",
+      "note": "Literally 'landing place of aeroplanes'."
+    },
+    "hotel": {
+      "text": "Ihotela"
+    },
+    "train_station": {
+      "text": "Isiteshi sesitimela"
+    },
+    "want_to_go": {
+      "text": "Ngifuna ukuya e…",
+      "note": "The place joins the e-: ngifuna ukuya eThekwini (to Durban)."
+    },
+    "is_it_far": {
+      "text": "Kukude?",
+      "note": "Kuseduze? = is it near?"
+    },
+    "one_ticket": {
+      "text": "Ngicela ithikithi elilodwa"
+    },
+    "too_expensive": {
+      "text": "Kubiza kakhulu"
+    },
+    "cheaper": {
+      "text": "Ninakho okushibhile kunalokhu?"
+    },
+    "id_like_this": {
+      "text": "Ngicela lokhu",
+      "note": "More direct: ngifuna lokhu (I want this)."
+    },
+    "just_looking": {
+      "text": "Ngibuka nje",
+      "note": "Also: ngisabuka (I'm still looking)."
+    },
+    "pay_card": {
+      "text": "Ngingakhokha ngekhadi?"
+    },
+    "cash": {
+      "text": "Ukheshi",
+      "note": "I'll pay cash: ngizokhokha ngokheshi."
+    },
+    "open": {
+      "text": "Kuvuliwe",
+      "note": "Shop signs in South Africa are usually in English."
+    },
+    "closed": {
+      "text": "Kuvaliwe"
+    },
+    "big": {
+      "text": "Kukhulu",
+      "note": "Agrees with the noun: indlu enkulu (a big house)."
+    },
+    "small": {
+      "text": "Kuncane",
+      "note": "Agrees with the noun: indlu encane (a small house)."
+    },
+    "today": {
+      "text": "Namuhla",
+      "note": "Also: namhlanje."
+    },
+    "tomorrow": {
+      "text": "Kusasa"
+    },
+    "yesterday": {
+      "text": "Izolo"
+    },
+    "now": {
+      "text": "Manje",
+      "note": "Right now: khona manje."
+    },
+    "later": {
+      "text": "Kamuva"
+    },
+    "good_evening": {
+      "text": "Sawubona",
+      "note": "Zulu has no set evening greeting: sawubona is used at any hour."
+    },
+    "good_night": {
+      "text": "Lala kahle",
+      "note": "To several people: lalani kahle."
+    },
+    "see_you_later": {
+      "text": "Sizobonana",
+      "note": "Often shortened to sobonana."
+    },
+    "wait_moment": {
+      "text": "Ngicela ulinde kancane",
+      "note": "Casual: yima kancane (hold on)."
+    },
+    "every_day": {
+      "text": "Nsuku zonke"
+    },
+    "help": {
+      "text": "Ngisizeni!",
+      "note": "To one person: ngisize!"
+    },
+    "call_police": {
+      "text": "Shayela amaphoyisa!"
+    },
+    "need_doctor": {
+      "text": "Ngidinga udokotela"
+    },
+    "im_lost": {
+      "text": "Ngilahlekile"
+    },
+    "dont_feel_well": {
+      "text": "Angizizwa kahle",
+      "note": "Also: angiphilile (I'm not well)."
+    },
+    "pharmacy": {
+      "text": "Ikhemisi"
+    },
+    "hospital": {
+      "text": "Isibhedlela"
+    },
+    "lost_phone": {
+      "text": "Ngilahle ifoni yami",
+      "note": "Also: iselula (cellphone)."
+    },
+    "allergic": {
+      "text": "Ngine-aleji ku…",
+      "note": "Before an English name add a hyphen: ngine-aleji ku-penicillin."
+    },
+    "be_careful": {
+      "text": "Qaphela!",
+      "note": "The q is a loud pop of the tongue. To several people: qaphelani!"
+    },
+    "no_problem": {
+      "text": "Akunankinga",
+      "note": "Also common: ayikho inkinga."
+    },
+    "of_course": {
+      "text": "Impela",
+      "note": "Yebo impela: yes, of course."
+    },
+    "maybe": {
+      "text": "Mhlawumbe",
+      "note": "Also: kungenzeka (it's possible)."
+    },
+    "dont_know": {
+      "text": "Angazi"
+    },
+    "i_like_it": {
+      "text": "Ngiyakuthanda",
+      "note": "Said to a person it means 'I love you'. It changes with the noun: ngiyayithanda for ingubo (dress)."
+    },
+    "dont_like_it": {
+      "text": "Angikuthandi",
+      "note": "Changes with the noun like ngiyakuthanda: angiyithandi."
+    },
+    "im_tired": {
+      "text": "Ngikhathele"
+    },
+    "im_happy": {
+      "text": "Ngijabulile"
+    },
+    "welcome": {
+      "text": "Wamukelekile!",
+      "note": "To several guests: namukelekile! Hosts also say ngena (come in)."
+    },
+    "congratulations": {
+      "text": "Halala!",
+      "note": "Fuller: ngiyakuhalalisela! (I congratulate you)."
+    }
+  }
+}

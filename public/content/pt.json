@@ -1,0 +1,386 @@
+{
+  "code": "pt",
+  "phrases": {
+    "hello": {
+      "text": "Olá",
+      "note": "The everyday Brazilian hello, fine with almost anyone: Oi."
+    },
+    "goodbye": {
+      "text": "Tchau",
+      "note": "More formal: Até logo. Adeus sounds final, like a farewell for good."
+    },
+    "please": {
+      "text": "Por favor"
+    },
+    "thank_you": {
+      "text": "Obrigado",
+      "note": "A woman says: Obrigada. Very casual: Valeu!"
+    },
+    "youre_welcome": {
+      "text": "De nada",
+      "note": "Also common: Por nada, or Imagina!"
+    },
+    "yes": {
+      "text": "Sim",
+      "note": "Brazilians often answer by repeating the verb instead: Você quer? — Quero."
+    },
+    "no": {
+      "text": "Não",
+      "note": "The ão is nasal: like 'now' said through the nose."
+    },
+    "sorry": {
+      "text": "Desculpe",
+      "note": "Very common in speech: Desculpa. For deep regret or condolences: Sinto muito."
+    },
+    "excuse_me": {
+      "text": "Com licença",
+      "note": "Also used to get past someone. To call a waiter: Por favor! or Moço! (to a woman: Moça!)"
+    },
+    "good_morning": {
+      "text": "Bom dia",
+      "note": "Used until about noon; after that: Boa tarde."
+    },
+    "how_are_you": {
+      "text": "Como vai?",
+      "note": "Very common and still polite: Tudo bem? The usual reply: Tudo, e você?"
+    },
+    "im_fine": {
+      "text": "Estou bem, obrigado",
+      "note": "A woman says: Estou bem, obrigada. In casual speech: Tô bem."
+    },
+    "whats_your_name": {
+      "text": "Qual é o seu nome?",
+      "note": "Also common: Como você se chama?"
+    },
+    "my_name_is": {
+      "text": "Meu nome é …",
+      "note": "Also common: Eu me chamo …"
+    },
+    "nice_to_meet_you": {
+      "text": "Muito prazer",
+      "note": "Often just: Prazer! Reply: O prazer é meu."
+    },
+    "where_from": {
+      "text": "De onde você é?",
+      "note": "To an older person: De onde o senhor é? (to a woman: a senhora)"
+    },
+    "im_from": {
+      "text": "Sou de …",
+      "note": "De merges with the country's article: do Brasil, da Itália, dos Estados Unidos; but de Portugal."
+    },
+    "speak_english": {
+      "text": "Você fala inglês?",
+      "note": "More formal: O senhor fala inglês? (to a woman: A senhora)"
+    },
+    "dont_understand": {
+      "text": "Não entendi",
+      "note": "Brazilians use this past form in conversation. For a language in general: Não entendo."
+    },
+    "speak_slowly": {
+      "text": "Pode falar mais devagar, por favor?",
+      "note": "Asking with pode (can you) is the polite way; Fale mais devagar sounds like an order."
+    },
+    "where": {
+      "text": "Onde?",
+      "note": "Where to?: Para onde? (in speech: Pra onde?)"
+    },
+    "what": {
+      "text": "O quê?",
+      "note": "To ask someone to repeat, more politely: Como?"
+    },
+    "when": {
+      "text": "Quando?"
+    },
+    "why": {
+      "text": "Por quê?",
+      "note": "Two words with an accent here; the answer 'because' is one word: porque."
+    },
+    "who": {
+      "text": "Quem?",
+      "note": "Sounds like 'kayn' said through the nose; the final m itself isn't pronounced."
+    },
+    "how_much": {
+      "text": "Quanto custa?",
+      "note": "Also very common: Quanto é?"
+    },
+    "where_bathroom": {
+      "text": "Onde fica o banheiro?",
+      "note": "Banheiro is the Brazilian word; in Portugal: casa de banho."
+    },
+    "can_you_help": {
+      "text": "Pode me ajudar?",
+      "note": "Brazilians put me before the verb; Portugal says ajudar-me. Add por favor to soften it."
+    },
+    "what_time": {
+      "text": "Que horas são?"
+    },
+    "what_means": {
+      "text": "O que significa isso?",
+      "note": "Also common: O que quer dizer isso?"
+    },
+    "one": {
+      "text": "Um",
+      "note": "Before a feminine noun: uma (uma cerveja). It also means 'a/an'."
+    },
+    "two": {
+      "text": "Dois",
+      "note": "Before a feminine noun: duas (duas horas)."
+    },
+    "three": {
+      "text": "Três"
+    },
+    "four": {
+      "text": "Quatro"
+    },
+    "five": {
+      "text": "Cinco"
+    },
+    "six": {
+      "text": "Seis",
+      "note": "Reading out phone numbers, Brazilians say meia (half a dozen) so it isn't confused with três."
+    },
+    "seven": {
+      "text": "Sete"
+    },
+    "eight": {
+      "text": "Oito"
+    },
+    "nine": {
+      "text": "Nove"
+    },
+    "ten": {
+      "text": "Dez"
+    },
+    "water": {
+      "text": "Água",
+      "note": "Still: água sem gás. Sparkling: água com gás."
+    },
+    "coffee": {
+      "text": "Café",
+      "note": "A small black coffee is a cafezinho; with milk: café com leite."
+    },
+    "tea": {
+      "text": "Chá"
+    },
+    "bread": {
+      "text": "Pão",
+      "note": "Nasal ão, as in não. The classic breakfast roll: pão francês."
+    },
+    "im_hungry": {
+      "text": "Estou com fome",
+      "note": "Built with estar com + noun, like Estou com sede (thirsty). In speech: Tô com fome."
+    },
+    "menu_please": {
+      "text": "O cardápio, por favor",
+      "note": "Cardápio is Brazilian; in Portugal: a ementa. Menu is also understood."
+    },
+    "bill_please": {
+      "text": "A conta, por favor",
+      "note": "Also common: Pode fechar a conta, por favor?"
+    },
+    "delicious": {
+      "text": "Que delícia!",
+      "note": "Also: Está delicioso! In speech: Tá uma delícia!"
+    },
+    "no_meat": {
+      "text": "Eu não como carne",
+      "note": "Or: Sou vegetariano (a woman: Sou vegetariana)."
+    },
+    "enjoy_meal": {
+      "text": "Bom apetite!"
+    },
+    "left": {
+      "text": "Esquerda",
+      "note": "On/to the left: à esquerda. Turn left: Vire à esquerda."
+    },
+    "right": {
+      "text": "Direita",
+      "note": "On/to the right: à direita. Don't confuse with direto (straight on)."
+    },
+    "straight_ahead": {
+      "text": "Em frente",
+      "note": "Also common in Brazil: reto or direto (Siga reto)."
+    },
+    "stop_here": {
+      "text": "Pode parar aqui, por favor",
+      "note": "Asking with pode is politer than the bare command Pare aqui."
+    },
+    "airport": {
+      "text": "Aeroporto"
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "The h is silent and the final l sounds like w: oh-TEHW (open e, as in 'bet')."
+    },
+    "train_station": {
+      "text": "Estação de trem",
+      "note": "In Portugal: estação de comboios. Subway station: estação de metrô."
+    },
+    "want_to_go": {
+      "text": "Quero ir para …",
+      "note": "Softer: Queria ir para … In speech para often becomes pra."
+    },
+    "is_it_far": {
+      "text": "É longe?",
+      "note": "Also: Fica longe? The opposite is perto (near)."
+    },
+    "one_ticket": {
+      "text": "Uma passagem, por favor",
+      "note": "For a trip: passagem. Metro or city ticket: bilhete. Show or match: ingresso."
+    },
+    "too_expensive": {
+      "text": "Está muito caro",
+      "note": "In speech: Tá muito caro. Also: Está caro demais."
+    },
+    "cheaper": {
+      "text": "Tem algo mais barato?",
+      "note": "Brazilians use tem for 'do you have / is there'. Also: Tem alguma coisa mais barata?"
+    },
+    "id_like_this": {
+      "text": "Eu queria isso, por favor",
+      "note": "Queria is the polite 'I'd like'. When buying: Vou levar esse (I'll take this one)."
+    },
+    "just_looking": {
+      "text": "Só estou dando uma olhada",
+      "note": "Also: Só estou olhando. In speech: Tô só dando uma olhada."
+    },
+    "pay_card": {
+      "text": "Posso pagar com cartão?",
+      "note": "You may be asked: Crédito ou débito? Brazilians also pay by Pix, an instant bank transfer."
+    },
+    "cash": {
+      "text": "Em dinheiro",
+      "note": "Dinheiro alone means money in general. To pay in cash: pagar em dinheiro."
+    },
+    "open": {
+      "text": "Aberto"
+    },
+    "closed": {
+      "text": "Fechado"
+    },
+    "big": {
+      "text": "Grande"
+    },
+    "small": {
+      "text": "Pequeno",
+      "note": "Feminine: pequena. Clothing sizes: P, M, G (pequeno, médio, grande)."
+    },
+    "today": {
+      "text": "Hoje",
+      "note": "The h is silent: OH-zhee."
+    },
+    "tomorrow": {
+      "text": "Amanhã",
+      "note": "Don't mix it up with de manhã (in the morning). Tomorrow morning: amanhã de manhã."
+    },
+    "yesterday": {
+      "text": "Ontem"
+    },
+    "now": {
+      "text": "Agora",
+      "note": "Right now: agora mesmo."
+    },
+    "later": {
+      "text": "Mais tarde",
+      "note": "Also very common: depois."
+    },
+    "good_evening": {
+      "text": "Boa noite",
+      "note": "Said once it's dark; the same words also mean good night. Before that, in the afternoon: Boa tarde."
+    },
+    "good_night": {
+      "text": "Boa noite",
+      "note": "The same words as good evening. Before bed you may add: Durma bem."
+    },
+    "see_you_later": {
+      "text": "Até mais",
+      "note": "Also: Até logo. See you tomorrow: Até amanhã."
+    },
+    "wait_moment": {
+      "text": "Um momento, por favor",
+      "note": "Casual: Peraí! (from espera aí) or Só um minutinho."
+    },
+    "every_day": {
+      "text": "Todo dia",
+      "note": "Also: todos os dias. All day long is o dia todo."
+    },
+    "help": {
+      "text": "Socorro!"
+    },
+    "call_police": {
+      "text": "Chamem a polícia!",
+      "note": "To one person: Chame a polícia! Police in Brazil: dial 190."
+    },
+    "need_doctor": {
+      "text": "Preciso de um médico",
+      "note": "Urgently, to people around you: Chamem um médico!"
+    },
+    "im_lost": {
+      "text": "Estou perdido",
+      "note": "A woman says: Estou perdida. In speech: Tô perdido."
+    },
+    "dont_feel_well": {
+      "text": "Não estou me sentindo bem",
+      "note": "Also very common: Estou passando mal."
+    },
+    "pharmacy": {
+      "text": "Farmácia"
+    },
+    "hospital": {
+      "text": "Hospital",
+      "note": "The h is silent and the final l sounds like w: os-pee-TOW, rhyming with 'now'."
+    },
+    "lost_phone": {
+      "text": "Perdi meu celular",
+      "note": "Celular is the Brazilian word; in Portugal: telemóvel."
+    },
+    "allergic": {
+      "text": "Sou alérgico a …",
+      "note": "A woman says: Sou alérgica a … For anyone: Tenho alergia a …"
+    },
+    "be_careful": {
+      "text": "Cuidado!",
+      "note": "Longer: Tome cuidado! (casual: Toma cuidado!)"
+    },
+    "no_problem": {
+      "text": "Sem problema",
+      "note": "Very Brazilian alternatives: Tranquilo! or Beleza!"
+    },
+    "of_course": {
+      "text": "Claro",
+      "note": "Stronger: Claro que sim! or Com certeza!"
+    },
+    "maybe": {
+      "text": "Talvez",
+      "note": "Casual: Pode ser."
+    },
+    "dont_know": {
+      "text": "Não sei",
+      "note": "Casual, a bit dismissive: Sei lá."
+    },
+    "i_like_it": {
+      "text": "Gostei",
+      "note": "Past form, used when reacting to something you've just seen or tried. Liking it in general: Eu gosto."
+    },
+    "dont_like_it": {
+      "text": "Não gostei",
+      "note": "About something you've just tried. In general: Não gosto."
+    },
+    "im_tired": {
+      "text": "Estou cansado",
+      "note": "A woman says: Estou cansada. In speech: Tô cansado."
+    },
+    "im_happy": {
+      "text": "Estou feliz",
+      "note": "Same for men and women. Also: Estou contente."
+    },
+    "welcome": {
+      "text": "Seja bem-vindo!",
+      "note": "To a woman: Seja bem-vinda! To a group: Sejam bem-vindos!"
+    },
+    "congratulations": {
+      "text": "Parabéns!",
+      "note": "Also what you say for 'happy birthday'."
+    }
+  }
+}

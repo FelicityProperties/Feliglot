@@ -1,0 +1,488 @@
+{
+  "code": "yue",
+  "phrases": {
+    "hello": {
+      "text": "你好",
+      "roman": "nei5 hou2",
+      "note": "Many people just say the English \"hello\". Answering the phone: 喂 (wai2)."
+    },
+    "goodbye": {
+      "text": "再見",
+      "roman": "zoi3 gin3",
+      "note": "In daily life most people say 拜拜 (baai1 baai3)."
+    },
+    "please": {
+      "text": "唔該",
+      "roman": "m4 goi1",
+      "note": "Goes before a request. Inviting someone (\"please, go ahead\"): 請 (cing2)."
+    },
+    "thank_you": {
+      "text": "多謝",
+      "roman": "do1 ze6",
+      "note": "For gifts and compliments. For a service or small favour, say 唔該 (m4 goi1)."
+    },
+    "youre_welcome": {
+      "text": "唔使客氣",
+      "roman": "m4 sai2 haak3 hei3",
+      "note": "After 唔該, the reply is 唔使唔該 (m4 sai2 m4 goi1). Casual: 唔使 (m4 sai2)."
+    },
+    "yes": {
+      "text": "係",
+      "roman": "hai6",
+      "note": "Often you answer with the verb instead: 有 (jau5) \"have\", 得 (dak1) \"can\", 好 (hou2) \"OK\"."
+    },
+    "no": {
+      "text": "唔係",
+      "roman": "m4 hai6",
+      "note": "Or negate the verb: 冇 (mou5) \"don't have\". Turning down an offer: 唔使喇 (m4 sai2 laa3)."
+    },
+    "sorry": {
+      "text": "對唔住",
+      "roman": "deoi3 m4 zyu6",
+      "note": "For something minor, 唔好意思 (m4 hou2 ji3 si3) is lighter."
+    },
+    "excuse_me": {
+      "text": "唔好意思",
+      "roman": "m4 hou2 ji3 si3",
+      "note": "Then 請問 (cing2 man6) before your question. Squeezing past: 唔該借借 (m4 goi1 ze3 ze3)."
+    },
+    "good_morning": {
+      "text": "早晨",
+      "roman": "zou2 san4",
+      "note": "Said until about 11 a.m. Casual: 早 (zou2)."
+    },
+    "how_are_you": {
+      "text": "你好嗎？",
+      "roman": "nei5 hou2 maa3?",
+      "note": "With people you know: 最近點呀？ (zeoi3 gan6 dim2 aa3?), how have you been?"
+    },
+    "im_fine": {
+      "text": "我幾好，多謝",
+      "roman": "ngo5 gei2 hou2, do1 ze6",
+      "note": "幾 (gei2) here means \"quite\". Also common: 都唔錯 (dou1 m4 co3), \"not bad\"."
+    },
+    "whats_your_name": {
+      "text": "請問你叫咩名呀？",
+      "roman": "cing2 man6 nei5 giu3 me1 meng2 aa3?",
+      "note": "More formal: 請問點稱呼？ (cing2 man6 dim2 cing1 fu1?), how should I address you?"
+    },
+    "my_name_is": {
+      "text": "我叫…",
+      "roman": "ngo5 giu3 …",
+      "note": "Giving just your surname is common and polite: 我姓… (ngo5 sing3 …)."
+    },
+    "nice_to_meet_you": {
+      "text": "好高興識到你",
+      "roman": "hou2 gou1 hing3 sik1 dou2 nei5",
+      "note": "More formal: 幸會 (hang6 wui6)."
+    },
+    "where_from": {
+      "text": "你係邊度人呀？",
+      "roman": "nei5 hai6 bin1 dou6 jan4 aa3?"
+    },
+    "im_from": {
+      "text": "我係…人",
+      "roman": "ngo5 hai6 … jan4",
+      "note": "Literally \"I'm a … person\": 我係英國人 (ngo5 hai6 jing1 gwok3 jan4), I'm British."
+    },
+    "speak_english": {
+      "text": "請問你識唔識講英文呀？",
+      "roman": "cing2 man6 nei5 sik1 m4 sik1 gong2 jing1 man2 aa3?",
+      "note": "識唔識 (sik1 m4 sik1), \"know or not know\", is the usual way to ask \"can you…?\" about a skill."
+    },
+    "dont_understand": {
+      "text": "我唔明",
+      "roman": "ngo5 m4 ming4",
+      "note": "When you heard but didn't follow: 我聽唔明 (ngo5 teng1 m4 ming4)."
+    },
+    "speak_slowly": {
+      "text": "唔該你講慢啲",
+      "roman": "m4 goi1 nei5 gong2 maan6 di1"
+    },
+    "where": {
+      "text": "喺邊度？",
+      "roman": "hai2 bin1 dou6?",
+      "note": "The bare word is 邊度 (bin1 dou6). Put the place first: 車站喺邊度？ (ce1 zaam6 hai2 bin1 dou6?)"
+    },
+    "what": {
+      "text": "咩呀？",
+      "roman": "me1 aa3?",
+      "note": "Also 乜嘢 (mat1 je5). Didn't catch what someone said? 吓？ (haa2?)"
+    },
+    "when": {
+      "text": "幾時？",
+      "roman": "gei2 si4?",
+      "note": "Goes before the verb: 你幾時走？ (nei5 gei2 si4 zau2?), when are you leaving?"
+    },
+    "why": {
+      "text": "點解？",
+      "roman": "dim2 gaai2?",
+      "note": "Casual: 做咩呀？ (zou6 me1 aa3?), \"what for?\""
+    },
+    "who": {
+      "text": "邊個？",
+      "roman": "bin1 go3?",
+      "note": "Also means \"which one\": 邊個好啲？ (bin1 go3 hou2 di1?), which is better?"
+    },
+    "how_much": {
+      "text": "呢個幾多錢？",
+      "roman": "ni1 go3 gei2 do1 cin2?",
+      "note": "Shorter: 幾錢呀？ (gei2 cin2 aa3?)"
+    },
+    "where_bathroom": {
+      "text": "請問洗手間喺邊度？",
+      "roman": "cing2 man6 sai2 sau2 gaan1 hai2 bin1 dou6?",
+      "note": "The plainer word is 廁所 (ci3 so2)."
+    },
+    "can_you_help": {
+      "text": "你可唔可以幫下我呀？",
+      "roman": "nei5 ho2 m4 ho2 ji5 bong1 haa5 ngo5 aa3?",
+      "note": "To a stranger, start with 唔好意思 (m4 hou2 ji3 si3)."
+    },
+    "what_time": {
+      "text": "而家幾點呀？",
+      "roman": "ji4 gaa1 gei2 dim2 aa3?",
+      "note": "Answer: 三點 (saam1 dim2), three o'clock."
+    },
+    "what_means": {
+      "text": "呢個係咩意思？",
+      "roman": "ni1 go3 hai6 me1 ji3 si1?",
+      "note": "意思 is ji3 si1 when it means \"meaning\", but ji3 si3 in 唔好意思."
+    },
+    "one": {
+      "text": "一",
+      "roman": "jat1",
+      "note": "Prices and signs use the digits 1, 2, 3…; 一 二 三 are the written words."
+    },
+    "two": {
+      "text": "二",
+      "roman": "ji6",
+      "note": "Before a measure word it becomes 兩 (loeng5): 兩個 (loeng5 go3), two of them."
+    },
+    "three": {
+      "text": "三",
+      "roman": "saam1"
+    },
+    "four": {
+      "text": "四",
+      "roman": "sei3",
+      "note": "Sounds like 死 (sei2), \"die\", so 4 is thought unlucky."
+    },
+    "five": {
+      "text": "五",
+      "roman": "ng5",
+      "note": "A hummed ng sound with no vowel."
+    },
+    "six": {
+      "text": "六",
+      "roman": "luk6"
+    },
+    "seven": {
+      "text": "七",
+      "roman": "cat1",
+      "note": "Jyutping c sounds like the ch in \"church\"."
+    },
+    "eight": {
+      "text": "八",
+      "roman": "baat3",
+      "note": "Rhymes with 發 (faat3), \"prosper\", so 8 is lucky."
+    },
+    "nine": {
+      "text": "九",
+      "roman": "gau2"
+    },
+    "ten": {
+      "text": "十",
+      "roman": "sap6",
+      "note": "Eleven is 十一 (sap6 jat1); twenty is 二十 (ji6 sap6)."
+    },
+    "water": {
+      "text": "水",
+      "roman": "seoi2",
+      "note": "A glass of water, please: 唔該俾杯水我 (m4 goi1 bei2 bui1 seoi2 ngo5)."
+    },
+    "coffee": {
+      "text": "咖啡",
+      "roman": "gaa3 fe1",
+      "note": "Iced coffee in a local café: 凍啡 (dung3 fe1)."
+    },
+    "tea": {
+      "text": "茶",
+      "roman": "caa4",
+      "note": "Hong Kong milk tea: 奶茶 (naai5 caa4). 飲茶 (jam2 caa4) means going for dim sum."
+    },
+    "bread": {
+      "text": "麵包",
+      "roman": "min6 baau1"
+    },
+    "im_hungry": {
+      "text": "我肚餓",
+      "roman": "ngo5 tou5 ngo6",
+      "note": "Starving: 我餓死喇 (ngo5 ngo6 sei2 laa3)."
+    },
+    "menu_please": {
+      "text": "唔該俾個餐牌我",
+      "roman": "m4 goi1 bei2 go3 caan1 paai2 ngo5",
+      "note": "Many people just use the English word menu."
+    },
+    "bill_please": {
+      "text": "唔該埋單",
+      "roman": "m4 goi1 maai4 daan1",
+      "note": "Also written 買單. A writing gesture in the air works too."
+    },
+    "delicious": {
+      "text": "好好食！",
+      "roman": "hou2 hou2 sik6!",
+      "note": "For a drink: 好好飲！ (hou2 hou2 jam2!)"
+    },
+    "no_meat": {
+      "text": "我唔食肉",
+      "roman": "ngo5 m4 sik6 juk6",
+      "note": "Vegetarian: 我食齋 (ngo5 sik6 zaai1)."
+    },
+    "enjoy_meal": {
+      "text": "慢慢食！",
+      "roman": "maan6 maan2 sik6!",
+      "note": "Literally \"eat slowly\", said by a host or waiter. Calling everyone to eat: 食飯喇 (sik6 faan6 laa3)."
+    },
+    "left": {
+      "text": "左邊",
+      "roman": "zo2 bin1",
+      "note": "Turn left: 轉左 (zyun3 zo2)."
+    },
+    "right": {
+      "text": "右邊",
+      "roman": "jau6 bin1",
+      "note": "Turn right: 轉右 (zyun3 jau6)."
+    },
+    "straight_ahead": {
+      "text": "一直行",
+      "roman": "jat1 zik6 haang4",
+      "note": "To a taxi driver: 直去 (zik6 heoi3)."
+    },
+    "stop_here": {
+      "text": "唔該呢度停",
+      "roman": "m4 goi1 ni1 dou6 ting4",
+      "note": "On a minibus, call out 前面有落 (cin4 min6 jau5 lok6) to get off at the next stop."
+    },
+    "airport": {
+      "text": "機場",
+      "roman": "gei1 coeng4"
+    },
+    "hotel": {
+      "text": "酒店",
+      "roman": "zau2 dim3",
+      "note": "In Hong Kong 酒店 means hotel, not a bar."
+    },
+    "train_station": {
+      "text": "火車站",
+      "roman": "fo2 ce1 zaam6",
+      "note": "Metro (MTR) station: 地鐵站 (dei6 tit3 zaam6) or 港鐵站 (gong2 tit3 zaam6)."
+    },
+    "want_to_go": {
+      "text": "我想去…",
+      "roman": "ngo5 soeng2 heoi3 …",
+      "note": "In a taxi, just say 唔該去… (m4 goi1 heoi3 …)."
+    },
+    "is_it_far": {
+      "text": "遠唔遠呀？",
+      "roman": "jyun5 m4 jyun5 aa3?",
+      "note": "How long does it take? 要幾耐呀？ (jiu3 gei2 noi6 aa3?)"
+    },
+    "one_ticket": {
+      "text": "唔該一張飛",
+      "roman": "m4 goi1 jat1 zoeng1 fei1",
+      "note": "飛 (fei1), from English \"fare\", is the everyday word for ticket; the formal one is 票 (piu3)."
+    },
+    "too_expensive": {
+      "text": "太貴喇",
+      "roman": "taai3 gwai3 laa3",
+      "note": "Softer: 貴咗啲 (gwai3 zo2 di1), \"a bit pricey\"."
+    },
+    "cheaper": {
+      "text": "有冇平啲嘅？",
+      "roman": "jau5 mou5 peng4 di1 ge3?",
+      "note": "Bargaining: 平啲得唔得呀？ (peng4 di1 dak1 m4 dak1 aa3?), can you do it cheaper?"
+    },
+    "id_like_this": {
+      "text": "唔該，我要呢個",
+      "roman": "m4 goi1, ngo5 jiu3 ni1 go3"
+    },
+    "just_looking": {
+      "text": "我睇下啫",
+      "roman": "ngo5 tai2 haa5 ze1",
+      "note": "Also: 睇下先 (tai2 haa5 sin1), \"just having a look first\"."
+    },
+    "pay_card": {
+      "text": "可唔可以碌卡呀？",
+      "roman": "ho2 m4 ho2 ji5 luk1 kaat1 aa3?",
+      "note": "碌卡 (luk1 kaat1) is \"swipe the card\". The Octopus travel card is 八達通 (baat3 daat6 tung1)."
+    },
+    "cash": {
+      "text": "現金",
+      "roman": "jin6 gam1",
+      "note": "Small change: 散紙 (saan2 zi2)."
+    },
+    "open": {
+      "text": "營業中",
+      "roman": "jing4 jip6 zung1",
+      "note": "Asking: 開咗門未呀？ (hoi1 zo2 mun4 mei6 aa3?), are you open yet?"
+    },
+    "closed": {
+      "text": "休息中",
+      "roman": "jau1 sik1 zung1",
+      "note": "Said aloud: 閂咗門 (saan1 zo2 mun4), \"it's shut\"."
+    },
+    "big": {
+      "text": "大",
+      "roman": "daai6",
+      "note": "Size L: 大碼 (daai6 maa5)."
+    },
+    "small": {
+      "text": "細",
+      "roman": "sai3",
+      "note": "Cantonese uses 細, not 小, for size. Size S: 細碼 (sai3 maa5)."
+    },
+    "today": {
+      "text": "今日",
+      "roman": "gam1 jat6"
+    },
+    "tomorrow": {
+      "text": "聽日",
+      "roman": "ting1 jat6",
+      "note": "Day after tomorrow: 後日 (hau6 jat6)."
+    },
+    "yesterday": {
+      "text": "琴日",
+      "roman": "kam4 jat6",
+      "note": "Also written 尋日 and often said cam4 jat6."
+    },
+    "now": {
+      "text": "而家",
+      "roman": "ji4 gaa1",
+      "note": "Often said ji1 gaa1, and also written 依家."
+    },
+    "later": {
+      "text": "遲啲",
+      "roman": "ci4 di1",
+      "note": "Later today, in a while: 陣間 (zan6 gaan1)."
+    },
+    "good_evening": {
+      "text": "晚安",
+      "roman": "maan5 on1",
+      "note": "Formal, e.g. on TV; it also means good night. In daily life people just say 你好 (nei5 hou2)."
+    },
+    "good_night": {
+      "text": "早唞",
+      "roman": "zou2 tau2",
+      "note": "Literally \"rest early\". 晚安 (maan5 on1) is also used."
+    },
+    "see_you_later": {
+      "text": "遲啲見",
+      "roman": "ci4 di1 gin3",
+      "note": "If it's within the hour: 一陣見 (jat1 zan6 gin3)."
+    },
+    "wait_moment": {
+      "text": "唔該等一陣",
+      "roman": "m4 goi1 dang2 jat1 zan6",
+      "note": "Quick and casual: 等等 (dang2 dang2)."
+    },
+    "every_day": {
+      "text": "每日",
+      "roman": "mui5 jat6",
+      "note": "Very colloquial: 日日 (jat6 jat6)."
+    },
+    "help": {
+      "text": "救命呀！",
+      "roman": "gau3 meng6 aa3!"
+    },
+    "call_police": {
+      "text": "快啲報警！",
+      "roman": "faai3 di1 bou3 ging2!",
+      "note": "Hong Kong's emergency number is 999."
+    },
+    "need_doctor": {
+      "text": "我要睇醫生",
+      "roman": "ngo5 jiu3 tai2 ji1 sang1",
+      "note": "Call an ambulance: 叫白車 (giu3 baak6 ce1)."
+    },
+    "im_lost": {
+      "text": "我蕩失路",
+      "roman": "ngo5 dong6 sat1 lou6"
+    },
+    "dont_feel_well": {
+      "text": "我唔係好舒服",
+      "roman": "ngo5 m4 hai6 hou2 syu1 fuk6",
+      "note": "Stronger: 我好唔舒服 (ngo5 hou2 m4 syu1 fuk6)."
+    },
+    "pharmacy": {
+      "text": "藥房",
+      "roman": "joek6 fong4"
+    },
+    "hospital": {
+      "text": "醫院",
+      "roman": "ji1 jyun2"
+    },
+    "lost_phone": {
+      "text": "我唔見咗部手機",
+      "roman": "ngo5 m4 gin3 zo2 bou6 sau2 gei1",
+      "note": "Also: 我跌咗部手機 (ngo5 dit3 zo2 bou6 sau2 gei1). 部 (bou6) is the counter for phones."
+    },
+    "allergic": {
+      "text": "我對…敏感",
+      "roman": "ngo5 deoi3 … man5 gam2",
+      "note": "E.g. 我對花生敏感 (ngo5 deoi3 faa1 sang1 man5 gam2), I'm allergic to peanuts."
+    },
+    "be_careful": {
+      "text": "小心呀！",
+      "roman": "siu2 sam1 aa3!",
+      "note": "Watch out!: 因住！ (jan1 zyu6!)"
+    },
+    "no_problem": {
+      "text": "冇問題",
+      "roman": "mou5 man6 tai4"
+    },
+    "of_course": {
+      "text": "當然啦",
+      "roman": "dong1 jin4 laa1",
+      "note": "Very colloquial: 梗係啦！ (gang2 hai6 laa1!)"
+    },
+    "maybe": {
+      "text": "可能",
+      "roman": "ho2 nang4",
+      "note": "Also 或者 (waak6 ze2)."
+    },
+    "dont_know": {
+      "text": "我唔知",
+      "roman": "ngo5 m4 zi1"
+    },
+    "i_like_it": {
+      "text": "我好鍾意",
+      "roman": "ngo5 hou2 zung1 ji3",
+      "note": "鍾意 is also written 中意."
+    },
+    "dont_like_it": {
+      "text": "我唔鍾意",
+      "roman": "ngo5 m4 zung1 ji3"
+    },
+    "im_tired": {
+      "text": "我好攰",
+      "roman": "ngo5 hou2 gui6",
+      "note": "Sleepy: 眼瞓 (ngaan5 fan3)."
+    },
+    "im_happy": {
+      "text": "我好開心",
+      "roman": "ngo5 hou2 hoi1 sam1"
+    },
+    "welcome": {
+      "text": "歡迎歡迎！",
+      "roman": "fun1 jing4 fun1 jing4!",
+      "note": "To a guest at home, add 入嚟坐啦 (jap6 lai4 co5 laa1), come in and sit down."
+    },
+    "congratulations": {
+      "text": "恭喜！",
+      "roman": "gung1 hei2!",
+      "note": "Warmer: 恭喜晒 (gung1 hei2 saai3). At Lunar New Year: 恭喜發財 (gung1 hei2 faat3 coi4)."
+    }
+  }
+}

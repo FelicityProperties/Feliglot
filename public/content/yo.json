@@ -1,0 +1,384 @@
+{
+  "code": "yo",
+  "phrases": {
+    "hello": {
+      "text": "Ẹ n lẹ́ o",
+      "note": "Ẹ is the respectful form for elders and strangers. Casual, to a friend: báwo ni?"
+    },
+    "goodbye": {
+      "text": "Ó dàbọ̀",
+      "note": "Also common: ó dìgbà (until next time)."
+    },
+    "please": {
+      "text": "Ẹ jọ̀ọ́",
+      "note": "Fuller form: ẹ jọ̀wọ́. To a friend or someone younger: jọ̀ọ́."
+    },
+    "thank_you": {
+      "text": "Ẹ ṣé",
+      "note": "To a friend or someone younger: o ṣé. Also ẹ ṣeun. Thank you very much: ẹ ṣé gan-an."
+    },
+    "youre_welcome": {
+      "text": "Kò tọ́pẹ́",
+      "note": "Literally 'it isn't worth thanks'. Also common: kò sí wàhálà (no trouble)."
+    },
+    "yes": {
+      "text": "Bẹ́ẹ̀ ni",
+      "note": "Literally 'it is so'."
+    },
+    "no": {
+      "text": "Rárá"
+    },
+    "sorry": {
+      "text": "Ẹ má bínú",
+      "note": "To a friend: má bínú. Ẹ pẹ̀lẹ́ shows sympathy (someone tripped or is unwell); it is not an apology."
+    },
+    "excuse_me": {
+      "text": "Ẹ jọ̀ọ́ o",
+      "note": "Same word as 'please'; the drawn-out o calls attention. Often followed by sà (sir) or mà (ma'am)."
+    },
+    "good_morning": {
+      "text": "Ẹ káàárọ̀",
+      "note": "To a friend or someone younger: káàárọ̀. The reply is the same greeting."
+    },
+    "how_are_you": {
+      "text": "Ṣé dáadáa lẹ wà?",
+      "note": "Casual, to a friend: báwo ni? Also common: ṣé àlàáfíà ni?"
+    },
+    "im_fine": {
+      "text": "Dáadáa ni, ẹ ṣé",
+      "note": "Very common reply: a dúpẹ́ (we give thanks)."
+    },
+    "whats_your_name": {
+      "text": "Kí ni orúkọ yín?",
+      "note": "In speech often kí lorúkọ yín? To a child or friend: kí ni orúkọ rẹ?"
+    },
+    "my_name_is": {
+      "text": "Orúkọ mi ni …"
+    },
+    "nice_to_meet_you": {
+      "text": "Inú mi dùn láti pàdé yín",
+      "note": "To a friend or someone younger: … láti pàdé rẹ."
+    },
+    "where_from": {
+      "text": "Ibo lẹ ti wá?",
+      "note": "To a friend or someone younger: ibo lo ti wá?"
+    },
+    "im_from": {
+      "text": "Mo wá láti …",
+      "note": "Also natural, stressing the place: … ni mo ti wá."
+    },
+    "speak_english": {
+      "text": "Ṣé ẹ ń sọ Gẹ̀ẹ́sì?",
+      "note": "Also common: ṣé ẹ gbọ́ Gẹ̀ẹ́sì? (do you understand English?)"
+    },
+    "dont_understand": {
+      "text": "Kò yé mi"
+    },
+    "speak_slowly": {
+      "text": "Ẹ jọ̀ọ́, ẹ sọ̀rọ̀ díẹ̀díẹ̀",
+      "note": "Please say it again: ẹ jọ̀ọ́, ẹ tún un sọ."
+    },
+    "where": {
+      "text": "Níbo?",
+      "note": "Also ibo? Where is …?: ibo ni … wà?"
+    },
+    "what": {
+      "text": "Kí ni?",
+      "note": "Pardon, what did you say?: kí lẹ sọ?"
+    },
+    "when": {
+      "text": "Nígbà wo?",
+      "note": "Also ìgbà wo?"
+    },
+    "why": {
+      "text": "Kí ló dé?",
+      "note": "Also means 'what's wrong?'. More formal: nítorí kí ni?"
+    },
+    "who": {
+      "text": "Ta ni?"
+    },
+    "how_much": {
+      "text": "Èló ni èyí?",
+      "note": "In quick market speech: èló lèyí? Bargaining is normal."
+    },
+    "where_bathroom": {
+      "text": "Ẹ jọ̀ọ́, ibo ni ilé ìgbọ̀nsẹ̀ wà?",
+      "note": "Many people simply use the English word toilet. Balùwẹ̀ is a room for bathing."
+    },
+    "can_you_help": {
+      "text": "Ṣé ẹ lè ràn mí lọ́wọ́?"
+    },
+    "what_time": {
+      "text": "Aago mélòó ló lù?",
+      "note": "Answer, e.g.: aago mẹ́ta ló lù (it's three o'clock)."
+    },
+    "what_means": {
+      "text": "Kí ni èyí túmọ̀ sí?"
+    },
+    "one": {
+      "text": "Ọ̀kan",
+      "note": "After a noun: kan (ìwé kan, one book)."
+    },
+    "two": {
+      "text": "Èjì",
+      "note": "After a noun: méjì (ìwé méjì, two books)."
+    },
+    "three": {
+      "text": "Ẹ̀ta",
+      "note": "After a noun: mẹ́ta (ìwé mẹ́ta, three books)."
+    },
+    "four": {
+      "text": "Ẹ̀rin",
+      "note": "After a noun: mẹ́rin (ìwé mẹ́rin, four books)."
+    },
+    "five": {
+      "text": "Àrún",
+      "note": "After a noun: márùn-ún (ìwé márùn-ún, five books)."
+    },
+    "six": {
+      "text": "Ẹ̀fà",
+      "note": "After a noun: mẹ́fà (ìwé mẹ́fà, six books)."
+    },
+    "seven": {
+      "text": "Èje",
+      "note": "After a noun: méje (ìwé méje, seven books)."
+    },
+    "eight": {
+      "text": "Ẹ̀jọ",
+      "note": "After a noun: mẹ́jọ (ìwé mẹ́jọ, eight books)."
+    },
+    "nine": {
+      "text": "Ẹ̀sán",
+      "note": "After a noun: mẹ́sàn-án (ìwé mẹ́sàn-án, nine books)."
+    },
+    "ten": {
+      "text": "Ẹ̀wá",
+      "note": "After a noun: mẹ́wàá (ìwé mẹ́wàá, ten books)."
+    },
+    "water": {
+      "text": "Omi",
+      "note": "Cold water: omi tútù."
+    },
+    "coffee": {
+      "text": "Kọfí"
+    },
+    "tea": {
+      "text": "Tíì",
+      "note": "In Nigeria tíì can mean any hot drink, including cocoa drinks."
+    },
+    "bread": {
+      "text": "Búrẹ́dì"
+    },
+    "im_hungry": {
+      "text": "Ebi ń pa mí",
+      "note": "Literally 'hunger is killing me'. I'm thirsty: òùngbẹ ń gbẹ mí."
+    },
+    "menu_please": {
+      "text": "Ẹ jọ̀ọ́, ẹ fún mi ní mẹ́nù",
+      "note": "A local bùkà rarely has a menu; ask kí lẹ ní? (what do you have?)"
+    },
+    "bill_please": {
+      "text": "Ẹ jọ̀ọ́, èló ni gbogbo rẹ̀?",
+      "note": "Literally 'how much is it all?', the usual way to ask for the bill."
+    },
+    "delicious": {
+      "text": "Ó dùn!",
+      "note": "Very tasty: ó dùn gan-an! Dùn also means sweet or pleasant."
+    },
+    "no_meat": {
+      "text": "Mi kì í jẹ ẹran",
+      "note": "Fish (ẹja) is often not counted as meat; add mi kì í jẹ ẹja if needed."
+    },
+    "enjoy_meal": {
+      "text": "Ẹ gbádùn oúnjẹ yín!",
+      "note": "To a friend: gbádùn oúnjẹ rẹ! People eating often invite you: ẹ wá jẹun (come and eat)."
+    },
+    "left": {
+      "text": "Òsì",
+      "note": "Turn left: ẹ yà sí òsì."
+    },
+    "right": {
+      "text": "Ọ̀tún",
+      "note": "Turn right: ẹ yà sí ọ̀tún."
+    },
+    "straight_ahead": {
+      "text": "Tààrà",
+      "note": "Go straight on: ẹ máa lọ tààrà."
+    },
+    "stop_here": {
+      "text": "Ẹ jọ̀ọ́, ẹ dúró síbí"
+    },
+    "airport": {
+      "text": "Pápákọ̀ òfurufú",
+      "note": "In everyday speech the English word airport is also common."
+    },
+    "hotel": {
+      "text": "Hòtẹ́ẹ̀lì",
+      "note": "Formal Yoruba (news, signs): ilé ìtura."
+    },
+    "train_station": {
+      "text": "Ibùdókọ̀ ojú irin",
+      "note": "The train itself: ọkọ̀ ojú irin."
+    },
+    "want_to_go": {
+      "text": "Mo fẹ́ lọ sí …",
+      "note": "Sí merges with a following vowel: lọ sí ilé → lọ sílé (go home)."
+    },
+    "is_it_far": {
+      "text": "Ṣé ó jìnnà?",
+      "note": "Replies: ó jìnnà (it's far), kò jìnnà (it's not far)."
+    },
+    "one_ticket": {
+      "text": "Ẹ jọ̀ọ́, tíkẹ́ẹ̀tì kan"
+    },
+    "too_expensive": {
+      "text": "Ó wọ́n jù",
+      "note": "Bargaining is expected: ẹ jọ̀ọ́, ẹ dín in kù (please bring the price down)."
+    },
+    "cheaper": {
+      "text": "Ṣé ẹ ní èyí tí kò wọ́n tó báyìí?"
+    },
+    "id_like_this": {
+      "text": "Ẹ jọ̀ọ́, mo fẹ́ èyí",
+      "note": "Also natural: èyí ni mo fẹ́ (this is the one I want)."
+    },
+    "just_looking": {
+      "text": "Mo kàn ń wò ni"
+    },
+    "pay_card": {
+      "text": "Ṣé mo lè fi káàdì sanwó?",
+      "note": "In Nigeria people often ask: ṣé ẹ ní POS? (do you have a card machine?)"
+    },
+    "cash": {
+      "text": "Owó lọ́wọ́",
+      "note": "Many people simply say the English word cash. Bank transfers are also very common."
+    },
+    "open": {
+      "text": "Ó ṣí sílẹ̀",
+      "note": "Shop signs in Nigeria are nearly always in English."
+    },
+    "closed": {
+      "text": "Ó tì",
+      "note": "We've closed for the day: a ti tì. Shop signs are nearly always in English."
+    },
+    "big": {
+      "text": "Ńlá",
+      "note": "After a noun: ilé ńlá (a big house). It's big: ó tóbi."
+    },
+    "small": {
+      "text": "Kékeré",
+      "note": "After a noun: ilé kékeré (a small house). It's small: ó kéré."
+    },
+    "today": {
+      "text": "Òní",
+      "note": "Inside a sentence: lónìí, e.g. mo máa lọ lónìí (I'll go today)."
+    },
+    "tomorrow": {
+      "text": "Ọ̀la",
+      "note": "Inside a sentence: lọ́la."
+    },
+    "yesterday": {
+      "text": "Àná",
+      "note": "Inside a sentence: lánàá."
+    },
+    "now": {
+      "text": "Nísinsìnyí",
+      "note": "In quick speech also báyìí."
+    },
+    "later": {
+      "text": "Nígbà tó bá yá",
+      "note": "Often shortened to tó bá yá."
+    },
+    "good_evening": {
+      "text": "Ẹ káalẹ́",
+      "note": "To a friend: káalẹ́. In the afternoon: ẹ káàsán."
+    },
+    "good_night": {
+      "text": "Ó dàárọ̀",
+      "note": "Also: ẹ sùn re o (sleep well)."
+    },
+    "see_you_later": {
+      "text": "A ó ríra",
+      "note": "Also: ó dìgbà (till next time)."
+    },
+    "wait_moment": {
+      "text": "Ẹ jọ̀ọ́, ẹ dúró díẹ̀",
+      "note": "Dúró means wait, stop and stand."
+    },
+    "every_day": {
+      "text": "Lójoojúmọ́"
+    },
+    "help": {
+      "text": "Ẹ gbà mí!"
+    },
+    "call_police": {
+      "text": "Ẹ pe ọlọ́pàá!"
+    },
+    "need_doctor": {
+      "text": "Mo nílò dókítà",
+      "note": "Also common: mo fẹ́ rí dókítà (I want to see a doctor)."
+    },
+    "im_lost": {
+      "text": "Mo ti sọnù",
+      "note": "Also: ọ̀nà ti dà mí rú (I've got mixed up about the way)."
+    },
+    "dont_feel_well": {
+      "text": "Ara mi ò yá",
+      "note": "Careful form: ara mi kò yá."
+    },
+    "pharmacy": {
+      "text": "Ilé ìtajà oògùn",
+      "note": "In everyday speech most people say chemist, borrowed from English."
+    },
+    "hospital": {
+      "text": "Ilé ìwòsàn"
+    },
+    "lost_phone": {
+      "text": "Mo ti sọ fóònù mi nù",
+      "note": "If it was stolen: wọ́n ti jí fóònù mi."
+    },
+    "allergic": {
+      "text": "Ara mi kò gba …",
+      "note": "People also use the English word allergy."
+    },
+    "be_careful": {
+      "text": "Ẹ ṣọ́ra!",
+      "note": "To a friend: ṣọ́ra!"
+    },
+    "no_problem": {
+      "text": "Kò sí wàhálà",
+      "note": "Also: kò burú (it's fine)."
+    },
+    "of_course": {
+      "text": "Dájúdájú"
+    },
+    "maybe": {
+      "text": "Bóyá"
+    },
+    "dont_know": {
+      "text": "Mi ò mọ̀"
+    },
+    "i_like_it": {
+      "text": "Mo fẹ́ràn rẹ̀",
+      "note": "Of something you see and fancy: ó wù mí."
+    },
+    "dont_like_it": {
+      "text": "Mi ò fẹ́ràn rẹ̀",
+      "note": "Of something you see: kò wù mí."
+    },
+    "im_tired": {
+      "text": "Ó ti rẹ̀ mí"
+    },
+    "im_happy": {
+      "text": "Inú mi dùn"
+    },
+    "welcome": {
+      "text": "Ẹ káàbọ̀",
+      "note": "To a friend or someone younger: káàbọ̀."
+    },
+    "congratulations": {
+      "text": "Ẹ kú oríire!",
+      "note": "Casual: oríire o!"
+    }
+  }
+}

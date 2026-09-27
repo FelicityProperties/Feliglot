@@ -1,0 +1,486 @@
+{
+  "code": "ka",
+  "phrases": {
+    "hello": {
+      "text": "გამარჯობა",
+      "roman": "gamarjoba",
+      "note": "The usual reply: გაგიმარჯოს (gagimarjos); more politely: გაგიმარჯოთ (gagimarjot)."
+    },
+    "goodbye": {
+      "text": "ნახვამდის",
+      "roman": "nakhvamdis",
+      "note": "Casual and very common: კარგად (kargad), literally 'well'."
+    },
+    "please": {
+      "text": "გთხოვთ",
+      "roman": "gtkhovt",
+      "note": "To a friend: გთხოვ (gtkhov). In requests people usually say თუ შეიძლება (tu sheidzleba), 'if possible'."
+    },
+    "thank_you": {
+      "text": "მადლობა",
+      "roman": "madloba",
+      "note": "More formal: გმადლობთ (gmadlobt). Thank you very much: დიდი მადლობა (didi madloba)."
+    },
+    "youre_welcome": {
+      "text": "არაფრის",
+      "roman": "arapris",
+      "note": "Literally 'for nothing'. Also heard in speech: არაფერს (arapers)."
+    },
+    "yes": {
+      "text": "დიახ",
+      "roman": "diakh",
+      "note": "Polite. Everyday: კი (ki). Casual: ჰო (ho)."
+    },
+    "no": {
+      "text": "არა",
+      "roman": "ara",
+      "note": "No, thank you: არა, მადლობა (ara, madloba)."
+    },
+    "sorry": {
+      "text": "ბოდიში",
+      "roman": "bodishi",
+      "note": "For something serious: მაპატიეთ (mapatiet), 'forgive me'."
+    },
+    "excuse_me": {
+      "text": "უკაცრავად",
+      "roman": "ukatsravad",
+      "note": "ბოდიში (bodishi) works for this too."
+    },
+    "good_morning": {
+      "text": "დილა მშვიდობისა",
+      "roman": "dila mshvidobisa",
+      "note": "In speech often shortened to დილა მშვიდობის (dila mshvidobis)."
+    },
+    "how_are_you": {
+      "text": "როგორ ხართ?",
+      "roman": "rogor khart?",
+      "note": "To a friend: როგორ ხარ? (rogor khar?). Very formal: როგორ ბრძანდებით? (rogor brdzandebit?)"
+    },
+    "im_fine": {
+      "text": "კარგად ვარ, გმადლობთ",
+      "roman": "kargad var, gmadlobt",
+      "note": "Ask back with თქვენ? (tkven?), or შენ? (shen?) to a friend."
+    },
+    "whats_your_name": {
+      "text": "რა გქვიათ?",
+      "roman": "ra gkviat?",
+      "note": "To a friend or a child: რა გქვია? (ra gkvia?)"
+    },
+    "my_name_is": {
+      "text": "მე … მქვია",
+      "roman": "me … mkvia",
+      "note": "The name goes before the verb. Also: ჩემი სახელია … (chemi sakhelia …)."
+    },
+    "nice_to_meet_you": {
+      "text": "ძალიან სასიამოვნოა",
+      "roman": "dzalian sasiamovnoa",
+      "note": "Fuller: სასიამოვნოა თქვენი გაცნობა (sasiamovnoa tkveni gatsnoba)."
+    },
+    "where_from": {
+      "text": "საიდან ხართ?",
+      "roman": "saidan khart?",
+      "note": "To a friend: საიდან ხარ? (saidan khar?)"
+    },
+    "im_from": {
+      "text": "მე …დან ვარ",
+      "roman": "me …dan var",
+      "note": "-დან (-dan) is joined to the country: ინგლისიდან (inglisidan), ამერიკიდან (amerikidan)."
+    },
+    "speak_english": {
+      "text": "ინგლისური იცით?",
+      "roman": "inglisuri itsit?",
+      "note": "Literally 'do you know English?'. Also: ინგლისურად ლაპარაკობთ? (inglisurad laparakobt?)"
+    },
+    "dont_understand": {
+      "text": "არ მესმის",
+      "roman": "ar mesmis",
+      "note": "If you just didn't catch what was said: ვერ გავიგე (ver gavige)."
+    },
+    "speak_slowly": {
+      "text": "გთხოვთ, უფრო ნელა ილაპარაკეთ",
+      "roman": "gtkhovt, upro nela ilaparaket",
+      "note": "Also natural: ცოტა ნელა, თუ შეიძლება (tsota nela, tu sheidzleba)."
+    },
+    "where": {
+      "text": "სად?",
+      "roman": "sad?",
+      "note": "Where from? საიდან? (saidan?)"
+    },
+    "what": {
+      "text": "რა?",
+      "roman": "ra?",
+      "note": "A bare რა? can sound abrupt. To ask for a repeat politely: რა ბრძანეთ? (ra brdzanet?)"
+    },
+    "when": {
+      "text": "როდის?",
+      "roman": "rodis?"
+    },
+    "why": {
+      "text": "რატომ?",
+      "roman": "ratom?"
+    },
+    "who": {
+      "text": "ვინ?",
+      "roman": "vin?"
+    },
+    "how_much": {
+      "text": "ეს რა ღირს?",
+      "roman": "es ra ghirs?",
+      "note": "ღ (gh) is a soft sound from the throat, like a French r."
+    },
+    "where_bathroom": {
+      "text": "სად არის ტუალეტი?",
+      "roman": "sad aris tualeti?",
+      "note": "Signs may say საპირფარეშო (sapirparesho) or WC."
+    },
+    "can_you_help": {
+      "text": "შეგიძლიათ დამეხმაროთ?",
+      "roman": "shegidzliat damekhmarot?",
+      "note": "Softer and very common: ხომ ვერ დამეხმარებით? (khom ver damekhmarebit?)"
+    },
+    "what_time": {
+      "text": "რომელი საათია?",
+      "roman": "romeli saatia?",
+      "note": "Answer: ორი საათია (ori saatia), it's two o'clock."
+    },
+    "what_means": {
+      "text": "ეს რას ნიშნავს?",
+      "roman": "es ras nishnavs?",
+      "note": "About a word: ეს სიტყვა რას ნიშნავს? (es sitqva ras nishnavs?)"
+    },
+    "one": {
+      "text": "ერთი",
+      "roman": "erti"
+    },
+    "two": {
+      "text": "ორი",
+      "roman": "ori"
+    },
+    "three": {
+      "text": "სამი",
+      "roman": "sami"
+    },
+    "four": {
+      "text": "ოთხი",
+      "roman": "otkhi",
+      "note": "t followed by a throaty kh, never the English 'th'."
+    },
+    "five": {
+      "text": "ხუთი",
+      "roman": "khuti",
+      "note": "kh is throaty, like ch in Scottish 'loch'."
+    },
+    "six": {
+      "text": "ექვსი",
+      "roman": "ekvsi"
+    },
+    "seven": {
+      "text": "შვიდი",
+      "roman": "shvidi"
+    },
+    "eight": {
+      "text": "რვა",
+      "roman": "rva",
+      "note": "One syllable: a rolled r straight into va."
+    },
+    "nine": {
+      "text": "ცხრა",
+      "roman": "tskhra",
+      "note": "One syllable: ts, a throaty kh, a rolled r, then a."
+    },
+    "ten": {
+      "text": "ათი",
+      "roman": "ati",
+      "note": "Above 20 Georgian counts in twenties: 30 is ოცდაათი (otsdaati), 'twenty and ten'."
+    },
+    "water": {
+      "text": "წყალი",
+      "roman": "tsqali",
+      "note": "Mineral water (usually sparkling): მინერალური წყალი (mineraluri tsqali). ყ (q) is a deep k from the throat."
+    },
+    "coffee": {
+      "text": "ყავა",
+      "roman": "qava",
+      "note": "Coffee boiled in a small pot is თურქული ყავა (turkuli qava)."
+    },
+    "tea": {
+      "text": "ჩაი",
+      "roman": "chai"
+    },
+    "bread": {
+      "text": "პური",
+      "roman": "puri",
+      "note": "The boat-shaped loaf from a clay oven is შოთი (shoti)."
+    },
+    "im_hungry": {
+      "text": "მშია",
+      "roman": "mshia",
+      "note": "I'm thirsty: მწყურია (mtsquria)."
+    },
+    "menu_please": {
+      "text": "მენიუ, თუ შეიძლება",
+      "roman": "meniu, tu sheidzleba",
+      "note": "Fuller: მენიუ მომიტანეთ, თუ შეიძლება (meniu momitanet, tu sheidzleba)."
+    },
+    "bill_please": {
+      "text": "ანგარიში, თუ შეიძლება",
+      "roman": "angarishi, tu sheidzleba",
+      "note": "In cafés many people say ჩეკი (cheki) instead of ანგარიში."
+    },
+    "delicious": {
+      "text": "გემრიელია!",
+      "roman": "gemrielia!",
+      "note": "Stronger: ძალიან გემრიელია! (dzalian gemrielia!)"
+    },
+    "no_meat": {
+      "text": "ხორცს არ ვჭამ",
+      "roman": "khortss ar vcham",
+      "note": "Vegetarian: ვეგეტარიანელი ვარ (vegetarianeli var). Lenten dishes, სამარხვო (samarkhvo), have no meat."
+    },
+    "enjoy_meal": {
+      "text": "გემრიელად მიირთვით!",
+      "roman": "gemrielad miirtvit!",
+      "note": "Also very common: გაამოთ! (gaamot!)"
+    },
+    "left": {
+      "text": "მარცხნივ",
+      "roman": "martskhniv",
+      "note": "Turn left: მარცხნივ მოუხვიეთ (martskhniv moukhviet)."
+    },
+    "right": {
+      "text": "მარჯვნივ",
+      "roman": "marjvniv",
+      "note": "Turn right: მარჯვნივ მოუხვიეთ (marjvniv moukhviet)."
+    },
+    "straight_ahead": {
+      "text": "პირდაპირ",
+      "roman": "pirdapir",
+      "note": "Go straight on: პირდაპირ წადით (pirdapir tsadit)."
+    },
+    "stop_here": {
+      "text": "აქ გამიჩერეთ, თუ შეიძლება",
+      "roman": "ak gamicheret, tu sheidzleba",
+      "note": "In a marshrutka (minibus), just call out გამიჩერეთ! (gamicheret!)"
+    },
+    "airport": {
+      "text": "აეროპორტი",
+      "roman": "aeroporti"
+    },
+    "hotel": {
+      "text": "სასტუმრო",
+      "roman": "sastumro",
+      "note": "ჰოტელი (hoteli) is understood too, but სასტუმრო is the everyday word."
+    },
+    "train_station": {
+      "text": "რკინიგზის სადგური",
+      "roman": "rkinigzis sadguri",
+      "note": "In everyday speech: ვაგზალი (vagzali)."
+    },
+    "want_to_go": {
+      "text": "მინდა წავიდე …ში",
+      "roman": "minda tsavide …shi",
+      "note": "-ში (-shi) is joined to the place: აეროპორტში (aeroportshi). Streets and squares take -ზე (-ze)."
+    },
+    "is_it_far": {
+      "text": "შორს არის?",
+      "roman": "shors aris?",
+      "note": "In speech also: შორია? (shoria?)"
+    },
+    "one_ticket": {
+      "text": "ერთი ბილეთი, თუ შეიძლება",
+      "roman": "erti bileti, tu sheidzleba",
+      "note": "Nouns stay singular after numbers: ორი ბილეთი (ori bileti), two tickets."
+    },
+    "too_expensive": {
+      "text": "ძალიან ძვირია",
+      "roman": "dzalian dzviria",
+      "note": "To bargain: დამიკლებთ? (damiklebt?), will you knock a little off?"
+    },
+    "cheaper": {
+      "text": "რამე უფრო იაფი ხომ არ გაქვთ?",
+      "roman": "rame upro iapi khom ar gakvt?"
+    },
+    "id_like_this": {
+      "text": "ეს მომეცით, თუ შეიძლება",
+      "roman": "es mometsit, tu sheidzleba",
+      "note": "Also: ამას ავიღებ (amas avigheb), I'll take this."
+    },
+    "just_looking": {
+      "text": "უბრალოდ ვათვალიერებ",
+      "roman": "ubralod vatvaliereb"
+    },
+    "pay_card": {
+      "text": "ბარათით გადახდა შეიძლება?",
+      "roman": "baratit gadakhda sheidzleba?",
+      "note": "In shops, often just: ბარათით შეიძლება? (baratit sheidzleba?)"
+    },
+    "cash": {
+      "text": "ნაღდი ფული",
+      "roman": "naghdi puli",
+      "note": "I'll pay in cash: ნაღდით გადავიხდი (naghdit gadavikhdi)."
+    },
+    "open": {
+      "text": "ღიაა",
+      "roman": "ghiaa"
+    },
+    "closed": {
+      "text": "დახურულია",
+      "roman": "dakhurulia",
+      "note": "Also seen and said: დაკეტილია (daketilia)."
+    },
+    "big": {
+      "text": "დიდი",
+      "roman": "didi"
+    },
+    "small": {
+      "text": "პატარა",
+      "roman": "patara",
+      "note": "პ and ტ are 'popped' sounds, with no puff of air after them."
+    },
+    "today": {
+      "text": "დღეს",
+      "roman": "dghes",
+      "note": "One syllable: d glides straight into the throaty gh."
+    },
+    "tomorrow": {
+      "text": "ხვალ",
+      "roman": "khval",
+      "note": "The day after tomorrow: ზეგ (zeg)."
+    },
+    "yesterday": {
+      "text": "გუშინ",
+      "roman": "gushin",
+      "note": "The day before yesterday: გუშინწინ (gushintsin)."
+    },
+    "now": {
+      "text": "ახლა",
+      "roman": "akhla",
+      "note": "Right now: ახლავე (akhlave)."
+    },
+    "later": {
+      "text": "მოგვიანებით",
+      "roman": "mogvianebit",
+      "note": "In everyday speech: მერე (mere), 'afterwards'."
+    },
+    "good_evening": {
+      "text": "საღამო მშვიდობისა",
+      "roman": "saghamo mshvidobisa",
+      "note": "In speech often shortened to საღამო მშვიდობის (saghamo mshvidobis)."
+    },
+    "good_night": {
+      "text": "ღამე მშვიდობისა",
+      "roman": "ghame mshvidobisa",
+      "note": "When someone goes to bed: ძილი ნებისა (dzili nebisa), 'sleep well'."
+    },
+    "see_you_later": {
+      "text": "შეხვედრამდე",
+      "roman": "shekhvedramde",
+      "note": "Casual: მერე გნახავ (mere gnakhav), or ჯერჯერობით (jerjerobit), 'for now'."
+    },
+    "wait_moment": {
+      "text": "ერთი წუთით მოიცადეთ, თუ შეიძლება",
+      "roman": "erti tsutit moitsadet, tu sheidzleba",
+      "note": "Short and everyday: ერთი წუთით! (erti tsutit!). To a friend: მოიცადე (moitsade)."
+    },
+    "every_day": {
+      "text": "ყოველდღე",
+      "roman": "qoveldghe"
+    },
+    "help": {
+      "text": "მიშველეთ!",
+      "roman": "mishvelet!"
+    },
+    "call_police": {
+      "text": "გამოიძახეთ პოლიცია!",
+      "roman": "gamoidzakhet politsia!",
+      "note": "The emergency number in Georgia is 112."
+    },
+    "need_doctor": {
+      "text": "ექიმი მჭირდება",
+      "roman": "ekimi mchirdeba",
+      "note": "Ambulance: სასწრაფო (sastsrapo)."
+    },
+    "im_lost": {
+      "text": "გზა ამებნა",
+      "roman": "gza amebna",
+      "note": "Also: დავიკარგე (davikarge), 'I got lost'."
+    },
+    "dont_feel_well": {
+      "text": "ცუდად ვარ",
+      "roman": "tsudad var",
+      "note": "Fuller: თავს ცუდად ვგრძნობ (tavs tsudad vgrdznob)."
+    },
+    "pharmacy": {
+      "text": "აფთიაქი",
+      "roman": "aptiaki"
+    },
+    "hospital": {
+      "text": "საავადმყოფო",
+      "roman": "saavadmqopo",
+      "note": "Many hospitals are named კლინიკა (klinika), and people say that too."
+    },
+    "lost_phone": {
+      "text": "ტელეფონი დამეკარგა",
+      "roman": "teleponi damekarga",
+      "note": "Also: ტელეფონი დავკარგე (teleponi davkarge)."
+    },
+    "allergic": {
+      "text": "…ზე ალერგია მაქვს",
+      "roman": "…ze alergia makvs",
+      "note": "-ზე (-ze) is joined to the allergen: თხილზე (tkhilze), to hazelnuts."
+    },
+    "be_careful": {
+      "text": "ფრთხილად!",
+      "roman": "prtkhilad!",
+      "note": "Full polite form: ფრთხილად იყავით! (prtkhilad iqavit!)"
+    },
+    "no_problem": {
+      "text": "არაა პრობლემა",
+      "roman": "araa problema",
+      "note": "After an apology: არაუშავს (araushavs), 'it's all right'."
+    },
+    "of_course": {
+      "text": "რა თქმა უნდა",
+      "roman": "ra tkma unda",
+      "note": "Casual: აბა რა! (aba ra!)"
+    },
+    "maybe": {
+      "text": "შეიძლება",
+      "roman": "sheidzleba",
+      "note": "Probably: ალბათ (albat)."
+    },
+    "dont_know": {
+      "text": "არ ვიცი",
+      "roman": "ar vitsi"
+    },
+    "i_like_it": {
+      "text": "მომწონს",
+      "roman": "momtsons",
+      "note": "I like it a lot: ძალიან მომწონს (dzalian momtsons)."
+    },
+    "dont_like_it": {
+      "text": "არ მომწონს",
+      "roman": "ar momtsons"
+    },
+    "im_tired": {
+      "text": "დავიღალე",
+      "roman": "davighale",
+      "note": "Also: დაღლილი ვარ (daghlili var)."
+    },
+    "im_happy": {
+      "text": "ბედნიერი ვარ",
+      "roman": "bednieri var",
+      "note": "Glad about something: მიხარია (mikharia)."
+    },
+    "welcome": {
+      "text": "მობრძანდით!",
+      "roman": "mobrdzandit!",
+      "note": "Literally 'please come in'. Formal: კეთილი იყოს თქვენი მობრძანება! (ketili iqos tkveni mobrdzaneba!)"
+    },
+    "congratulations": {
+      "text": "გილოცავთ!",
+      "roman": "gilotsavt!",
+      "note": "To a friend: გილოცავ! (gilotsav!)"
+    }
+  }
+}
