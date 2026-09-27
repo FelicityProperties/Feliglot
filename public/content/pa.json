@@ -1,0 +1,486 @@
+{
+  "code": "pa",
+  "phrases": {
+    "hello": {
+      "text": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ",
+      "roman": "sat sri akaal",
+      "note": "Works at any time of day, and also when leaving. ਨਮਸਤੇ (namaste) is heard too."
+    },
+    "goodbye": {
+      "text": "ਫਿਰ ਮਿਲਾਂਗੇ",
+      "roman": "phir milaange",
+      "note": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ (sat sri akaal) is also said when leaving. Warm and traditional: ਰੱਬ ਰਾਖਾ (rabb raakha)."
+    },
+    "please": {
+      "text": "ਕਿਰਪਾ ਕਰਕੇ",
+      "roman": "kirpa karke",
+      "note": "Formal. In speech, politeness usually comes from adding ਜੀ (ji): ਬੈਠੋ ਜੀ (baitho ji, 'please sit')."
+    },
+    "thank_you": {
+      "text": "ਧੰਨਵਾਦ",
+      "roman": "dhanvaad",
+      "note": "In everyday speech also ਮਿਹਰਬਾਨੀ (meharbaani) or ਸ਼ੁਕਰੀਆ (shukriya)."
+    },
+    "youre_welcome": {
+      "text": "ਕੋਈ ਗੱਲ ਨਹੀਂ",
+      "roman": "koi gall nahin",
+      "note": "Punjabi has no set reply to thanks; this ('it's nothing') is the natural one."
+    },
+    "yes": {
+      "text": "ਹਾਂ ਜੀ",
+      "roman": "haan ji",
+      "note": "ਜੀ (ji) adds respect. Plain ਹਾਂ (haan) is for friends and family."
+    },
+    "no": {
+      "text": "ਨਹੀਂ ਜੀ",
+      "roman": "nahin ji",
+      "note": "Plain ਨਹੀਂ (nahin) or ਨਾ (na) is casual."
+    },
+    "sorry": {
+      "text": "ਮਾਫ਼ ਕਰਨਾ",
+      "roman": "maaf karna",
+      "note": "English 'sorry' (ਸੌਰੀ) is also very common in everyday speech."
+    },
+    "excuse_me": {
+      "text": "ਸੁਣੋ ਜੀ",
+      "roman": "suno ji",
+      "note": "Literally 'please listen'. People also just call out ਭਾਅ ਜੀ (paa ji, 'brother') or ਭੈਣ ਜੀ (bhain ji, 'sister')."
+    },
+    "good_morning": {
+      "text": "ਸ਼ੁਭ ਸਵੇਰ",
+      "roman": "shubh saver",
+      "note": "Formal. In person people say ਸਤ ਸ੍ਰੀ ਅਕਾਲ (sat sri akaal) or English 'good morning'."
+    },
+    "how_are_you": {
+      "text": "ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?",
+      "roman": "tuhaada ki haal hai?",
+      "note": "Casual: ਕੀ ਹਾਲ ਹੈ? (ki haal hai?). Also common: ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ? (tusi kiven ho?)"
+    },
+    "im_fine": {
+      "text": "ਮੈਂ ਠੀਕ ਹਾਂ, ਧੰਨਵਾਦ",
+      "roman": "main theek haan, dhanvaad",
+      "note": "Casual: ਵਧੀਆ ਜੀ (vadhiya ji). To ask back: ਤੁਸੀਂ ਸੁਣਾਓ? (tusi sunao?)"
+    },
+    "whats_your_name": {
+      "text": "ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?",
+      "roman": "tuhaada naam ki hai?",
+      "note": "Extra respectful, e.g. to an elder: ਤੁਹਾਡਾ ਸ਼ੁਭ ਨਾਮ ਕੀ ਹੈ? (tuhaada shubh naam ki hai?)"
+    },
+    "my_name_is": {
+      "text": "ਮੇਰਾ ਨਾਮ … ਹੈ",
+      "roman": "mera naam … hai",
+      "note": "In casual speech ਨਾਮ is often ਨਾਂ (naa, with a nasal a)."
+    },
+    "nice_to_meet_you": {
+      "text": "ਤੁਹਾਨੂੰ ਮਿਲ ਕੇ ਖ਼ੁਸ਼ੀ ਹੋਈ",
+      "roman": "tuhaanu mil ke khushi hoi",
+      "note": "Also common: ਤੁਹਾਨੂੰ ਮਿਲ ਕੇ ਚੰਗਾ ਲੱਗਿਆ (tuhaanu mil ke changa laggeya)."
+    },
+    "where_from": {
+      "text": "ਤੁਸੀਂ ਕਿੱਥੋਂ ਹੋ?",
+      "roman": "tusi kitthon ho?"
+    },
+    "im_from": {
+      "text": "ਮੈਂ … ਤੋਂ ਹਾਂ",
+      "roman": "main … ton haan",
+      "note": "Same for men and women."
+    },
+    "speak_english": {
+      "text": "ਕੀ ਤੁਹਾਨੂੰ ਅੰਗਰੇਜ਼ੀ ਆਉਂਦੀ ਹੈ?",
+      "roman": "ki tuhaanu angrezi aundi hai?",
+      "note": "Literally 'does English come to you?' — the usual way to ask if someone knows a language."
+    },
+    "dont_understand": {
+      "text": "ਮੈਨੂੰ ਸਮਝ ਨਹੀਂ ਆਈ",
+      "roman": "mainu samajh nahin aayi",
+      "note": "Literally 'understanding didn't come to me', so men and women say it the same way."
+    },
+    "speak_slowly": {
+      "text": "ਜ਼ਰਾ ਹੌਲੀ-ਹੌਲੀ ਬੋਲੋ ਜੀ",
+      "roman": "zara hauli-hauli bolo ji",
+      "note": "Plain ਹੌਲੀ ਬੋਲੋ (hauli bolo) can mean 'speak quietly', so the doubled form is clearer."
+    },
+    "where": {
+      "text": "ਕਿੱਥੇ?",
+      "roman": "kitthe?"
+    },
+    "what": {
+      "text": "ਕੀ?",
+      "roman": "ki?",
+      "note": "Sounds like 'key'. Also starts yes/no questions: ਕੀ ਤੁਸੀਂ ਠੀਕ ਹੋ? (ki tusi theek ho?)"
+    },
+    "when": {
+      "text": "ਕਦੋਂ?",
+      "roman": "kadon?"
+    },
+    "why": {
+      "text": "ਕਿਉਂ?",
+      "roman": "kyun?"
+    },
+    "who": {
+      "text": "ਕੌਣ?",
+      "roman": "kaun?"
+    },
+    "how_much": {
+      "text": "ਇਹ ਕਿੰਨੇ ਦਾ ਹੈ?",
+      "roman": "eh kinne da hai?",
+      "note": "For a feminine noun: ਇਹ ਕਿੰਨੇ ਦੀ ਹੈ? (eh kinne di hai?)"
+    },
+    "where_bathroom": {
+      "text": "ਬਾਥਰੂਮ ਕਿੱਥੇ ਹੈ?",
+      "roman": "baathroom kitthe hai?",
+      "note": "ਟਾਇਲਟ (toilet) is just as common. Add ਜੀ (ji) at the end to sound extra polite."
+    },
+    "can_you_help": {
+      "text": "ਕੀ ਤੁਸੀਂ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?",
+      "roman": "ki tusi meri madad kar sakde ho?",
+      "note": "More direct but still polite: ਮੇਰੀ ਮਦਦ ਕਰ ਦਿਓ ਜੀ (meri madad kar deo ji)."
+    },
+    "what_time": {
+      "text": "ਕਿੰਨੇ ਵਜੇ ਹਨ?",
+      "roman": "kinne vaje han?",
+      "note": "In everyday speech: ਟਾਈਮ ਕੀ ਹੋਇਆ? (time ki hoya?)"
+    },
+    "what_means": {
+      "text": "ਇਸ ਦਾ ਕੀ ਮਤਲਬ ਹੈ?",
+      "roman": "is da ki matlab hai?"
+    },
+    "one": {
+      "text": "ਇੱਕ",
+      "roman": "ikk",
+      "note": "Gurmukhi digit: ੧"
+    },
+    "two": {
+      "text": "ਦੋ",
+      "roman": "do",
+      "note": "Gurmukhi digit: ੨"
+    },
+    "three": {
+      "text": "ਤਿੰਨ",
+      "roman": "tinn",
+      "note": "Gurmukhi digit: ੩"
+    },
+    "four": {
+      "text": "ਚਾਰ",
+      "roman": "chaar",
+      "note": "Gurmukhi digit: ੪"
+    },
+    "five": {
+      "text": "ਪੰਜ",
+      "roman": "panj",
+      "note": "Gurmukhi digit: ੫"
+    },
+    "six": {
+      "text": "ਛੇ",
+      "roman": "chhe",
+      "note": "Gurmukhi digit: ੬"
+    },
+    "seven": {
+      "text": "ਸੱਤ",
+      "roman": "satt",
+      "note": "Gurmukhi digit: ੭"
+    },
+    "eight": {
+      "text": "ਅੱਠ",
+      "roman": "atth",
+      "note": "Gurmukhi digit: ੮"
+    },
+    "nine": {
+      "text": "ਨੌਂ",
+      "roman": "naun",
+      "note": "Gurmukhi digit: ੯"
+    },
+    "ten": {
+      "text": "ਦਸ",
+      "roman": "das",
+      "note": "Gurmukhi digits: ੧੦"
+    },
+    "water": {
+      "text": "ਪਾਣੀ",
+      "roman": "paani",
+      "note": "To ask for some: ਪਾਣੀ ਦੇਣਾ ਜੀ (paani dena ji)."
+    },
+    "coffee": {
+      "text": "ਕੌਫ਼ੀ",
+      "roman": "kaufi",
+      "note": "Don't mix it up with ਕਾਫ਼ੀ (kaafi), which means 'enough'."
+    },
+    "tea": {
+      "text": "ਚਾਹ",
+      "roman": "chaa",
+      "note": "The final ਹ isn't sounded as 'h'; it gives the vowel a rising tone."
+    },
+    "bread": {
+      "text": "ਰੋਟੀ",
+      "roman": "roti",
+      "note": "Flatbread, and also 'a meal'. Sliced loaf bread is ਡਬਲ ਰੋਟੀ (dabal roti) or ਬਰੈੱਡ (bred)."
+    },
+    "im_hungry": {
+      "text": "ਮੈਨੂੰ ਭੁੱਖ ਲੱਗੀ ਹੈ",
+      "roman": "mainu bhukkh laggi hai",
+      "note": "Same for men and women. ਭ is said like a low-toned 'p': pukkh."
+    },
+    "menu_please": {
+      "text": "ਮੀਨੂ ਦੇ ਦਿਓ ਜੀ",
+      "roman": "meenu de deo ji"
+    },
+    "bill_please": {
+      "text": "ਬਿੱਲ ਲਿਆ ਦਿਓ ਜੀ",
+      "roman": "bill lia deo ji"
+    },
+    "delicious": {
+      "text": "ਬਹੁਤ ਸੁਆਦ ਹੈ!",
+      "roman": "bahut suaad hai!",
+      "note": "Very Punjabi: ਸੁਆਦ ਆ ਗਿਆ! (suaad aa gaya!), 'that hit the spot!'"
+    },
+    "no_meat": {
+      "text": "ਮੈਂ ਮੀਟ ਨਹੀਂ ਖਾਂਦਾ",
+      "roman": "main meet nahin khaanda",
+      "note": "A woman says: ਮੈਂ ਮੀਟ ਨਹੀਂ ਖਾਂਦੀ (main meet nahin khaandi). Vegetarian: ਸ਼ਾਕਾਹਾਰੀ (shaakaahaari)."
+    },
+    "enjoy_meal": {
+      "text": "ਰੱਜ ਕੇ ਖਾਓ ਜੀ!",
+      "roman": "rajj ke khao ji!",
+      "note": "No fixed 'bon appétit'; hosts say this ('eat your fill!'). Formal: ਖਾਣੇ ਦਾ ਅਨੰਦ ਮਾਣੋ (khaane da anand maano)."
+    },
+    "left": {
+      "text": "ਖੱਬੇ",
+      "roman": "khabbe",
+      "note": "Turn left: ਖੱਬੇ ਮੁੜੋ (khabbe mudo)."
+    },
+    "right": {
+      "text": "ਸੱਜੇ",
+      "roman": "sajje",
+      "note": "Turn right: ਸੱਜੇ ਮੁੜੋ (sajje mudo)."
+    },
+    "straight_ahead": {
+      "text": "ਸਿੱਧਾ ਅੱਗੇ",
+      "roman": "siddha agge",
+      "note": "Go straight on: ਸਿੱਧੇ ਜਾਓ (siddhe jao)."
+    },
+    "stop_here": {
+      "text": "ਇੱਥੇ ਰੋਕ ਦਿਓ ਜੀ",
+      "roman": "itthe rok deo ji",
+      "note": "Or simply: ਬੱਸ, ਇੱਥੇ ਹੀ (bas, itthe hi), 'right here is fine'."
+    },
+    "airport": {
+      "text": "ਹਵਾਈ ਅੱਡਾ",
+      "roman": "havaai adda",
+      "note": "In everyday speech ਏਅਰਪੋਰਟ (airport) is just as common."
+    },
+    "hotel": {
+      "text": "ਹੋਟਲ",
+      "roman": "hotal",
+      "note": "Also used for a roadside restaurant or eatery."
+    },
+    "train_station": {
+      "text": "ਰੇਲਵੇ ਸਟੇਸ਼ਨ",
+      "roman": "relve steshan",
+      "note": "Often just ਸਟੇਸ਼ਨ (steshan)."
+    },
+    "want_to_go": {
+      "text": "ਮੈਂ … ਜਾਣਾ ਹੈ",
+      "roman": "main … jaana hai",
+      "note": "Same for men and women, and no word for 'to' is needed: ਮੈਂ ਦਿੱਲੀ ਜਾਣਾ ਹੈ (main Dilli jaana hai)."
+    },
+    "is_it_far": {
+      "text": "ਕੀ ਇਹ ਦੂਰ ਹੈ?",
+      "roman": "ki eh door hai?",
+      "note": "How far is it? ਕਿੰਨੀ ਦੂਰ ਹੈ? (kinni door hai?)"
+    },
+    "one_ticket": {
+      "text": "ਇੱਕ ਟਿਕਟ ਦੇ ਦਿਓ ਜੀ",
+      "roman": "ikk tikat de deo ji"
+    },
+    "too_expensive": {
+      "text": "ਇਹ ਤਾਂ ਬਹੁਤ ਮਹਿੰਗਾ ਹੈ",
+      "roman": "eh taan bahut mehnga hai",
+      "note": "For a feminine noun: ਮਹਿੰਗੀ (mehngi). To haggle: ਕੁਝ ਘੱਟ ਕਰੋ ਜੀ (kujh ghatt karo ji)."
+    },
+    "cheaper": {
+      "text": "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਕੁਝ ਸਸਤਾ ਹੈ?",
+      "roman": "ki tuhaade kol kujh sasta hai?",
+      "note": "In a market, simply: ਇਸ ਤੋਂ ਸਸਤਾ ਦਿਖਾਓ (is ton sasta dikhao), 'show me something cheaper'."
+    },
+    "id_like_this": {
+      "text": "ਮੈਨੂੰ ਇਹ ਚਾਹੀਦਾ ਹੈ ਜੀ",
+      "roman": "mainu eh chaahida hai ji",
+      "note": "For a feminine noun: ਚਾਹੀਦੀ (chaahidi). Pointing in a shop: ਇਹ ਦੇ ਦਿਓ ਜੀ (eh de deo ji)."
+    },
+    "just_looking": {
+      "text": "ਮੈਂ ਬੱਸ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+      "roman": "main bas dekh reha haan",
+      "note": "A woman says: ਮੈਂ ਬੱਸ ਦੇਖ ਰਹੀ ਹਾਂ (main bas dekh rahi haan)."
+    },
+    "pay_card": {
+      "text": "ਕੀ ਮੈਂ ਕਾਰਡ ਨਾਲ ਪੈਸੇ ਦੇ ਸਕਦਾ ਹਾਂ?",
+      "roman": "ki main kaard naal paise de sakda haan?",
+      "note": "A woman says ਸਕਦੀ (sakdi) instead of ਸਕਦਾ. Casual: ਕਾਰਡ ਚੱਲੇਗਾ? (kaard challega?)"
+    },
+    "cash": {
+      "text": "ਨਕਦ",
+      "roman": "nakad",
+      "note": "In shops the English ਕੈਸ਼ (cash) is just as common."
+    },
+    "open": {
+      "text": "ਖੁੱਲ੍ਹਾ",
+      "roman": "khulla",
+      "note": "Of a shop: ਦੁਕਾਨ ਖੁੱਲ੍ਹੀ ਹੈ (dukaan khulli hai), since ਦੁਕਾਨ is feminine."
+    },
+    "closed": {
+      "text": "ਬੰਦ",
+      "roman": "band"
+    },
+    "big": {
+      "text": "ਵੱਡਾ",
+      "roman": "vadda",
+      "note": "Feminine: ਵੱਡੀ (vaddi)."
+    },
+    "small": {
+      "text": "ਛੋਟਾ",
+      "roman": "chhota",
+      "note": "Feminine: ਛੋਟੀ (chhoti)."
+    },
+    "today": {
+      "text": "ਅੱਜ",
+      "roman": "ajj"
+    },
+    "tomorrow": {
+      "text": "ਕੱਲ੍ਹ ਨੂੰ",
+      "roman": "kall nu",
+      "note": "ਕੱਲ੍ਹ (kall) alone means both 'yesterday' and 'tomorrow'; ਕੱਲ੍ਹ ਨੂੰ points forward. Also ਭਲਕੇ (bhalke)."
+    },
+    "yesterday": {
+      "text": "ਕੱਲ੍ਹ",
+      "roman": "kall",
+      "note": "Also means 'tomorrow'; the verb's tense tells you which: ਕੱਲ੍ਹ ਆਇਆ ਸੀ (kall aaya si), 'came yesterday'."
+    },
+    "now": {
+      "text": "ਹੁਣ",
+      "roman": "hun",
+      "note": "Right now: ਹੁਣੇ (hune)."
+    },
+    "later": {
+      "text": "ਬਾਅਦ ਵਿੱਚ",
+      "roman": "baad vich",
+      "note": "Casual: ਮਗਰੋਂ (magron) or just ਫੇਰ (pher)."
+    },
+    "good_evening": {
+      "text": "ਸ਼ੁਭ ਸ਼ਾਮ",
+      "roman": "shubh shaam",
+      "note": "Formal and rare in speech; people just say ਸਤ ਸ੍ਰੀ ਅਕਾਲ (sat sri akaal) at any hour."
+    },
+    "good_night": {
+      "text": "ਸ਼ੁਭ ਰਾਤ",
+      "roman": "shubh raat",
+      "note": "Formal. Most people actually say the English ਗੁੱਡ ਨਾਈਟ (good night)."
+    },
+    "see_you_later": {
+      "text": "ਬਾਅਦ ਵਿੱਚ ਮਿਲਦੇ ਹਾਂ",
+      "roman": "baad vich milde haan",
+      "note": "Casual: ਫੇਰ ਮਿਲਦੇ ਆਂ (pher milde aan)."
+    },
+    "wait_moment": {
+      "text": "ਇੱਕ ਮਿੰਟ ਰੁਕੋ ਜੀ",
+      "roman": "ikk mint ruko ji"
+    },
+    "every_day": {
+      "text": "ਹਰ ਰੋਜ਼",
+      "roman": "har roz",
+      "note": "Also simply ਰੋਜ਼ (roz)."
+    },
+    "help": {
+      "text": "ਬਚਾਓ!",
+      "roman": "bachao!",
+      "note": "'Help me': ਮੇਰੀ ਮਦਦ ਕਰੋ! (meri madad karo!)"
+    },
+    "call_police": {
+      "text": "ਪੁਲਿਸ ਨੂੰ ਬੁਲਾਓ!",
+      "roman": "pulis nu bulao!"
+    },
+    "need_doctor": {
+      "text": "ਮੈਨੂੰ ਡਾਕਟਰ ਦੀ ਲੋੜ ਹੈ",
+      "roman": "mainu daaktar di lod hai"
+    },
+    "im_lost": {
+      "text": "ਮੈਂ ਰਸਤਾ ਭੁੱਲ ਗਿਆ ਹਾਂ",
+      "roman": "main rasta bhull gaya haan",
+      "note": "A woman says: ਮੈਂ ਰਸਤਾ ਭੁੱਲ ਗਈ ਹਾਂ (main rasta bhull gayi haan)."
+    },
+    "dont_feel_well": {
+      "text": "ਮੇਰੀ ਤਬੀਅਤ ਠੀਕ ਨਹੀਂ ਹੈ",
+      "roman": "meri tabiyat theek nahin hai"
+    },
+    "pharmacy": {
+      "text": "ਦਵਾਈਆਂ ਦੀ ਦੁਕਾਨ",
+      "roman": "davaiyan di dukaan",
+      "note": "Signs usually say ਕੈਮਿਸਟ (kemist) or ਮੈਡੀਕਲ ਸਟੋਰ (medical store)."
+    },
+    "hospital": {
+      "text": "ਹਸਪਤਾਲ",
+      "roman": "haspataal"
+    },
+    "lost_phone": {
+      "text": "ਮੇਰਾ ਫ਼ੋਨ ਗੁਆਚ ਗਿਆ ਹੈ",
+      "roman": "mera fon guaach gaya hai",
+      "note": "If it was stolen: ਮੇਰਾ ਫ਼ੋਨ ਚੋਰੀ ਹੋ ਗਿਆ (mera fon chori ho gaya)."
+    },
+    "allergic": {
+      "text": "ਮੈਨੂੰ … ਤੋਂ ਐਲਰਜੀ ਹੈ",
+      "roman": "mainu … ton ailarji hai"
+    },
+    "be_careful": {
+      "text": "ਧਿਆਨ ਨਾਲ!",
+      "roman": "dhiaan naal!",
+      "note": "Sharper warning, like 'watch out!': ਬਚ ਕੇ! (bach ke!)"
+    },
+    "no_problem": {
+      "text": "ਕੋਈ ਦਿੱਕਤ ਨਹੀਂ",
+      "roman": "koi dikkat nahin",
+      "note": "Also ਕੋਈ ਗੱਲ ਨਹੀਂ (koi gall nahin). Very casual: ਕੋਈ ਨਾ (koi na)."
+    },
+    "of_course": {
+      "text": "ਜ਼ਰੂਰ",
+      "roman": "zaroor",
+      "note": "Also ਬਿਲਕੁਲ (bilkul), 'absolutely'."
+    },
+    "maybe": {
+      "text": "ਸ਼ਾਇਦ",
+      "roman": "shaayad"
+    },
+    "dont_know": {
+      "text": "ਮੈਨੂੰ ਨਹੀਂ ਪਤਾ",
+      "roman": "mainu nahin pata",
+      "note": "Casual: ਪਤਾ ਨਹੀਂ (pata nahin)."
+    },
+    "i_like_it": {
+      "text": "ਮੈਨੂੰ ਇਹ ਪਸੰਦ ਹੈ",
+      "roman": "mainu eh pasand hai",
+      "note": "Also common: ਮੈਨੂੰ ਇਹ ਚੰਗਾ ਲੱਗਦਾ ਹੈ (mainu eh changa lagda hai)."
+    },
+    "dont_like_it": {
+      "text": "ਮੈਨੂੰ ਇਹ ਪਸੰਦ ਨਹੀਂ",
+      "roman": "mainu eh pasand nahin"
+    },
+    "im_tired": {
+      "text": "ਮੈਂ ਥੱਕ ਗਿਆ ਹਾਂ",
+      "roman": "main thakk gaya haan",
+      "note": "A woman says: ਮੈਂ ਥੱਕ ਗਈ ਹਾਂ (main thakk gayi haan)."
+    },
+    "im_happy": {
+      "text": "ਮੈਂ ਖ਼ੁਸ਼ ਹਾਂ",
+      "roman": "main khush haan",
+      "note": "ਖ਼ੁਸ਼ doesn't change for gender, so men and women say the same."
+    },
+    "welcome": {
+      "text": "ਜੀ ਆਇਆਂ ਨੂੰ!",
+      "roman": "ji aayaan nu!",
+      "note": "The classic Punjabi welcome, also written on signs at the entrance to towns and villages."
+    },
+    "congratulations": {
+      "text": "ਵਧਾਈਆਂ!",
+      "roman": "vadhaiyan!",
+      "note": "Equally common: ਮੁਬਾਰਕਾਂ! (mubaarkaan!). Warmer: ਲੱਖ-ਲੱਖ ਵਧਾਈਆਂ! (lakh-lakh vadhaiyan!)"
+    }
+  }
+}

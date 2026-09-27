@@ -1,0 +1,485 @@
+{
+  "code": "uk",
+  "phrases": {
+    "hello": {
+      "text": "Добрий день",
+      "roman": "Dobryi den",
+      "note": "Polite, for most of the day. To friends: привіт (pryvit). Formal: вітаю (vitayu)."
+    },
+    "goodbye": {
+      "text": "До побачення",
+      "roman": "Do pobachennya",
+      "note": "To a friend: бувай (buvay); to several friends: бувайте (buvayte)."
+    },
+    "please": {
+      "text": "Будь ласка",
+      "roman": "Bud laska",
+      "note": "Also the reply to 'thank you', and what you say when handing something over."
+    },
+    "thank_you": {
+      "text": "Дякую",
+      "roman": "Dyakuyu",
+      "note": "Stress on the first syllable: DYA-ku-yu. Thank you very much: дуже дякую (duzhe dyakuyu)."
+    },
+    "youre_welcome": {
+      "text": "Нема за що",
+      "roman": "Nema za shcho",
+      "note": "Будь ласка (bud laska), the word for please, is just as common."
+    },
+    "yes": {
+      "text": "Так",
+      "roman": "Tak",
+      "note": "Casual: ага (aha)."
+    },
+    "no": {
+      "text": "Ні",
+      "roman": "Ni",
+      "note": "Не (ne) before a verb makes it negative: не знаю (ne znayu), I don't know."
+    },
+    "sorry": {
+      "text": "Вибачте",
+      "roman": "Vybachte",
+      "note": "Stress on the first syllable: VY-bach-te. To a friend: вибач (vybach)."
+    },
+    "excuse_me": {
+      "text": "Перепрошую",
+      "roman": "Pereproshuyu",
+      "note": "Вибачте (vybachte) works too. Often followed by скажіть, будь ласка (skazhit, bud laska), 'tell me, please'."
+    },
+    "good_morning": {
+      "text": "Доброго ранку",
+      "roman": "Dobroho ranku",
+      "note": "Used until about 11 am. Also: добрий ранок (dobryi ranok)."
+    },
+    "how_are_you": {
+      "text": "Як у вас справи?",
+      "roman": "Yak u vas spravy?",
+      "note": "To a friend: як справи? (yak spravy?)"
+    },
+    "im_fine": {
+      "text": "Добре, дякую",
+      "roman": "Dobre, dyakuyu",
+      "note": "To ask back: а у вас? (a u vas?), 'and you?'"
+    },
+    "whats_your_name": {
+      "text": "Як вас звати?",
+      "roman": "Yak vas zvaty?",
+      "note": "To a child or a friend: як тебе звати? (yak tebe zvaty?)"
+    },
+    "my_name_is": {
+      "text": "Мене звати …",
+      "roman": "Mene zvaty …",
+      "note": "Literally 'they call me …'."
+    },
+    "nice_to_meet_you": {
+      "text": "Приємно познайомитися",
+      "roman": "Pryyemno poznayomytysya",
+      "note": "Shorter: дуже приємно (duzhe pryyemno), 'very pleasant'."
+    },
+    "where_from": {
+      "text": "Звідки ви?",
+      "roman": "Zvidky vy?",
+      "note": "To a friend: звідки ти? (zvidky ty?)"
+    },
+    "im_from": {
+      "text": "Я з …",
+      "roman": "Ya z …",
+      "note": "The country changes form after з: Канада → я з Канади (ya z Kanady)."
+    },
+    "speak_english": {
+      "text": "Ви говорите англійською?",
+      "roman": "Vy hovoryte anhliyskoyu?",
+      "note": "Also: ви розмовляєте англійською? (vy rozmovlyayete anhliyskoyu?)"
+    },
+    "dont_understand": {
+      "text": "Я не розумію",
+      "roman": "Ya ne rozumiyu",
+      "note": "To ask for a repeat: повторіть, будь ласка (povtorit, bud laska)."
+    },
+    "speak_slowly": {
+      "text": "Говоріть повільніше, будь ласка",
+      "roman": "Hovorit povilnishe, bud laska"
+    },
+    "where": {
+      "text": "Де?",
+      "roman": "De?",
+      "note": "'Where to?' is куди? (kudy?)"
+    },
+    "what": {
+      "text": "Що?",
+      "roman": "Shcho?",
+      "note": "Щ sounds like the 'sh ch' in 'fresh cheese'. Politer if you missed something: перепрошую? (pereproshuyu?)"
+    },
+    "when": {
+      "text": "Коли?",
+      "roman": "Koly?"
+    },
+    "why": {
+      "text": "Чому?",
+      "roman": "Chomu?",
+      "note": "Also: навіщо? (navishcho?), 'what for?'"
+    },
+    "who": {
+      "text": "Хто?",
+      "roman": "Khto?",
+      "note": "Х is a throaty h, like the ch in Scottish 'loch'."
+    },
+    "how_much": {
+      "text": "Скільки це коштує?",
+      "roman": "Skilky tse koshtuye?",
+      "note": "Shorter, while pointing: скільки? (skilky?)"
+    },
+    "where_bathroom": {
+      "text": "Скажіть, будь ласка, де туалет?",
+      "roman": "Skazhit, bud laska, de tualet?",
+      "note": "Door signs: Ч for men, Ж for women. Older signs may show М for men."
+    },
+    "can_you_help": {
+      "text": "Ви можете мені допомогти?",
+      "roman": "Vy mozhete meni dopomohty?",
+      "note": "Very polite: чи не могли б ви мені допомогти? (chy ne mohly b vy meni dopomohty?)"
+    },
+    "what_time": {
+      "text": "Котра година?",
+      "roman": "Kotra hodyna?",
+      "note": "Literally 'which hour?'. Reply: зараз третя (zaraz tretya), it's three now."
+    },
+    "what_means": {
+      "text": "Що це означає?",
+      "roman": "Shcho tse oznachaye?"
+    },
+    "one": {
+      "text": "Один",
+      "roman": "Odyn",
+      "note": "With feminine nouns: одна (odna), e.g. одна кава (odna kava); with neuter: одне (odne)."
+    },
+    "two": {
+      "text": "Два",
+      "roman": "Dva",
+      "note": "With feminine nouns: дві (dvi), e.g. дві кави (dvi kavy)."
+    },
+    "three": {
+      "text": "Три",
+      "roman": "Try"
+    },
+    "four": {
+      "text": "Чотири",
+      "roman": "Chotyry"
+    },
+    "five": {
+      "text": "П'ять",
+      "roman": "Pyat",
+      "note": "The apostrophe keeps п hard: say p + yat."
+    },
+    "six": {
+      "text": "Шість",
+      "roman": "Shist"
+    },
+    "seven": {
+      "text": "Сім",
+      "roman": "Sim"
+    },
+    "eight": {
+      "text": "Вісім",
+      "roman": "Visim"
+    },
+    "nine": {
+      "text": "Дев'ять",
+      "roman": "Devyat"
+    },
+    "ten": {
+      "text": "Десять",
+      "roman": "Desyat"
+    },
+    "water": {
+      "text": "Вода",
+      "roman": "Voda",
+      "note": "Still: негазована (nehazovana); sparkling: газована (hazovana)."
+    },
+    "coffee": {
+      "text": "Кава",
+      "roman": "Kava"
+    },
+    "tea": {
+      "text": "Чай",
+      "roman": "Chay"
+    },
+    "bread": {
+      "text": "Хліб",
+      "roman": "Khlib"
+    },
+    "im_hungry": {
+      "text": "Я голодний",
+      "roman": "Ya holodnyi",
+      "note": "A woman says: я голодна (ya holodna). Also very common: я хочу їсти (ya khochu yisty)."
+    },
+    "menu_please": {
+      "text": "Меню, будь ласка",
+      "roman": "Menyu, bud laska",
+      "note": "Also very common: можна меню? (mozhna menyu?), 'may I have the menu?'"
+    },
+    "bill_please": {
+      "text": "Рахунок, будь ласка",
+      "roman": "Rakhunok, bud laska",
+      "note": "Also: можна рахунок? (mozhna rakhunok?)"
+    },
+    "delicious": {
+      "text": "Смачно!",
+      "roman": "Smachno!",
+      "note": "Don't mix it up with смачного! (smachnoho!), 'enjoy your meal'."
+    },
+    "no_meat": {
+      "text": "Я не їм м'яса",
+      "roman": "Ya ne yim myasa",
+      "note": "I'm vegetarian: я вегетаріанець (ya vehetarianets); a woman: вегетаріанка (vehetarianka)."
+    },
+    "enjoy_meal": {
+      "text": "Смачного!",
+      "roman": "Smachnoho!",
+      "note": "Reply: дякую, навзаєм (dyakuyu, navzayem), 'thanks, same to you'."
+    },
+    "left": {
+      "text": "Ліворуч",
+      "roman": "Livoruch",
+      "note": "Also common: наліво (nalivo)."
+    },
+    "right": {
+      "text": "Праворуч",
+      "roman": "Pravoruch",
+      "note": "Also common: направо (napravo). 'Right' as in correct is правильно (pravylno)."
+    },
+    "straight_ahead": {
+      "text": "Прямо",
+      "roman": "Pryamo",
+      "note": "Also: вперед (vpered), 'forward'."
+    },
+    "stop_here": {
+      "text": "Зупиніть тут, будь ласка",
+      "roman": "Zupynit tut, bud laska",
+      "note": "Shorter: тут, будь ласка (tut, bud laska), 'here, please'."
+    },
+    "airport": {
+      "text": "Аеропорт",
+      "roman": "Aeroport",
+      "note": "Every vowel is pronounced: a-e-ro-port."
+    },
+    "hotel": {
+      "text": "Готель",
+      "roman": "Hotel",
+      "note": "Stress on the second syllable: ho-TEL."
+    },
+    "train_station": {
+      "text": "Вокзал",
+      "roman": "Vokzal",
+      "note": "In full: залізничний вокзал (zaliznychnyi vokzal). Bus station: автовокзал (avtovokzal)."
+    },
+    "want_to_go": {
+      "text": "Я хочу поїхати до …",
+      "roman": "Ya khochu poyikhaty do …",
+      "note": "The place changes form: до аеропорту (do aeroportu). Also: мені треба до … (meni treba do …)"
+    },
+    "is_it_far": {
+      "text": "Це далеко?",
+      "roman": "Tse daleko?",
+      "note": "Reply you may hear: недалеко (nedaleko), 'not far'."
+    },
+    "one_ticket": {
+      "text": "Один квиток, будь ласка",
+      "roman": "Odyn kvytok, bud laska",
+      "note": "Two tickets: два квитки (dva kvytky)."
+    },
+    "too_expensive": {
+      "text": "Це занадто дорого",
+      "roman": "Tse zanadto doroho",
+      "note": "Shorter: задорого (zadoroho)."
+    },
+    "cheaper": {
+      "text": "У вас є щось дешевше?",
+      "roman": "U vas ye shchos deshevshe?"
+    },
+    "id_like_this": {
+      "text": "Я візьму це",
+      "roman": "Ya vizmu tse",
+      "note": "Literally 'I'll take this'. Also: дайте, будь ласка, оце (dayte, bud laska, otse)."
+    },
+    "just_looking": {
+      "text": "Я просто дивлюся",
+      "roman": "Ya prosto dyvlyusya",
+      "note": "Also: я поки що дивлюся (ya poky shcho dyvlyusya), 'just looking for now'."
+    },
+    "pay_card": {
+      "text": "Можна оплатити карткою?",
+      "roman": "Mozhna oplatyty kartkoyu?",
+      "note": "Shorter: можна карткою? (mozhna kartkoyu?)"
+    },
+    "cash": {
+      "text": "Готівка",
+      "roman": "Hotivka",
+      "note": "Paying in cash: готівкою (hotivkoyu)."
+    },
+    "open": {
+      "text": "Відчинено",
+      "roman": "Vidchyneno",
+      "note": "Also on signs: відкрито (vidkryto)."
+    },
+    "closed": {
+      "text": "Зачинено",
+      "roman": "Zachyneno",
+      "note": "Also on signs: закрито (zakryto)."
+    },
+    "big": {
+      "text": "Великий",
+      "roman": "Velykyi",
+      "note": "Changes with gender: велика (velyka), велике (velyke)."
+    },
+    "small": {
+      "text": "Маленький",
+      "roman": "Malenkyi",
+      "note": "Changes with gender: маленька (malenka), маленьке (malenke)."
+    },
+    "today": {
+      "text": "Сьогодні",
+      "roman": "Syohodni",
+      "note": "Stress on the middle syllable: syo-HOD-ni."
+    },
+    "tomorrow": {
+      "text": "Завтра",
+      "roman": "Zavtra"
+    },
+    "yesterday": {
+      "text": "Учора",
+      "roman": "Uchora",
+      "note": "Also spelled вчора (vchora); which one depends on the sound of the word before."
+    },
+    "now": {
+      "text": "Зараз",
+      "roman": "Zaraz",
+      "note": "Also: тепер (teper)."
+    },
+    "later": {
+      "text": "Пізніше",
+      "roman": "Piznishe",
+      "note": "Also: потім (potim), 'afterwards'."
+    },
+    "good_evening": {
+      "text": "Добрий вечір",
+      "roman": "Dobryi vechir"
+    },
+    "good_night": {
+      "text": "На добраніч",
+      "roman": "Na dobranich",
+      "note": "Also just: добраніч (dobranich)."
+    },
+    "see_you_later": {
+      "text": "До зустрічі",
+      "roman": "Do zustrichi",
+      "note": "Casual: побачимося! (pobachymosya!)"
+    },
+    "wait_moment": {
+      "text": "Зачекайте хвилинку, будь ласка",
+      "roman": "Zachekayte khvylynku, bud laska",
+      "note": "Short and very common: хвилинку! (khvylynku!)"
+    },
+    "every_day": {
+      "text": "Щодня",
+      "roman": "Shchodnya",
+      "note": "Also: кожного дня (kozhnoho dnya)."
+    },
+    "help": {
+      "text": "Допоможіть!",
+      "roman": "Dopomozhit!",
+      "note": "Also shouted: рятуйте! (ryatuyte!), 'save me!'"
+    },
+    "call_police": {
+      "text": "Викличте поліцію!",
+      "roman": "Vyklychte politsiyu!",
+      "note": "Emergency numbers in Ukraine: 102 police, 103 ambulance, 112 general."
+    },
+    "need_doctor": {
+      "text": "Мені потрібен лікар",
+      "roman": "Meni potriben likar",
+      "note": "Ambulance: швидка (shvydka)."
+    },
+    "im_lost": {
+      "text": "Я заблукав",
+      "roman": "Ya zablukav",
+      "note": "A woman says: я заблукала (ya zablukala)."
+    },
+    "dont_feel_well": {
+      "text": "Я погано почуваюся",
+      "roman": "Ya pohano pochuvayusya",
+      "note": "Also: мені погано (meni pohano), 'I feel sick'."
+    },
+    "pharmacy": {
+      "text": "Аптека",
+      "roman": "Apteka"
+    },
+    "hospital": {
+      "text": "Лікарня",
+      "roman": "Likarnya"
+    },
+    "lost_phone": {
+      "text": "Я загубив телефон",
+      "roman": "Ya zahubyv telefon",
+      "note": "A woman says: я загубила телефон (ya zahubyla telefon)."
+    },
+    "allergic": {
+      "text": "У мене алергія на …",
+      "roman": "U mene alerhiya na …",
+      "note": "E.g. у мене алергія на горіхи (u mene alerhiya na horikhy), to nuts."
+    },
+    "be_careful": {
+      "text": "Обережно!",
+      "roman": "Oberezhno!",
+      "note": "Also, to a person: будьте обережні! (budte oberezhni!)"
+    },
+    "no_problem": {
+      "text": "Без проблем",
+      "roman": "Bez problem",
+      "note": "Also: нема проблем (nema problem)."
+    },
+    "of_course": {
+      "text": "Звичайно",
+      "roman": "Zvychayno",
+      "note": "Also: звісно (zvisno) or авжеж (avzhezh)."
+    },
+    "maybe": {
+      "text": "Можливо",
+      "roman": "Mozhlyvo",
+      "note": "Also: мабуть (mabut), closer to 'probably'."
+    },
+    "dont_know": {
+      "text": "Я не знаю",
+      "roman": "Ya ne znayu"
+    },
+    "i_like_it": {
+      "text": "Мені подобається",
+      "roman": "Meni podobayetsya",
+      "note": "Literally 'it pleases me'. A lot: мені дуже подобається (meni duzhe podobayetsya)."
+    },
+    "dont_like_it": {
+      "text": "Мені не подобається",
+      "roman": "Meni ne podobayetsya"
+    },
+    "im_tired": {
+      "text": "Я втомився",
+      "roman": "Ya vtomyvsya",
+      "note": "A woman says: я втомилася (ya vtomylasya)."
+    },
+    "im_happy": {
+      "text": "Я щасливий",
+      "roman": "Ya shchaslyvyi",
+      "note": "A woman says: я щаслива (ya shchaslyva). 'I'm glad': я радий / рада (ya radyi / rada)."
+    },
+    "welcome": {
+      "text": "Ласкаво просимо!",
+      "roman": "Laskavo prosymo!",
+      "note": "At the door you'll also hear: заходьте! (zakhodte!), 'come in!'"
+    },
+    "congratulations": {
+      "text": "Вітаю!",
+      "roman": "Vitayu!",
+      "note": "Also a formal hello. On a birthday: з днем народження! (z dnem narodzhennya!)"
+    }
+  }
+}

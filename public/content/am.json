@@ -1,0 +1,478 @@
+{
+  "code": "am",
+  "phrases": {
+    "hello": {
+      "text": "ሰላም",
+      "roman": "selam",
+      "note": "Literally 'peace'. More respectful, e.g. to elders: ጤና ይስጥልኝ (tena yistilign)."
+    },
+    "goodbye": {
+      "text": "ደህና ይሁኑ",
+      "roman": "dehna yihunu",
+      "note": "To a man: ደህና ሁን (dehna hun); to a woman: ደህና ሁኚ (dehna hugni). Casual: ቻው (chaw)."
+    },
+    "please": {
+      "text": "እባክዎ",
+      "roman": "ibakwo",
+      "note": "Polite form for strangers. To a man: እባክህ (ibakih); to a woman: እባክሽ (ibakish)."
+    },
+    "thank_you": {
+      "text": "አመሰግናለሁ",
+      "roman": "ameseginalehu",
+      "note": "Thanks a lot: በጣም አመሰግናለሁ (betam ameseginalehu). Also common: እግዚአብሔር ይስጥልኝ (igziabher yistilign)."
+    },
+    "youre_welcome": {
+      "text": "ምንም አይደለም",
+      "roman": "minim aydelem",
+      "note": "Literally 'it's nothing'. In quick speech often shortened to ምንም አይደል (minim aydel)."
+    },
+    "yes": {
+      "text": "አዎ",
+      "roman": "awo",
+      "note": "To agree to a request, say እሺ (ishi), 'OK'. People also say yes with a quick intake of breath."
+    },
+    "no": {
+      "text": "አይ",
+      "roman": "ay",
+      "note": "Fuller: አይ፣ አይደለም (ay, aydelem), 'no, it isn't'. 'There isn't any': የለም (yelem)."
+    },
+    "sorry": {
+      "text": "ይቅርታ",
+      "roman": "yikirta",
+      "note": "Same word as 'excuse me'. A fuller apology: ይቅርታ ያድርጉልኝ (yikirta yadirgulign)."
+    },
+    "excuse_me": {
+      "text": "ይቅርታ",
+      "roman": "yikirta",
+      "note": "Same word as 'sorry'. Before asking a stranger something, ጤና ይስጥልኝ (tena yistilign) is also polite."
+    },
+    "good_morning": {
+      "text": "እንደምን አደሩ",
+      "roman": "indemin aderu",
+      "note": "To a man: እንደምን አደርክ (indemin aderk); to a woman: እንደምን አደርሽ (indemin adersh)."
+    },
+    "how_are_you": {
+      "text": "እንዴት ነዎት?",
+      "roman": "indet newot?",
+      "note": "To a man: እንዴት ነህ? (indet neh?); to a woman: እንዴት ነሽ? (indet nesh?)"
+    },
+    "im_fine": {
+      "text": "ደህና ነኝ፣ አመሰግናለሁ",
+      "roman": "dehna negn, ameseginalehu",
+      "note": "Very common: ደህና ነኝ፣ እግዚአብሔር ይመስገን (dehna negn, igziabher yimesgen), 'fine, thank God'."
+    },
+    "whats_your_name": {
+      "text": "ስምዎ ማን ነው?",
+      "roman": "simwo man new?",
+      "note": "Amharic asks 'who' (ማን) is your name. To a man: ስምህ (simih); to a woman: ስምሽ (simish)."
+    },
+    "my_name_is": {
+      "text": "ስሜ … ነው",
+      "roman": "sime … new",
+      "note": "Also: … እባላለሁ (… ibalalehu), 'I am called …'."
+    },
+    "nice_to_meet_you": {
+      "text": "ስለተዋወቅን ደስ ብሎኛል",
+      "roman": "siletewawekin des bilognal"
+    },
+    "where_from": {
+      "text": "ከየት ነዎት?",
+      "roman": "keyet newot?",
+      "note": "To a man: ከየት ነህ? (keyet neh?); to a woman: ከየት ነሽ? (keyet nesh?)"
+    },
+    "im_from": {
+      "text": "ከ… ነኝ",
+      "roman": "ke… negn",
+      "note": "ከ (ke-) 'from' joins the country: ከጀርመን ነኝ (keJermen negn), 'I'm from Germany'."
+    },
+    "speak_english": {
+      "text": "እንግሊዝኛ ይናገራሉ?",
+      "roman": "inglizigna yinageralu?",
+      "note": "Everyday: እንግሊዝኛ ይችላሉ? (inglizigna yichilalu?), 'can you [do] English?'"
+    },
+    "dont_understand": {
+      "text": "አልገባኝም",
+      "roman": "algebagnim",
+      "note": "Please repeat that: እባክዎ ይድገሙት (ibakwo yidgemut)."
+    },
+    "speak_slowly": {
+      "text": "እባክዎ ቀስ ብለው ይናገሩ",
+      "roman": "ibakwo kes bilew yinageru",
+      "note": "To a man: እባክህ ቀስ ብለህ ተናገር (ibakih kes bileh tenager)."
+    },
+    "where": {
+      "text": "የት?",
+      "roman": "yet?",
+      "note": "Where is …?: … የት ነው? (… yet new?)"
+    },
+    "what": {
+      "text": "ምን?",
+      "roman": "min?",
+      "note": "Didn't catch it? Say ምን አሉ? (min alu?), 'what did you say?' (polite)."
+    },
+    "when": {
+      "text": "መቼ?",
+      "roman": "meche?"
+    },
+    "why": {
+      "text": "ለምን?",
+      "roman": "lemin?"
+    },
+    "who": {
+      "text": "ማን?",
+      "roman": "man?"
+    },
+    "how_much": {
+      "text": "ይሄ ስንት ነው?",
+      "roman": "yihe sint new?",
+      "note": "Also: ዋጋው ስንት ነው? (wagaw sint new?), 'what's the price?'"
+    },
+    "where_bathroom": {
+      "text": "መጸዳጃ ቤት የት ነው?",
+      "roman": "metsedaja bet yet new?",
+      "note": "More everyday but blunter: ሽንት ቤት (shint bet)."
+    },
+    "can_you_help": {
+      "text": "ሊረዱኝ ይችላሉ?",
+      "roman": "liredugn yichilalu?",
+      "note": "To a man: ልትረዳኝ ትችላለህ? (litredagn tichilaleh?)"
+    },
+    "what_time": {
+      "text": "ስንት ሰዓት ነው?",
+      "roman": "sint se'at new?",
+      "note": "Ethiopian time counts from 6 a.m., so 7 a.m. is 'one o'clock' (አንድ ሰዓት). Check which clock is meant."
+    },
+    "what_means": {
+      "text": "ይሄ ምን ማለት ነው?",
+      "roman": "yihe min malet new?"
+    },
+    "one": {
+      "text": "አንድ",
+      "roman": "and",
+      "note": "Ethiopic numeral: ፩ (prices usually use 1, 2, 3)."
+    },
+    "two": {
+      "text": "ሁለት",
+      "roman": "hulet",
+      "note": "Ethiopic numeral: ፪"
+    },
+    "three": {
+      "text": "ሦስት",
+      "roman": "sost",
+      "note": "Ethiopic numeral: ፫. Also spelled ሶስት."
+    },
+    "four": {
+      "text": "አራት",
+      "roman": "arat",
+      "note": "Ethiopic numeral: ፬"
+    },
+    "five": {
+      "text": "አምስት",
+      "roman": "amist",
+      "note": "Ethiopic numeral: ፭"
+    },
+    "six": {
+      "text": "ስድስት",
+      "roman": "sidist",
+      "note": "Ethiopic numeral: ፮"
+    },
+    "seven": {
+      "text": "ሰባት",
+      "roman": "sebat",
+      "note": "Ethiopic numeral: ፯"
+    },
+    "eight": {
+      "text": "ስምንት",
+      "roman": "simint",
+      "note": "Ethiopic numeral: ፰"
+    },
+    "nine": {
+      "text": "ዘጠኝ",
+      "roman": "zetegn",
+      "note": "Ethiopic numeral: ፱"
+    },
+    "ten": {
+      "text": "አሥር",
+      "roman": "asir",
+      "note": "Ethiopic numeral: ፲. Also spelled አስር."
+    },
+    "water": {
+      "text": "ውሃ",
+      "roman": "wiha",
+      "note": "Bottled water: የታሸገ ውሃ (yetashege wiha)."
+    },
+    "coffee": {
+      "text": "ቡና",
+      "roman": "buna",
+      "note": "Coffee with milk: ማኪያቶ (makiato), hugely popular."
+    },
+    "tea": {
+      "text": "ሻይ",
+      "roman": "shay"
+    },
+    "bread": {
+      "text": "ዳቦ",
+      "roman": "dabo",
+      "note": "The staple flatbread is እንጀራ (injera); ዳቦ is ordinary bread."
+    },
+    "im_hungry": {
+      "text": "ርቦኛል",
+      "roman": "ribognal",
+      "note": "I'm thirsty: ጠምቶኛል (temtognal)."
+    },
+    "menu_please": {
+      "text": "እባክዎ ሜኑ ያምጡልኝ",
+      "roman": "ibakwo menu yamtulign"
+    },
+    "bill_please": {
+      "text": "እባክዎ ሂሳብ ያምጡልኝ",
+      "roman": "ibakwo hisab yamtulign",
+      "note": "Short and very common: ሂሳብ! (hisab!)"
+    },
+    "delicious": {
+      "text": "በጣም ይጣፍጣል!",
+      "roman": "betam yitaftal!",
+      "note": "Also: ጣፋጭ ነው! (tafach new!). ጣፋጭ can also mean 'sweet'."
+    },
+    "no_meat": {
+      "text": "ሥጋ አልበላም",
+      "roman": "siga albelam",
+      "note": "Ask for የጾም ምግብ (yetsom migib), 'fasting food': vegan dishes, easy to find."
+    },
+    "enjoy_meal": {
+      "text": "መልካም ምግብ!",
+      "roman": "melkam migib!",
+      "note": "At the table people also invite each other with እንብላ! (inbila!), 'let's eat!'"
+    },
+    "left": {
+      "text": "ግራ",
+      "roman": "gira",
+      "note": "To the left: ወደ ግራ (wede gira)."
+    },
+    "right": {
+      "text": "ቀኝ",
+      "roman": "kegn",
+      "note": "To the right: ወደ ቀኝ (wede kegn)."
+    },
+    "straight_ahead": {
+      "text": "ቀጥታ",
+      "roman": "ketita",
+      "note": "Go straight on: ቀጥ ብለው ይሂዱ (ket bilew yihidu)."
+    },
+    "stop_here": {
+      "text": "እባክዎ እዚህ ያቁሙልኝ",
+      "roman": "ibakwo izih yakumulign",
+      "note": "In a shared minibus, call out ወራጅ አለ! (weraj ale!), 'someone's getting off!'"
+    },
+    "airport": {
+      "text": "አውሮፕላን ማረፊያ",
+      "roman": "awroplan marefiya",
+      "note": "Everyday: ኤርፖርት (erport). In Addis Ababa people often just say ቦሌ (Bole)."
+    },
+    "hotel": {
+      "text": "ሆቴል",
+      "roman": "hotel",
+      "note": "In Ethiopia ሆቴል is also used for a restaurant."
+    },
+    "train_station": {
+      "text": "ባቡር ጣቢያ",
+      "roman": "babur tabiya"
+    },
+    "want_to_go": {
+      "text": "ወደ … መሄድ እፈልጋለሁ",
+      "roman": "wede … mehed ifelgalehu"
+    },
+    "is_it_far": {
+      "text": "ሩቅ ነው?",
+      "roman": "ruk new?",
+      "note": "Is it close?: ቅርብ ነው? (kirb new?)"
+    },
+    "one_ticket": {
+      "text": "እባክዎ አንድ ትኬት ይስጡኝ",
+      "roman": "ibakwo and tiket yistugn"
+    },
+    "too_expensive": {
+      "text": "በጣም ውድ ነው",
+      "roman": "betam wid new"
+    },
+    "cheaper": {
+      "text": "ከዚህ ርካሽ አለ?",
+      "roman": "kezih rikash ale?",
+      "note": "To haggle: ትንሽ ይቀንሱልኝ (tinish yikensulign), 'bring the price down a little'."
+    },
+    "id_like_this": {
+      "text": "ይሄንን እፈልጋለሁ",
+      "roman": "yihenin ifelgalehu",
+      "note": "I'll take this: ይሄንን እወስዳለሁ (yihenin iwesdalehu)."
+    },
+    "just_looking": {
+      "text": "ዝም ብዬ እያየሁ ነው",
+      "roman": "zim biye iyayehu new"
+    },
+    "pay_card": {
+      "text": "በካርድ መክፈል እችላለሁ?",
+      "roman": "bekard mekfel ichilalehu?"
+    },
+    "cash": {
+      "text": "ጥሬ ገንዘብ",
+      "roman": "tire genzeb",
+      "note": "In cash: በጥሬ ገንዘብ (betire genzeb)."
+    },
+    "open": {
+      "text": "ክፍት ነው",
+      "roman": "kift new"
+    },
+    "closed": {
+      "text": "ዝግ ነው",
+      "roman": "zig new"
+    },
+    "big": {
+      "text": "ትልቅ",
+      "roman": "tilik"
+    },
+    "small": {
+      "text": "ትንሽ",
+      "roman": "tinish",
+      "note": "Also means 'a little': ትንሽ ውሃ (tinish wiha), 'a little water'."
+    },
+    "today": {
+      "text": "ዛሬ",
+      "roman": "zare"
+    },
+    "tomorrow": {
+      "text": "ነገ",
+      "roman": "nege"
+    },
+    "yesterday": {
+      "text": "ትናንት",
+      "roman": "tinant",
+      "note": "Often said ትላንት (tilant)."
+    },
+    "now": {
+      "text": "አሁን",
+      "roman": "ahun"
+    },
+    "later": {
+      "text": "በኋላ",
+      "roman": "behwala"
+    },
+    "good_evening": {
+      "text": "እንደምን አመሹ",
+      "roman": "indemin ameshu",
+      "note": "To a man: እንደምን አመሸህ (indemin amesheh); to a woman: እንደምን አመሸሽ (indemin ameshesh)."
+    },
+    "good_night": {
+      "text": "ደህና እደሩ",
+      "roman": "dehna ideru",
+      "note": "To a man: ደህና እደር (dehna ider); to a woman: ደህና እደሪ (dehna ideri)."
+    },
+    "see_you_later": {
+      "text": "በኋላ እንገናኛለን",
+      "roman": "behwala ingenagnalen",
+      "note": "Casual: ቻው (chaw)."
+    },
+    "wait_moment": {
+      "text": "እባክዎ ትንሽ ይጠብቁ",
+      "roman": "ibakwo tinish yitebiku",
+      "note": "Casual, to a man: አንዴ ቆይ (ande koy); to a woman: አንዴ ቆዪ (ande koyi)."
+    },
+    "every_day": {
+      "text": "በየቀኑ",
+      "roman": "beyekenu"
+    },
+    "help": {
+      "text": "ድረሱልኝ!",
+      "roman": "diresulign!",
+      "note": "Also: እርዱኝ! (irdugn!), 'help me!'"
+    },
+    "call_police": {
+      "text": "ፖሊስ ጥሩ!",
+      "roman": "polis tiru!",
+      "note": "To one man: ፖሊስ ጥራ! (polis tira!). Here ጥሩ means 'call', not 'good'."
+    },
+    "need_doctor": {
+      "text": "ሐኪም ያስፈልገኛል",
+      "roman": "hakim yasfelgegnal"
+    },
+    "im_lost": {
+      "text": "መንገድ ጠፍቶብኛል",
+      "roman": "menged teftobignal",
+      "note": "Literally 'the road got lost on me'."
+    },
+    "dont_feel_well": {
+      "text": "ደህና አይደለሁም",
+      "roman": "dehna aydelehum",
+      "note": "I'm ill: አሞኛል (amognal)."
+    },
+    "pharmacy": {
+      "text": "መድኃኒት ቤት",
+      "roman": "medhanit bet",
+      "note": "Signs often say ፋርማሲ (farmasi)."
+    },
+    "hospital": {
+      "text": "ሆስፒታል",
+      "roman": "hospital",
+      "note": "Also ሐኪም ቤት (hakim bet), 'doctor's house'."
+    },
+    "lost_phone": {
+      "text": "ስልኬ ጠፍቶብኛል",
+      "roman": "silke teftobignal"
+    },
+    "allergic": {
+      "text": "ለ… አለርጂ አለብኝ",
+      "roman": "le… alerji alebign",
+      "note": "ለ (le-) joins the allergen: ለወተት አለርጂ አለብኝ (lewetet alerji alebign), 'allergic to milk'."
+    },
+    "be_careful": {
+      "text": "ይጠንቀቁ!",
+      "roman": "yitenkeku!",
+      "note": "To a man: ተጠንቀቅ! (tetenkek!); to a woman: ተጠንቀቂ! (tetenkeki!)"
+    },
+    "no_problem": {
+      "text": "ችግር የለም",
+      "roman": "chigir yelem"
+    },
+    "of_course": {
+      "text": "እንዴታ",
+      "roman": "indeta",
+      "note": "More formal: እርግጥ ነው (irgit new)."
+    },
+    "maybe": {
+      "text": "ምናልባት",
+      "roman": "minalbat"
+    },
+    "dont_know": {
+      "text": "አላውቅም",
+      "roman": "alawkim"
+    },
+    "i_like_it": {
+      "text": "ወድጄዋለሁ",
+      "roman": "wedjewalehu",
+      "note": "Also: ደስ ይለኛል (des yilegnal), 'it pleases me'."
+    },
+    "dont_like_it": {
+      "text": "አልወደድኩትም",
+      "roman": "alwededkutim",
+      "note": "Also: ደስ አይለኝም (des aylegnim)."
+    },
+    "im_tired": {
+      "text": "ደክሞኛል",
+      "roman": "dekmognal"
+    },
+    "im_happy": {
+      "text": "ደስ ብሎኛል",
+      "roman": "des bilognal",
+      "note": "Describing yourself as a happy person: ደስተኛ ነኝ (destegna negn)."
+    },
+    "welcome": {
+      "text": "እንኳን ደህና መጡ!",
+      "roman": "inkwan dehna metu!",
+      "note": "To a man: እንኳን ደህና መጣህ! (inkwan dehna metah!); to a woman: እንኳን ደህና መጣሽ! (inkwan dehna metash!)"
+    },
+    "congratulations": {
+      "text": "እንኳን ደስ አለዎት!",
+      "roman": "inkwan des alewot!",
+      "note": "To a man: እንኳን ደስ አለህ! (inkwan des aleh!); to a woman: እንኳን ደስ አለሽ! (inkwan des alesh!)"
+    }
+  }
+}

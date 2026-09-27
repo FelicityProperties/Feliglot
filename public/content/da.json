@@ -1,0 +1,399 @@
+{
+  "code": "da",
+  "phrases": {
+    "hello": {
+      "text": "Hej",
+      "note": "Sounds like 'hi'. More formal: Goddag. Casual: Hejsa!"
+    },
+    "goodbye": {
+      "text": "Farvel",
+      "note": "In everyday speech Danes usually just say Hej hej! when leaving. Also: Vi ses (see you)."
+    },
+    "please": {
+      "text": "Vær så venlig",
+      "note": "Quite formal. Danes usually just add tak to a request: En kaffe, tak (a coffee, please)."
+    },
+    "thank_you": {
+      "text": "Tak",
+      "note": "Warmer: Mange tak or Tusind tak (a thousand thanks)."
+    },
+    "youre_welcome": {
+      "text": "Det var så lidt",
+      "note": "Also: Ingen årsag. In shops the reply to Tak is often Selv tak (thank you too)."
+    },
+    "yes": {
+      "text": "Ja",
+      "note": "To say yes to a negative question, use jo: Kommer du ikke? – Jo!"
+    },
+    "no": {
+      "text": "Nej",
+      "note": "Sounds like 'nigh'."
+    },
+    "sorry": {
+      "text": "Undskyld",
+      "note": "Both d's are silent: roughly 'ON-skül'. For real regret: Det er jeg ked af."
+    },
+    "excuse_me": {
+      "text": "Undskyld mig",
+      "note": "Often just Undskyld, followed by your question: Undskyld, ved du hvor stationen er?"
+    },
+    "good_morning": {
+      "text": "Godmorgen",
+      "note": "Casual: Morn! In Southern Jutland, Mojn is used as hi and bye all day."
+    },
+    "how_are_you": {
+      "text": "Hvordan har du det?",
+      "note": "Danes say du to almost everyone; the formal De is now rare. Also: Hvordan går det?"
+    },
+    "im_fine": {
+      "text": "Jeg har det godt, tak",
+      "note": "Shorter: Fint, tak! To ask back: Hvad med dig?"
+    },
+    "whats_your_name": {
+      "text": "Hvad hedder du?",
+      "note": "Hvad is said 'va'. The dd in hedder is a soft d, like th in 'this'."
+    },
+    "my_name_is": {
+      "text": "Jeg hedder …",
+      "note": "Jeg sounds like 'yai'. More formal: Mit navn er …"
+    },
+    "nice_to_meet_you": {
+      "text": "Hyggeligt at møde dig",
+      "note": "Also common: Rart at møde dig or Hyggeligt at hilse på dig."
+    },
+    "where_from": {
+      "text": "Hvor kommer du fra?",
+      "note": "Also common: Hvor er du fra?"
+    },
+    "im_from": {
+      "text": "Jeg kommer fra …",
+      "note": "Also: Jeg er fra …"
+    },
+    "speak_english": {
+      "text": "Taler du engelsk?",
+      "note": "More casual: Snakker du engelsk? Most Danes speak English well."
+    },
+    "dont_understand": {
+      "text": "Jeg forstår det ikke",
+      "note": "Handy: Jeg forstår ikke dansk (I don't understand Danish)."
+    },
+    "speak_slowly": {
+      "text": "Kan du tale lidt langsommere?",
+      "note": "Danes make polite requests as questions. Softer still: Vil du godt tale lidt langsommere?"
+    },
+    "where": {
+      "text": "Hvor?",
+      "note": "The h is silent, as in every Danish word starting with hv: roughly 'vor'."
+    },
+    "what": {
+      "text": "Hvad?",
+      "note": "Said 'va'. Politer if you didn't catch something: Hvad siger du? or just Undskyld?"
+    },
+    "when": {
+      "text": "Hvornår?",
+      "note": "Stress on the last syllable: vor-NOR."
+    },
+    "why": {
+      "text": "Hvorfor?"
+    },
+    "who": {
+      "text": "Hvem?",
+      "note": "Sounds like 'vem'."
+    },
+    "how_much": {
+      "text": "Hvad koster det?",
+      "note": "Pointing at something: Hvad koster den her? Also: Hvor meget koster det?"
+    },
+    "where_bathroom": {
+      "text": "Hvor er toilettet?",
+      "note": "Put Undskyld in front to be polite: Undskyld, hvor er toilettet?"
+    },
+    "can_you_help": {
+      "text": "Kan du hjælpe mig?",
+      "note": "The h in hjælpe is silent. Extra polite: Vil du være sød at hjælpe mig?"
+    },
+    "what_time": {
+      "text": "Hvad er klokken?",
+      "note": "Also very common: Hvor mange er klokken?"
+    },
+    "what_means": {
+      "text": "Hvad betyder det?",
+      "note": "Pointing at a word or sign: Hvad betyder det her?"
+    },
+    "one": {
+      "text": "En",
+      "note": "With neuter nouns it is et: et glas. Written én when stressed, to tell it from the article en."
+    },
+    "two": {
+      "text": "To",
+      "note": "Sounds like 'toe'."
+    },
+    "three": {
+      "text": "Tre"
+    },
+    "four": {
+      "text": "Fire",
+      "note": "Two syllables, roughly 'FEE-ah'. Nothing to do with English fire."
+    },
+    "five": {
+      "text": "Fem"
+    },
+    "six": {
+      "text": "Seks"
+    },
+    "seven": {
+      "text": "Syv",
+      "note": "Roughly 'syoo'; the v is barely heard."
+    },
+    "eight": {
+      "text": "Otte",
+      "note": "Roughly 'AW-deh'."
+    },
+    "nine": {
+      "text": "Ni",
+      "note": "Say 'nee'."
+    },
+    "ten": {
+      "text": "Ti",
+      "note": "Say 'tee'. Heads-up: from 50 up, Danish counts in twenties, e.g. halvtreds = 50."
+    },
+    "water": {
+      "text": "Vand",
+      "note": "The d is silent: 'van'. Tap water is fine to drink: Et glas vand, tak."
+    },
+    "coffee": {
+      "text": "Kaffe"
+    },
+    "tea": {
+      "text": "Te",
+      "note": "Sounds like 'tay'."
+    },
+    "bread": {
+      "text": "Brød",
+      "note": "The d is soft, like th in 'this'. Dark rye bread is rugbrød."
+    },
+    "im_hungry": {
+      "text": "Jeg er sulten"
+    },
+    "menu_please": {
+      "text": "Må jeg få menukortet?",
+      "note": "For a group: Må vi få menukortet? Often shortened to kortet."
+    },
+    "bill_please": {
+      "text": "Må jeg bede om regningen?",
+      "note": "More casual: Kan jeg få regningen?"
+    },
+    "delicious": {
+      "text": "Lækkert!",
+      "note": "Also: Det smager godt! The æ sounds like e in 'bed'."
+    },
+    "no_meat": {
+      "text": "Jeg spiser ikke kød",
+      "note": "Kød has a soft d, like th in 'this'. Vegetarian: Jeg er vegetar."
+    },
+    "enjoy_meal": {
+      "text": "Velbekomme!",
+      "note": "Waiters say it as they serve. At home the host says Værsgo! before eating, and Velbekomme in reply to Tak for mad."
+    },
+    "left": {
+      "text": "Venstre",
+      "note": "Turn left: Drej til venstre."
+    },
+    "right": {
+      "text": "Højre",
+      "note": "Turn right: Drej til højre."
+    },
+    "straight_ahead": {
+      "text": "Ligeud",
+      "note": "The g is silent and the stress is on ud: 'lee-eh-OOTH'. Keep going straight: Bare fortsæt ligeud."
+    },
+    "stop_here": {
+      "text": "Du må gerne stoppe her",
+      "note": "The usual polite way to say it. Shorter: Stop her, tak."
+    },
+    "airport": {
+      "text": "Lufthavn",
+      "note": "Copenhagen's airport is often just called Kastrup, after the area it is in."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same word as in English, and also stressed on the end: ho-TEL."
+    },
+    "train_station": {
+      "text": "Togstation",
+      "note": "Often just stationen. A city's main station is the banegård, e.g. Hovedbanegården."
+    },
+    "want_to_go": {
+      "text": "Jeg vil gerne til …",
+      "note": "Danes drop the verb go. In a taxi, simply: Til …, tak."
+    },
+    "is_it_far": {
+      "text": "Er det langt væk?",
+      "note": "Also: Er det langt herfra? (from here)"
+    },
+    "one_ticket": {
+      "text": "En billet, tak",
+      "note": "Billet is stressed on the end: bi-LET. With a destination: En billet til Odense, tak."
+    },
+    "too_expensive": {
+      "text": "Det er for dyrt",
+      "note": "Prices in shops are fixed; haggling is only normal at flea markets (loppemarkeder)."
+    },
+    "cheaper": {
+      "text": "Har I noget billigere?",
+      "note": "I (plural you) means the shop. To just one person: Har du noget billigere?"
+    },
+    "id_like_this": {
+      "text": "Jeg vil gerne have den her",
+      "note": "Use det her for neuter nouns. Also common: Jeg tager den her (I'll take this one)."
+    },
+    "just_looking": {
+      "text": "Jeg kigger bare",
+      "note": "Usually: Nej tak, jeg kigger bare."
+    },
+    "pay_card": {
+      "text": "Kan jeg betale med kort?",
+      "note": "Card is the norm in Denmark; many people also pay with their phone."
+    },
+    "cash": {
+      "text": "Kontanter",
+      "note": "To pay in cash: at betale kontant."
+    },
+    "open": {
+      "text": "Åben",
+      "note": "Also seen: Åbent, as in Vi har åbent (we're open)."
+    },
+    "closed": {
+      "text": "Lukket",
+      "note": "Closed today: Lukket i dag. Opening hours: åbningstider."
+    },
+    "big": {
+      "text": "Stor",
+      "note": "With plural nouns: store, e.g. store kopper (big cups)."
+    },
+    "small": {
+      "text": "Lille",
+      "note": "With plural nouns: små, e.g. små kopper (small cups)."
+    },
+    "today": {
+      "text": "I dag",
+      "note": "Stress on dag: 'ee-DAY'."
+    },
+    "tomorrow": {
+      "text": "I morgen",
+      "note": "Roughly 'ee-MORN'. Tomorrow morning: i morgen tidlig."
+    },
+    "yesterday": {
+      "text": "I går",
+      "note": "Stress on går: 'ee-GOR'."
+    },
+    "now": {
+      "text": "Nu",
+      "note": "Right now: lige nu."
+    },
+    "later": {
+      "text": "Senere",
+      "note": "Also: om lidt (in a little while)."
+    },
+    "good_evening": {
+      "text": "Godaften",
+      "note": "Quite formal; in casual settings Danes just say Hej."
+    },
+    "good_night": {
+      "text": "Godnat",
+      "note": "Also said when leaving late in the evening."
+    },
+    "see_you_later": {
+      "text": "Vi ses",
+      "note": "Also: Vi ses senere. Casual: Ses!"
+    },
+    "wait_moment": {
+      "text": "Et øjeblik, tak",
+      "note": "Also very common: Lige et øjeblik. Casual: Vent lige!"
+    },
+    "every_day": {
+      "text": "Hver dag",
+      "note": "The h in hver is silent: 'vair'."
+    },
+    "help": {
+      "text": "Hjælp!",
+      "note": "The h is silent: roughly 'yelp'."
+    },
+    "call_police": {
+      "text": "Ring til politiet!",
+      "note": "The emergency number for police, fire and ambulance is 112."
+    },
+    "need_doctor": {
+      "text": "Jeg har brug for en læge",
+      "note": "Læge sounds like 'LAY-yeh'. Urgent: Ring efter en ambulance!"
+    },
+    "im_lost": {
+      "text": "Jeg er faret vild",
+      "note": "Also: Jeg kan ikke finde vej (I can't find my way)."
+    },
+    "dont_feel_well": {
+      "text": "Jeg har det ikke godt",
+      "note": "Also: Jeg har det dårligt. Feeling sick to your stomach: Jeg har kvalme."
+    },
+    "pharmacy": {
+      "text": "Apotek",
+      "note": "Stress on the end: a-po-TEK."
+    },
+    "hospital": {
+      "text": "Hospital",
+      "note": "Same word as in English, stressed on the end: hos-pi-TAL. Also: sygehus."
+    },
+    "lost_phone": {
+      "text": "Jeg har mistet min telefon",
+      "note": "Casual: Jeg har mistet min mobil."
+    },
+    "allergic": {
+      "text": "Jeg er allergisk over for …",
+      "note": "E.g. Jeg er allergisk over for nødder (nuts)."
+    },
+    "be_careful": {
+      "text": "Pas på!",
+      "note": "Also: Forsigtig! When parting, take care: Pas godt på dig selv."
+    },
+    "no_problem": {
+      "text": "Ingen problemer",
+      "note": "After an apology, Danes often say Det gør ikke noget (it doesn't matter)."
+    },
+    "of_course": {
+      "text": "Selvfølgelig",
+      "note": "The v is silent: 'sel-FØL-yeh-lee'. Casual: Klart!"
+    },
+    "maybe": {
+      "text": "Måske",
+      "note": "Stress on the end: 'mo-SKEH'."
+    },
+    "dont_know": {
+      "text": "Det ved jeg ikke",
+      "note": "Also: Jeg ved det ikke. Casual: Aner det ikke (no idea)."
+    },
+    "i_like_it": {
+      "text": "Jeg kan godt lide det",
+      "note": "Lide sounds like 'LEE-eh'. Stronger: Jeg elsker det (I love it)."
+    },
+    "dont_like_it": {
+      "text": "Jeg kan ikke lide det",
+      "note": "The godt drops out in the negative."
+    },
+    "im_tired": {
+      "text": "Jeg er træt",
+      "note": "Exhausted (casual): Jeg er helt smadret."
+    },
+    "im_happy": {
+      "text": "Jeg er glad",
+      "note": "Glad is the everyday word for happy, not only 'glad'."
+    },
+    "welcome": {
+      "text": "Velkommen!",
+      "note": "Hosts often add: Kom indenfor! (come in)"
+    },
+    "congratulations": {
+      "text": "Tillykke!",
+      "note": "Happy birthday: Tillykke med fødselsdagen!"
+    }
+  }
+}

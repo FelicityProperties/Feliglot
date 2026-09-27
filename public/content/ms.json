@@ -1,0 +1,375 @@
+{
+  "code": "ms",
+  "phrases": {
+    "hello": {
+      "text": "Helo",
+      "note": "More formal: selamat sejahtera. Between Muslims: assalamualaikum (reply: waalaikumussalam)."
+    },
+    "goodbye": {
+      "text": "Selamat tinggal",
+      "note": "Said by the one leaving. The one staying behind says selamat jalan."
+    },
+    "please": {
+      "text": "Tolong",
+      "note": "Asks someone to do something. Sila invites them: sila duduk (please sit). To ask for a thing: minta …"
+    },
+    "thank_you": {
+      "text": "Terima kasih",
+      "note": "Thank you very much: terima kasih banyak."
+    },
+    "youre_welcome": {
+      "text": "Sama-sama"
+    },
+    "yes": {
+      "text": "Ya",
+      "note": "Casual: ha'ah or ye."
+    },
+    "no": {
+      "text": "Tidak",
+      "note": "Casual: tak. To say 'not' before a noun or pronoun, use bukan: bukan saya (not me)."
+    },
+    "sorry": {
+      "text": "Maaf",
+      "note": "A fuller apology: minta maaf."
+    },
+    "excuse_me": {
+      "text": "Tumpang tanya",
+      "note": "Used before asking a stranger something. To get past someone: tumpang lalu."
+    },
+    "good_morning": {
+      "text": "Selamat pagi"
+    },
+    "how_are_you": {
+      "text": "Apa khabar?",
+      "note": "Also works as a general greeting, like hello."
+    },
+    "im_fine": {
+      "text": "Khabar baik, terima kasih",
+      "note": "Casual: baik or sihat."
+    },
+    "whats_your_name": {
+      "text": "Siapa nama encik?",
+      "note": "To a woman: siapa nama cik? (puan if she is older or married). Anda works for anyone but sounds formal."
+    },
+    "my_name_is": {
+      "text": "Nama saya …"
+    },
+    "nice_to_meet_you": {
+      "text": "Selamat berkenalan"
+    },
+    "where_from": {
+      "text": "Encik berasal dari mana?",
+      "note": "To a woman: cik (or puan) berasal dari mana? Casual: asal dari mana?"
+    },
+    "im_from": {
+      "text": "Saya berasal dari …",
+      "note": "Shorter: saya dari …"
+    },
+    "speak_english": {
+      "text": "Boleh cakap bahasa Inggeris?",
+      "note": "Politer with a title first: encik boleh cakap … (cik to a woman)."
+    },
+    "dont_understand": {
+      "text": "Saya tidak faham",
+      "note": "Casual: tak faham."
+    },
+    "speak_slowly": {
+      "text": "Tolong cakap perlahan sikit",
+      "note": "Sikit is the everyday form of sedikit (a little)."
+    },
+    "where": {
+      "text": "Di mana?",
+      "note": "Casual: kat mana? or just mana?"
+    },
+    "what": {
+      "text": "Apa?",
+      "note": "Apa dia? sounds softer when you didn't catch what was said."
+    },
+    "when": {
+      "text": "Bila?"
+    },
+    "why": {
+      "text": "Kenapa?",
+      "note": "More formal: mengapa?"
+    },
+    "who": {
+      "text": "Siapa?"
+    },
+    "how_much": {
+      "text": "Berapa harga ini?",
+      "note": "Casual: berapa ni?"
+    },
+    "where_bathroom": {
+      "text": "Di mana tandas?",
+      "note": "Bilik air (washroom) is also common. Casual: tandas kat mana?"
+    },
+    "can_you_help": {
+      "text": "Boleh tolong saya?"
+    },
+    "what_time": {
+      "text": "Pukul berapa sekarang?",
+      "note": "Answer with pukul + number: pukul tiga (three o'clock)."
+    },
+    "what_means": {
+      "text": "Apa maksud ini?",
+      "note": "Casual: apa maksud ni?"
+    },
+    "one": {
+      "text": "Satu",
+      "note": "Before a counter word it becomes se-: seorang (one person), sebuah (one thing)."
+    },
+    "two": {
+      "text": "Dua"
+    },
+    "three": {
+      "text": "Tiga"
+    },
+    "four": {
+      "text": "Empat"
+    },
+    "five": {
+      "text": "Lima"
+    },
+    "six": {
+      "text": "Enam"
+    },
+    "seven": {
+      "text": "Tujuh"
+    },
+    "eight": {
+      "text": "Lapan",
+      "note": "Indonesian says delapan; in Malaysia it is lapan."
+    },
+    "nine": {
+      "text": "Sembilan"
+    },
+    "ten": {
+      "text": "Sepuluh",
+      "note": "Eleven is sebelas, twenty is dua puluh."
+    },
+    "water": {
+      "text": "Air",
+      "note": "Order plain water as air kosong, or ais kosong for iced water. Pronounced ah-eer."
+    },
+    "coffee": {
+      "text": "Kopi",
+      "note": "Kopi comes with condensed milk; kopi O is black with sugar."
+    },
+    "tea": {
+      "text": "Teh",
+      "note": "Teh tarik is frothy 'pulled' milk tea; teh O is without milk."
+    },
+    "bread": {
+      "text": "Roti"
+    },
+    "im_hungry": {
+      "text": "Saya lapar"
+    },
+    "menu_please": {
+      "text": "Boleh minta menu?"
+    },
+    "bill_please": {
+      "text": "Boleh minta bil?",
+      "note": "At a casual stall people often just say kira! (add it up)."
+    },
+    "delicious": {
+      "text": "Sedap!",
+      "note": "Very tasty: sedap sangat!"
+    },
+    "no_meat": {
+      "text": "Saya tidak makan daging",
+      "note": "Daging often means red meat only; add ayam pun tak (no chicken either) to be clear."
+    },
+    "enjoy_meal": {
+      "text": "Selamat menjamu selera!",
+      "note": "A host inviting you to start: jemput makan."
+    },
+    "left": {
+      "text": "Kiri",
+      "note": "Turn left: belok kiri."
+    },
+    "right": {
+      "text": "Kanan",
+      "note": "Turn right: belok kanan."
+    },
+    "straight_ahead": {
+      "text": "Terus",
+      "note": "Keep going straight: jalan terus."
+    },
+    "stop_here": {
+      "text": "Tolong berhenti di sini",
+      "note": "Casual: berhenti kat sini."
+    },
+    "airport": {
+      "text": "Lapangan terbang",
+      "note": "In everyday speech many people simply say airport."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same word as in English, said ho-tel with even stress."
+    },
+    "train_station": {
+      "text": "Stesen kereta api",
+      "note": "Kereta alone means car. For city rail: stesen LRT or stesen MRT."
+    },
+    "want_to_go": {
+      "text": "Saya mahu pergi ke …",
+      "note": "In everyday speech: saya nak pergi ke …"
+    },
+    "is_it_far": {
+      "text": "Jauh tak?",
+      "note": "More formal: jauhkah?"
+    },
+    "one_ticket": {
+      "text": "Minta satu tiket",
+      "note": "With a destination: minta satu tiket ke …"
+    },
+    "too_expensive": {
+      "text": "Mahal sangat",
+      "note": "Also terlalu mahal."
+    },
+    "cheaper": {
+      "text": "Ada yang lebih murah?",
+      "note": "To bargain: boleh kurang sikit? (can you lower it a bit?)"
+    },
+    "id_like_this": {
+      "text": "Saya mahu yang ini",
+      "note": "Also saya ambil yang ini (I'll take this one)."
+    },
+    "just_looking": {
+      "text": "Saya tengok-tengok saja",
+      "note": "Casual: tengok-tengok je."
+    },
+    "pay_card": {
+      "text": "Boleh bayar dengan kad?"
+    },
+    "cash": {
+      "text": "Tunai",
+      "note": "To pay in cash: bayar tunai. Many people just say cash."
+    },
+    "open": {
+      "text": "Buka"
+    },
+    "closed": {
+      "text": "Tutup"
+    },
+    "big": {
+      "text": "Besar"
+    },
+    "small": {
+      "text": "Kecil"
+    },
+    "today": {
+      "text": "Hari ini",
+      "note": "Casual: hari ni."
+    },
+    "tomorrow": {
+      "text": "Esok"
+    },
+    "yesterday": {
+      "text": "Semalam",
+      "note": "Semalam can also mean last night."
+    },
+    "now": {
+      "text": "Sekarang"
+    },
+    "later": {
+      "text": "Nanti"
+    },
+    "good_evening": {
+      "text": "Selamat petang",
+      "note": "Used from mid-afternoon until dusk. After dark, greet with selamat malam."
+    },
+    "good_night": {
+      "text": "Selamat malam",
+      "note": "Also a greeting after dark. Right before bed: selamat tidur."
+    },
+    "see_you_later": {
+      "text": "Jumpa lagi",
+      "note": "If you'll meet again the same day: jumpa nanti."
+    },
+    "wait_moment": {
+      "text": "Tunggu sekejap, ya",
+      "note": "More formal: sila tunggu sebentar."
+    },
+    "every_day": {
+      "text": "Setiap hari",
+      "note": "Casual: hari-hari."
+    },
+    "help": {
+      "text": "Tolong!"
+    },
+    "call_police": {
+      "text": "Panggil polis!",
+      "note": "The emergency number in Malaysia is 999."
+    },
+    "need_doctor": {
+      "text": "Saya perlukan doktor",
+      "note": "Also saya perlu jumpa doktor (I need to see a doctor)."
+    },
+    "im_lost": {
+      "text": "Saya sesat"
+    },
+    "dont_feel_well": {
+      "text": "Saya kurang sihat",
+      "note": "Kurang sihat is the polite, usual way to say it. Casual: tak sihat."
+    },
+    "pharmacy": {
+      "text": "Farmasi",
+      "note": "Also kedai ubat (medicine shop)."
+    },
+    "hospital": {
+      "text": "Hospital",
+      "note": "Same word as in English. For minor problems, look for a klinik."
+    },
+    "lost_phone": {
+      "text": "Telefon saya hilang"
+    },
+    "allergic": {
+      "text": "Saya alah kepada …",
+      "note": "Example: saya alah kepada kacang (nuts). Many people also say saya alergik …"
+    },
+    "be_careful": {
+      "text": "Hati-hati!",
+      "note": "Also jaga-jaga! Warning signs say awas."
+    },
+    "no_problem": {
+      "text": "Tiada masalah",
+      "note": "Tak apa (it's fine, never mind) is also very common."
+    },
+    "of_course": {
+      "text": "Sudah tentu",
+      "note": "Casual: mestilah!"
+    },
+    "maybe": {
+      "text": "Mungkin",
+      "note": "Casual speech often adds kot at the end of a sentence instead."
+    },
+    "dont_know": {
+      "text": "Saya tidak tahu",
+      "note": "Casual: tak tahu."
+    },
+    "i_like_it": {
+      "text": "Saya suka"
+    },
+    "dont_like_it": {
+      "text": "Saya tidak suka",
+      "note": "Casual: tak suka."
+    },
+    "im_tired": {
+      "text": "Saya penat",
+      "note": "Also letih."
+    },
+    "im_happy": {
+      "text": "Saya gembira",
+      "note": "Enjoying yourself: saya seronok."
+    },
+    "welcome": {
+      "text": "Selamat datang!",
+      "note": "Please come in: jemput masuk."
+    },
+    "congratulations": {
+      "text": "Tahniah!"
+    }
+  }
+}

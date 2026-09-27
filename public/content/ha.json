@@ -1,0 +1,371 @@
+{
+  "code": "ha",
+  "phrases": {
+    "hello": {
+      "text": "Sannu",
+      "note": "Reply: yauwa, sannu. Also very common: salamu alaikum (reply: wa alaikumus salam)."
+    },
+    "goodbye": {
+      "text": "Sai anjima",
+      "note": "Literally 'until a while'. For a longer parting: sai wani lokaci (until another time)."
+    },
+    "please": {
+      "text": "Don Allah",
+      "note": "Literally 'for God's sake', but it is simply the everyday polite 'please'."
+    },
+    "thank_you": {
+      "text": "Na gode",
+      "note": "Na gode sosai: thank you very much."
+    },
+    "youre_welcome": {
+      "text": "Ba komai",
+      "note": "Literally 'it's nothing'. Also common: babu damuwa (no worries)."
+    },
+    "yes": {
+      "text": "Ee",
+      "note": "Also written i. When someone calls your name, answer na'am."
+    },
+    "no": {
+      "text": "A'a",
+      "note": "The ' is a catch in the throat, as in English uh-oh."
+    },
+    "sorry": {
+      "text": "Ka yi haƙuri",
+      "note": "To a woman: ki yi haƙuri. Sannu shows sympathy (someone is hurt or tired); it is not an apology."
+    },
+    "excuse_me": {
+      "text": "Gafara dai",
+      "note": "Add malam to a man or malama to a woman: gafara dai, malam."
+    },
+    "good_morning": {
+      "text": "Ina kwana?",
+      "note": "Literally 'how did you sleep?'. Reply: lafiya lau. Also common: barka da safiya."
+    },
+    "how_are_you": {
+      "text": "Yaya kake?",
+      "note": "To a woman: yaya kike? Also very common: ina lafiya? (reply: lafiya lau)."
+    },
+    "im_fine": {
+      "text": "Lafiya lau, na gode"
+    },
+    "whats_your_name": {
+      "text": "Yaya sunanka?",
+      "note": "To a woman: yaya sunanki?"
+    },
+    "my_name_is": {
+      "text": "Sunana …",
+      "note": "Also: ni ne … (I am …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Na ji daɗin haɗuwa da kai",
+      "note": "To a woman: na ji daɗin haɗuwa da ke."
+    },
+    "where_from": {
+      "text": "Daga ina kake?",
+      "note": "To a woman: daga ina kike?"
+    },
+    "im_from": {
+      "text": "Daga … nake",
+      "note": "Also: na fito daga … (I come from …)."
+    },
+    "speak_english": {
+      "text": "Kana jin Turanci?",
+      "note": "To a woman: kina jin Turanci? Hausa 'hears' (ji) a language rather than 'speaks' it."
+    },
+    "dont_understand": {
+      "text": "Ban gane ba"
+    },
+    "speak_slowly": {
+      "text": "Don Allah, ka yi magana a hankali",
+      "note": "To a woman: don Allah, ki yi magana a hankali."
+    },
+    "where": {
+      "text": "Ina?",
+      "note": "Example: ina kasuwa? (where is the market?)"
+    },
+    "what": {
+      "text": "Mene ne?",
+      "note": "Short form: me?, as in me ka ce? (what did you say?)"
+    },
+    "when": {
+      "text": "Yaushe?"
+    },
+    "why": {
+      "text": "Me ya sa?",
+      "note": "Also: don me? (for what?)"
+    },
+    "who": {
+      "text": "Wane ne?",
+      "note": "Short form: wa? Asking about a woman: wace ce?"
+    },
+    "how_much": {
+      "text": "Nawa ne wannan?"
+    },
+    "where_bathroom": {
+      "text": "Don Allah, ina banɗaki yake?"
+    },
+    "can_you_help": {
+      "text": "Don Allah, za ka iya taimaka mini?",
+      "note": "To a woman: don Allah, za ki iya taimaka mini?"
+    },
+    "what_time": {
+      "text": "Ƙarfe nawa ne?",
+      "note": "Answer like: ƙarfe uku ne (it's three o'clock)."
+    },
+    "what_means": {
+      "text": "Mene ne ma'anar wannan?"
+    },
+    "one": {
+      "text": "Ɗaya",
+      "note": "ɗ is an implosive d, said with a little inward gulp of air."
+    },
+    "two": {
+      "text": "Biyu"
+    },
+    "three": {
+      "text": "Uku"
+    },
+    "four": {
+      "text": "Huɗu"
+    },
+    "five": {
+      "text": "Biyar"
+    },
+    "six": {
+      "text": "Shida"
+    },
+    "seven": {
+      "text": "Bakwai"
+    },
+    "eight": {
+      "text": "Takwas"
+    },
+    "nine": {
+      "text": "Tara"
+    },
+    "ten": {
+      "text": "Goma"
+    },
+    "water": {
+      "text": "Ruwa",
+      "note": "Drinking water: ruwan sha. Ruwa also means rain."
+    },
+    "coffee": {
+      "text": "Kofi",
+      "note": "The same word also means 'cup'."
+    },
+    "tea": {
+      "text": "Shayi"
+    },
+    "bread": {
+      "text": "Burodi",
+      "note": "Gurasa is a traditional Hausa bread."
+    },
+    "im_hungry": {
+      "text": "Ina jin yunwa"
+    },
+    "menu_please": {
+      "text": "Don Allah, kawo mini jerin abinci",
+      "note": "In small eateries people simply ask: me kuke da shi? (what do you have?)"
+    },
+    "bill_please": {
+      "text": "Don Allah, nawa ne kuɗin?",
+      "note": "Literally 'how much is the money?', the usual way to settle up after eating."
+    },
+    "delicious": {
+      "text": "Yana da daɗi!",
+      "note": "Also common: akwai daɗi! or ya yi daɗi!"
+    },
+    "no_meat": {
+      "text": "Ba na cin nama"
+    },
+    "enjoy_meal": {
+      "text": "Bismillah!",
+      "note": "Literally 'in the name of God'; said to invite others to start eating."
+    },
+    "left": {
+      "text": "Hagu",
+      "note": "Turn left: juya hagu."
+    },
+    "right": {
+      "text": "Dama",
+      "note": "Turn right: juya dama. Dama also means 'chance'."
+    },
+    "straight_ahead": {
+      "text": "Kai tsaye"
+    },
+    "stop_here": {
+      "text": "Don Allah, tsaya a nan",
+      "note": "Also common: sauke ni nan (drop me here)."
+    },
+    "airport": {
+      "text": "Filin jirgin sama",
+      "note": "Jirgin sama means aeroplane."
+    },
+    "hotel": {
+      "text": "Otal",
+      "note": "Also: masauki (a place to stay)."
+    },
+    "train_station": {
+      "text": "Tashar jirgin ƙasa",
+      "note": "Jirgin ƙasa means train; tasha is any station or bus park."
+    },
+    "want_to_go": {
+      "text": "Ina so in je …"
+    },
+    "is_it_far": {
+      "text": "Akwai nisa?",
+      "note": "Also: yana da nisa? Common answer: ba nisa (it's not far)."
+    },
+    "one_ticket": {
+      "text": "Don Allah, tikiti ɗaya"
+    },
+    "too_expensive": {
+      "text": "Ya yi tsada da yawa",
+      "note": "To bargain: rage mini (bring the price down for me)."
+    },
+    "cheaper": {
+      "text": "Akwai wanda ya fi araha?"
+    },
+    "id_like_this": {
+      "text": "Ina son wannan, don Allah"
+    },
+    "just_looking": {
+      "text": "Dubawa kawai nake yi"
+    },
+    "pay_card": {
+      "text": "Zan iya biya da kati?"
+    },
+    "cash": {
+      "text": "Tsabar kuɗi"
+    },
+    "open": {
+      "text": "A buɗe",
+      "note": "It's open: a buɗe yake."
+    },
+    "closed": {
+      "text": "A rufe",
+      "note": "It's closed: a rufe yake."
+    },
+    "big": {
+      "text": "Babba",
+      "note": "Plural: manya."
+    },
+    "small": {
+      "text": "Ƙarami",
+      "note": "With a feminine noun: ƙarama. Plural: ƙanana."
+    },
+    "today": {
+      "text": "Yau"
+    },
+    "tomorrow": {
+      "text": "Gobe",
+      "note": "See you tomorrow: sai gobe."
+    },
+    "yesterday": {
+      "text": "Jiya"
+    },
+    "now": {
+      "text": "Yanzu",
+      "note": "Right away: yanzu-yanzu."
+    },
+    "later": {
+      "text": "Anjima",
+      "note": "Later today. For 'later on, afterwards': daga baya."
+    },
+    "good_evening": {
+      "text": "Barka da yamma",
+      "note": "Also: ina wuni? (how was your day?), answered lafiya lau."
+    },
+    "good_night": {
+      "text": "Sai da safe",
+      "note": "Also: mu kwana lafiya (let us sleep well)."
+    },
+    "see_you_later": {
+      "text": "Sai anjima",
+      "note": "Also the everyday goodbye."
+    },
+    "wait_moment": {
+      "text": "Don Allah, dakata kaɗan",
+      "note": "Also: jira kaɗan."
+    },
+    "every_day": {
+      "text": "Kullum",
+      "note": "Also: kowace rana (each day). Kullum can also mean 'always'."
+    },
+    "help": {
+      "text": "A taimaka!",
+      "note": "Also: ku taimake ni! (help me, all of you!)"
+    },
+    "call_police": {
+      "text": "A kira 'yan sanda!",
+      "note": "'y is a glottalised y, said with a catch in the throat."
+    },
+    "need_doctor": {
+      "text": "Ina buƙatar likita"
+    },
+    "im_lost": {
+      "text": "Na ɓata hanya"
+    },
+    "dont_feel_well": {
+      "text": "Ba na jin daɗin jikina",
+      "note": "Also: ba ni da lafiya (I'm unwell)."
+    },
+    "pharmacy": {
+      "text": "Kantin magani",
+      "note": "Many people simply say 'chemist'."
+    },
+    "hospital": {
+      "text": "Asibiti"
+    },
+    "lost_phone": {
+      "text": "Wayata ta ɓace"
+    },
+    "allergic": {
+      "text": "Jikina ba ya jituwa da …",
+      "note": "Hausa has no everyday word for allergy; this says 'my body does not get along with …'."
+    },
+    "be_careful": {
+      "text": "Ka yi hankali!",
+      "note": "To a woman: ki yi hankali! Quick warning to anyone: a hankali!"
+    },
+    "no_problem": {
+      "text": "Babu matsala",
+      "note": "Also: ba damuwa."
+    },
+    "of_course": {
+      "text": "Tabbas",
+      "note": "Casual: ee mana! (yes, of course!)"
+    },
+    "maybe": {
+      "text": "Wataƙila",
+      "note": "Short form: ƙila."
+    },
+    "dont_know": {
+      "text": "Ban sani ba"
+    },
+    "i_like_it": {
+      "text": "Ina sonsa",
+      "note": "If 'it' is a feminine noun: ina sonta."
+    },
+    "dont_like_it": {
+      "text": "Ba na sonsa",
+      "note": "If 'it' is a feminine noun: ba na sonta."
+    },
+    "im_tired": {
+      "text": "Na gaji",
+      "note": "A common greeting is ina gajiya? (how's the tiredness?), answered ba gajiya."
+    },
+    "im_happy": {
+      "text": "Ina farin ciki"
+    },
+    "welcome": {
+      "text": "Sannu da zuwa!",
+      "note": "Also: barka da zuwa! or maraba!"
+    },
+    "congratulations": {
+      "text": "Ina taya ka murna!",
+      "note": "To a woman: ina taya ki murna! Also: madalla! (well done!)"
+    }
+  }
+}

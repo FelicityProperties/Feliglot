@@ -1,0 +1,499 @@
+{
+  "code": "th",
+  "phrases": {
+    "hello": {
+      "text": "สวัสดีครับ",
+      "roman": "Sawatdee khrap",
+      "note": "A woman says: สวัสดีค่ะ (sawatdee kha). Works at any hour, and also as a formal goodbye."
+    },
+    "goodbye": {
+      "text": "ไปก่อนนะครับ",
+      "roman": "Pai kon na khrap",
+      "note": "A woman says: ไปก่อนนะคะ (pai kon na kha). Said as you leave; a formal goodbye is สวัสดีครับ."
+    },
+    "please": {
+      "text": "กรุณา",
+      "roman": "Karuna",
+      "note": "Formal, as in announcements. In speech, end a request with หน่อยครับ/ค่ะ (noi khrap/kha). Offering: เชิญ (chern)."
+    },
+    "thank_you": {
+      "text": "ขอบคุณครับ",
+      "roman": "Khop khun khrap",
+      "note": "A woman says: ขอบคุณค่ะ (khop khun kha). Warmer: ขอบคุณมากครับ (khop khun mak khrap)."
+    },
+    "youre_welcome": {
+      "text": "ไม่เป็นไรครับ",
+      "roman": "Mai pen rai khrap",
+      "note": "A woman says: ไม่เป็นไรค่ะ (mai pen rai kha). The same words mean \"never mind\" or \"it's fine\"."
+    },
+    "yes": {
+      "text": "ครับ",
+      "roman": "Khrap",
+      "note": "A woman says: ค่ะ (kha, falling tone); in questions she ends with คะ (kha, high tone)."
+    },
+    "no": {
+      "text": "ไม่ครับ",
+      "roman": "Mai khrap",
+      "note": "A woman says: ไม่ค่ะ (mai kha). \"That's not right\": ไม่ใช่ (mai chai). \"No, thanks\": ไม่เป็นไร (mai pen rai)."
+    },
+    "sorry": {
+      "text": "ขอโทษครับ",
+      "roman": "Kho thot khrap",
+      "note": "A woman says: ขอโทษค่ะ (kho thot kha). Casual, with friends: โทษที (thot thee)."
+    },
+    "excuse_me": {
+      "text": "ขอโทษนะครับ",
+      "roman": "Kho thot na khrap",
+      "note": "A woman says: ขอโทษนะคะ (kho thot na kha). To call a waiter or shop assistant: น้องครับ (nong khrap)."
+    },
+    "good_morning": {
+      "text": "อรุณสวัสดิ์ครับ",
+      "roman": "Arun sawat khrap",
+      "note": "A woman says: อรุณสวัสดิ์ค่ะ (arun sawat kha). Rather formal; most people just say สวัสดีครับ."
+    },
+    "how_are_you": {
+      "text": "สบายดีไหมครับ",
+      "roman": "Sabai dee mai khrap",
+      "note": "A woman says: สบายดีไหมคะ (sabai dee mai kha). Asked after time apart, not as a routine greeting."
+    },
+    "im_fine": {
+      "text": "สบายดีครับ ขอบคุณครับ",
+      "roman": "Sabai dee khrap, khop khun khrap",
+      "note": "A woman says: สบายดีค่ะ ขอบคุณค่ะ (sabai dee kha, khop khun kha)."
+    },
+    "whats_your_name": {
+      "text": "คุณชื่ออะไรครับ",
+      "roman": "Khun chue arai khrap",
+      "note": "A woman says: คุณชื่ออะไรคะ (khun chue arai kha). Thai usually writes no question mark; อะไร (arai) marks it."
+    },
+    "my_name_is": {
+      "text": "ผมชื่อ…ครับ",
+      "roman": "Phom chue … khrap",
+      "note": "A woman says: ฉันชื่อ…ค่ะ (chan chue … kha). More formal \"I\" for a woman: ดิฉัน (dichan)."
+    },
+    "nice_to_meet_you": {
+      "text": "ยินดีที่ได้รู้จักครับ",
+      "roman": "Yin dee thee dai ru jak khrap",
+      "note": "A woman says: ยินดีที่ได้รู้จักค่ะ (yin dee thee dai ru jak kha)."
+    },
+    "where_from": {
+      "text": "คุณมาจากไหนครับ",
+      "roman": "Khun ma jak nai khrap",
+      "note": "A woman says: คุณมาจากไหนคะ (khun ma jak nai kha). Which country: มาจากประเทศอะไร (ma jak prathet arai)."
+    },
+    "im_from": {
+      "text": "ผมมาจาก…ครับ",
+      "roman": "Phom ma jak … khrap",
+      "note": "A woman says: ฉันมาจาก…ค่ะ (chan ma jak … kha)."
+    },
+    "speak_english": {
+      "text": "คุณพูดภาษาอังกฤษได้ไหมครับ",
+      "roman": "Khun phut phasa angkrit dai mai khrap",
+      "note": "A woman says: คุณพูดภาษาอังกฤษได้ไหมคะ (khun phut phasa angkrit dai mai kha)."
+    },
+    "dont_understand": {
+      "text": "ไม่เข้าใจครับ",
+      "roman": "Mai khao jai khrap",
+      "note": "A woman says: ไม่เข้าใจค่ะ (mai khao jai kha). Thai usually drops \"I\" when it's obvious."
+    },
+    "speak_slowly": {
+      "text": "ช่วยพูดช้าๆ หน่อยครับ",
+      "roman": "Chuai phut cha cha noi khrap",
+      "note": "A woman says: ช่วยพูดช้าๆ หน่อยค่ะ (chuai phut cha cha noi kha). ๆ means say the word twice."
+    },
+    "where": {
+      "text": "ที่ไหนครับ",
+      "roman": "Thee nai khrap",
+      "note": "A woman says: ที่ไหนคะ (thee nai kha). In a sentence it goes at the end, not the start."
+    },
+    "what": {
+      "text": "อะไรครับ",
+      "roman": "Arai khrap",
+      "note": "A woman says: อะไรคะ (arai kha). Didn't catch something? อะไรนะครับ (arai na khrap)."
+    },
+    "when": {
+      "text": "เมื่อไหร่ครับ",
+      "roman": "Muea rai khrap",
+      "note": "A woman says: เมื่อไหร่คะ (muea rai kha). Also spelt เมื่อไร."
+    },
+    "why": {
+      "text": "ทำไมครับ",
+      "roman": "Thammai khrap",
+      "note": "A woman says: ทำไมคะ (thammai kha)."
+    },
+    "who": {
+      "text": "ใครครับ",
+      "roman": "Khrai khrap",
+      "note": "A woman says: ใครคะ (khrai kha). In fast speech the r is often dropped: \"khai\"."
+    },
+    "how_much": {
+      "text": "อันนี้เท่าไหร่ครับ",
+      "roman": "An nee thao rai khrap",
+      "note": "A woman says: อันนี้เท่าไหร่คะ (an nee thao rai kha). Also common: กี่บาท (kee baht), asking the price in baht."
+    },
+    "where_bathroom": {
+      "text": "ห้องน้ำอยู่ที่ไหนครับ",
+      "roman": "Hong nam yu thee nai khrap",
+      "note": "A woman says: ห้องน้ำอยู่ที่ไหนคะ (hong nam yu thee nai kha). Signs may say สุขา (sukha)."
+    },
+    "can_you_help": {
+      "text": "ช่วยหน่อยได้ไหมครับ",
+      "roman": "Chuai noi dai mai khrap",
+      "note": "A woman says: ช่วยหน่อยได้ไหมคะ (chuai noi dai mai kha)."
+    },
+    "what_time": {
+      "text": "กี่โมงแล้วครับ",
+      "roman": "Kee mong laeo khrap",
+      "note": "A woman says: กี่โมงแล้วคะ (kee mong laeo kha). Also common: ตอนนี้กี่โมง (ton nee kee mong)."
+    },
+    "what_means": {
+      "text": "อันนี้แปลว่าอะไรครับ",
+      "roman": "An nee plae wa arai khrap",
+      "note": "A woman says: อันนี้แปลว่าอะไรคะ (an nee plae wa arai kha). For a word, say คำนี้ (kham nee)."
+    },
+    "one": {
+      "text": "หนึ่ง",
+      "roman": "Nueng",
+      "note": "Thai digit: ๑. In 11, 21, 31… the final one becomes เอ็ด (et)."
+    },
+    "two": {
+      "text": "สอง",
+      "roman": "Song",
+      "note": "Thai digit: ๒. In twenty it becomes ยี่ (yee): ยี่สิบ (yee sip)."
+    },
+    "three": {
+      "text": "สาม",
+      "roman": "Sam",
+      "note": "Thai digit: ๓."
+    },
+    "four": {
+      "text": "สี่",
+      "roman": "See",
+      "note": "Thai digit: ๔. Low tone; don't confuse it with สี (see, rising tone), colour."
+    },
+    "five": {
+      "text": "ห้า",
+      "roman": "Ha",
+      "note": "Thai digit: ๕. Online, 555 means \"hahaha\"."
+    },
+    "six": {
+      "text": "หก",
+      "roman": "Hok",
+      "note": "Thai digit: ๖."
+    },
+    "seven": {
+      "text": "เจ็ด",
+      "roman": "Jet",
+      "note": "Thai digit: ๗."
+    },
+    "eight": {
+      "text": "แปด",
+      "roman": "Paet",
+      "note": "Thai digit: ๘."
+    },
+    "nine": {
+      "text": "เก้า",
+      "roman": "Kao",
+      "note": "Thai digit: ๙. A lucky number: it sounds like ก้าว (kao), to step forward."
+    },
+    "ten": {
+      "text": "สิบ",
+      "roman": "Sip",
+      "note": "Thai digit: ๑๐."
+    },
+    "water": {
+      "text": "น้ำเปล่า",
+      "roman": "Nam plao",
+      "note": "น้ำ (nam) alone means any water or drink; เปล่า makes it plain water."
+    },
+    "coffee": {
+      "text": "กาแฟ",
+      "roman": "Kafae",
+      "note": "Iced coffee: กาแฟเย็น (kafae yen). It comes sweet unless you say ไม่หวาน (mai wan)."
+    },
+    "tea": {
+      "text": "ชา",
+      "roman": "Cha",
+      "note": "Thai iced tea: ชาเย็น (cha yen). Hot tea: ชาร้อน (cha ron)."
+    },
+    "bread": {
+      "text": "ขนมปัง",
+      "roman": "Khanom pang",
+      "note": "Toast: ขนมปังปิ้ง (khanom pang ping)."
+    },
+    "im_hungry": {
+      "text": "หิวข้าวแล้วครับ",
+      "roman": "Hio khao laeo khrap",
+      "note": "A woman says: หิวข้าวแล้วค่ะ (hio khao laeo kha). ข้าว (khao), rice, also stands for a meal."
+    },
+    "menu_please": {
+      "text": "ขอเมนูหน่อยครับ",
+      "roman": "Kho menu noi khrap",
+      "note": "A woman says: ขอเมนูหน่อยค่ะ (kho menu noi kha)."
+    },
+    "bill_please": {
+      "text": "เก็บเงินด้วยครับ",
+      "roman": "Kep ngern duai khrap",
+      "note": "A woman says: เก็บเงินด้วยค่ะ (kep ngern duai kha). Also common: เช็กบิล (chek bin)."
+    },
+    "delicious": {
+      "text": "อร่อยมากครับ",
+      "roman": "Aroi mak khrap",
+      "note": "A woman says: อร่อยมากค่ะ (aroi mak kha). Just อร่อย (aroi) works too."
+    },
+    "no_meat": {
+      "text": "ผมไม่กินเนื้อสัตว์ครับ",
+      "roman": "Phom mai kin nuea sat khrap",
+      "note": "A woman says: ฉันไม่กินเนื้อสัตว์ค่ะ (chan mai kin nuea sat kha). เนื้อ alone usually means beef."
+    },
+    "enjoy_meal": {
+      "text": "ทานให้อร่อยนะครับ",
+      "roman": "Than hai aroi na khrap",
+      "note": "A woman says: ทานให้อร่อยนะคะ (than hai aroi na kha). Among friends: กินกันเลย (kin kan loei)."
+    },
+    "left": {
+      "text": "ซ้าย",
+      "roman": "Sai",
+      "note": "Turn left: เลี้ยวซ้าย (liao sai)."
+    },
+    "right": {
+      "text": "ขวา",
+      "roman": "Khwa",
+      "note": "Turn right: เลี้ยวขวา (liao khwa)."
+    },
+    "straight_ahead": {
+      "text": "ตรงไป",
+      "roman": "Trong pai",
+      "note": "Keep going straight: ตรงไปเรื่อยๆ (trong pai rueai rueai)."
+    },
+    "stop_here": {
+      "text": "จอดตรงนี้ครับ",
+      "roman": "Jot trong nee khrap",
+      "note": "A woman says: จอดตรงนี้ค่ะ (jot trong nee kha). Just up ahead: จอดข้างหน้า (jot khang na)."
+    },
+    "airport": {
+      "text": "สนามบิน",
+      "roman": "Sanam bin",
+      "note": "Bangkok has two: สุวรรณภูมิ (suwannaphum, signposted Suvarnabhumi) and ดอนเมือง (don mueang)."
+    },
+    "hotel": {
+      "text": "โรงแรม",
+      "roman": "Rong raem"
+    },
+    "train_station": {
+      "text": "สถานีรถไฟ",
+      "roman": "Sathanee rot fai",
+      "note": "Skytrain or metro station: สถานีรถไฟฟ้า (sathanee rot fai fa)."
+    },
+    "want_to_go": {
+      "text": "ผมอยากไป…ครับ",
+      "roman": "Phom yak pai … khrap",
+      "note": "A woman says: ฉันอยากไป…ค่ะ (chan yak pai … kha). To a taxi driver, just: ไป…ครับ (pai … khrap)."
+    },
+    "is_it_far": {
+      "text": "ไกลไหมครับ",
+      "roman": "Klai mai khrap",
+      "note": "A woman says: ไกลไหมคะ (klai mai kha). Careful: ใกล้ (klai, falling tone) means near."
+    },
+    "one_ticket": {
+      "text": "ขอตั๋วหนึ่งใบครับ",
+      "roman": "Kho tua nueng bai khrap",
+      "note": "A woman says: ขอตั๋วหนึ่งใบค่ะ (kho tua nueng bai kha). ใบ (bai) is the counting word for tickets."
+    },
+    "too_expensive": {
+      "text": "แพงไปครับ",
+      "roman": "Phaeng pai khrap",
+      "note": "A woman says: แพงไปค่ะ (phaeng pai kha). Softer: แพงไปหน่อย (phaeng pai noi)."
+    },
+    "cheaper": {
+      "text": "มีถูกกว่านี้ไหมครับ",
+      "roman": "Mee thuk kwa nee mai khrap",
+      "note": "A woman says: มีถูกกว่านี้ไหมคะ (mee thuk kwa nee mai kha). To haggle: ลดได้ไหม (lot dai mai)."
+    },
+    "id_like_this": {
+      "text": "เอาอันนี้ครับ",
+      "roman": "Ao an nee khrap",
+      "note": "A woman says: เอาอันนี้ค่ะ (ao an nee kha). Also: ขออันนี้ (kho an nee)."
+    },
+    "just_looking": {
+      "text": "ดูเฉยๆ ครับ",
+      "roman": "Du choei choei khrap",
+      "note": "A woman says: ดูเฉยๆ ค่ะ (du choei choei kha). Also: ขอดูก่อน (kho du kon)."
+    },
+    "pay_card": {
+      "text": "รูดบัตรได้ไหมครับ",
+      "roman": "Rut bat dai mai khrap",
+      "note": "A woman says: รูดบัตรได้ไหมคะ (rut bat dai mai kha). By QR code: สแกนจ่ายได้ไหม (sakaen jai dai mai)."
+    },
+    "cash": {
+      "text": "เงินสด",
+      "roman": "Ngern sot",
+      "note": "Pay in cash: จ่ายเงินสด (jai ngern sot)."
+    },
+    "open": {
+      "text": "เปิด",
+      "roman": "Pert",
+      "note": "Signs may also say เปิดบริการ (pert borikan)."
+    },
+    "closed": {
+      "text": "ปิด",
+      "roman": "Pit",
+      "note": "Don't mix it up with เปิด (pert), open. Signs may say ปิดบริการ (pit borikan)."
+    },
+    "big": {
+      "text": "ใหญ่",
+      "roman": "Yai"
+    },
+    "small": {
+      "text": "เล็ก",
+      "roman": "Lek"
+    },
+    "today": {
+      "text": "วันนี้",
+      "roman": "Wan nee"
+    },
+    "tomorrow": {
+      "text": "พรุ่งนี้",
+      "roman": "Phrung nee",
+      "note": "The r is often dropped in speech: \"phung nee\"."
+    },
+    "yesterday": {
+      "text": "เมื่อวาน",
+      "roman": "Muea wan",
+      "note": "Also เมื่อวานนี้ (muea wan nee)."
+    },
+    "now": {
+      "text": "ตอนนี้",
+      "roman": "Ton nee",
+      "note": "Right away: เดี๋ยวนี้ (diao nee)."
+    },
+    "later": {
+      "text": "ทีหลัง",
+      "roman": "Thee lang",
+      "note": "In a bit: เดี๋ยว (diao), as in เดี๋ยวมา (diao ma), \"back soon\"."
+    },
+    "good_evening": {
+      "text": "สวัสดีครับ",
+      "roman": "Sawatdee khrap",
+      "note": "A woman says: สวัสดีค่ะ (sawatdee kha). Same as hello; the formal สายัณห์สวัสดิ์ (sayan sawat) is rarely used."
+    },
+    "good_night": {
+      "text": "ราตรีสวัสดิ์ครับ",
+      "roman": "Ratree sawat khrap",
+      "note": "A woman says: ราตรีสวัสดิ์ค่ะ (ratree sawat kha). Warmer, before bed: ฝันดีนะ (fan dee na)."
+    },
+    "see_you_later": {
+      "text": "แล้วเจอกันนะครับ",
+      "roman": "Laeo jer kan na khrap",
+      "note": "A woman says: แล้วเจอกันนะคะ (laeo jer kan na kha)."
+    },
+    "wait_moment": {
+      "text": "รอสักครู่นะครับ",
+      "roman": "Ro sak khru na khrap",
+      "note": "A woman says: รอสักครู่นะคะ (ro sak khru na kha). Casual: แป๊บนึง (paep nueng)."
+    },
+    "every_day": {
+      "text": "ทุกวัน",
+      "roman": "Thuk wan"
+    },
+    "help": {
+      "text": "ช่วยด้วย!",
+      "roman": "Chuai duai!"
+    },
+    "call_police": {
+      "text": "ช่วยเรียกตำรวจด้วยครับ!",
+      "roman": "Chuai riak tamruat duai khrap!",
+      "note": "A woman says: ช่วยเรียกตำรวจด้วยค่ะ! (chuai riak tamruat duai kha!). Police: 191."
+    },
+    "need_doctor": {
+      "text": "ผมต้องไปหาหมอครับ",
+      "roman": "Phom tong pai ha mo khrap",
+      "note": "A woman says: ฉันต้องไปหาหมอค่ะ (chan tong pai ha mo kha). Ambulance: 1669."
+    },
+    "im_lost": {
+      "text": "ผมหลงทางครับ",
+      "roman": "Phom long thang khrap",
+      "note": "A woman says: ฉันหลงทางค่ะ (chan long thang kha)."
+    },
+    "dont_feel_well": {
+      "text": "ผมรู้สึกไม่สบายครับ",
+      "roman": "Phom ru suek mai sabai khrap",
+      "note": "A woman says: ฉันรู้สึกไม่สบายค่ะ (chan ru suek mai sabai kha). ไม่สบาย alone means sick."
+    },
+    "pharmacy": {
+      "text": "ร้านขายยา",
+      "roman": "Ran khai ya",
+      "note": "Often just ร้านยา (ran ya)."
+    },
+    "hospital": {
+      "text": "โรงพยาบาล",
+      "roman": "Rong phayaban",
+      "note": "In casual speech: โรงบาล (rong ban)."
+    },
+    "lost_phone": {
+      "text": "ผมทำโทรศัพท์หายครับ",
+      "roman": "Phom tham thorasap hai khrap",
+      "note": "A woman says: ฉันทำโทรศัพท์หายค่ะ (chan tham thorasap hai kha). Mobile is also มือถือ (mue thue)."
+    },
+    "allergic": {
+      "text": "ผมแพ้…ครับ",
+      "roman": "Phom phae … khrap",
+      "note": "A woman says: ฉันแพ้…ค่ะ (chan phae … kha). E.g. แพ้ถั่ว (phae thua), nuts; แพ้กุ้ง (phae kung), shrimp."
+    },
+    "be_careful": {
+      "text": "ระวัง!",
+      "roman": "Rawang!",
+      "note": "As friendly advice: ระวังนะครับ (rawang na khrap); a woman: ระวังนะคะ (rawang na kha)."
+    },
+    "no_problem": {
+      "text": "ไม่มีปัญหาครับ",
+      "roman": "Mai mee panha khrap",
+      "note": "A woman says: ไม่มีปัญหาค่ะ (mai mee panha kha). After an apology, say ไม่เป็นไร (mai pen rai)."
+    },
+    "of_course": {
+      "text": "แน่นอนครับ",
+      "roman": "Nae non khrap",
+      "note": "A woman says: แน่นอนค่ะ (nae non kha). Agreeing to a request: ได้เลย (dai loei)."
+    },
+    "maybe": {
+      "text": "อาจจะครับ",
+      "roman": "At ja khrap",
+      "note": "A woman says: อาจจะค่ะ (at ja kha). Casual: add มั้ง (mang) at the end of a sentence."
+    },
+    "dont_know": {
+      "text": "ไม่ทราบครับ",
+      "roman": "Mai sap khrap",
+      "note": "A woman says: ไม่ทราบค่ะ (mai sap kha). Casual: ไม่รู้ (mai ru). ทร is read as s."
+    },
+    "i_like_it": {
+      "text": "ชอบครับ",
+      "roman": "Chop khrap",
+      "note": "A woman says: ชอบค่ะ (chop kha). Thai drops \"I\" and \"it\" when they're obvious."
+    },
+    "dont_like_it": {
+      "text": "ไม่ชอบครับ",
+      "roman": "Mai chop khrap",
+      "note": "A woman says: ไม่ชอบค่ะ (mai chop kha). Softer: ไม่ค่อยชอบ (mai khoi chop), \"not really\"."
+    },
+    "im_tired": {
+      "text": "ผมเหนื่อยครับ",
+      "roman": "Phom nueai khrap",
+      "note": "A woman says: ฉันเหนื่อยค่ะ (chan nueai kha). Sleepy: ง่วง (nguang)."
+    },
+    "im_happy": {
+      "text": "ผมมีความสุขครับ",
+      "roman": "Phom mee khwam suk khrap",
+      "note": "A woman says: ฉันมีความสุขค่ะ (chan mee khwam suk kha). Glad about news: ดีใจ (dee jai)."
+    },
+    "welcome": {
+      "text": "ยินดีต้อนรับครับ",
+      "roman": "Yin dee ton rap khrap",
+      "note": "A woman says: ยินดีต้อนรับค่ะ (yin dee ton rap kha)."
+    },
+    "congratulations": {
+      "text": "ยินดีด้วยครับ",
+      "roman": "Yin dee duai khrap",
+      "note": "A woman says: ยินดีด้วยค่ะ (yin dee duai kha)."
+    }
+  }
+}

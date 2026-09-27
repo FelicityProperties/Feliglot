@@ -1,0 +1,480 @@
+{
+  "code": "zh",
+  "phrases": {
+    "hello": {
+      "text": "你好",
+      "roman": "Nǐ hǎo",
+      "note": "Two third tones in a row: nǐ is said with a rising tone. To elders or strangers: 您好 (nín hǎo)."
+    },
+    "goodbye": {
+      "text": "再见",
+      "roman": "Zàijiàn",
+      "note": "In casual speech people very often just say 拜拜 (bàibài), from English \"bye-bye\"."
+    },
+    "please": {
+      "text": "请",
+      "roman": "Qǐng",
+      "note": "Goes before a verb: 请进 (qǐng jìn), \"please come in\". To ask a favour: 麻烦你 (máfan nǐ)."
+    },
+    "thank_you": {
+      "text": "谢谢",
+      "roman": "Xièxie",
+      "note": "The second 谢 is short and toneless. Warmer: 谢谢你 (xièxie nǐ)."
+    },
+    "youre_welcome": {
+      "text": "不客气",
+      "roman": "Bú kèqi",
+      "note": "Also very common: 不用谢 (bú yòng xiè), \"no need for thanks\"."
+    },
+    "yes": {
+      "text": "是的",
+      "roman": "Shì de",
+      "note": "Chinese often answers by echoing the verb: 有 (yǒu), 要 (yào). 对 (duì), \"right\", is also very common."
+    },
+    "no": {
+      "text": "不是",
+      "roman": "Bú shì",
+      "note": "Or echo the verb: 不要 (bú yào), 没有 (méiyǒu). Declining an offer: 不用了 (bú yòng le)."
+    },
+    "sorry": {
+      "text": "对不起",
+      "roman": "Duìbuqǐ",
+      "note": "For small slips, 不好意思 (bù hǎoyìsi) is lighter and more common."
+    },
+    "excuse_me": {
+      "text": "不好意思",
+      "roman": "Bù hǎoyìsi",
+      "note": "Then ask with 请问 (qǐngwèn), \"may I ask\", followed by your question."
+    },
+    "good_morning": {
+      "text": "早上好",
+      "roman": "Zǎoshang hǎo",
+      "note": "Among friends and colleagues, simply 早 (zǎo)!"
+    },
+    "how_are_you": {
+      "text": "您最近好吗？",
+      "roman": "Nín zuìjìn hǎo ma?",
+      "note": "Not used with total strangers (你好 is enough). Casual: 最近怎么样？ (zuìjìn zěnmeyàng?)"
+    },
+    "im_fine": {
+      "text": "我挺好的，谢谢",
+      "roman": "Wǒ tǐng hǎo de, xièxie",
+      "note": "Also 还不错 (hái búcuò), \"not bad\". The textbook form is 我很好 (wǒ hěn hǎo)."
+    },
+    "whats_your_name": {
+      "text": "请问您贵姓？",
+      "roman": "Qǐngwèn nín guìxìng?",
+      "note": "Politely asks the family name. To a child or peer: 你叫什么名字？ (nǐ jiào shénme míngzi?)"
+    },
+    "my_name_is": {
+      "text": "我叫…",
+      "roman": "Wǒ jiào …",
+      "note": "To give just your family name: 我姓… (wǒ xìng …)."
+    },
+    "nice_to_meet_you": {
+      "text": "很高兴认识您",
+      "roman": "Hěn gāoxìng rènshi nín",
+      "note": "To someone your age or younger: 很高兴认识你 (hěn gāoxìng rènshi nǐ)."
+    },
+    "where_from": {
+      "text": "您是哪国人？",
+      "roman": "Nín shì nǎ guó rén?",
+      "note": "您是哪里人？ (nín shì nǎli rén?) asks which city or region someone comes from."
+    },
+    "im_from": {
+      "text": "我是…人",
+      "roman": "Wǒ shì … rén",
+      "note": "The country goes before 人: 我是英国人 (wǒ shì Yīngguó rén). Also 我来自… (wǒ láizì …)."
+    },
+    "speak_english": {
+      "text": "您会说英语吗？",
+      "roman": "Nín huì shuō Yīngyǔ ma?",
+      "note": "Put 请问 (qǐngwèn) in front to sound extra polite to a stranger."
+    },
+    "dont_understand": {
+      "text": "我听不懂",
+      "roman": "Wǒ tīng bu dǒng",
+      "note": "Literally \"I hear but can't follow\". For something written: 我看不懂 (wǒ kàn bu dǒng)."
+    },
+    "speak_slowly": {
+      "text": "请说慢一点",
+      "roman": "Qǐng shuō màn yìdiǎn",
+      "note": "Softer: 您能说慢一点吗？ (nín néng shuō màn yìdiǎn ma?)"
+    },
+    "where": {
+      "text": "在哪里？",
+      "roman": "Zài nǎli?",
+      "note": "In northern China: 在哪儿？ (zài nǎr?)"
+    },
+    "what": {
+      "text": "什么？",
+      "roman": "Shénme?",
+      "note": "To ask someone to repeat, 您说什么？ (nín shuō shénme?) is softer than a bare 什么？"
+    },
+    "when": {
+      "text": "什么时候？",
+      "roman": "Shénme shíhou?"
+    },
+    "why": {
+      "text": "为什么？",
+      "roman": "Wèishénme?"
+    },
+    "who": {
+      "text": "谁？",
+      "roman": "Shéi?",
+      "note": "Also pronounced shuí, especially in careful speech."
+    },
+    "how_much": {
+      "text": "这个多少钱？",
+      "roman": "Zhège duōshao qián?",
+      "note": "Point at the item as you ask. 这个 is often pronounced zhèige."
+    },
+    "where_bathroom": {
+      "text": "请问，洗手间在哪里？",
+      "roman": "Qǐngwèn, xǐshǒujiān zài nǎli?",
+      "note": "厕所 (cèsuǒ) is the everyday word; 洗手间 is the more polite one."
+    },
+    "can_you_help": {
+      "text": "您能帮我一下吗？",
+      "roman": "Nín néng bāng wǒ yíxià ma?",
+      "note": "一下 (yíxià), \"for a moment\", softens the request."
+    },
+    "what_time": {
+      "text": "现在几点了？",
+      "roman": "Xiànzài jǐ diǎn le?"
+    },
+    "what_means": {
+      "text": "这是什么意思？",
+      "roman": "Zhè shì shénme yìsi?"
+    },
+    "one": {
+      "text": "一",
+      "roman": "Yī",
+      "note": "Said yāo in phone, room and bus numbers, so it is not confused with 七 (qī)."
+    },
+    "two": {
+      "text": "二",
+      "roman": "Èr",
+      "note": "Before a measure word use 两 (liǎng): 两个 (liǎng ge), \"two of them\"."
+    },
+    "three": {
+      "text": "三",
+      "roman": "Sān"
+    },
+    "four": {
+      "text": "四",
+      "roman": "Sì",
+      "note": "Often avoided as unlucky, because it sounds like 死 (sǐ), \"death\"."
+    },
+    "five": {
+      "text": "五",
+      "roman": "Wǔ"
+    },
+    "six": {
+      "text": "六",
+      "roman": "Liù",
+      "note": "Hand sign: thumb and little finger out, the other fingers folded."
+    },
+    "seven": {
+      "text": "七",
+      "roman": "Qī",
+      "note": "Hand sign: fingertips of thumb, index and middle finger pinched together."
+    },
+    "eight": {
+      "text": "八",
+      "roman": "Bā",
+      "note": "Hand sign: thumb and index finger out, like an L. A lucky number."
+    },
+    "nine": {
+      "text": "九",
+      "roman": "Jiǔ",
+      "note": "Hand sign: index finger crooked like a hook."
+    },
+    "ten": {
+      "text": "十",
+      "roman": "Shí",
+      "note": "Rising tone; don't mix it up with 四 (sì), four. Hand sign: crossed index fingers or a fist."
+    },
+    "water": {
+      "text": "水",
+      "roman": "Shuǐ",
+      "note": "Restaurants often serve hot water. Bottled water: 矿泉水 (kuàngquánshuǐ)."
+    },
+    "coffee": {
+      "text": "咖啡",
+      "roman": "Kāfēi"
+    },
+    "tea": {
+      "text": "茶",
+      "roman": "Chá",
+      "note": "红茶 (hóngchá), literally \"red tea\", is what English calls black tea. Green tea: 绿茶 (lǜchá)."
+    },
+    "bread": {
+      "text": "面包",
+      "roman": "Miànbāo"
+    },
+    "im_hungry": {
+      "text": "我饿了",
+      "roman": "Wǒ è le"
+    },
+    "menu_please": {
+      "text": "请给我看一下菜单",
+      "roman": "Qǐng gěi wǒ kàn yíxià càidān",
+      "note": "In restaurants 麻烦 (máfan), \"sorry to trouble you\", often replaces 请: 麻烦给我看一下菜单."
+    },
+    "bill_please": {
+      "text": "服务员，买单！",
+      "roman": "Fúwùyuán, mǎidān!",
+      "note": "服务员 (fúwùyuán) calls the waiter. 结账 (jiézhàng) is just as common, especially in the north."
+    },
+    "delicious": {
+      "text": "真好吃！",
+      "roman": "Zhēn hǎochī!",
+      "note": "For drinks: 真好喝！ (zhēn hǎohē!)"
+    },
+    "no_meat": {
+      "text": "我不吃肉",
+      "roman": "Wǒ bù chī ròu",
+      "note": "Also 我吃素 (wǒ chī sù), \"I'm vegetarian\". 肉 on its own often means pork."
+    },
+    "enjoy_meal": {
+      "text": "请慢用！",
+      "roman": "Qǐng màn yòng!",
+      "note": "Said by a host or waiter. Among friends: 慢慢吃！ (mànmàn chī!), \"take your time and enjoy\"."
+    },
+    "left": {
+      "text": "左边",
+      "roman": "Zuǒbian",
+      "note": "Turn left: 左转 (zuǒ zhuǎn) or 往左拐 (wǎng zuǒ guǎi)."
+    },
+    "right": {
+      "text": "右边",
+      "roman": "Yòubian",
+      "note": "Turn right: 右转 (yòu zhuǎn) or 往右拐 (wǎng yòu guǎi)."
+    },
+    "straight_ahead": {
+      "text": "一直走",
+      "roman": "Yìzhí zǒu",
+      "note": "Also 往前走 (wǎng qián zǒu), \"go forward\"."
+    },
+    "stop_here": {
+      "text": "师傅，在这里停一下",
+      "roman": "Shīfu, zài zhèli tíng yíxià",
+      "note": "师傅 (shīfu), \"master\", is the usual way to address a driver. Northern: 在这儿 (zài zhèr)."
+    },
+    "airport": {
+      "text": "机场",
+      "roman": "Jīchǎng"
+    },
+    "hotel": {
+      "text": "酒店",
+      "roman": "Jiǔdiàn",
+      "note": "Also 宾馆 (bīnguǎn). 饭店 (fàndiàn) can be either a hotel or a restaurant."
+    },
+    "train_station": {
+      "text": "火车站",
+      "roman": "Huǒchēzhàn",
+      "note": "Big cities have several, e.g. 北京南站 (Běijīng Nánzhàn), Beijing South."
+    },
+    "want_to_go": {
+      "text": "我想去…",
+      "roman": "Wǒ xiǎng qù …",
+      "note": "我要去… (wǒ yào qù …) sounds more definite, e.g. to a taxi driver."
+    },
+    "is_it_far": {
+      "text": "离这里远吗？",
+      "roman": "Lí zhèli yuǎn ma?",
+      "note": "Also 远不远？ (yuǎn bu yuǎn?)"
+    },
+    "one_ticket": {
+      "text": "请给我一张票",
+      "roman": "Qǐng gěi wǒ yì zhāng piào",
+      "note": "张 (zhāng) is the measure word for flat things like tickets."
+    },
+    "too_expensive": {
+      "text": "太贵了",
+      "roman": "Tài guì le",
+      "note": "When bargaining, follow up with 能便宜点吗？ (néng piányi diǎn ma?)"
+    },
+    "cheaper": {
+      "text": "有便宜一点的吗？",
+      "roman": "Yǒu piányi yìdiǎn de ma?"
+    },
+    "id_like_this": {
+      "text": "我要这个",
+      "roman": "Wǒ yào zhège",
+      "note": "Softer: 我想要这个 (wǒ xiǎng yào zhège)."
+    },
+    "just_looking": {
+      "text": "我随便看看",
+      "roman": "Wǒ suíbiàn kànkan"
+    },
+    "pay_card": {
+      "text": "可以刷卡吗？",
+      "roman": "Kěyǐ shuākǎ ma?",
+      "note": "Most people pay by phone and ask 可以扫码吗？ (kěyǐ sǎomǎ ma?), \"can I scan the code?\""
+    },
+    "cash": {
+      "text": "现金",
+      "roman": "Xiànjīn"
+    },
+    "open": {
+      "text": "营业中",
+      "roman": "Yíngyè zhōng",
+      "note": "Literally \"doing business\". The plain word for open is 开 (kāi)."
+    },
+    "closed": {
+      "text": "休息中",
+      "roman": "Xiūxi zhōng",
+      "note": "Also 暂停营业 (zàntíng yíngyè), \"temporarily closed\". The plain word for closed is 关 (guān)."
+    },
+    "big": {
+      "text": "大",
+      "roman": "Dà",
+      "note": "Size large: 大号 (dàhào)."
+    },
+    "small": {
+      "text": "小",
+      "roman": "Xiǎo",
+      "note": "Size small: 小号 (xiǎohào)."
+    },
+    "today": {
+      "text": "今天",
+      "roman": "Jīntiān"
+    },
+    "tomorrow": {
+      "text": "明天",
+      "roman": "Míngtiān"
+    },
+    "yesterday": {
+      "text": "昨天",
+      "roman": "Zuótiān"
+    },
+    "now": {
+      "text": "现在",
+      "roman": "Xiànzài"
+    },
+    "later": {
+      "text": "待会儿",
+      "roman": "Dāihuìr",
+      "note": "Means \"in a little while\"; also 等会儿 (děnghuìr). Later on, in the future: 以后 (yǐhòu)."
+    },
+    "good_evening": {
+      "text": "晚上好",
+      "roman": "Wǎnshang hǎo",
+      "note": "Used less than in English; 你好 works at any time of day."
+    },
+    "good_night": {
+      "text": "晚安",
+      "roman": "Wǎn'ān",
+      "note": "Only before bed or when parting late at night, never as a greeting."
+    },
+    "see_you_later": {
+      "text": "回头见",
+      "roman": "Huítóu jiàn",
+      "note": "For later the same day: 待会儿见 (dāihuìr jiàn)."
+    },
+    "wait_moment": {
+      "text": "请稍等",
+      "roman": "Qǐng shāo děng",
+      "note": "Casual: 等一下 (děng yíxià)."
+    },
+    "every_day": {
+      "text": "每天",
+      "roman": "Měitiān"
+    },
+    "help": {
+      "text": "救命啊！",
+      "roman": "Jiùmìng a!"
+    },
+    "call_police": {
+      "text": "快报警！",
+      "roman": "Kuài bàojǐng!",
+      "note": "The police number in mainland China is 110."
+    },
+    "need_doctor": {
+      "text": "我需要看医生",
+      "roman": "Wǒ xūyào kàn yīshēng",
+      "note": "Ambulance: dial 120, or say 叫救护车 (jiào jiùhùchē), \"call an ambulance\"."
+    },
+    "im_lost": {
+      "text": "我迷路了",
+      "roman": "Wǒ mílù le"
+    },
+    "dont_feel_well": {
+      "text": "我不太舒服",
+      "roman": "Wǒ bú tài shūfu"
+    },
+    "pharmacy": {
+      "text": "药店",
+      "roman": "Yàodiàn",
+      "note": "Also called 药房 (yàofáng)."
+    },
+    "hospital": {
+      "text": "医院",
+      "roman": "Yīyuàn",
+      "note": "In an emergency, go to the 急诊 (jízhěn) department."
+    },
+    "lost_phone": {
+      "text": "我的手机丢了",
+      "roman": "Wǒ de shǒujī diū le"
+    },
+    "allergic": {
+      "text": "我对…过敏",
+      "roman": "Wǒ duì … guòmǐn",
+      "note": "E.g. 我对花生过敏 (wǒ duì huāshēng guòmǐn), \"I'm allergic to peanuts\"."
+    },
+    "be_careful": {
+      "text": "小心！",
+      "roman": "Xiǎoxīn!",
+      "note": "注意安全 (zhùyì ānquán), \"stay safe\", is a caring thing to say when parting."
+    },
+    "no_problem": {
+      "text": "没问题",
+      "roman": "Méi wèntí"
+    },
+    "of_course": {
+      "text": "当然",
+      "roman": "Dāngrán",
+      "note": "To a request: 当然可以 (dāngrán kěyǐ), \"of course you can\"."
+    },
+    "maybe": {
+      "text": "可能吧",
+      "roman": "Kěnéng ba",
+      "note": "Also 也许 (yěxǔ) or 说不定 (shuōbudìng)."
+    },
+    "dont_know": {
+      "text": "我不知道",
+      "roman": "Wǒ bù zhīdào",
+      "note": "Politer: 我不太清楚 (wǒ bú tài qīngchu), \"I'm not too sure\"."
+    },
+    "i_like_it": {
+      "text": "我很喜欢",
+      "roman": "Wǒ hěn xǐhuan"
+    },
+    "dont_like_it": {
+      "text": "我不喜欢",
+      "roman": "Wǒ bù xǐhuan"
+    },
+    "im_tired": {
+      "text": "我累了",
+      "roman": "Wǒ lèi le",
+      "note": "累 is tired from effort; sleepy is 困 (kùn): 我困了 (wǒ kùn le)."
+    },
+    "im_happy": {
+      "text": "我很开心",
+      "roman": "Wǒ hěn kāixīn",
+      "note": "Also 我很高兴 (wǒ hěn gāoxìng)."
+    },
+    "welcome": {
+      "text": "欢迎！",
+      "roman": "Huānyíng!",
+      "note": "Hosts often double it: 欢迎欢迎！ (huānyíng huānyíng!) Shops greet you with 欢迎光临 (huānyíng guānglín)."
+    },
+    "congratulations": {
+      "text": "恭喜！",
+      "roman": "Gōngxǐ!",
+      "note": "Also 祝贺你 (zhùhè nǐ). At Chinese New Year: 恭喜发财 (gōngxǐ fācái)."
+    }
+  }
+}

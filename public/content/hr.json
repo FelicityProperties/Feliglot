@@ -1,0 +1,388 @@
+{
+  "code": "hr",
+  "phrases": {
+    "hello": {
+      "text": "Dobar dan",
+      "note": "Literally 'good day', the polite greeting for most of the day. With friends: Bok! (also means bye)"
+    },
+    "goodbye": {
+      "text": "Doviđenja",
+      "note": "Casual: Bok! Also friendly: Pozdrav!"
+    },
+    "please": {
+      "text": "Molim",
+      "note": "Politer: Molim vas. Molim also answers a thank-you, and Molim? asks someone to repeat."
+    },
+    "thank_you": {
+      "text": "Hvala",
+      "note": "Warmer: Hvala lijepa or Hvala vam puno."
+    },
+    "youre_welcome": {
+      "text": "Nema na čemu",
+      "note": "Also very common: Molim."
+    },
+    "yes": {
+      "text": "Da"
+    },
+    "no": {
+      "text": "Ne",
+      "note": "Ne also makes verbs negative: ne znam (I don't know)."
+    },
+    "sorry": {
+      "text": "Ispričavam se",
+      "note": "Quick, e.g. bumping into someone: Oprostite! or Pardon! For real regret: Žao mi je."
+    },
+    "excuse_me": {
+      "text": "Oprostite",
+      "note": "Casual: Oprosti. Many people also say Pardon."
+    },
+    "good_morning": {
+      "text": "Dobro jutro",
+      "note": "Used until about 10 am; after that, Dobar dan."
+    },
+    "how_are_you": {
+      "text": "Kako ste?",
+      "note": "Casual: Kako si?"
+    },
+    "im_fine": {
+      "text": "Dobro sam, hvala",
+      "note": "To ask back: A vi? Casually: A ti?"
+    },
+    "whats_your_name": {
+      "text": "Kako se zovete?",
+      "note": "Casual: Kako se zoveš?"
+    },
+    "my_name_is": {
+      "text": "Zovem se …",
+      "note": "Also common: Ja sam … (I'm …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Drago mi je",
+      "note": "Often said while shaking hands, followed by your name."
+    },
+    "where_from": {
+      "text": "Odakle ste?",
+      "note": "Casual: Odakle si?"
+    },
+    "im_from": {
+      "text": "Ja sam iz …",
+      "note": "The country changes its ending after iz: iz Engleske, iz Njemačke, iz Kanade."
+    },
+    "speak_english": {
+      "text": "Govorite li engleski?",
+      "note": "Casual: Govoriš li engleski? Also heard: Pričate li engleski?"
+    },
+    "dont_understand": {
+      "text": "Ne razumijem",
+      "note": "To ask someone to repeat: Molim? or Možete li ponoviti?"
+    },
+    "speak_slowly": {
+      "text": "Molim vas, govorite sporije",
+      "note": "As a question: Možete li govoriti malo sporije?"
+    },
+    "where": {
+      "text": "Gdje?",
+      "note": "Where to? is kamo? and where from? is odakle?"
+    },
+    "what": {
+      "text": "Što?",
+      "note": "To ask someone to repeat, Molim? is more polite than Što?"
+    },
+    "when": {
+      "text": "Kada?",
+      "note": "Often shortened to kad?"
+    },
+    "why": {
+      "text": "Zašto?"
+    },
+    "who": {
+      "text": "Tko?",
+      "note": "Many Croatians say ko in casual speech; it is also the standard form in Serbian and Bosnian."
+    },
+    "how_much": {
+      "text": "Koliko ovo košta?",
+      "note": "Shorter: Koliko košta?"
+    },
+    "where_bathroom": {
+      "text": "Molim vas, gdje je toalet?",
+      "note": "WC (said 've-tse') is also very common. On doors: M = men, Ž = women."
+    },
+    "can_you_help": {
+      "text": "Možete li mi pomoći?",
+      "note": "Casual: Možeš li mi pomoći?"
+    },
+    "what_time": {
+      "text": "Koliko je sati?"
+    },
+    "what_means": {
+      "text": "Što ovo znači?",
+      "note": "About something just said: Što to znači?"
+    },
+    "one": {
+      "text": "Jedan",
+      "note": "Changes with the noun: jedan čaj, jedna kava, jedno pivo."
+    },
+    "two": {
+      "text": "Dva",
+      "note": "With feminine nouns: dvije (dvije kave)."
+    },
+    "three": {
+      "text": "Tri"
+    },
+    "four": {
+      "text": "Četiri",
+      "note": "č sounds like 'ch' in 'church'. Stress the first syllable: ČE-ti-ri."
+    },
+    "five": {
+      "text": "Pet",
+      "note": "From five up, nouns take a different ending: dvije kave but pet kava."
+    },
+    "six": {
+      "text": "Šest",
+      "note": "š sounds like 'sh' in 'shop'."
+    },
+    "seven": {
+      "text": "Sedam"
+    },
+    "eight": {
+      "text": "Osam"
+    },
+    "nine": {
+      "text": "Devet"
+    },
+    "ten": {
+      "text": "Deset",
+      "note": "Don't mix it up with devet (nine)."
+    },
+    "water": {
+      "text": "Voda",
+      "note": "Still: negazirana voda. Sparkling: gazirana voda."
+    },
+    "coffee": {
+      "text": "Kava",
+      "note": "In a café, kava usually means an espresso. With milk: bijela kava or kava s mlijekom."
+    },
+    "tea": {
+      "text": "Čaj",
+      "note": "Black tea: crni čaj. Chamomile: kamilica."
+    },
+    "bread": {
+      "text": "Kruh",
+      "note": "A bakery is a pekara or pekarnica."
+    },
+    "im_hungry": {
+      "text": "Gladan sam",
+      "note": "A woman says: Gladna sam."
+    },
+    "menu_please": {
+      "text": "Jelovnik, molim",
+      "note": "Also: Mogu li dobiti jelovnik? In cafés, the drinks price list is the cjenik."
+    },
+    "bill_please": {
+      "text": "Račun, molim",
+      "note": "Also very common: Možemo li platiti? (Can we pay?)"
+    },
+    "delicious": {
+      "text": "Jako je fino!",
+      "note": "Also common: Ukusno je! In a restaurant: Pohvale kuharu! (compliments to the chef)"
+    },
+    "no_meat": {
+      "text": "Ne jedem meso",
+      "note": "Also: Ja sam vegetarijanac (a woman: vegetarijanka)."
+    },
+    "enjoy_meal": {
+      "text": "Dobar tek!",
+      "note": "Usual reply: Hvala, također! (Thanks, you too)"
+    },
+    "left": {
+      "text": "Lijevo",
+      "note": "Turn left: skrenite lijevo."
+    },
+    "right": {
+      "text": "Desno",
+      "note": "Turn right: skrenite desno."
+    },
+    "straight_ahead": {
+      "text": "Ravno",
+      "note": "Also: Samo ravno! (just keep going straight)"
+    },
+    "stop_here": {
+      "text": "Stanite ovdje, molim vas",
+      "note": "Shorter: Tu, molim or Ovdje, molim."
+    },
+    "airport": {
+      "text": "Zračna luka",
+      "note": "In everyday speech: aerodrom."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same spelling as English; stress the first syllable: HO-tel."
+    },
+    "train_station": {
+      "text": "Željeznički kolodvor",
+      "note": "Usually just kolodvor. Bus station: autobusni kolodvor. ž sounds like the s in 'pleasure'."
+    },
+    "want_to_go": {
+      "text": "Želim ići u …",
+      "note": "Some places take na: na kolodvor. Softer: Htio bih ići u … (a woman: Htjela bih)"
+    },
+    "is_it_far": {
+      "text": "Je li daleko?",
+      "note": "Also: Je li to daleko odavde? (far from here)"
+    },
+    "one_ticket": {
+      "text": "Jednu kartu, molim",
+      "note": "A return ticket: povratna karta."
+    },
+    "too_expensive": {
+      "text": "Preskupo je"
+    },
+    "cheaper": {
+      "text": "Imate li nešto jeftinije?"
+    },
+    "id_like_this": {
+      "text": "Htio bih ovo, molim",
+      "note": "A woman says: Htjela bih ovo, molim. Also common: Uzet ću ovo (I'll take this)."
+    },
+    "just_looking": {
+      "text": "Samo gledam, hvala"
+    },
+    "pay_card": {
+      "text": "Mogu li platiti karticom?",
+      "note": "Also: Primate li kartice? (Do you take cards?)"
+    },
+    "cash": {
+      "text": "Gotovinom",
+      "note": "As in Platit ću gotovinom (I'll pay in cash). Cash itself: gotovina, casually keš."
+    },
+    "open": {
+      "text": "Otvoreno",
+      "note": "Opening hours on signs: radno vrijeme."
+    },
+    "closed": {
+      "text": "Zatvoreno"
+    },
+    "big": {
+      "text": "Veliki",
+      "note": "Changes with the noun: velika kava, veliko pivo."
+    },
+    "small": {
+      "text": "Mali",
+      "note": "Changes with the noun: mala kava, malo pivo. Malo alone also means 'a little'."
+    },
+    "today": {
+      "text": "Danas"
+    },
+    "tomorrow": {
+      "text": "Sutra",
+      "note": "Tomorrow morning: sutra ujutro."
+    },
+    "yesterday": {
+      "text": "Jučer"
+    },
+    "now": {
+      "text": "Sada",
+      "note": "Often shortened to sad. Right away: odmah."
+    },
+    "later": {
+      "text": "Kasnije",
+      "note": "Also common: poslije."
+    },
+    "good_evening": {
+      "text": "Dobra večer",
+      "note": "Večer is feminine in standard Croatian, hence dobra. In casual speech you'll often hear dobar večer."
+    },
+    "good_night": {
+      "text": "Laku noć",
+      "note": "Said when parting late at night or going to bed; as a greeting, use Dobra večer."
+    },
+    "see_you_later": {
+      "text": "Vidimo se",
+      "note": "More exact: Vidimo se kasnije. Tomorrow: Vidimo se sutra!"
+    },
+    "wait_moment": {
+      "text": "Samo trenutak, molim",
+      "note": "Also very common: Samo malo! Fuller: Pričekajte malo, molim vas."
+    },
+    "every_day": {
+      "text": "Svaki dan"
+    },
+    "help": {
+      "text": "Upomoć!",
+      "note": "Also: Pomoć!"
+    },
+    "call_police": {
+      "text": "Zovite policiju!",
+      "note": "In Croatia, dial 112 for any emergency or 192 for the police."
+    },
+    "need_doctor": {
+      "text": "Trebam liječnika",
+      "note": "In everyday speech: Trebam doktora. Ambulance: hitna pomoć."
+    },
+    "im_lost": {
+      "text": "Izgubio sam se",
+      "note": "A woman says: Izgubila sam se."
+    },
+    "dont_feel_well": {
+      "text": "Ne osjećam se dobro",
+      "note": "Also common: Nije mi dobro."
+    },
+    "pharmacy": {
+      "text": "Ljekarna",
+      "note": "Lj is one sound, like the 'lli' in 'million'. Look for the green cross."
+    },
+    "hospital": {
+      "text": "Bolnica",
+      "note": "Emergency department: hitni prijam, on signs often OHBP. People just say hitna."
+    },
+    "lost_phone": {
+      "text": "Izgubio sam mobitel",
+      "note": "A woman says: Izgubila sam mobitel."
+    },
+    "allergic": {
+      "text": "Alergičan sam na …",
+      "note": "A woman says: Alergična sam na …"
+    },
+    "be_careful": {
+      "text": "Pazite!",
+      "note": "To a friend: Pazi! Fuller: Budite oprezni!"
+    },
+    "no_problem": {
+      "text": "Nema problema"
+    },
+    "of_course": {
+      "text": "Naravno",
+      "note": "Also: Svakako (certainly). Agreeing to an offer: Može!"
+    },
+    "maybe": {
+      "text": "Možda"
+    },
+    "dont_know": {
+      "text": "Ne znam",
+      "note": "Casual: Nemam pojma (no idea)."
+    },
+    "i_like_it": {
+      "text": "Sviđa mi se",
+      "note": "Literally 'it pleases me'. About things you like in general: Volim to."
+    },
+    "dont_like_it": {
+      "text": "Ne sviđa mi se"
+    },
+    "im_tired": {
+      "text": "Umoran sam",
+      "note": "A woman says: Umorna sam."
+    },
+    "im_happy": {
+      "text": "Sretan sam",
+      "note": "A woman says: Sretna sam. Glad about something: Drago mi je."
+    },
+    "welcome": {
+      "text": "Dobro došli!",
+      "note": "Casually to one man: Dobro došao! To one woman: Dobro došla!"
+    },
+    "congratulations": {
+      "text": "Čestitam!",
+      "note": "On a birthday: Sretan rođendan!"
+    }
+  }
+}

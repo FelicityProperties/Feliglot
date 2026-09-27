@@ -1,0 +1,198 @@
+// The shared course. Every language teaches the same 100 phrases, keyed by a
+// concept id, so any language can be learned from any other: the learner
+// sees the phrase in the language they are learning and its meaning in the
+// language they already speak.
+//
+// `hint` disambiguates the English for translators and is never shown.
+
+export type Concept = { id: string; en: string; hint?: string };
+export type Unit = { slug: string; title: string; emoji: string; blurb: string; concepts: Concept[] };
+
+export const UNITS: Unit[] = [
+  {
+    slug: "first-words",
+    title: "First words",
+    emoji: "👋",
+    blurb: "The ten words you will use every single day.",
+    concepts: [
+      { id: "hello", en: "Hello" },
+      { id: "goodbye", en: "Goodbye" },
+      { id: "please", en: "Please" },
+      { id: "thank_you", en: "Thank you" },
+      { id: "youre_welcome", en: "You're welcome", hint: "reply to thank you" },
+      { id: "yes", en: "Yes" },
+      { id: "no", en: "No" },
+      { id: "sorry", en: "Sorry", hint: "apologising" },
+      { id: "excuse_me", en: "Excuse me", hint: "to get a stranger's attention politely" },
+      { id: "good_morning", en: "Good morning" },
+    ],
+  },
+  {
+    slug: "meeting-people",
+    title: "Meeting people",
+    emoji: "🤝",
+    blurb: "Introduce yourself and get past the first minute.",
+    concepts: [
+      { id: "how_are_you", en: "How are you?", hint: "polite, to someone you don't know well" },
+      { id: "im_fine", en: "I'm fine, thank you" },
+      { id: "whats_your_name", en: "What's your name?", hint: "polite" },
+      { id: "my_name_is", en: "My name is …", hint: "… is where the name goes" },
+      { id: "nice_to_meet_you", en: "Nice to meet you" },
+      { id: "where_from", en: "Where are you from?", hint: "polite" },
+      { id: "im_from", en: "I'm from …", hint: "… is where the country goes" },
+      { id: "speak_english", en: "Do you speak English?", hint: "polite" },
+      { id: "dont_understand", en: "I don't understand" },
+      { id: "speak_slowly", en: "Please speak more slowly", hint: "polite" },
+    ],
+  },
+  {
+    slug: "questions",
+    title: "Asking questions",
+    emoji: "❓",
+    blurb: "Where, what, how much — enough to get anything done.",
+    concepts: [
+      { id: "where", en: "Where?" },
+      { id: "what", en: "What?" },
+      { id: "when", en: "When?" },
+      { id: "why", en: "Why?" },
+      { id: "who", en: "Who?" },
+      { id: "how_much", en: "How much is this?", hint: "asking a price" },
+      { id: "where_bathroom", en: "Where is the bathroom?", hint: "toilet / restroom, polite" },
+      { id: "can_you_help", en: "Can you help me?", hint: "polite" },
+      { id: "what_time", en: "What time is it?" },
+      { id: "what_means", en: "What does this mean?" },
+    ],
+  },
+  {
+    slug: "numbers",
+    title: "Numbers 1–10",
+    emoji: "🔢",
+    blurb: "Count, pay and read prices.",
+    concepts: [
+      { id: "one", en: "One", hint: "the number 1" },
+      { id: "two", en: "Two", hint: "the number 2" },
+      { id: "three", en: "Three", hint: "the number 3" },
+      { id: "four", en: "Four", hint: "the number 4" },
+      { id: "five", en: "Five", hint: "the number 5" },
+      { id: "six", en: "Six", hint: "the number 6" },
+      { id: "seven", en: "Seven", hint: "the number 7" },
+      { id: "eight", en: "Eight", hint: "the number 8" },
+      { id: "nine", en: "Nine", hint: "the number 9" },
+      { id: "ten", en: "Ten", hint: "the number 10" },
+    ],
+  },
+  {
+    slug: "food-and-drink",
+    title: "Food & drink",
+    emoji: "🍽️",
+    blurb: "Order, eat and pay without pointing.",
+    concepts: [
+      { id: "water", en: "Water", hint: "drinking water" },
+      { id: "coffee", en: "Coffee" },
+      { id: "tea", en: "Tea" },
+      { id: "bread", en: "Bread" },
+      { id: "im_hungry", en: "I'm hungry" },
+      { id: "menu_please", en: "The menu, please" },
+      { id: "bill_please", en: "The bill, please", hint: "the check at a restaurant" },
+      { id: "delicious", en: "Delicious!" },
+      { id: "no_meat", en: "I don't eat meat" },
+      { id: "enjoy_meal", en: "Enjoy your meal!", hint: "said before eating, like bon appétit" },
+    ],
+  },
+  {
+    slug: "getting-around",
+    title: "Getting around",
+    emoji: "🚕",
+    blurb: "Taxis, trains and finding your way.",
+    concepts: [
+      { id: "left", en: "Left", hint: "direction" },
+      { id: "right", en: "Right", hint: "direction, not 'correct'" },
+      { id: "straight_ahead", en: "Straight ahead", hint: "direction" },
+      { id: "stop_here", en: "Stop here, please", hint: "to a taxi driver" },
+      { id: "airport", en: "Airport" },
+      { id: "hotel", en: "Hotel" },
+      { id: "train_station", en: "Train station" },
+      { id: "want_to_go", en: "I want to go to …", hint: "… is where the place goes" },
+      { id: "is_it_far", en: "Is it far?" },
+      { id: "one_ticket", en: "One ticket, please", hint: "for a train or bus" },
+    ],
+  },
+  {
+    slug: "shopping",
+    title: "Shopping",
+    emoji: "🛍️",
+    blurb: "Prices, paying and a little bargaining.",
+    concepts: [
+      { id: "too_expensive", en: "It's too expensive" },
+      { id: "cheaper", en: "Do you have anything cheaper?" },
+      { id: "id_like_this", en: "I'd like this, please" },
+      { id: "just_looking", en: "I'm just looking", hint: "to a shop assistant" },
+      { id: "pay_card", en: "Can I pay by card?" },
+      { id: "cash", en: "Cash", hint: "paying in cash" },
+      { id: "open", en: "Open", hint: "sign on a shop door" },
+      { id: "closed", en: "Closed", hint: "sign on a shop door" },
+      { id: "big", en: "Big", hint: "size" },
+      { id: "small", en: "Small", hint: "size" },
+    ],
+  },
+  {
+    slug: "time",
+    title: "Time & days",
+    emoji: "🕒",
+    blurb: "Today, tomorrow and see you later.",
+    concepts: [
+      { id: "today", en: "Today" },
+      { id: "tomorrow", en: "Tomorrow" },
+      { id: "yesterday", en: "Yesterday" },
+      { id: "now", en: "Now" },
+      { id: "later", en: "Later" },
+      { id: "good_evening", en: "Good evening", hint: "greeting" },
+      { id: "good_night", en: "Good night", hint: "said before going to sleep or leaving at night" },
+      { id: "see_you_later", en: "See you later" },
+      { id: "wait_moment", en: "Wait a moment, please" },
+      { id: "every_day", en: "Every day" },
+    ],
+  },
+  {
+    slug: "help",
+    title: "Help & health",
+    emoji: "🆘",
+    blurb: "The phrases you hope never to need.",
+    concepts: [
+      { id: "help", en: "Help!", hint: "emergency shout" },
+      { id: "call_police", en: "Call the police!" },
+      { id: "need_doctor", en: "I need a doctor" },
+      { id: "im_lost", en: "I'm lost", hint: "can't find my way" },
+      { id: "dont_feel_well", en: "I don't feel well" },
+      { id: "pharmacy", en: "Pharmacy" },
+      { id: "hospital", en: "Hospital" },
+      { id: "lost_phone", en: "I lost my phone" },
+      { id: "allergic", en: "I'm allergic to …", hint: "… is where the allergen goes" },
+      { id: "be_careful", en: "Be careful!" },
+    ],
+  },
+  {
+    slug: "everyday",
+    title: "Everyday phrases",
+    emoji: "💬",
+    blurb: "Small phrases that make you sound natural.",
+    concepts: [
+      { id: "no_problem", en: "No problem" },
+      { id: "of_course", en: "Of course" },
+      { id: "maybe", en: "Maybe" },
+      { id: "dont_know", en: "I don't know" },
+      { id: "i_like_it", en: "I like it" },
+      { id: "dont_like_it", en: "I don't like it" },
+      { id: "im_tired", en: "I'm tired" },
+      { id: "im_happy", en: "I'm happy" },
+      { id: "welcome", en: "Welcome!", hint: "greeting a guest who arrives" },
+      { id: "congratulations", en: "Congratulations!" },
+    ],
+  },
+];
+
+export const CONCEPTS: Concept[] = UNITS.flatMap((u) => u.concepts);
+
+export function getUnit(slug: string): Unit | undefined {
+  return UNITS.find((u) => u.slug === slug);
+}

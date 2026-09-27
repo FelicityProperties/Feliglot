@@ -1,0 +1,375 @@
+{
+  "code": "pl",
+  "phrases": {
+    "hello": {
+      "text": "Dzień dobry",
+      "note": "The polite greeting for most of the day. With friends: Cześć!"
+    },
+    "goodbye": {
+      "text": "Do widzenia",
+      "note": "Casual: Cześć! or Na razie!"
+    },
+    "please": {
+      "text": "Proszę",
+      "note": "Proszę also means 'here you are'. To ask for something: Poproszę … (I'd like …)."
+    },
+    "thank_you": {
+      "text": "Dziękuję",
+      "note": "Warmer: Dziękuję bardzo. Casual: Dzięki."
+    },
+    "youre_welcome": {
+      "text": "Nie ma za co",
+      "note": "Also very common: Proszę."
+    },
+    "yes": {
+      "text": "Tak"
+    },
+    "no": {
+      "text": "Nie",
+      "note": "Nie also makes verbs negative: nie wiem (I don't know)."
+    },
+    "sorry": {
+      "text": "Przepraszam",
+      "note": "Polish uses przepraszam for both 'sorry' and 'excuse me'."
+    },
+    "excuse_me": {
+      "text": "Przepraszam pana",
+      "note": "To a woman: Przepraszam panią. Plain Przepraszam works too."
+    },
+    "good_morning": {
+      "text": "Dzień dobry",
+      "note": "Same as hello: Polish has no separate morning greeting, Dzień dobry is used until evening."
+    },
+    "how_are_you": {
+      "text": "Jak się pan ma?",
+      "note": "To a woman: Jak się pani ma? Casual: Jak się masz? or Co słychać?"
+    },
+    "im_fine": {
+      "text": "Dobrze, dziękuję",
+      "note": "Also common: W porządku, dziękuję."
+    },
+    "whats_your_name": {
+      "text": "Jak się pan nazywa?",
+      "note": "To a woman: Jak się pani nazywa? Casual: Jak masz na imię?"
+    },
+    "my_name_is": {
+      "text": "Nazywam się …",
+      "note": "For just your first name: Mam na imię …"
+    },
+    "nice_to_meet_you": {
+      "text": "Miło mi pana poznać",
+      "note": "To a woman: Miło mi panią poznać. Short and very common: Miło mi."
+    },
+    "where_from": {
+      "text": "Skąd pan jest?",
+      "note": "To a woman: Skąd pani jest? Casual: Skąd jesteś?"
+    },
+    "im_from": {
+      "text": "Jestem z …",
+      "note": "The country changes form after z: z Anglii, z Kanady, z Niemiec."
+    },
+    "speak_english": {
+      "text": "Czy mówi pan po angielsku?",
+      "note": "To a woman: Czy mówi pani po angielsku?"
+    },
+    "dont_understand": {
+      "text": "Nie rozumiem"
+    },
+    "speak_slowly": {
+      "text": "Proszę mówić wolniej"
+    },
+    "where": {
+      "text": "Gdzie?"
+    },
+    "what": {
+      "text": "Co?",
+      "note": "If you didn't catch something, Słucham? or Proszę? is politer than Co?"
+    },
+    "when": {
+      "text": "Kiedy?"
+    },
+    "why": {
+      "text": "Dlaczego?",
+      "note": "Casual: Czemu?"
+    },
+    "who": {
+      "text": "Kto?"
+    },
+    "how_much": {
+      "text": "Ile to kosztuje?"
+    },
+    "where_bathroom": {
+      "text": "Przepraszam, gdzie jest toaleta?",
+      "note": "Toilet doors are often marked with a circle (women) and a triangle (men)."
+    },
+    "can_you_help": {
+      "text": "Czy może mi pan pomóc?",
+      "note": "To a woman: Czy może mi pani pomóc?"
+    },
+    "what_time": {
+      "text": "Która jest godzina?",
+      "note": "Also common: Która godzina?"
+    },
+    "what_means": {
+      "text": "Co to znaczy?"
+    },
+    "one": {
+      "text": "Jeden",
+      "note": "With feminine nouns: jedna; with neuter nouns: jedno."
+    },
+    "two": {
+      "text": "Dwa",
+      "note": "With feminine nouns: dwie (dwie kawy)."
+    },
+    "three": {
+      "text": "Trzy",
+      "note": "Roughly 'tshih' (i as in 'bit'): after t, rz sounds like sh."
+    },
+    "four": {
+      "text": "Cztery"
+    },
+    "five": {
+      "text": "Pięć",
+      "note": "Roughly 'pyench'."
+    },
+    "six": {
+      "text": "Sześć",
+      "note": "Roughly 'sheshch'."
+    },
+    "seven": {
+      "text": "Siedem"
+    },
+    "eight": {
+      "text": "Osiem"
+    },
+    "nine": {
+      "text": "Dziewięć"
+    },
+    "ten": {
+      "text": "Dziesięć"
+    },
+    "water": {
+      "text": "Woda",
+      "note": "Still: woda niegazowana; sparkling: woda gazowana."
+    },
+    "coffee": {
+      "text": "Kawa",
+      "note": "With milk: kawa z mlekiem; black: czarna kawa."
+    },
+    "tea": {
+      "text": "Herbata"
+    },
+    "bread": {
+      "text": "Chleb",
+      "note": "A bread roll: bułka."
+    },
+    "im_hungry": {
+      "text": "Jestem głodny",
+      "note": "A woman says: Jestem głodna."
+    },
+    "menu_please": {
+      "text": "Poproszę menu",
+      "note": "Also common: Poproszę kartę."
+    },
+    "bill_please": {
+      "text": "Poproszę rachunek",
+      "note": "Also: Czy mogę prosić o rachunek?"
+    },
+    "delicious": {
+      "text": "Pyszne!",
+      "note": "Also: Bardzo smaczne!"
+    },
+    "no_meat": {
+      "text": "Nie jem mięsa"
+    },
+    "enjoy_meal": {
+      "text": "Smacznego!",
+      "note": "The usual reply: Dziękuję, nawzajem! (thanks, you too)."
+    },
+    "left": {
+      "text": "W lewo",
+      "note": "On the left (location): po lewej."
+    },
+    "right": {
+      "text": "W prawo",
+      "note": "On the right (location): po prawej."
+    },
+    "straight_ahead": {
+      "text": "Prosto"
+    },
+    "stop_here": {
+      "text": "Proszę się tu zatrzymać",
+      "note": "Also common: Proszę tutaj stanąć."
+    },
+    "airport": {
+      "text": "Lotnisko"
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same word as in English, but stressed on the first syllable: HO-tel."
+    },
+    "train_station": {
+      "text": "Dworzec kolejowy",
+      "note": "Usually just dworzec. Bus station: dworzec autobusowy."
+    },
+    "want_to_go": {
+      "text": "Chcę jechać do …",
+      "note": "Politer: Chciałbym pojechać do … (a woman: Chciałabym). The place changes form: do Krakowa."
+    },
+    "is_it_far": {
+      "text": "Czy to daleko?"
+    },
+    "one_ticket": {
+      "text": "Poproszę jeden bilet",
+      "note": "Full fare: bilet normalny; discounted (students, seniors): bilet ulgowy."
+    },
+    "too_expensive": {
+      "text": "To jest za drogie",
+      "note": "Shorter: Za drogo!"
+    },
+    "cheaper": {
+      "text": "Czy ma pan coś tańszego?",
+      "note": "To a woman: Czy ma pani coś tańszego? Or simply: Czy jest coś tańszego?"
+    },
+    "id_like_this": {
+      "text": "Poproszę to",
+      "note": "Also common: Wezmę to (I'll take it)."
+    },
+    "just_looking": {
+      "text": "Dziękuję, tylko się rozglądam",
+      "note": "Also common: Dziękuję, tylko oglądam."
+    },
+    "pay_card": {
+      "text": "Czy mogę zapłacić kartą?"
+    },
+    "cash": {
+      "text": "Gotówką",
+      "note": "The answer to 'Kartą czy gotówką?' (card or cash?). The noun itself is gotówka."
+    },
+    "open": {
+      "text": "Otwarte"
+    },
+    "closed": {
+      "text": "Zamknięte"
+    },
+    "big": {
+      "text": "Duży",
+      "note": "With feminine nouns: duża; with neuter nouns: duże."
+    },
+    "small": {
+      "text": "Mały",
+      "note": "With feminine nouns: mała; with neuter nouns: małe."
+    },
+    "today": {
+      "text": "Dzisiaj",
+      "note": "Also: dziś."
+    },
+    "tomorrow": {
+      "text": "Jutro"
+    },
+    "yesterday": {
+      "text": "Wczoraj"
+    },
+    "now": {
+      "text": "Teraz"
+    },
+    "later": {
+      "text": "Później",
+      "note": "Also common: potem."
+    },
+    "good_evening": {
+      "text": "Dobry wieczór",
+      "note": "Only a greeting. When leaving, say Do widzenia or Dobranoc."
+    },
+    "good_night": {
+      "text": "Dobranoc"
+    },
+    "see_you_later": {
+      "text": "Do zobaczenia",
+      "note": "Casual: Na razie! or Do później!"
+    },
+    "wait_moment": {
+      "text": "Proszę chwilę poczekać",
+      "note": "Short and common: Chwileczkę!"
+    },
+    "every_day": {
+      "text": "Codziennie",
+      "note": "Also: każdego dnia."
+    },
+    "help": {
+      "text": "Pomocy!"
+    },
+    "call_police": {
+      "text": "Proszę wezwać policję!",
+      "note": "Emergency number: 112 (the police number 997 also works)."
+    },
+    "need_doctor": {
+      "text": "Potrzebuję lekarza",
+      "note": "Ambulance: 999, or 112 for any emergency."
+    },
+    "im_lost": {
+      "text": "Zgubiłem się",
+      "note": "A woman says: Zgubiłam się."
+    },
+    "dont_feel_well": {
+      "text": "Źle się czuję"
+    },
+    "pharmacy": {
+      "text": "Apteka"
+    },
+    "hospital": {
+      "text": "Szpital"
+    },
+    "lost_phone": {
+      "text": "Zgubiłem telefon",
+      "note": "A woman says: Zgubiłam telefon."
+    },
+    "allergic": {
+      "text": "Mam alergię na …",
+      "note": "Also: Jestem uczulony na … (a woman: uczulona)."
+    },
+    "be_careful": {
+      "text": "Ostrożnie!",
+      "note": "To a friend: Uważaj! Shouted warnings and signs: Uwaga!"
+    },
+    "no_problem": {
+      "text": "Nie ma problemu",
+      "note": "Also: Żaden problem."
+    },
+    "of_course": {
+      "text": "Oczywiście",
+      "note": "Casual: Jasne!"
+    },
+    "maybe": {
+      "text": "Może",
+      "note": "Also: Być może."
+    },
+    "dont_know": {
+      "text": "Nie wiem"
+    },
+    "i_like_it": {
+      "text": "Podoba mi się",
+      "note": "For food and drink: Smakuje mi."
+    },
+    "dont_like_it": {
+      "text": "Nie podoba mi się",
+      "note": "For food and drink: Nie smakuje mi."
+    },
+    "im_tired": {
+      "text": "Jestem zmęczony",
+      "note": "A woman says: Jestem zmęczona."
+    },
+    "im_happy": {
+      "text": "Jestem szczęśliwy",
+      "note": "A woman says: Jestem szczęśliwa. For everyday 'I'm glad': Cieszę się."
+    },
+    "welcome": {
+      "text": "Witamy!",
+      "note": "A single host often says: Witam! or Zapraszam! (come on in)."
+    },
+    "congratulations": {
+      "text": "Gratulacje!",
+      "note": "For birthdays and holidays: Wszystkiego najlepszego!"
+    }
+  }
+}

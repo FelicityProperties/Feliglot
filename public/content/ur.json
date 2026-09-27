@@ -1,0 +1,483 @@
+{
+  "code": "ur",
+  "phrases": {
+    "hello": {
+      "text": "السلام علیکم",
+      "roman": "Assalam-o-alaikum",
+      "note": "Reply: wa alaikum assalam (وعلیکم السلام). Casual: salam."
+    },
+    "goodbye": {
+      "text": "خدا حافظ",
+      "roman": "Khuda hafiz",
+      "note": "Also very common: Allah hafiz (اللہ حافظ)."
+    },
+    "please": {
+      "text": "براہِ مہربانی",
+      "roman": "Barah-e-meharbani",
+      "note": "A little formal. In speech: meharbani kar ke (مہربانی کر کے), or simply 'please'."
+    },
+    "thank_you": {
+      "text": "شکریہ",
+      "roman": "Shukriya",
+      "note": "Thank you very much: bohat shukriya (بہت شکریہ)."
+    },
+    "youre_welcome": {
+      "text": "کوئی بات نہیں",
+      "roman": "Koi baat nahin",
+      "note": "Literally 'it's nothing'. The usual reply to thanks."
+    },
+    "yes": {
+      "text": "جی ہاں",
+      "roman": "Ji haan",
+      "note": "Casual: haan (ہاں). A soft ji (جی) on its own is also a polite yes."
+    },
+    "no": {
+      "text": "جی نہیں",
+      "roman": "Ji nahin",
+      "note": "Casual: nahin (نہیں)."
+    },
+    "sorry": {
+      "text": "معاف کیجیے",
+      "roman": "Maaf kijiye",
+      "note": "Also common: maazrat (معذرت), or simply the English 'sorry'."
+    },
+    "excuse_me": {
+      "text": "ذرا سنیے",
+      "roman": "Zara suniye",
+      "note": "Literally 'please listen'. The usual way to get a stranger's attention."
+    },
+    "good_morning": {
+      "text": "صبح بخیر",
+      "roman": "Subah bakhair",
+      "note": "Many people simply say assalam-o-alaikum at any time of day."
+    },
+    "how_are_you": {
+      "text": "آپ کیسے ہیں؟",
+      "roman": "Aap kaise hain?",
+      "note": "To a woman: aap kaisi hain? (آپ کیسی ہیں؟). Either gender: aap ka kya haal hai?"
+    },
+    "im_fine": {
+      "text": "میں ٹھیک ہوں، شکریہ",
+      "roman": "Main theek hoon, shukriya",
+      "note": "Very common reply: Alhamdulillah, theek hoon (الحمدللہ، ٹھیک ہوں)."
+    },
+    "whats_your_name": {
+      "text": "آپ کا نام کیا ہے؟",
+      "roman": "Aap ka naam kya hai?",
+      "note": "Extra polite: aap ka ism-e-shareef? (آپ کا اسمِ شریف؟)"
+    },
+    "my_name_is": {
+      "text": "میرا نام … ہے",
+      "roman": "Mera naam … hai"
+    },
+    "nice_to_meet_you": {
+      "text": "آپ سے مل کر خوشی ہوئی",
+      "roman": "Aap se mil kar khushi hui",
+      "note": "Same for men and women: hui agrees with khushi (joy), not with the speaker."
+    },
+    "where_from": {
+      "text": "آپ کہاں سے ہیں؟",
+      "roman": "Aap kahan se hain?"
+    },
+    "im_from": {
+      "text": "میں … سے ہوں",
+      "roman": "Main … se hoon"
+    },
+    "speak_english": {
+      "text": "کیا آپ انگریزی بولتے ہیں؟",
+      "roman": "Kya aap angrezi bolte hain?",
+      "note": "To a woman: kya aap angrezi bolti hain? (کیا آپ انگریزی بولتی ہیں؟)"
+    },
+    "dont_understand": {
+      "text": "میں سمجھا نہیں",
+      "roman": "Main samjha nahin",
+      "note": "A woman says: main samjhi nahin (میں سمجھی نہیں)."
+    },
+    "speak_slowly": {
+      "text": "براہِ مہربانی ذرا آہستہ بولیے",
+      "roman": "Barah-e-meharbani zara aahista boliye",
+      "note": "In everyday speech often just: zara aahista boliye."
+    },
+    "where": {
+      "text": "کہاں؟",
+      "roman": "Kahan?"
+    },
+    "what": {
+      "text": "کیا؟",
+      "roman": "Kya?",
+      "note": "Didn't catch what someone said? A polite ji? (جی؟) is softer."
+    },
+    "when": {
+      "text": "کب؟",
+      "roman": "Kab?"
+    },
+    "why": {
+      "text": "کیوں؟",
+      "roman": "Kyun?"
+    },
+    "who": {
+      "text": "کون؟",
+      "roman": "Kaun?"
+    },
+    "how_much": {
+      "text": "یہ کتنے کا ہے؟",
+      "roman": "Yeh kitne ka hai?",
+      "note": "For a feminine item (e.g. kitaab, book): yeh kitne ki hai? (یہ کتنے کی ہے؟)"
+    },
+    "where_bathroom": {
+      "text": "واش روم کہاں ہے؟",
+      "roman": "Washroom kahan hai?",
+      "note": "Washroom is the usual polite word in Pakistan; bathroom and toilet are understood too."
+    },
+    "can_you_help": {
+      "text": "کیا آپ میری مدد کر سکتے ہیں؟",
+      "roman": "Kya aap meri madad kar sakte hain?",
+      "note": "To a woman: kya aap meri madad kar sakti hain? (کیا آپ میری مدد کر سکتی ہیں؟)"
+    },
+    "what_time": {
+      "text": "کیا وقت ہوا ہے؟",
+      "roman": "Kya waqt hua hai?",
+      "note": "Also very common: kitne baje hain? (کتنے بجے ہیں؟)"
+    },
+    "what_means": {
+      "text": "اس کا کیا مطلب ہے؟",
+      "roman": "Is ka kya matlab hai?"
+    },
+    "one": {
+      "text": "ایک",
+      "roman": "Ek",
+      "note": "Urdu digit: ۱"
+    },
+    "two": {
+      "text": "دو",
+      "roman": "Do",
+      "note": "Urdu digit: ۲"
+    },
+    "three": {
+      "text": "تین",
+      "roman": "Teen",
+      "note": "Urdu digit: ۳"
+    },
+    "four": {
+      "text": "چار",
+      "roman": "Chaar",
+      "note": "Urdu digit: ۴"
+    },
+    "five": {
+      "text": "پانچ",
+      "roman": "Paanch",
+      "note": "The n only nasalises the vowel. Urdu digit: ۵"
+    },
+    "six": {
+      "text": "چھ",
+      "roman": "Chhe",
+      "note": "Urdu digit: ۶"
+    },
+    "seven": {
+      "text": "سات",
+      "roman": "Saat",
+      "note": "Urdu digit: ۷"
+    },
+    "eight": {
+      "text": "آٹھ",
+      "roman": "Aath",
+      "note": "The th is a hard t with a puff of air, not English th. Urdu digit: ۸"
+    },
+    "nine": {
+      "text": "نو",
+      "roman": "Nau",
+      "note": "Said like British 'gnaw', not English 'now'. Urdu digit: ۹"
+    },
+    "ten": {
+      "text": "دس",
+      "roman": "Das",
+      "note": "Urdu digits: ۱۰"
+    },
+    "water": {
+      "text": "پانی",
+      "roman": "Paani"
+    },
+    "coffee": {
+      "text": "کافی",
+      "roman": "Kaafi",
+      "note": "Same word as kaafi, 'enough'; context makes it clear."
+    },
+    "tea": {
+      "text": "چائے",
+      "roman": "Chaye",
+      "note": "By default this means strong milky tea. Green tea: sabz chaye (سبز چائے)."
+    },
+    "bread": {
+      "text": "روٹی",
+      "roman": "Roti",
+      "note": "Roti is the everyday flatbread. Sliced loaf bread: dabal roti (ڈبل روٹی)."
+    },
+    "im_hungry": {
+      "text": "مجھے بھوک لگی ہے",
+      "roman": "Mujhe bhook lagi hai"
+    },
+    "menu_please": {
+      "text": "مینو دے دیجیے",
+      "roman": "Menu de dijiye",
+      "note": "De dijiye is a polite 'please give'."
+    },
+    "bill_please": {
+      "text": "بل لے آئیے",
+      "roman": "Bill le aaiye",
+      "note": "Literally 'please bring the bill'. Also: bill de dijiye."
+    },
+    "delicious": {
+      "text": "بہت مزیدار ہے!",
+      "roman": "Bohat mazedaar hai!",
+      "note": "A bit more refined: bohat lazeez hai (بہت لذیذ ہے)."
+    },
+    "no_meat": {
+      "text": "میں گوشت نہیں کھاتا",
+      "roman": "Main gosht nahin khaata",
+      "note": "A woman says: main gosht nahin khaati (میں گوشت نہیں کھاتی)."
+    },
+    "enjoy_meal": {
+      "text": "بسم اللہ کیجیے",
+      "roman": "Bismillah kijiye",
+      "note": "There is no exact 'bon appétit'; hosts invite guests to begin with this. Formal: khana nosh farmaiye."
+    },
+    "left": {
+      "text": "بائیں",
+      "roman": "Baayen",
+      "note": "In directions also: ulte haath (الٹے ہاتھ), 'on the left hand'."
+    },
+    "right": {
+      "text": "دائیں",
+      "roman": "Daayen",
+      "note": "In directions also: seedhe haath (سیدھے ہاتھ), 'on the right hand'. Seedha alone means straight."
+    },
+    "straight_ahead": {
+      "text": "سیدھا آگے",
+      "roman": "Seedha aage",
+      "note": "Go straight ahead: seedhe chale jaaiye (سیدھے چلے جائیے)."
+    },
+    "stop_here": {
+      "text": "یہاں روک دیجیے",
+      "roman": "Yahan rok dijiye",
+      "note": "Drivers are often addressed as bhai (brother): bhai, yahan rok dein."
+    },
+    "airport": {
+      "text": "ایئرپورٹ",
+      "roman": "Airport",
+      "note": "The everyday word. Formal and on some signs: hawai adda (ہوائی اڈہ)."
+    },
+    "hotel": {
+      "text": "ہوٹل",
+      "roman": "Hotel",
+      "note": "In Pakistan hotel can also mean a small roadside eatery."
+    },
+    "train_station": {
+      "text": "ریلوے اسٹیشن",
+      "roman": "Railway station",
+      "note": "Often just: station (اسٹیشن)."
+    },
+    "want_to_go": {
+      "text": "مجھے … جانا ہے",
+      "roman": "Mujhe … jaana hai",
+      "note": "Same for men and women. Also: main … jaana chahta hoon (a woman: chahti hoon)."
+    },
+    "is_it_far": {
+      "text": "کیا یہاں سے دور ہے؟",
+      "roman": "Kya yahan se door hai?",
+      "note": "How far is it? kitni door hai? (کتنی دور ہے؟)"
+    },
+    "one_ticket": {
+      "text": "ایک ٹکٹ دے دیجیے",
+      "roman": "Ek ticket de dijiye"
+    },
+    "too_expensive": {
+      "text": "یہ بہت مہنگا ہے",
+      "roman": "Yeh bohat mehnga hai",
+      "note": "For a feminine item: yeh bohat mehngi hai (یہ بہت مہنگی ہے)."
+    },
+    "cheaper": {
+      "text": "کیا اس سے سستا کچھ ہے؟",
+      "roman": "Kya is se sasta kuch hai?",
+      "note": "In shops people also say: kuch sasta dikhaiye (کچھ سستا دکھائیے), 'show me something cheaper'."
+    },
+    "id_like_this": {
+      "text": "مجھے یہ چاہیے",
+      "roman": "Mujhe yeh chahiye",
+      "note": "Politer, pointing at it: yeh de dijiye (یہ دے دیجیے), 'please give me this'."
+    },
+    "just_looking": {
+      "text": "میں بس دیکھ رہا ہوں",
+      "roman": "Main bas dekh raha hoon",
+      "note": "A woman says: main bas dekh rahi hoon (میں بس دیکھ رہی ہوں)."
+    },
+    "pay_card": {
+      "text": "کیا کارڈ سے ادائیگی ہو سکتی ہے؟",
+      "roman": "Kya card se adaigi ho sakti hai?",
+      "note": "Very common in shops: card chalega? (کارڈ چلے گا؟)"
+    },
+    "cash": {
+      "text": "نقد",
+      "roman": "Naqd",
+      "note": "In shops people mostly say cash (کیش)."
+    },
+    "open": {
+      "text": "کھلا ہے",
+      "roman": "Khula hai",
+      "note": "Most shop signs in Pakistan are in English; this is how you say it."
+    },
+    "closed": {
+      "text": "بند ہے",
+      "roman": "Band hai"
+    },
+    "big": {
+      "text": "بڑا",
+      "roman": "Bara",
+      "note": "With feminine nouns: bari (بڑی). The r is a flapped retroflex sound."
+    },
+    "small": {
+      "text": "چھوٹا",
+      "roman": "Chhota",
+      "note": "With feminine nouns: chhoti (چھوٹی)."
+    },
+    "today": {
+      "text": "آج",
+      "roman": "Aaj"
+    },
+    "tomorrow": {
+      "text": "کل",
+      "roman": "Kal",
+      "note": "Same word as 'yesterday'; the future tense of the verb tells you which."
+    },
+    "yesterday": {
+      "text": "کل",
+      "roman": "Kal",
+      "note": "Same word as 'tomorrow'; the past tense of the verb tells you which."
+    },
+    "now": {
+      "text": "ابھی",
+      "roman": "Abhi",
+      "note": "Right now. Ab (اب) is 'now' as in 'from now on'."
+    },
+    "later": {
+      "text": "بعد میں",
+      "roman": "Baad mein"
+    },
+    "good_evening": {
+      "text": "شام بخیر",
+      "roman": "Shaam bakhair",
+      "note": "Understood but not often said; most people greet with assalam-o-alaikum."
+    },
+    "good_night": {
+      "text": "شب بخیر",
+      "roman": "Shab bakhair",
+      "note": "Said at bedtime. When leaving at night, people usually say Allah hafiz."
+    },
+    "see_you_later": {
+      "text": "پھر ملیں گے",
+      "roman": "Phir milein ge",
+      "note": "Usually followed by Allah hafiz or khuda hafiz."
+    },
+    "wait_moment": {
+      "text": "ایک منٹ رکیے",
+      "roman": "Ek minute rukiye",
+      "note": "Also: zara thehriye (ذرا ٹھہریے)."
+    },
+    "every_day": {
+      "text": "ہر روز",
+      "roman": "Har roz",
+      "note": "Also: rozana (روزانہ)."
+    },
+    "help": {
+      "text": "بچاؤ!",
+      "roman": "Bachao!",
+      "note": "Literally 'save me!'. For non-urgent help: madad kijiye (مدد کیجیے)."
+    },
+    "call_police": {
+      "text": "پولیس کو بلائیے!",
+      "roman": "Police ko bulaiye!",
+      "note": "In a real emergency people shout: police ko bulao! Police emergency number in Pakistan: 15."
+    },
+    "need_doctor": {
+      "text": "مجھے ڈاکٹر کی ضرورت ہے",
+      "roman": "Mujhe doctor ki zaroorat hai"
+    },
+    "im_lost": {
+      "text": "میں راستہ بھول گیا ہوں",
+      "roman": "Main raasta bhool gaya hoon",
+      "note": "A woman says: main raasta bhool gayi hoon (میں راستہ بھول گئی ہوں)."
+    },
+    "dont_feel_well": {
+      "text": "میری طبیعت ٹھیک نہیں ہے",
+      "roman": "Meri tabiyat theek nahin hai"
+    },
+    "pharmacy": {
+      "text": "میڈیکل اسٹور",
+      "roman": "Medical store",
+      "note": "The everyday word in Pakistan. Also: pharmacy (فارمیسی)."
+    },
+    "hospital": {
+      "text": "ہسپتال",
+      "roman": "Haspataal"
+    },
+    "lost_phone": {
+      "text": "میرا فون گم ہو گیا ہے",
+      "roman": "Mera phone gum ho gaya hai"
+    },
+    "allergic": {
+      "text": "مجھے … سے الرجی ہے",
+      "roman": "Mujhe … se allergy hai"
+    },
+    "be_careful": {
+      "text": "دھیان سے!",
+      "roman": "Dhyan se!",
+      "note": "Also: ehtiyaat kijiye (احتیاط کیجیے). 'Take care' when parting: apna khayal rakhiye."
+    },
+    "no_problem": {
+      "text": "کوئی مسئلہ نہیں",
+      "roman": "Koi masla nahin",
+      "note": "Also very common: koi baat nahin (کوئی بات نہیں)."
+    },
+    "of_course": {
+      "text": "ضرور",
+      "roman": "Zaroor",
+      "note": "Politely: ji zaroor (جی ضرور). Also: bilkul (بالکل), 'absolutely'."
+    },
+    "maybe": {
+      "text": "شاید",
+      "roman": "Shayad"
+    },
+    "dont_know": {
+      "text": "مجھے نہیں معلوم",
+      "roman": "Mujhe nahin maloom",
+      "note": "Casual: pata nahin (پتا نہیں)."
+    },
+    "i_like_it": {
+      "text": "مجھے یہ پسند ہے",
+      "roman": "Mujhe yeh pasand hai"
+    },
+    "dont_like_it": {
+      "text": "مجھے یہ پسند نہیں",
+      "roman": "Mujhe yeh pasand nahin"
+    },
+    "im_tired": {
+      "text": "میں تھک گیا ہوں",
+      "roman": "Main thak gaya hoon",
+      "note": "A woman says: main thak gayi hoon (میں تھک گئی ہوں)."
+    },
+    "im_happy": {
+      "text": "میں خوش ہوں",
+      "roman": "Main khush hoon",
+      "note": "Same for men and women."
+    },
+    "welcome": {
+      "text": "خوش آمدید!",
+      "roman": "Khush aamdeed!",
+      "note": "At home, hosts often say: aaiye, tashreef laiye (آئیے، تشریف لائیے)."
+    },
+    "congratulations": {
+      "text": "مبارک ہو!",
+      "roman": "Mubarak ho!",
+      "note": "Formal or written: mubarakbaad (مبارکباد)."
+    }
+  }
+}

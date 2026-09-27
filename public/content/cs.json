@@ -1,0 +1,381 @@
+{
+  "code": "cs",
+  "phrases": {
+    "hello": {
+      "text": "Dobrý den",
+      "note": "Used all day, from morning to evening. Casual: Ahoj or Čau (these also mean bye)."
+    },
+    "goodbye": {
+      "text": "Na shledanou",
+      "note": "Casual: Ahoj or Čau. In shops you often hear the short Nashle."
+    },
+    "please": {
+      "text": "Prosím",
+      "note": "Prosím also answers a thank-you and, as Prosím?, asks someone to repeat."
+    },
+    "thank_you": {
+      "text": "Děkuji",
+      "note": "Everyday speech: Děkuju. Warmer: Děkuji moc. Casual: Díky."
+    },
+    "youre_welcome": {
+      "text": "Není zač",
+      "note": "Also very common: Prosím, or Rádo se stalo (glad to help)."
+    },
+    "yes": {
+      "text": "Ano",
+      "note": "Very common in speech: Jo."
+    },
+    "no": {
+      "text": "Ne",
+      "note": "Careful: the Czech word no is a casual 'yeah' or 'well', not 'no'."
+    },
+    "sorry": {
+      "text": "Promiňte",
+      "note": "To a friend: Promiň. A fuller apology: Omlouvám se."
+    },
+    "excuse_me": {
+      "text": "Prosím vás",
+      "note": "Also common: Promiňte. Followed by your question: Prosím vás, kde je nádraží?"
+    },
+    "good_morning": {
+      "text": "Dobré ráno",
+      "note": "Only early in the morning (until about 9 a.m.); after that people say Dobrý den."
+    },
+    "how_are_you": {
+      "text": "Jak se máte?",
+      "note": "To a friend: Jak se máš?"
+    },
+    "im_fine": {
+      "text": "Mám se dobře, děkuji",
+      "note": "Shorter and very common: Dobře, děkuju. Then ask back: A vy?"
+    },
+    "whats_your_name": {
+      "text": "Jak se jmenujete?",
+      "note": "To a child or friend: Jak se jmenuješ?"
+    },
+    "my_name_is": {
+      "text": "Jmenuji se …",
+      "note": "In everyday speech often Jmenuju se … Also common: Já jsem … (I am …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Těší mě",
+      "note": "Also polite: Rád vás poznávám (a woman says: Ráda vás poznávám)."
+    },
+    "where_from": {
+      "text": "Odkud jste?",
+      "note": "To a friend: Odkud jsi?"
+    },
+    "im_from": {
+      "text": "Jsem z …",
+      "note": "The country takes an ending: z Anglie, z Německa, ze Španělska."
+    },
+    "speak_english": {
+      "text": "Mluvíte anglicky?",
+      "note": "To a friend: Mluvíš anglicky?"
+    },
+    "dont_understand": {
+      "text": "Nerozumím",
+      "note": "Often softened: Promiňte, nerozumím."
+    },
+    "speak_slowly": {
+      "text": "Mluvte prosím pomaleji",
+      "note": "Also polite: Můžete mluvit pomaleji?"
+    },
+    "where": {
+      "text": "Kde?",
+      "note": "Where to is Kam?, as in Kam jdete? (Where are you going?)"
+    },
+    "what": {
+      "text": "Co?",
+      "note": "To ask someone to repeat, Prosím? is more polite than Co?"
+    },
+    "when": {
+      "text": "Kdy?"
+    },
+    "why": {
+      "text": "Proč?"
+    },
+    "who": {
+      "text": "Kdo?"
+    },
+    "how_much": {
+      "text": "Kolik to stojí?"
+    },
+    "where_bathroom": {
+      "text": "Kde jsou toalety?",
+      "note": "Signs say WC (read vé cé); Muži or Páni = men, Ženy or Dámy = women. Casual: záchod."
+    },
+    "can_you_help": {
+      "text": "Můžete mi pomoct?",
+      "note": "More formal: Můžete mi pomoci? (pomoci is the bookish form of pomoct, not just a spelling)."
+    },
+    "what_time": {
+      "text": "Kolik je hodin?"
+    },
+    "what_means": {
+      "text": "Co to znamená?"
+    },
+    "one": {
+      "text": "Jedna",
+      "note": "Counting: jedna. Before a noun it agrees: jeden čaj, jedna káva, jedno pivo."
+    },
+    "two": {
+      "text": "Dva",
+      "note": "Dva for masculine nouns, dvě for feminine and neuter: dvě kávy, dvě piva."
+    },
+    "three": {
+      "text": "Tři",
+      "note": "The ř is uniquely Czech: a rolled r and ž at once. After t, as in tři, it is voiceless, closer to r + š."
+    },
+    "four": {
+      "text": "Čtyři"
+    },
+    "five": {
+      "text": "Pět",
+      "note": "From five on, the noun goes into the genitive plural: pět korun (five crowns)."
+    },
+    "six": {
+      "text": "Šest"
+    },
+    "seven": {
+      "text": "Sedm",
+      "note": "In everyday speech it sounds like sedum."
+    },
+    "eight": {
+      "text": "Osm",
+      "note": "In everyday speech it sounds like osum."
+    },
+    "nine": {
+      "text": "Devět"
+    },
+    "ten": {
+      "text": "Deset"
+    },
+    "water": {
+      "text": "Voda",
+      "note": "Still: neperlivá. Sparkling: perlivá. Tap water: kohoutková voda."
+    },
+    "coffee": {
+      "text": "Káva",
+      "note": "Ordering: Jednu kávu, prosím. In casual speech: kafe."
+    },
+    "tea": {
+      "text": "Čaj"
+    },
+    "bread": {
+      "text": "Chléb",
+      "note": "Everyday speech: chleba. A bread roll is rohlík."
+    },
+    "im_hungry": {
+      "text": "Mám hlad",
+      "note": "Literally 'I have hunger'. Thirsty: Mám žízeň."
+    },
+    "menu_please": {
+      "text": "Jídelní lístek, prosím",
+      "note": "Also: Můžu poprosit jídelní lístek? Denní menu means the daily lunch offer."
+    },
+    "bill_please": {
+      "text": "Zaplatím, prosím",
+      "note": "Literally 'I'll pay'. Also: Účet, prosím. You may be asked: Dohromady, nebo zvlášť? (together or separately)"
+    },
+    "delicious": {
+      "text": "Výborné!",
+      "note": "Also: Moc dobré! The waiter may ask Chutnalo? (Did you enjoy it?)"
+    },
+    "no_meat": {
+      "text": "Nejím maso",
+      "note": "I'm vegetarian: Jsem vegetarián (a woman says: Jsem vegetariánka)."
+    },
+    "enjoy_meal": {
+      "text": "Dobrou chuť!",
+      "note": "Reply: Děkuji, nápodobně (likewise)."
+    },
+    "left": {
+      "text": "Vlevo",
+      "note": "Vlevo is 'on the left'; for turning left say doleva."
+    },
+    "right": {
+      "text": "Vpravo",
+      "note": "Vpravo is 'on the right'; for turning right say doprava."
+    },
+    "straight_ahead": {
+      "text": "Rovně",
+      "note": "Often: pořád rovně (keep going straight)."
+    },
+    "stop_here": {
+      "text": "Zastavte tady, prosím"
+    },
+    "airport": {
+      "text": "Letiště"
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same spelling as English, but stressed on the first syllable, like every Czech word."
+    },
+    "train_station": {
+      "text": "Nádraží",
+      "note": "Nádraží alone means the train station; the bus station is autobusové nádraží."
+    },
+    "want_to_go": {
+      "text": "Chci jet do …",
+      "note": "Jet is by vehicle, jít on foot. Airports and stations take na: Chci jet na letiště."
+    },
+    "is_it_far": {
+      "text": "Je to daleko?"
+    },
+    "one_ticket": {
+      "text": "Jednu jízdenku, prosím",
+      "note": "For city transport people also say lístek: Jeden lístek, prosím."
+    },
+    "too_expensive": {
+      "text": "To je moc drahé",
+      "note": "Moc means both 'too' and 'very'. More precise: To je příliš drahé."
+    },
+    "cheaper": {
+      "text": "Máte něco levnějšího?"
+    },
+    "id_like_this": {
+      "text": "Chtěl bych tohle, prosím",
+      "note": "A woman says: Chtěla bych tohle, prosím. Also common: Vezmu si tohle (I'll take this)."
+    },
+    "just_looking": {
+      "text": "Jen se dívám",
+      "note": "Politely: Děkuji, jen se dívám."
+    },
+    "pay_card": {
+      "text": "Můžu platit kartou?",
+      "note": "More formal: Mohu platit kartou?"
+    },
+    "cash": {
+      "text": "Hotově",
+      "note": "As in Zaplatím hotově (I'll pay in cash). Cash itself is hotovost."
+    },
+    "open": {
+      "text": "Otevřeno"
+    },
+    "closed": {
+      "text": "Zavřeno"
+    },
+    "big": {
+      "text": "Velký",
+      "note": "Adjectives change with the noun's gender: velký (m), velká (f), velké (n)."
+    },
+    "small": {
+      "text": "Malý",
+      "note": "Feminine malá, neuter malé."
+    },
+    "today": {
+      "text": "Dnes",
+      "note": "Everyday speech: dneska."
+    },
+    "tomorrow": {
+      "text": "Zítra"
+    },
+    "yesterday": {
+      "text": "Včera"
+    },
+    "now": {
+      "text": "Teď",
+      "note": "Right now, at once: hned."
+    },
+    "later": {
+      "text": "Později",
+      "note": "Also common: pak or potom (then, afterwards)."
+    },
+    "good_evening": {
+      "text": "Dobrý večer",
+      "note": "A greeting only; when leaving in the evening say Na shledanou."
+    },
+    "good_night": {
+      "text": "Dobrou noc",
+      "note": "Only when going to bed or leaving late at night."
+    },
+    "see_you_later": {
+      "text": "Na viděnou",
+      "note": "Casual: Tak zatím! or Zatím ahoj! If you'll meet again today: Uvidíme se později."
+    },
+    "wait_moment": {
+      "text": "Počkejte chvilku, prosím",
+      "note": "Short and very common: Moment, prosím."
+    },
+    "every_day": {
+      "text": "Každý den"
+    },
+    "help": {
+      "text": "Pomoc!"
+    },
+    "call_police": {
+      "text": "Zavolejte policii!",
+      "note": "The emergency number 112 works across Europe; the Czech police number is 158."
+    },
+    "need_doctor": {
+      "text": "Potřebuji lékaře",
+      "note": "Everyday speech: Potřebuju doktora. An ambulance is záchranka."
+    },
+    "im_lost": {
+      "text": "Ztratil jsem se",
+      "note": "A woman says: Ztratila jsem se. Also common: Zabloudil jsem (a woman: Zabloudila jsem)."
+    },
+    "dont_feel_well": {
+      "text": "Není mi dobře",
+      "note": "Je mi špatně usually means you feel sick to your stomach."
+    },
+    "pharmacy": {
+      "text": "Lékárna"
+    },
+    "hospital": {
+      "text": "Nemocnice"
+    },
+    "lost_phone": {
+      "text": "Ztratil jsem telefon",
+      "note": "A woman says: Ztratila jsem telefon. Casual word for a phone: mobil."
+    },
+    "allergic": {
+      "text": "Jsem alergický na …",
+      "note": "A woman says: Jsem alergická na … The allergen takes the accusative: na ořechy (to nuts)."
+    },
+    "be_careful": {
+      "text": "Dávejte pozor!",
+      "note": "Sudden warning: Pozor! Also common: Opatrně! To a friend: Dávej pozor!"
+    },
+    "no_problem": {
+      "text": "Žádný problém",
+      "note": "After an apology Czechs say Nevadí or To nic. Casual: V pohodě."
+    },
+    "of_course": {
+      "text": "Samozřejmě",
+      "note": "Casual: Jasně!"
+    },
+    "maybe": {
+      "text": "Možná"
+    },
+    "dont_know": {
+      "text": "Nevím",
+      "note": "Politer: Bohužel nevím (I'm afraid I don't know)."
+    },
+    "i_like_it": {
+      "text": "Líbí se mi to",
+      "note": "About food: Chutná mi to. For activities use rád: Rád cestuji (a woman: Ráda cestuji)."
+    },
+    "dont_like_it": {
+      "text": "Nelíbí se mi to",
+      "note": "About food: Nechutná mi to."
+    },
+    "im_tired": {
+      "text": "Jsem unavený",
+      "note": "A woman says: Jsem unavená."
+    },
+    "im_happy": {
+      "text": "Jsem šťastný",
+      "note": "A woman says: Jsem šťastná. Glad about something: Mám radost."
+    },
+    "welcome": {
+      "text": "Vítejte!",
+      "note": "To one friend or a child: Vítej!"
+    },
+    "congratulations": {
+      "text": "Gratuluji!",
+      "note": "Everyday speech: Gratuluju! For a birthday: Všechno nejlepší!"
+    }
+  }
+}

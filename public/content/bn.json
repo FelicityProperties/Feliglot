@@ -1,0 +1,476 @@
+{
+  "code": "bn",
+  "phrases": {
+    "hello": {
+      "text": "আসসালামু আলাইকুম",
+      "roman": "assalamu alaikum",
+      "note": "Reply: ওয়ালাইকুম আসসালাম (walaikum assalam). Hindus and West Bengal use নমস্কার (nomoshkar)."
+    },
+    "goodbye": {
+      "text": "আবার দেখা হবে",
+      "roman": "abar dekha hobe",
+      "note": "When you leave: আসি (ashi), 'I'll be off'. In Bangladesh also আল্লাহ হাফেজ (allah hafez)."
+    },
+    "please": {
+      "text": "দয়া করে",
+      "roman": "doya kore",
+      "note": "Used sparingly; politeness mostly comes from the verb ending, e.g. বসুন (boshun), 'please sit'."
+    },
+    "thank_you": {
+      "text": "ধন্যবাদ",
+      "roman": "dhonnobad",
+      "note": "Said less than in English; with friends and family it can even sound distant."
+    },
+    "youre_welcome": {
+      "text": "কোনো ব্যাপার না",
+      "roman": "kono byapar na",
+      "note": "Literally 'it's no matter'. Bengali has no set reply to thanks; this is the natural one."
+    },
+    "yes": {
+      "text": "হ্যাঁ",
+      "roman": "hyan",
+      "note": "A nasal 'hæ' sound. Politer, especially in Bangladesh: জি (ji)."
+    },
+    "no": {
+      "text": "না",
+      "roman": "na",
+      "note": "Politer, especially in Bangladesh: জি না (ji na)."
+    },
+    "sorry": {
+      "text": "দুঃখিত",
+      "roman": "dukkhito",
+      "note": "English সরি (sori) is just as common day to day. For a bigger apology: মাফ করবেন (maf korben)."
+    },
+    "excuse_me": {
+      "text": "শুনছেন?",
+      "roman": "shunchhen?",
+      "note": "Literally 'are you listening?'. People often add ভাই (bhai) to a man, আপা/দিদি (apa/didi) to a woman."
+    },
+    "good_morning": {
+      "text": "সুপ্রভাত",
+      "roman": "shuprobhat",
+      "note": "Rather formal. Day to day people use the normal greeting or English গুড মর্নিং (gud morning)."
+    },
+    "how_are_you": {
+      "text": "আপনি কেমন আছেন?",
+      "roman": "apni kemon achhen?",
+      "note": "To a friend: কেমন আছ? (kemon achho?)"
+    },
+    "im_fine": {
+      "text": "আমি ভালো আছি, ধন্যবাদ",
+      "roman": "ami bhalo achhi, dhonnobad",
+      "note": "Often shortened to ভালো, আপনি? (bhalo, apni?), 'fine, and you?'"
+    },
+    "whats_your_name": {
+      "text": "আপনার নাম কী?",
+      "roman": "apnar nam ki?"
+    },
+    "my_name_is": {
+      "text": "আমার নাম …",
+      "roman": "amar nam …",
+      "note": "No word for 'is' is needed here."
+    },
+    "nice_to_meet_you": {
+      "text": "আপনার সাথে পরিচিত হয়ে ভালো লাগল",
+      "roman": "apnar shathe porichito hoye bhalo laglo",
+      "note": "In West Bengal সঙ্গে (shonge) is more usual than সাথে (shathe)."
+    },
+    "where_from": {
+      "text": "আপনি কোথা থেকে এসেছেন?",
+      "roman": "apni kotha theke eshechhen?",
+      "note": "Between Bengalis: আপনার বাড়ি কোথায়? (apnar bari kothay?), asking about their home town."
+    },
+    "im_from": {
+      "text": "আমি … থেকে এসেছি",
+      "roman": "ami … theke eshechhi"
+    },
+    "speak_english": {
+      "text": "আপনি কি ইংরেজি বলতে পারেন?",
+      "roman": "apni ki ingreji bolte paren?",
+      "note": "কি (ki) here just marks a yes/no question."
+    },
+    "dont_understand": {
+      "text": "আমি বুঝতে পারছি না",
+      "roman": "ami bujhte parchhi na",
+      "note": "Shorter: বুঝলাম না (bujhlam na), 'I didn't get that'."
+    },
+    "speak_slowly": {
+      "text": "দয়া করে একটু ধীরে বলুন",
+      "roman": "doya kore ektu dhire bolun",
+      "note": "Softer: একটু ধীরে বলবেন? (ektu dhire bolben?), 'would you speak a bit slowly?'"
+    },
+    "where": {
+      "text": "কোথায়?",
+      "roman": "kothay?"
+    },
+    "what": {
+      "text": "কী?",
+      "roman": "ki?",
+      "note": "Spelled কী for 'what'; কি (same sound) is the yes/no question marker."
+    },
+    "when": {
+      "text": "কখন?",
+      "roman": "kokhon?",
+      "note": "For which day or date: কবে? (kobe?)"
+    },
+    "why": {
+      "text": "কেন?",
+      "roman": "keno?"
+    },
+    "who": {
+      "text": "কে?",
+      "roman": "ke?",
+      "note": "For more than one person: কারা? (kara?)"
+    },
+    "how_much": {
+      "text": "এটার দাম কত?",
+      "roman": "etar dam koto?",
+      "note": "At a market, just এটা কত? (eta koto?)"
+    },
+    "where_bathroom": {
+      "text": "বাথরুমটা কোথায় বলতে পারেন?",
+      "roman": "bathrumta kothay bolte paren?",
+      "note": "Literally 'can you tell me where the bathroom is?'. টয়লেট (toylet) is also common."
+    },
+    "can_you_help": {
+      "text": "আমাকে একটু সাহায্য করতে পারবেন?",
+      "roman": "amake ektu shahajjo korte parben?"
+    },
+    "what_time": {
+      "text": "এখন কটা বাজে?",
+      "roman": "ekhon kota baje?",
+      "note": "In Bangladesh often কয়টা বাজে? (koyta baje?)"
+    },
+    "what_means": {
+      "text": "এর মানে কী?",
+      "roman": "er mane ki?"
+    },
+    "one": {
+      "text": "এক",
+      "roman": "ek",
+      "note": "Digit: ১. When counting things add -টা: একটা (ekta)."
+    },
+    "two": {
+      "text": "দুই",
+      "roman": "dui",
+      "note": "Digit: ২. With things: দুটো (duto), in Bangladesh দুইটা (duita)."
+    },
+    "three": {
+      "text": "তিন",
+      "roman": "tin",
+      "note": "Digit: ৩"
+    },
+    "four": {
+      "text": "চার",
+      "roman": "char",
+      "note": "Digit: ৪"
+    },
+    "five": {
+      "text": "পাঁচ",
+      "roman": "panch",
+      "note": "Digit: ৫"
+    },
+    "six": {
+      "text": "ছয়",
+      "roman": "chhoy",
+      "note": "Digit: ৬"
+    },
+    "seven": {
+      "text": "সাত",
+      "roman": "shat",
+      "note": "Digit: ৭"
+    },
+    "eight": {
+      "text": "আট",
+      "roman": "at",
+      "note": "Digit: ৮"
+    },
+    "nine": {
+      "text": "নয়",
+      "roman": "noy",
+      "note": "Digit: ৯"
+    },
+    "ten": {
+      "text": "দশ",
+      "roman": "dosh",
+      "note": "Digits: ১০"
+    },
+    "water": {
+      "text": "পানি",
+      "roman": "pani",
+      "note": "In West Bengal and among Hindus: জল (jol)."
+    },
+    "coffee": {
+      "text": "কফি",
+      "roman": "kofi"
+    },
+    "tea": {
+      "text": "চা",
+      "roman": "cha",
+      "note": "Usually milky and sweet. Black tea: রং চা (rong cha) in Bangladesh, লিকার চা (likar cha) in West Bengal."
+    },
+    "bread": {
+      "text": "রুটি",
+      "roman": "ruti",
+      "note": "Means flatbread (chapati). Sliced loaf bread is পাউরুটি (pauruti)."
+    },
+    "im_hungry": {
+      "text": "আমার খিদে পেয়েছে",
+      "roman": "amar khide peyechhe",
+      "note": "In Bangladesh also: আমার ক্ষুধা লেগেছে (amar khudha legechhe)."
+    },
+    "menu_please": {
+      "text": "মেনুটা একটু দেবেন?",
+      "roman": "menuta ektu deben?",
+      "note": "The polite 'will you…?' ending (-ben) does the job of 'please'."
+    },
+    "bill_please": {
+      "text": "বিলটা দেবেন?",
+      "roman": "bilta deben?"
+    },
+    "delicious": {
+      "text": "খুব সুস্বাদু!",
+      "roman": "khub shusshadu!",
+      "note": "Everyday: খুব মজা হয়েছে! (khub moja hoyechhe!) in Bangladesh, দারুণ খেতে! (darun khete!) in West Bengal."
+    },
+    "no_meat": {
+      "text": "আমি মাংস খাই না",
+      "roman": "ami mangsho khai na",
+      "note": "Fish doesn't count as meat in Bengal; add মাছও খাই না (machho khai na) if you avoid it too."
+    },
+    "enjoy_meal": {
+      "text": "পেট ভরে খান!",
+      "roman": "pet bhore khan!",
+      "note": "No set phrase exists; hosts say this, 'eat your fill'. Muslims say বিসমিল্লাহ (bismillah) before eating."
+    },
+    "left": {
+      "text": "বাঁ দিকে",
+      "roman": "ban dike",
+      "note": "Literally 'to the left side'. In Bangladesh often বাম দিকে (bam dike)."
+    },
+    "right": {
+      "text": "ডান দিকে",
+      "roman": "dan dike"
+    },
+    "straight_ahead": {
+      "text": "সোজা সামনে",
+      "roman": "shoja shamne",
+      "note": "In directions often just সোজা যান (shoja jan), 'go straight'."
+    },
+    "stop_here": {
+      "text": "এখানে থামুন",
+      "roman": "ekhane thamun",
+      "note": "Also natural: এখানে নামিয়ে দিন (ekhane namiye din), 'drop me here'."
+    },
+    "airport": {
+      "text": "বিমানবন্দর",
+      "roman": "bimanbondor",
+      "note": "In speech, এয়ারপোর্ট (eyarport) is just as common."
+    },
+    "hotel": {
+      "text": "হোটেল",
+      "roman": "hotel",
+      "note": "হোটেল can also mean a cheap eatery; for a place to stay say আবাসিক হোটেল (abashik hotel)."
+    },
+    "train_station": {
+      "text": "রেল স্টেশন",
+      "roman": "rel steshon",
+      "note": "Often just স্টেশন (steshon)."
+    },
+    "want_to_go": {
+      "text": "আমি … যেতে চাই",
+      "roman": "ami … jete chai",
+      "note": "To a rickshaw or taxi driver: … যাবেন? (… jaben?), 'will you go to …?'"
+    },
+    "is_it_far": {
+      "text": "এখান থেকে কি অনেক দূর?",
+      "roman": "ekhan theke ki onek dur?"
+    },
+    "one_ticket": {
+      "text": "একটা টিকিট দিন",
+      "roman": "ekta tikit din",
+      "note": "In Bangladesh usually টিকেট (tiket)."
+    },
+    "too_expensive": {
+      "text": "দামটা খুব বেশি",
+      "roman": "damta khub beshi",
+      "note": "To bargain: একটু কম করুন (ektu kom korun), 'bring it down a little'."
+    },
+    "cheaper": {
+      "text": "এর চেয়ে সস্তা কিছু আছে?",
+      "roman": "er cheye shosta kichhu achhe?"
+    },
+    "id_like_this": {
+      "text": "আমি এটা নেব",
+      "roman": "ami eta nebo",
+      "note": "Or simply এটা দিন (eta din), 'give me this'."
+    },
+    "just_looking": {
+      "text": "শুধু দেখছি",
+      "roman": "shudhu dekhchhi",
+      "note": "Also: এমনি দেখছি (emni dekhchhi)."
+    },
+    "pay_card": {
+      "text": "কার্ডে পেমেন্ট করা যাবে?",
+      "roman": "karde pement kora jabe?"
+    },
+    "cash": {
+      "text": "নগদ",
+      "roman": "nogod",
+      "note": "In shops people often just say ক্যাশ (kyash)."
+    },
+    "open": {
+      "text": "খোলা",
+      "roman": "khola"
+    },
+    "closed": {
+      "text": "বন্ধ",
+      "roman": "bondho"
+    },
+    "big": {
+      "text": "বড়",
+      "roman": "boro",
+      "note": "ড় is a quick flapped r with the tongue curled back."
+    },
+    "small": {
+      "text": "ছোট",
+      "roman": "chhoto"
+    },
+    "today": {
+      "text": "আজ",
+      "roman": "aj",
+      "note": "Colloquially often আজকে (ajke)."
+    },
+    "tomorrow": {
+      "text": "আগামীকাল",
+      "roman": "agamikal",
+      "note": "In speech just কাল (kal), which also means yesterday; the verb tense tells them apart."
+    },
+    "yesterday": {
+      "text": "গতকাল",
+      "roman": "gotokal",
+      "note": "In speech just কাল (kal), same as 'tomorrow'; the past-tense verb makes it clear."
+    },
+    "now": {
+      "text": "এখন",
+      "roman": "ekhon",
+      "note": "Right now: এখনই (ekhoni)."
+    },
+    "later": {
+      "text": "পরে",
+      "roman": "pore"
+    },
+    "good_evening": {
+      "text": "শুভ সন্ধ্যা",
+      "roman": "shubho shondha",
+      "note": "Formal; in daily life the normal greeting is used at any hour."
+    },
+    "good_night": {
+      "text": "শুভ রাত্রি",
+      "roman": "shubho ratri",
+      "note": "Formal; with friends English গুড নাইট (gud nait) is more usual."
+    },
+    "see_you_later": {
+      "text": "পরে দেখা হবে",
+      "roman": "pore dekha hobe"
+    },
+    "wait_moment": {
+      "text": "একটু দাঁড়ান",
+      "roman": "ektu daran",
+      "note": "Literally 'stand a little'. Also: এক মিনিট (ek minit); formal: একটু অপেক্ষা করুন (ektu opekkha korun)."
+    },
+    "every_day": {
+      "text": "প্রতিদিন",
+      "roman": "protidin",
+      "note": "Also: রোজ (roj)."
+    },
+    "help": {
+      "text": "বাঁচাও!",
+      "roman": "bachao!",
+      "note": "Literally 'save (me)!'. Also: কেউ সাহায্য করুন! (keu shahajjo korun!), 'someone help!'"
+    },
+    "call_police": {
+      "text": "পুলিশ ডাকুন!",
+      "roman": "pulish dakun!",
+      "note": "Emergency number: 999 in Bangladesh, 112 in India."
+    },
+    "need_doctor": {
+      "text": "আমার ডাক্তার দরকার",
+      "roman": "amar daktar dorkar"
+    },
+    "im_lost": {
+      "text": "আমি রাস্তা হারিয়ে ফেলেছি",
+      "roman": "ami rasta hariye felechhi"
+    },
+    "dont_feel_well": {
+      "text": "আমার শরীরটা ভালো লাগছে না",
+      "roman": "amar shorirta bhalo lagchhe na"
+    },
+    "pharmacy": {
+      "text": "ওষুধের দোকান",
+      "roman": "oshudher dokan",
+      "note": "Signs usually say ফার্মেসি (farmesi), a word everyone uses."
+    },
+    "hospital": {
+      "text": "হাসপাতাল",
+      "roman": "haspatal"
+    },
+    "lost_phone": {
+      "text": "আমার ফোনটা হারিয়ে গেছে",
+      "roman": "amar fonta hariye gechhe"
+    },
+    "allergic": {
+      "text": "আমার …-তে অ্যালার্জি আছে",
+      "roman": "amar …-te elarji achhe",
+      "note": "Attach -তে or -এ to the allergen: চিংড়িতে (chingrite) 'to shrimp', বাদামে (badame) 'to nuts'."
+    },
+    "be_careful": {
+      "text": "সাবধান!",
+      "roman": "shabdhan!",
+      "note": "As a parting 'take care': সাবধানে থাকবেন (shabdhane thakben)."
+    },
+    "no_problem": {
+      "text": "কোনো সমস্যা নেই",
+      "roman": "kono shomossha nei"
+    },
+    "of_course": {
+      "text": "অবশ্যই",
+      "roman": "obosshoi"
+    },
+    "maybe": {
+      "text": "হয়তো",
+      "roman": "hoyto"
+    },
+    "dont_know": {
+      "text": "আমি জানি না",
+      "roman": "ami jani na"
+    },
+    "i_like_it": {
+      "text": "আমার এটা ভালো লাগে",
+      "roman": "amar eta bhalo lage",
+      "note": "For something you just tried: ভালো লেগেছে (bhalo legechhe). Also: এটা আমার পছন্দ (eta amar pochhondo)."
+    },
+    "dont_like_it": {
+      "text": "আমার এটা ভালো লাগে না",
+      "roman": "amar eta bhalo lage na"
+    },
+    "im_tired": {
+      "text": "আমি ক্লান্ত",
+      "roman": "ami klanto",
+      "note": "Everyday: আমার খুব ক্লান্ত লাগছে (amar khub klanto lagchhe), 'I feel really tired'."
+    },
+    "im_happy": {
+      "text": "আমি খুশি",
+      "roman": "ami khushi"
+    },
+    "welcome": {
+      "text": "আসুন, আসুন!",
+      "roman": "ashun, ashun!",
+      "note": "The warm spoken welcome, 'come in, come in!'. On signs and in speeches: স্বাগতম (shagotom)."
+    },
+    "congratulations": {
+      "text": "অভিনন্দন!",
+      "roman": "obhinondon!"
+    }
+  }
+}

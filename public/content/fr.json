@@ -1,0 +1,369 @@
+{
+  "code": "fr",
+  "phrases": {
+    "hello": {
+      "text": "Bonjour",
+      "note": "Among friends: salut. Say bonjour when entering a shop — skipping it is rude."
+    },
+    "goodbye": {
+      "text": "Au revoir",
+      "note": "Among friends: salut or ciao."
+    },
+    "please": {
+      "text": "S’il vous plaît",
+      "note": "To a friend or child: s’il te plaît."
+    },
+    "thank_you": {
+      "text": "Merci",
+      "note": "Merci beaucoup adds 'very much'."
+    },
+    "youre_welcome": {
+      "text": "Je vous en prie",
+      "note": "Also very common: de rien. To a friend: je t’en prie."
+    },
+    "yes": {
+      "text": "Oui",
+      "note": "Use si to say yes to a negative question: Tu ne viens pas ? — Si !"
+    },
+    "no": {
+      "text": "Non"
+    },
+    "sorry": {
+      "text": "Désolé",
+      "note": "A woman writes: désolée (same pronunciation). For a small slip, pardon is enough."
+    },
+    "excuse_me": {
+      "text": "Excusez-moi",
+      "note": "Pardon also works, e.g. to get past someone."
+    },
+    "good_morning": {
+      "text": "Bonjour",
+      "note": "Same word as hello: bonjour is used all day until the evening."
+    },
+    "how_are_you": {
+      "text": "Comment allez-vous ?",
+      "note": "Casual: ça va ?"
+    },
+    "im_fine": {
+      "text": "Je vais bien, merci",
+      "note": "Add et vous ? to ask back. Casual: ça va, merci."
+    },
+    "whats_your_name": {
+      "text": "Comment vous appelez-vous ?",
+      "note": "Casual: tu t’appelles comment ?"
+    },
+    "my_name_is": {
+      "text": "Je m’appelle …",
+      "note": "Casual: moi, c’est …"
+    },
+    "nice_to_meet_you": {
+      "text": "Enchanté",
+      "note": "A woman writes: enchantée (same pronunciation)."
+    },
+    "where_from": {
+      "text": "D’où venez-vous ?",
+      "note": "Casual: tu viens d’où ?"
+    },
+    "im_from": {
+      "text": "Je viens de …",
+      "note": "De becomes d’ before a vowel (d’Italie), du before masculine countries (du Canada), des before plurals (des États-Unis)."
+    },
+    "speak_english": {
+      "text": "Parlez-vous anglais ?",
+      "note": "In everyday speech: vous parlez anglais ?"
+    },
+    "dont_understand": {
+      "text": "Je ne comprends pas",
+      "note": "In speech the ne is often dropped: je comprends pas."
+    },
+    "speak_slowly": {
+      "text": "Pouvez-vous parler plus lentement, s’il vous plaît ?"
+    },
+    "where": {
+      "text": "Où ?",
+      "note": "The accent on ù tells it apart from ou (or)."
+    },
+    "what": {
+      "text": "Quoi ?",
+      "note": "Quoi ? alone can sound blunt; to ask someone to repeat, say pardon ?"
+    },
+    "when": {
+      "text": "Quand ?"
+    },
+    "why": {
+      "text": "Pourquoi ?"
+    },
+    "who": {
+      "text": "Qui ?"
+    },
+    "how_much": {
+      "text": "C’est combien ?",
+      "note": "Also: combien ça coûte ?"
+    },
+    "where_bathroom": {
+      "text": "Où sont les toilettes, s’il vous plaît ?",
+      "note": "Toilettes is always plural in this sense."
+    },
+    "can_you_help": {
+      "text": "Pouvez-vous m’aider, s’il vous plaît ?"
+    },
+    "what_time": {
+      "text": "Quelle heure est-il ?",
+      "note": "Casual: il est quelle heure ?"
+    },
+    "what_means": {
+      "text": "Qu’est-ce que ça veut dire ?",
+      "note": "Casual: ça veut dire quoi ?"
+    },
+    "one": {
+      "text": "Un",
+      "note": "Before a feminine noun: une (une baguette)."
+    },
+    "two": {
+      "text": "Deux"
+    },
+    "three": {
+      "text": "Trois"
+    },
+    "four": {
+      "text": "Quatre"
+    },
+    "five": {
+      "text": "Cinq",
+      "note": "The final q is pronounced: 'sank'."
+    },
+    "six": {
+      "text": "Six",
+      "note": "Said 'seess' alone, 'see' before a consonant (six livres), 'seez' before a vowel (six euros)."
+    },
+    "seven": {
+      "text": "Sept",
+      "note": "The p is silent: 'set'."
+    },
+    "eight": {
+      "text": "Huit",
+      "note": "Said 'weet'."
+    },
+    "nine": {
+      "text": "Neuf"
+    },
+    "ten": {
+      "text": "Dix",
+      "note": "Said 'deess' alone, 'dee' before a consonant (dix livres), 'deez' before a vowel (dix euros)."
+    },
+    "water": {
+      "text": "L’eau",
+      "note": "In a restaurant, ask for une carafe d’eau for free tap water."
+    },
+    "coffee": {
+      "text": "Le café",
+      "note": "Un café is an espresso; for milk, ask for un café crème."
+    },
+    "tea": {
+      "text": "Le thé"
+    },
+    "bread": {
+      "text": "Le pain"
+    },
+    "im_hungry": {
+      "text": "J’ai faim",
+      "note": "French uses avoir (to have) here, not être (to be)."
+    },
+    "menu_please": {
+      "text": "La carte, s’il vous plaît",
+      "note": "Un menu in France is a fixed-price set meal, not the list of dishes."
+    },
+    "bill_please": {
+      "text": "L’addition, s’il vous plaît"
+    },
+    "delicious": {
+      "text": "C’est délicieux !",
+      "note": "Also very common: c’est très bon !"
+    },
+    "no_meat": {
+      "text": "Je ne mange pas de viande",
+      "note": "Or: je suis végétarien (a woman says: végétarienne)."
+    },
+    "enjoy_meal": {
+      "text": "Bon appétit !"
+    },
+    "left": {
+      "text": "À gauche"
+    },
+    "right": {
+      "text": "À droite",
+      "note": "Don’t confuse with tout droit (straight ahead)."
+    },
+    "straight_ahead": {
+      "text": "Tout droit"
+    },
+    "stop_here": {
+      "text": "Arrêtez-vous ici, s’il vous plaît",
+      "note": "Softer: vous pouvez me déposer ici ?"
+    },
+    "airport": {
+      "text": "L’aéroport"
+    },
+    "hotel": {
+      "text": "L’hôtel",
+      "note": "The h is silent."
+    },
+    "train_station": {
+      "text": "La gare"
+    },
+    "want_to_go": {
+      "text": "Je voudrais aller à …",
+      "note": "À + le becomes au: je voudrais aller au musée."
+    },
+    "is_it_far": {
+      "text": "C’est loin ?"
+    },
+    "one_ticket": {
+      "text": "Un billet, s’il vous plaît",
+      "note": "For the metro or a city bus, people often say un ticket."
+    },
+    "too_expensive": {
+      "text": "C’est trop cher"
+    },
+    "cheaper": {
+      "text": "Vous avez quelque chose de moins cher ?"
+    },
+    "id_like_this": {
+      "text": "Je voudrais ça, s’il vous plaît",
+      "note": "Also very common: je vais prendre ça."
+    },
+    "just_looking": {
+      "text": "Je regarde, merci",
+      "note": "More literal: je ne fais que regarder, merci."
+    },
+    "pay_card": {
+      "text": "Je peux payer par carte ?",
+      "note": "Also common: vous prenez la carte ?"
+    },
+    "cash": {
+      "text": "En espèces",
+      "note": "Casual: en liquide."
+    },
+    "open": {
+      "text": "Ouvert"
+    },
+    "closed": {
+      "text": "Fermé"
+    },
+    "big": {
+      "text": "Grand",
+      "note": "Feminine: grande."
+    },
+    "small": {
+      "text": "Petit",
+      "note": "Feminine: petite."
+    },
+    "today": {
+      "text": "Aujourd’hui"
+    },
+    "tomorrow": {
+      "text": "Demain"
+    },
+    "yesterday": {
+      "text": "Hier",
+      "note": "The h is silent."
+    },
+    "now": {
+      "text": "Maintenant"
+    },
+    "later": {
+      "text": "Plus tard"
+    },
+    "good_evening": {
+      "text": "Bonsoir",
+      "note": "Replaces bonjour as a greeting from about 6 pm."
+    },
+    "good_night": {
+      "text": "Bonne nuit",
+      "note": "Only before bed. Leaving in the evening, say bonne soirée."
+    },
+    "see_you_later": {
+      "text": "À plus tard",
+      "note": "Casual: à plus ! Later the same day: à tout à l’heure."
+    },
+    "wait_moment": {
+      "text": "Un instant, s’il vous plaît",
+      "note": "Also: attendez un instant, s’il vous plaît."
+    },
+    "every_day": {
+      "text": "Tous les jours"
+    },
+    "help": {
+      "text": "Au secours !"
+    },
+    "call_police": {
+      "text": "Appelez la police !"
+    },
+    "need_doctor": {
+      "text": "J’ai besoin d’un médecin",
+      "note": "In speech, docteur is also common."
+    },
+    "im_lost": {
+      "text": "Je suis perdu",
+      "note": "A woman writes: perdue (same pronunciation)."
+    },
+    "dont_feel_well": {
+      "text": "Je ne me sens pas bien"
+    },
+    "pharmacy": {
+      "text": "La pharmacie",
+      "note": "Look for the green cross sign."
+    },
+    "hospital": {
+      "text": "L’hôpital"
+    },
+    "lost_phone": {
+      "text": "J’ai perdu mon téléphone",
+      "note": "Also very common: j’ai perdu mon portable."
+    },
+    "allergic": {
+      "text": "Je suis allergique à …",
+      "note": "À + le becomes au, à + les becomes aux: allergique aux noix."
+    },
+    "be_careful": {
+      "text": "Attention !",
+      "note": "Also: faites attention ! (to a friend: fais attention !)"
+    },
+    "no_problem": {
+      "text": "Pas de problème",
+      "note": "Casual: pas de souci."
+    },
+    "of_course": {
+      "text": "Bien sûr"
+    },
+    "maybe": {
+      "text": "Peut-être"
+    },
+    "dont_know": {
+      "text": "Je ne sais pas",
+      "note": "In fast casual speech it often sounds like 'chais pas'."
+    },
+    "i_like_it": {
+      "text": "Ça me plaît",
+      "note": "Also: j’aime bien."
+    },
+    "dont_like_it": {
+      "text": "Ça ne me plaît pas",
+      "note": "Also: je n’aime pas ça."
+    },
+    "im_tired": {
+      "text": "Je suis fatigué",
+      "note": "A woman writes: fatiguée (same pronunciation)."
+    },
+    "im_happy": {
+      "text": "Je suis content",
+      "note": "A woman says: contente (the t is pronounced)."
+    },
+    "welcome": {
+      "text": "Bienvenue !"
+    },
+    "congratulations": {
+      "text": "Félicitations !"
+    }
+  }
+}

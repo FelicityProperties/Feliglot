@@ -1,0 +1,391 @@
+{
+  "code": "vi",
+  "phrases": {
+    "hello": {
+      "text": "Xin chào",
+      "note": "Everyday greetings add a pronoun: chào anh (to a man), chào chị (to a woman)."
+    },
+    "goodbye": {
+      "text": "Tạm biệt",
+      "note": "In daily life people often just say chào anh / chào chị again. Among friends: bye bye."
+    },
+    "please": {
+      "text": "Làm ơn",
+      "note": "Placed before a request: làm ơn cho tôi… Ending a sentence with ạ also sounds polite."
+    },
+    "thank_you": {
+      "text": "Cảm ơn",
+      "note": "Warmer: cảm ơn anh (to a man), cảm ơn chị (to a woman). Also spelt cám ơn."
+    },
+    "youre_welcome": {
+      "text": "Không có gì",
+      "note": "In the South also: không có chi."
+    },
+    "yes": {
+      "text": "Vâng",
+      "note": "Polite Northern form; Southerners say dạ. To 'Do you have…?' questions, answer có."
+    },
+    "no": {
+      "text": "Không",
+      "note": "Softer and politer: dạ không or không ạ."
+    },
+    "sorry": {
+      "text": "Xin lỗi",
+      "note": "More personal: xin lỗi anh (to a man), xin lỗi chị (to a woman)."
+    },
+    "excuse_me": {
+      "text": "Anh ơi!",
+      "note": "To a woman: chị ơi! Before asking a stranger something: xin lỗi, cho tôi hỏi…"
+    },
+    "good_morning": {
+      "text": "Chào buổi sáng",
+      "note": "Heard in class or on the radio; in daily life people just say chào anh / chào chị."
+    },
+    "how_are_you": {
+      "text": "Anh có khỏe không?",
+      "note": "To a woman: chị có khỏe không? Also common: dạo này anh thế nào? (how have you been?)"
+    },
+    "im_fine": {
+      "text": "Tôi khỏe, cảm ơn anh",
+      "note": "To a woman: tôi khỏe, cảm ơn chị. Ask back with: còn anh? (and you?)"
+    },
+    "whats_your_name": {
+      "text": "Anh tên là gì?",
+      "note": "To a woman: chị tên là gì? Adding ạ at the end sounds extra polite."
+    },
+    "my_name_is": {
+      "text": "Tôi tên là …",
+      "note": "Also common: tên tôi là …"
+    },
+    "nice_to_meet_you": {
+      "text": "Rất vui được gặp anh",
+      "note": "To a woman: rất vui được gặp chị. Also: rất vui được làm quen (glad to get to know you)."
+    },
+    "where_from": {
+      "text": "Anh đến từ đâu?",
+      "note": "To a woman: chị đến từ đâu? Also natural: anh là người nước nào?"
+    },
+    "im_from": {
+      "text": "Tôi đến từ …",
+      "note": "Also: tôi là người …, e.g. tôi là người Mỹ (I'm American)."
+    },
+    "speak_english": {
+      "text": "Anh có nói được tiếng Anh không?",
+      "note": "To a woman: chị có nói được tiếng Anh không? In tiếng Anh (English), Anh is not 'you'."
+    },
+    "dont_understand": {
+      "text": "Tôi không hiểu",
+      "note": "If you just didn't catch it: anh nói lại được không? (could you say it again?)"
+    },
+    "speak_slowly": {
+      "text": "Anh nói chậm lại một chút được không?",
+      "note": "To a woman: chị nói chậm lại một chút được không? Shorter: làm ơn nói chậm lại."
+    },
+    "where": {
+      "text": "Ở đâu?",
+      "note": "Goes at the end: nhà vệ sinh ở đâu? (where is the toilet?)"
+    },
+    "what": {
+      "text": "Cái gì?",
+      "note": "Gì goes at the end: đây là gì? (what is this?). Gì? on its own can sound curt."
+    },
+    "when": {
+      "text": "Khi nào?",
+      "note": "Also: bao giờ. At the start of a sentence it asks about the future, at the end about the past."
+    },
+    "why": {
+      "text": "Tại sao?",
+      "note": "Also: vì sao? Casual: sao?"
+    },
+    "who": {
+      "text": "Ai?",
+      "note": "Who is it? (at the door, on the phone): ai đấy? in the North, ai vậy? in the South."
+    },
+    "how_much": {
+      "text": "Cái này bao nhiêu tiền?",
+      "note": "Also: cái này giá bao nhiêu?"
+    },
+    "where_bathroom": {
+      "text": "Cho tôi hỏi nhà vệ sinh ở đâu?",
+      "note": "Cho tôi hỏi (may I ask) makes any question polite. Signs usually say WC or Toilet."
+    },
+    "can_you_help": {
+      "text": "Anh có thể giúp tôi được không?",
+      "note": "To a woman: chị có thể giúp tôi được không? Urgent: giúp tôi với!"
+    },
+    "what_time": {
+      "text": "Mấy giờ rồi?",
+      "note": "Politer to a stranger: cho tôi hỏi bây giờ là mấy giờ?"
+    },
+    "what_means": {
+      "text": "Cái này nghĩa là gì?",
+      "note": "About a word: từ này nghĩa là gì?"
+    },
+    "one": {
+      "text": "Một",
+      "note": "After twenty it becomes mốt: hai mươi mốt (21)."
+    },
+    "two": {
+      "text": "Hai"
+    },
+    "three": {
+      "text": "Ba"
+    },
+    "four": {
+      "text": "Bốn",
+      "note": "After twenty it is often tư: hai mươi tư (24)."
+    },
+    "five": {
+      "text": "Năm",
+      "note": "After ten it becomes lăm: mười lăm (15), hai mươi lăm (25)."
+    },
+    "six": {
+      "text": "Sáu"
+    },
+    "seven": {
+      "text": "Bảy"
+    },
+    "eight": {
+      "text": "Tám"
+    },
+    "nine": {
+      "text": "Chín"
+    },
+    "ten": {
+      "text": "Mười",
+      "note": "In twenty, thirty… it becomes mươi, with a flat tone: hai mươi (20), ba mươi (30)."
+    },
+    "water": {
+      "text": "Nước",
+      "note": "Drinking water: nước lọc. Bottled water: nước suối (South) or nước khoáng."
+    },
+    "coffee": {
+      "text": "Cà phê",
+      "note": "Try cà phê sữa đá, iced coffee with condensed milk. In the North milk coffee is called nâu."
+    },
+    "tea": {
+      "text": "Trà",
+      "note": "In the North also chè. Iced tea, served everywhere: trà đá."
+    },
+    "bread": {
+      "text": "Bánh mì",
+      "note": "Also the name of the famous Vietnamese baguette sandwich."
+    },
+    "im_hungry": {
+      "text": "Tôi đói rồi",
+      "note": "Very common: đói quá! (I'm starving!). In the South also: đói bụng."
+    },
+    "menu_please": {
+      "text": "Cho tôi xem thực đơn",
+      "note": "In cities people often just say menu. Call the staff first with em ơi!"
+    },
+    "bill_please": {
+      "text": "Cho tôi tính tiền",
+      "note": "Commonly: em ơi, tính tiền! (to a young server). More formal: cho tôi thanh toán."
+    },
+    "delicious": {
+      "text": "Ngon quá!",
+      "note": "Also: ngon lắm!"
+    },
+    "no_meat": {
+      "text": "Tôi không ăn thịt",
+      "note": "Vegetarian is ăn chay: tôi ăn chay (I'm vegetarian)."
+    },
+    "enjoy_meal": {
+      "text": "Chúc ngon miệng!",
+      "note": "At family meals the custom is to invite the others first: mời cả nhà ăn cơm."
+    },
+    "left": {
+      "text": "Bên trái",
+      "note": "Turn left: rẽ trái (North) / quẹo trái (South)."
+    },
+    "right": {
+      "text": "Bên phải",
+      "note": "Turn right: rẽ phải (North) / quẹo phải (South). Phải alone can also mean 'correct'."
+    },
+    "straight_ahead": {
+      "text": "Đi thẳng",
+      "note": "Heard in directions: cứ đi thẳng (just keep going straight)."
+    },
+    "stop_here": {
+      "text": "Anh cho tôi xuống đây nhé",
+      "note": "To a woman driver: chị cho tôi xuống đây nhé. Also: dừng ở đây nhé."
+    },
+    "airport": {
+      "text": "Sân bay"
+    },
+    "hotel": {
+      "text": "Khách sạn"
+    },
+    "train_station": {
+      "text": "Ga tàu hỏa",
+      "note": "Often just ga or nhà ga. In the South also: ga xe lửa."
+    },
+    "want_to_go": {
+      "text": "Tôi muốn đi …",
+      "note": "To a taxi driver: cho tôi đến … (take me to …)."
+    },
+    "is_it_far": {
+      "text": "Có xa không?",
+      "note": "From here? Từ đây có xa không?"
+    },
+    "one_ticket": {
+      "text": "Cho tôi một vé",
+      "note": "Return ticket: vé khứ hồi."
+    },
+    "too_expensive": {
+      "text": "Đắt quá!",
+      "note": "In the South: mắc quá!"
+    },
+    "cheaper": {
+      "text": "Có cái nào rẻ hơn không?",
+      "note": "Bargaining: bớt chút được không? (can you knock a bit off?)"
+    },
+    "id_like_this": {
+      "text": "Cho tôi cái này",
+      "note": "Also: tôi lấy cái này (I'll take this one)."
+    },
+    "just_looking": {
+      "text": "Tôi chỉ xem thôi"
+    },
+    "pay_card": {
+      "text": "Tôi trả bằng thẻ được không?",
+      "note": "Casual: quẹt thẻ được không? Many shops prefer a QR bank transfer (chuyển khoản)."
+    },
+    "cash": {
+      "text": "Tiền mặt",
+      "note": "Paying in cash: trả tiền mặt."
+    },
+    "open": {
+      "text": "Mở cửa"
+    },
+    "closed": {
+      "text": "Đóng cửa",
+      "note": "Signs may also say nghỉ, e.g. hôm nay nghỉ (closed today)."
+    },
+    "big": {
+      "text": "Lớn",
+      "note": "In the North also: to."
+    },
+    "small": {
+      "text": "Nhỏ",
+      "note": "In the North also: bé."
+    },
+    "today": {
+      "text": "Hôm nay"
+    },
+    "tomorrow": {
+      "text": "Ngày mai",
+      "note": "Often just mai."
+    },
+    "yesterday": {
+      "text": "Hôm qua"
+    },
+    "now": {
+      "text": "Bây giờ",
+      "note": "Often shortened to giờ. Right now: ngay bây giờ."
+    },
+    "later": {
+      "text": "Lát nữa",
+      "note": "Later today. Some day in the future: sau này. Let's leave it for later: để sau."
+    },
+    "good_evening": {
+      "text": "Chào buổi tối",
+      "note": "Formal, e.g. on TV; in daily life people just say chào anh / chào chị."
+    },
+    "good_night": {
+      "text": "Chúc ngủ ngon",
+      "note": "Only before sleep. When leaving at night, just say chào anh / chào chị."
+    },
+    "see_you_later": {
+      "text": "Hẹn gặp lại",
+      "note": "Later the same day: lát nữa gặp nhé!"
+    },
+    "wait_moment": {
+      "text": "Anh chờ một chút nhé",
+      "note": "To a woman: chị chờ một chút nhé. Northerners often say đợi instead of chờ."
+    },
+    "every_day": {
+      "text": "Mỗi ngày",
+      "note": "Also: hằng ngày or hàng ngày (daily)."
+    },
+    "help": {
+      "text": "Cứu tôi với!",
+      "note": "Shorter: cứu với! For everyday help: giúp tôi với!"
+    },
+    "call_police": {
+      "text": "Gọi công an đi!",
+      "note": "Police emergency number: 113. Ambulance: 115. Fire: 114."
+    },
+    "need_doctor": {
+      "text": "Tôi cần gặp bác sĩ",
+      "note": "Ambulance: xe cấp cứu (dial 115)."
+    },
+    "im_lost": {
+      "text": "Tôi bị lạc đường"
+    },
+    "dont_feel_well": {
+      "text": "Tôi thấy không khỏe",
+      "note": "Also common: tôi thấy mệt, which covers feeling unwell as well as tired."
+    },
+    "pharmacy": {
+      "text": "Nhà thuốc",
+      "note": "Also: hiệu thuốc (North), tiệm thuốc (South)."
+    },
+    "hospital": {
+      "text": "Bệnh viện"
+    },
+    "lost_phone": {
+      "text": "Tôi bị mất điện thoại",
+      "note": "If it was stolen: tôi bị trộm mất điện thoại."
+    },
+    "allergic": {
+      "text": "Tôi bị dị ứng với …",
+      "note": "E.g. tôi bị dị ứng với đậu phộng (peanuts; lạc in the North)."
+    },
+    "be_careful": {
+      "text": "Cẩn thận!",
+      "note": "Also: coi chừng! (watch out!), especially in the South."
+    },
+    "no_problem": {
+      "text": "Không sao đâu",
+      "note": "Also: không vấn đề gì. Agreeing to a request: được thôi (sure)."
+    },
+    "of_course": {
+      "text": "Tất nhiên rồi",
+      "note": "Also: dĩ nhiên rồi, đương nhiên rồi."
+    },
+    "maybe": {
+      "text": "Có lẽ",
+      "note": "As a reply on its own: có lẽ vậy or có thể. Casual: chắc vậy."
+    },
+    "dont_know": {
+      "text": "Tôi không biết",
+      "note": "Softer: tôi không rõ (I'm not sure)."
+    },
+    "i_like_it": {
+      "text": "Tôi thích lắm",
+      "note": "Lắm adds warmth (I really like it); plain tôi thích also works. 'It' is usually left out."
+    },
+    "dont_like_it": {
+      "text": "Tôi không thích",
+      "note": "Softer: tôi không thích lắm (I don't really like it)."
+    },
+    "im_tired": {
+      "text": "Tôi mệt quá",
+      "note": "Sleepy: tôi buồn ngủ."
+    },
+    "im_happy": {
+      "text": "Tôi vui lắm",
+      "note": "Deep, lasting happiness is hạnh phúc."
+    },
+    "welcome": {
+      "text": "Mời anh vào!",
+      "note": "To a woman: mời chị vào! Chào mừng (welcome) is for signs and events: chào mừng quý khách."
+    },
+    "congratulations": {
+      "text": "Chúc mừng!",
+      "note": "More formal: xin chúc mừng! Happy birthday: chúc mừng sinh nhật!"
+    }
+  }
+}

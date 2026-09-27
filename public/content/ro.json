@@ -1,0 +1,365 @@
+{
+  "code": "ro",
+  "phrases": {
+    "hello": {
+      "text": "Bună ziua",
+      "note": "Polite, from late morning until evening. With friends: bună! or salut!"
+    },
+    "goodbye": {
+      "text": "La revedere",
+      "note": "Among friends: pa! or ciao!"
+    },
+    "please": {
+      "text": "Vă rog",
+      "note": "Polite form. To a friend: te rog."
+    },
+    "thank_you": {
+      "text": "Mulțumesc",
+      "note": "Informal: mersi. Thank you very much: mulțumesc frumos."
+    },
+    "youre_welcome": {
+      "text": "Cu plăcere",
+      "note": "Also: n-aveți pentru ce (don't mention it). To a friend: n-ai pentru ce."
+    },
+    "yes": {
+      "text": "Da"
+    },
+    "no": {
+      "text": "Nu"
+    },
+    "sorry": {
+      "text": "Îmi pare rău",
+      "note": "For a small slip, like bumping into someone: scuzați! To a friend: scuze!"
+    },
+    "excuse_me": {
+      "text": "Scuzați-mă",
+      "note": "Very common before a question too: nu vă supărați, … (lit. 'don't be offended')."
+    },
+    "good_morning": {
+      "text": "Bună dimineața",
+      "note": "Used until about 10–11 a.m.; after that, bună ziua."
+    },
+    "how_are_you": {
+      "text": "Ce mai faceți?",
+      "note": "Polite form. To a friend: ce mai faci?"
+    },
+    "im_fine": {
+      "text": "Bine, mulțumesc",
+      "note": "Add: și dumneavoastră? (and you?). To a friend: și tu?"
+    },
+    "whats_your_name": {
+      "text": "Cum vă numiți?",
+      "note": "Also: cum vă cheamă? To a friend or child: cum te cheamă?"
+    },
+    "my_name_is": {
+      "text": "Mă numesc …",
+      "note": "Also: numele meu este … Casually: mă cheamă …"
+    },
+    "nice_to_meet_you": {
+      "text": "Îmi pare bine de cunoștință",
+      "note": "Shorter: încântat (a man says) / încântată (a woman says)."
+    },
+    "where_from": {
+      "text": "De unde sunteți?",
+      "note": "To a friend: de unde ești?"
+    },
+    "im_from": {
+      "text": "Sunt din …"
+    },
+    "speak_english": {
+      "text": "Vorbiți engleză?",
+      "note": "Also: vorbiți englezește? To a friend: vorbești engleză?"
+    },
+    "dont_understand": {
+      "text": "Nu înțeleg"
+    },
+    "speak_slowly": {
+      "text": "Vorbiți mai rar, vă rog",
+      "note": "Mai încet also works, but it can also mean 'more quietly'."
+    },
+    "where": {
+      "text": "Unde?"
+    },
+    "what": {
+      "text": "Ce?",
+      "note": "If you didn't catch what someone said, the polite way is: poftim?"
+    },
+    "when": {
+      "text": "Când?"
+    },
+    "why": {
+      "text": "De ce?"
+    },
+    "who": {
+      "text": "Cine?"
+    },
+    "how_much": {
+      "text": "Cât costă asta?",
+      "note": "Pointing at something, just: cât costă?"
+    },
+    "where_bathroom": {
+      "text": "Unde este toaleta, vă rog?",
+      "note": "In someone's home, ask for baia (the bathroom)."
+    },
+    "can_you_help": {
+      "text": "Mă puteți ajuta?",
+      "note": "To a friend: mă poți ajuta?"
+    },
+    "what_time": {
+      "text": "Cât e ceasul?",
+      "note": "Also: ce oră este?"
+    },
+    "what_means": {
+      "text": "Ce înseamnă asta?"
+    },
+    "one": {
+      "text": "Unu",
+      "note": "Before a noun it becomes un or o: un bilet, o cafea."
+    },
+    "two": {
+      "text": "Doi",
+      "note": "Before feminine and neuter nouns: două (două cafele, două bilete)."
+    },
+    "three": {
+      "text": "Trei"
+    },
+    "four": {
+      "text": "Patru"
+    },
+    "five": {
+      "text": "Cinci",
+      "note": "Sounds like 'cheench': ci is 'chee' and the final i is almost silent."
+    },
+    "six": {
+      "text": "Șase",
+      "note": "Ș sounds like English 'sh': SHAH-seh."
+    },
+    "seven": {
+      "text": "Șapte"
+    },
+    "eight": {
+      "text": "Opt"
+    },
+    "nine": {
+      "text": "Nouă"
+    },
+    "ten": {
+      "text": "Zece",
+      "note": "Ce sounds like 'che': ZEH-cheh."
+    },
+    "water": {
+      "text": "Apă",
+      "note": "Ă is the 'uh' in 'sofa'. Still: apă plată; sparkling: apă minerală."
+    },
+    "coffee": {
+      "text": "Cafea"
+    },
+    "tea": {
+      "text": "Ceai",
+      "note": "Pronounced like 'chai'."
+    },
+    "bread": {
+      "text": "Pâine",
+      "note": "Â has no English equivalent: say 'ee' while pulling your tongue back, lips spread."
+    },
+    "im_hungry": {
+      "text": "Mi-e foame",
+      "note": "I'm thirsty: mi-e sete."
+    },
+    "menu_please": {
+      "text": "Meniul, vă rog"
+    },
+    "bill_please": {
+      "text": "Nota, vă rog",
+      "note": "Also: nota de plată, vă rog, or plata, vă rog."
+    },
+    "delicious": {
+      "text": "Delicios!",
+      "note": "Everyday alternative: e foarte bun! (it's very good)."
+    },
+    "no_meat": {
+      "text": "Nu mănânc carne",
+      "note": "I'm vegetarian: sunt vegetarian (a man) / sunt vegetariană (a woman)."
+    },
+    "enjoy_meal": {
+      "text": "Poftă bună!"
+    },
+    "left": {
+      "text": "La stânga",
+      "note": "Turn left: luați-o la stânga."
+    },
+    "right": {
+      "text": "La dreapta",
+      "note": "Turn right: luați-o la dreapta."
+    },
+    "straight_ahead": {
+      "text": "Drept înainte",
+      "note": "Often just: înainte."
+    },
+    "stop_here": {
+      "text": "Opriți aici, vă rog"
+    },
+    "airport": {
+      "text": "Aeroport",
+      "note": "Say every vowel: a-e-ro-PORT."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Stress the last syllable: ho-TEL."
+    },
+    "train_station": {
+      "text": "Gară",
+      "note": "The station: gara. Bucharest's main station is Gara de Nord."
+    },
+    "want_to_go": {
+      "text": "Vreau să merg la …",
+      "note": "Softer: aș vrea să merg la … In a taxi, just: la …, vă rog."
+    },
+    "is_it_far": {
+      "text": "E departe?",
+      "note": "E is the everyday short form of este (is)."
+    },
+    "one_ticket": {
+      "text": "Un bilet, vă rog",
+      "note": "Return ticket: bilet dus-întors."
+    },
+    "too_expensive": {
+      "text": "E prea scump",
+      "note": "About a feminine noun: e prea scumpă."
+    },
+    "cheaper": {
+      "text": "Aveți ceva mai ieftin?"
+    },
+    "id_like_this": {
+      "text": "Aș dori asta, vă rog",
+      "note": "Also common: aș vrea asta, vă rog."
+    },
+    "just_looking": {
+      "text": "Doar mă uit, mulțumesc"
+    },
+    "pay_card": {
+      "text": "Pot plăti cu cardul?"
+    },
+    "cash": {
+      "text": "Numerar",
+      "note": "In everyday speech most people just say cash: plătesc cash."
+    },
+    "open": {
+      "text": "Deschis"
+    },
+    "closed": {
+      "text": "Închis"
+    },
+    "big": {
+      "text": "Mare"
+    },
+    "small": {
+      "text": "Mic",
+      "note": "With a feminine noun: mică (o cameră mică)."
+    },
+    "today": {
+      "text": "Astăzi",
+      "note": "In speech, often the short form: azi."
+    },
+    "tomorrow": {
+      "text": "Mâine"
+    },
+    "yesterday": {
+      "text": "Ieri"
+    },
+    "now": {
+      "text": "Acum"
+    },
+    "later": {
+      "text": "Mai târziu"
+    },
+    "good_evening": {
+      "text": "Bună seara"
+    },
+    "good_night": {
+      "text": "Noapte bună",
+      "note": "Only for leaving at night or going to bed, never as a greeting."
+    },
+    "see_you_later": {
+      "text": "Pe mai târziu!",
+      "note": "Also: ne vedem mai târziu. See you soon: pe curând!"
+    },
+    "wait_moment": {
+      "text": "Un moment, vă rog",
+      "note": "Also: o clipă, vă rog."
+    },
+    "every_day": {
+      "text": "În fiecare zi",
+      "note": "One word: zilnic (daily)."
+    },
+    "help": {
+      "text": "Ajutor!"
+    },
+    "call_police": {
+      "text": "Chemați poliția!",
+      "note": "The emergency number in Romania is 112."
+    },
+    "need_doctor": {
+      "text": "Am nevoie de un doctor",
+      "note": "Also: am nevoie de un medic."
+    },
+    "im_lost": {
+      "text": "M-am rătăcit"
+    },
+    "dont_feel_well": {
+      "text": "Nu mă simt bine"
+    },
+    "pharmacy": {
+      "text": "Farmacie"
+    },
+    "hospital": {
+      "text": "Spital"
+    },
+    "lost_phone": {
+      "text": "Mi-am pierdut telefonul"
+    },
+    "allergic": {
+      "text": "Sunt alergic la …",
+      "note": "A woman says: sunt alergică la …"
+    },
+    "be_careful": {
+      "text": "Aveți grijă!",
+      "note": "To a friend or child: ai grijă! As a sudden warning shout: atenție!"
+    },
+    "no_problem": {
+      "text": "Nicio problemă"
+    },
+    "of_course": {
+      "text": "Desigur",
+      "note": "Also very common: sigur or bineînțeles."
+    },
+    "maybe": {
+      "text": "Poate"
+    },
+    "dont_know": {
+      "text": "Nu știu"
+    },
+    "i_like_it": {
+      "text": "Îmi place"
+    },
+    "dont_like_it": {
+      "text": "Nu-mi place"
+    },
+    "im_tired": {
+      "text": "Sunt obosit",
+      "note": "A woman says: sunt obosită."
+    },
+    "im_happy": {
+      "text": "Sunt fericit",
+      "note": "A woman says: sunt fericită."
+    },
+    "welcome": {
+      "text": "Bine ați venit!",
+      "note": "To one friend: bine ai venit!"
+    },
+    "congratulations": {
+      "text": "Felicitări!",
+      "note": "For a birthday or name day, say: la mulți ani!"
+    }
+  }
+}

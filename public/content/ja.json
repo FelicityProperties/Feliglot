@@ -1,0 +1,472 @@
+{
+  "code": "ja",
+  "phrases": {
+    "hello": {
+      "text": "こんにちは",
+      "roman": "Konnichiwa",
+      "note": "The final は is read wa, not ha."
+    },
+    "goodbye": {
+      "text": "さようなら",
+      "roman": "Sayōnara",
+      "note": "Sounds final; day to day people say では、また (de wa, mata) or 失礼します (shitsurei shimasu)."
+    },
+    "please": {
+      "text": "お願いします",
+      "roman": "Onegai shimasu",
+      "note": "For asking. When offering or inviting (\"please, go ahead\"): どうぞ (dōzo)."
+    },
+    "thank_you": {
+      "text": "ありがとうございます",
+      "roman": "Arigatō gozaimasu",
+      "note": "Among friends: ありがとう (arigatō)."
+    },
+    "youre_welcome": {
+      "text": "どういたしまして",
+      "roman": "Dō itashimashite",
+      "note": "Often people just say いいえ (iie), \"not at all\"."
+    },
+    "yes": {
+      "text": "はい",
+      "roman": "Hai",
+      "note": "Also signals \"I'm listening\", not always agreement."
+    },
+    "no": {
+      "text": "いいえ",
+      "roman": "Iie",
+      "note": "Can sound blunt; people soften it: いえ、大丈夫です (ie, daijōbu desu), \"no, I'm fine\"."
+    },
+    "sorry": {
+      "text": "ごめんなさい",
+      "roman": "Gomen nasai",
+      "note": "Less formal than すみません (sumimasen), which is safer with strangers and at work. Among friends: ごめん (gomen)."
+    },
+    "excuse_me": {
+      "text": "すみません",
+      "roman": "Sumimasen",
+      "note": "Often preceded by あの (ano): あの、すみません. The same word also means \"sorry\"."
+    },
+    "good_morning": {
+      "text": "おはようございます",
+      "roman": "Ohayō gozaimasu",
+      "note": "Among friends and family: おはよう (ohayō)."
+    },
+    "how_are_you": {
+      "text": "お元気ですか？",
+      "roman": "Ogenki desu ka?",
+      "note": "Asked after some time apart, not as an everyday greeting."
+    },
+    "im_fine": {
+      "text": "元気です、ありがとうございます",
+      "roman": "Genki desu, arigatō gozaimasu",
+      "note": "A warmer, very Japanese reply: おかげさまで元気です (okagesama de genki desu)."
+    },
+    "whats_your_name": {
+      "text": "お名前は何ですか？",
+      "roman": "Onamae wa nan desu ka?",
+      "note": "More polite: お名前を伺ってもいいですか (onamae o ukagatte mo ii desu ka)."
+    },
+    "my_name_is": {
+      "text": "私は…です",
+      "roman": "Watashi wa … desu",
+      "note": "Natives often drop 私は and just say …です. More formal: …と申します (… to mōshimasu)."
+    },
+    "nice_to_meet_you": {
+      "text": "はじめまして",
+      "roman": "Hajimemashite",
+      "note": "Usually followed by よろしくお願いします (yoroshiku onegai shimasu)."
+    },
+    "where_from": {
+      "text": "どちらからいらっしゃいましたか？",
+      "roman": "Dochira kara irasshaimashita ka?",
+      "note": "Simpler: どこから来ましたか (doko kara kimashita ka)."
+    },
+    "im_from": {
+      "text": "…から来ました",
+      "roman": "… kara kimashita",
+      "note": "Also common: …出身です (… shusshin desu)."
+    },
+    "speak_english": {
+      "text": "英語を話せますか？",
+      "roman": "Eigo o hanasemasu ka?",
+      "note": "Softer: 英語は大丈夫ですか (eigo wa daijōbu desu ka)."
+    },
+    "dont_understand": {
+      "text": "わかりません",
+      "roman": "Wakarimasen"
+    },
+    "speak_slowly": {
+      "text": "もう少しゆっくり話してください",
+      "roman": "Mō sukoshi yukkuri hanashite kudasai"
+    },
+    "where": {
+      "text": "どこですか？",
+      "roman": "Doko desu ka?",
+      "note": "On its own, どこ？ (doko?) is casual."
+    },
+    "what": {
+      "text": "何ですか？",
+      "roman": "Nan desu ka?",
+      "note": "On its own, 何？ (nani?) is casual. 何 is read nan before です."
+    },
+    "when": {
+      "text": "いつですか？",
+      "roman": "Itsu desu ka?"
+    },
+    "why": {
+      "text": "どうしてですか？",
+      "roman": "Dōshite desu ka?",
+      "note": "Also なぜ (naze), more formal, or なんで (nande), casual."
+    },
+    "who": {
+      "text": "誰ですか？",
+      "roman": "Dare desu ka?",
+      "note": "Politer: どなたですか (donata desu ka)."
+    },
+    "how_much": {
+      "text": "これはいくらですか？",
+      "roman": "Kore wa ikura desu ka?"
+    },
+    "where_bathroom": {
+      "text": "トイレはどこですか？",
+      "roman": "Toire wa doko desu ka?",
+      "note": "Politer: お手洗いはどこですか (otearai wa doko desu ka)."
+    },
+    "can_you_help": {
+      "text": "手伝っていただけますか？",
+      "roman": "Tetsudatte itadakemasu ka?",
+      "note": "For help with a task. If you are in trouble: 助けてもらえますか (tasukete moraemasu ka)."
+    },
+    "what_time": {
+      "text": "今何時ですか？",
+      "roman": "Ima nanji desu ka?"
+    },
+    "what_means": {
+      "text": "これはどういう意味ですか？",
+      "roman": "Kore wa dō iu imi desu ka?"
+    },
+    "one": {
+      "text": "一",
+      "roman": "Ichi"
+    },
+    "two": {
+      "text": "二",
+      "roman": "Ni"
+    },
+    "three": {
+      "text": "三",
+      "roman": "San"
+    },
+    "four": {
+      "text": "四",
+      "roman": "Yon",
+      "note": "Also read shi, but yon is preferred: shi sounds like 死, \"death\"."
+    },
+    "five": {
+      "text": "五",
+      "roman": "Go"
+    },
+    "six": {
+      "text": "六",
+      "roman": "Roku"
+    },
+    "seven": {
+      "text": "七",
+      "roman": "Nana",
+      "note": "Also read shichi; nana is clearer and more common on its own."
+    },
+    "eight": {
+      "text": "八",
+      "roman": "Hachi"
+    },
+    "nine": {
+      "text": "九",
+      "roman": "Kyū",
+      "note": "Also read ku, but kyū is more common on its own."
+    },
+    "ten": {
+      "text": "十",
+      "roman": "Jū"
+    },
+    "water": {
+      "text": "水",
+      "roman": "Mizu",
+      "note": "In restaurants people say お水 (omizu)."
+    },
+    "coffee": {
+      "text": "コーヒー",
+      "roman": "Kōhī"
+    },
+    "tea": {
+      "text": "お茶",
+      "roman": "Ocha",
+      "note": "Means green tea by default; black tea is 紅茶 (kōcha)."
+    },
+    "bread": {
+      "text": "パン",
+      "roman": "Pan",
+      "note": "Borrowed from Portuguese pão centuries ago."
+    },
+    "im_hungry": {
+      "text": "お腹がすきました",
+      "roman": "Onaka ga sukimashita",
+      "note": "Casual: お腹すいた (onaka suita)."
+    },
+    "menu_please": {
+      "text": "メニューをお願いします",
+      "roman": "Menyū o onegai shimasu"
+    },
+    "bill_please": {
+      "text": "お会計をお願いします",
+      "roman": "Okaikei o onegai shimasu",
+      "note": "Also お勘定 (okanjō). In many places you pay at the register by the door."
+    },
+    "delicious": {
+      "text": "おいしい！",
+      "roman": "Oishii!",
+      "note": "Politer, e.g. to a host: おいしいです (oishii desu)."
+    },
+    "no_meat": {
+      "text": "肉は食べません",
+      "roman": "Niku wa tabemasen",
+      "note": "Vegetarian: ベジタリアンです (bejitarian desu)."
+    },
+    "enjoy_meal": {
+      "text": "いただきます",
+      "roman": "Itadakimasu",
+      "note": "Said by those about to eat. A host inviting guests to eat says どうぞ召し上がってください (dōzo meshiagatte kudasai)."
+    },
+    "left": {
+      "text": "左",
+      "roman": "Hidari"
+    },
+    "right": {
+      "text": "右",
+      "roman": "Migi"
+    },
+    "straight_ahead": {
+      "text": "まっすぐ",
+      "roman": "Massugu",
+      "note": "Go straight on: まっすぐ行ってください (massugu itte kudasai)."
+    },
+    "stop_here": {
+      "text": "ここで止めてください",
+      "roman": "Koko de tomete kudasai",
+      "note": "Also very common: ここでお願いします (koko de onegai shimasu)."
+    },
+    "airport": {
+      "text": "空港",
+      "roman": "Kūkō"
+    },
+    "hotel": {
+      "text": "ホテル",
+      "roman": "Hoteru"
+    },
+    "train_station": {
+      "text": "駅",
+      "roman": "Eki"
+    },
+    "want_to_go": {
+      "text": "…に行きたいです",
+      "roman": "… ni ikitai desu",
+      "note": "To a taxi driver: …までお願いします (… made onegai shimasu)."
+    },
+    "is_it_far": {
+      "text": "遠いですか？",
+      "roman": "Tōi desu ka?"
+    },
+    "one_ticket": {
+      "text": "切符を一枚お願いします",
+      "roman": "Kippu o ichimai onegai shimasu",
+      "note": "一枚 (ichimai) is \"one\" for flat things such as tickets."
+    },
+    "too_expensive": {
+      "text": "高すぎます",
+      "roman": "Takasugimasu",
+      "note": "Haggling is unusual in most Japanese shops."
+    },
+    "cheaper": {
+      "text": "もう少し安いのはありますか？",
+      "roman": "Mō sukoshi yasui no wa arimasu ka?"
+    },
+    "id_like_this": {
+      "text": "これをください",
+      "roman": "Kore o kudasai",
+      "note": "Also これにします (kore ni shimasu), \"I'll take this one\"."
+    },
+    "just_looking": {
+      "text": "見ているだけです",
+      "roman": "Mite iru dake desu",
+      "note": "In speech often shortened to 見てるだけです (miteru dake desu)."
+    },
+    "pay_card": {
+      "text": "カードで払えますか？",
+      "roman": "Kādo de haraemasu ka?",
+      "note": "Also common: カード使えますか (kādo tsukaemasu ka)."
+    },
+    "cash": {
+      "text": "現金",
+      "roman": "Genkin",
+      "note": "In cash: 現金で (genkin de)."
+    },
+    "open": {
+      "text": "営業中",
+      "roman": "Eigyōchū"
+    },
+    "closed": {
+      "text": "準備中",
+      "roman": "Junbichū",
+      "note": "Literally \"preparing\", the flip side of 営業中. Closed all day: 本日休業 (honjitsu kyūgyō)."
+    },
+    "big": {
+      "text": "大きい",
+      "roman": "Ōkii"
+    },
+    "small": {
+      "text": "小さい",
+      "roman": "Chiisai"
+    },
+    "today": {
+      "text": "今日",
+      "roman": "Kyō"
+    },
+    "tomorrow": {
+      "text": "明日",
+      "roman": "Ashita",
+      "note": "Also read asu (a little formal) or myōnichi (very formal, e.g. business)."
+    },
+    "yesterday": {
+      "text": "昨日",
+      "roman": "Kinō"
+    },
+    "now": {
+      "text": "今",
+      "roman": "Ima"
+    },
+    "later": {
+      "text": "後で",
+      "roman": "Ato de",
+      "note": "Politer: のちほど (nochihodo)."
+    },
+    "good_evening": {
+      "text": "こんばんは",
+      "roman": "Konbanwa"
+    },
+    "good_night": {
+      "text": "おやすみなさい",
+      "roman": "Oyasumi nasai",
+      "note": "Before sleep; casual おやすみ (oyasumi). Leaving somewhere at night: 失礼します (shitsurei shimasu)."
+    },
+    "see_you_later": {
+      "text": "また後で",
+      "roman": "Mata ato de",
+      "note": "For the next day: また明日 (mata ashita)."
+    },
+    "wait_moment": {
+      "text": "ちょっと待ってください",
+      "roman": "Chotto matte kudasai",
+      "note": "Staff say the formal 少々お待ちください (shōshō omachi kudasai)."
+    },
+    "every_day": {
+      "text": "毎日",
+      "roman": "Mainichi"
+    },
+    "help": {
+      "text": "助けて！",
+      "roman": "Tasukete!"
+    },
+    "call_police": {
+      "text": "警察を呼んでください！",
+      "roman": "Keisatsu o yonde kudasai!",
+      "note": "The police number in Japan is 110, said hyakutōban."
+    },
+    "need_doctor": {
+      "text": "医者に診てもらいたいです",
+      "roman": "Isha ni mite moraitai desu",
+      "note": "Literally \"I'd like a doctor to see me\". Urgent: 医者を呼んでください (isha o yonde kudasai)."
+    },
+    "im_lost": {
+      "text": "道に迷いました",
+      "roman": "Michi ni mayoimashita"
+    },
+    "dont_feel_well": {
+      "text": "具合が悪いです",
+      "roman": "Guai ga warui desu",
+      "note": "Feeling sick or nauseous: 気分が悪いです (kibun ga warui desu)."
+    },
+    "pharmacy": {
+      "text": "薬局",
+      "roman": "Yakkyoku",
+      "note": "Drugstores, ドラッグストア (doraggusutoa), also sell basic medicine."
+    },
+    "hospital": {
+      "text": "病院",
+      "roman": "Byōin",
+      "note": "Careful: 美容院 (biyōin) is a hair salon."
+    },
+    "lost_phone": {
+      "text": "携帯をなくしました",
+      "roman": "Keitai o nakushimashita",
+      "note": "Also スマホ (sumaho), \"smartphone\"."
+    },
+    "allergic": {
+      "text": "…のアレルギーがあります",
+      "roman": "… no arerugī ga arimasu",
+      "note": "の is often dropped: 卵アレルギーがあります (tamago arerugī ga arimasu), egg allergy."
+    },
+    "be_careful": {
+      "text": "気をつけてください！",
+      "roman": "Ki o tsukete kudasai!",
+      "note": "As a sudden warning shout: 危ない！ (abunai!), \"watch out!\""
+    },
+    "no_problem": {
+      "text": "大丈夫です",
+      "roman": "Daijōbu desu",
+      "note": "More formal: 問題ありません (mondai arimasen)."
+    },
+    "of_course": {
+      "text": "もちろんです",
+      "roman": "Mochiron desu"
+    },
+    "maybe": {
+      "text": "たぶん",
+      "roman": "Tabun",
+      "note": "Also かもしれません (kamo shiremasen) at the end of a sentence: \"it might be\"."
+    },
+    "dont_know": {
+      "text": "ちょっとわかりません",
+      "roman": "Chotto wakarimasen",
+      "note": "ちょっと softens it. 知りません (shirimasen) also means \"I don't know\" but can sound curt."
+    },
+    "i_like_it": {
+      "text": "好きです",
+      "roman": "Suki desu",
+      "note": "About something just seen or received: 気に入りました (ki ni irimashita)."
+    },
+    "dont_like_it": {
+      "text": "あまり好きではありません",
+      "roman": "Amari suki de wa arimasen",
+      "note": "あまり (\"not very\") softens it. Conversational: 好きじゃないです (suki ja nai desu)."
+    },
+    "im_tired": {
+      "text": "疲れました",
+      "roman": "Tsukaremashita",
+      "note": "Past form, as in \"I've got tired\". Casual: 疲れた (tsukareta)."
+    },
+    "im_happy": {
+      "text": "うれしいです",
+      "roman": "Ureshii desu",
+      "note": "Happy about something that just happened. Happy in life: 幸せです (shiawase desu)."
+    },
+    "welcome": {
+      "text": "ようこそ！",
+      "roman": "Yōkoso!",
+      "note": "Shops and restaurants greet customers with いらっしゃいませ (irasshaimase)."
+    },
+    "congratulations": {
+      "text": "おめでとうございます！",
+      "roman": "Omedetō gozaimasu!",
+      "note": "Among friends: おめでとう (omedetō)."
+    }
+  }
+}

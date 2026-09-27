@@ -1,0 +1,391 @@
+{
+  "code": "sv",
+  "phrases": {
+    "hello": {
+      "text": "Hej",
+      "note": "Pronounced like 'hey'. Casual: Hej hej! or Tjena! Hej works for everyone, even your boss."
+    },
+    "goodbye": {
+      "text": "Hej då",
+      "note": "Warmer: Ha det bra! (take care). Adjö is formal and sounds final."
+    },
+    "please": {
+      "text": "Snälla",
+      "note": "Snälla can sound pleading. In everyday requests Swedes add tack instead: En kaffe, tack."
+    },
+    "thank_you": {
+      "text": "Tack",
+      "note": "Warmer: Tack så mycket! or Tack ska du ha!"
+    },
+    "youre_welcome": {
+      "text": "Ingen orsak",
+      "note": "Also common: Varsågod or Det var så lite. Varsågod also means 'here you are'."
+    },
+    "yes": {
+      "text": "Ja",
+      "note": "To say yes to a negative question, use jo: Kommer du inte? – Jo!"
+    },
+    "no": {
+      "text": "Nej"
+    },
+    "sorry": {
+      "text": "Förlåt",
+      "note": "Formal apology: Jag ber om ursäkt. Sorry is also very common."
+    },
+    "excuse_me": {
+      "text": "Ursäkta",
+      "note": "Longer: Ursäkta mig. The same word works to squeeze past someone."
+    },
+    "good_morning": {
+      "text": "God morgon",
+      "note": "Usually sounds like 'go-morron'. Casual: Morrn! Many Swedes simply say Hej."
+    },
+    "how_are_you": {
+      "text": "Hur mår du?",
+      "note": "Swedes say du even to strangers; ni sounds stiff. Casual: Hur är det? or Läget?"
+    },
+    "im_fine": {
+      "text": "Jag mår bra, tack",
+      "note": "Shorter: Bra, tack! To ask back: Och du? Jag is usually pronounced 'ya'."
+    },
+    "whats_your_name": {
+      "text": "Vad heter du?",
+      "note": "Vad sounds like 'vah' – the d is silent."
+    },
+    "my_name_is": {
+      "text": "Jag heter …",
+      "note": "More formal: Mitt namn är …"
+    },
+    "nice_to_meet_you": {
+      "text": "Trevligt att träffas",
+      "note": "Also common: Kul att träffas! or simply Trevligt!"
+    },
+    "where_from": {
+      "text": "Var kommer du ifrån?",
+      "note": "Also: Varifrån kommer du?"
+    },
+    "im_from": {
+      "text": "Jag kommer från …",
+      "note": "Also: Jag är från …"
+    },
+    "speak_english": {
+      "text": "Pratar du engelska?",
+      "note": "Slightly more formal: Talar du engelska?"
+    },
+    "dont_understand": {
+      "text": "Jag förstår inte",
+      "note": "To ask someone to repeat: Förlåt? or Ursäkta, vad sa du?"
+    },
+    "speak_slowly": {
+      "text": "Skulle du kunna prata lite långsammare?",
+      "note": "Simpler: Kan du prata lite långsammare? Politeness comes from the question form, not a word for please."
+    },
+    "where": {
+      "text": "Var?",
+      "note": "Where to? is Vart? – Vart ska du? (Where are you going?)"
+    },
+    "what": {
+      "text": "Vad?",
+      "note": "The d is silent: 'vah'. Casual, also spelled that way: Va?"
+    },
+    "when": {
+      "text": "När?"
+    },
+    "why": {
+      "text": "Varför?"
+    },
+    "who": {
+      "text": "Vem?",
+      "note": "Asking about several people: Vilka?"
+    },
+    "how_much": {
+      "text": "Vad kostar det här?",
+      "note": "Also: Hur mycket kostar det? Det här works for anything; for an en-word item you can say den här."
+    },
+    "where_bathroom": {
+      "text": "Var är toaletten?",
+      "note": "Also: Var ligger toaletten? Casual: Var är toan?"
+    },
+    "can_you_help": {
+      "text": "Kan du hjälpa mig?",
+      "note": "More polite: Skulle du kunna hjälpa mig? The h in hjälpa is silent: 'yelpa'."
+    },
+    "what_time": {
+      "text": "Vad är klockan?",
+      "note": "Also common: Hur mycket är klockan?"
+    },
+    "what_means": {
+      "text": "Vad betyder det här?",
+      "note": "About a word someone just said: Vad betyder det?"
+    },
+    "one": {
+      "text": "Ett",
+      "note": "Before a noun: en or ett depending on the word – en kaffe, ett bröd. Counting uses ett."
+    },
+    "two": {
+      "text": "Två"
+    },
+    "three": {
+      "text": "Tre"
+    },
+    "four": {
+      "text": "Fyra"
+    },
+    "five": {
+      "text": "Fem"
+    },
+    "six": {
+      "text": "Sex",
+      "note": "Pronounced just like the English word, with a short e."
+    },
+    "seven": {
+      "text": "Sju",
+      "note": "Sj is the typical Swedish 'whoosh' sound, somewhere between 'hw' and 'sh'."
+    },
+    "eight": {
+      "text": "Åtta",
+      "note": "Å here sounds like the o in 'hot' (British)."
+    },
+    "nine": {
+      "text": "Nio",
+      "note": "In everyday speech often pronounced 'nee-eh'."
+    },
+    "ten": {
+      "text": "Tio",
+      "note": "In everyday speech often pronounced 'tee-eh'."
+    },
+    "water": {
+      "text": "Vatten",
+      "note": "Tap water: kranvatten. Sparkling: kolsyrat vatten or bubbelvatten."
+    },
+    "coffee": {
+      "text": "Kaffe",
+      "note": "Fika is the Swedish coffee break, usually with a bun or cake."
+    },
+    "tea": {
+      "text": "Te"
+    },
+    "bread": {
+      "text": "Bröd"
+    },
+    "im_hungry": {
+      "text": "Jag är hungrig",
+      "note": "Very hungry: Jag är jättehungrig!"
+    },
+    "menu_please": {
+      "text": "Kan jag få menyn, tack?",
+      "note": "Kan jag få …, tack? is the standard way to order anything."
+    },
+    "bill_please": {
+      "text": "Kan jag få notan, tack?",
+      "note": "Also common: Kan vi få betala? In many cafés you pay at the counter."
+    },
+    "delicious": {
+      "text": "Vad gott!",
+      "note": "Also: Jättegott! After the meal: Det var jättegott!"
+    },
+    "no_meat": {
+      "text": "Jag äter inte kött",
+      "note": "Also: Jag är vegetarian. The k in kött is soft, close to 'sh': 'shött'."
+    },
+    "enjoy_meal": {
+      "text": "Smaklig måltid!",
+      "note": "A host often says Varsågoda! to invite everyone to start eating."
+    },
+    "left": {
+      "text": "Vänster",
+      "note": "Turn left: Sväng vänster. On the left: till vänster."
+    },
+    "right": {
+      "text": "Höger",
+      "note": "Turn right: Sväng höger. On the right: till höger."
+    },
+    "straight_ahead": {
+      "text": "Rakt fram"
+    },
+    "stop_here": {
+      "text": "Du kan stanna här, tack",
+      "note": "Also as a question: Kan du stanna här?"
+    },
+    "airport": {
+      "text": "Flygplats",
+      "note": "The airport: flygplatsen – Swedish adds 'the' as an ending."
+    },
+    "hotel": {
+      "text": "Hotell",
+      "note": "Stress on the last syllable: ho-TELL."
+    },
+    "train_station": {
+      "text": "Tågstation",
+      "note": "Formal: järnvägsstation. A city's main station is Centralstationen."
+    },
+    "want_to_go": {
+      "text": "Jag vill åka till …",
+      "note": "Use åka when travelling by car, bus or train, and gå when walking."
+    },
+    "is_it_far": {
+      "text": "Är det långt?",
+      "note": "Also: Är det långt härifrån? or Är det långt att gå?"
+    },
+    "one_ticket": {
+      "text": "En biljett, tack",
+      "note": "Return ticket: tur och retur. One-way: enkelbiljett or enkel resa."
+    },
+    "too_expensive": {
+      "text": "Det är för dyrt",
+      "note": "Softer: Det är lite för dyrt."
+    },
+    "cheaper": {
+      "text": "Har ni något billigare?",
+      "note": "Ni here means 'you' as in the shop. Also: Finns det något billigare?"
+    },
+    "id_like_this": {
+      "text": "Jag tar den här, tack",
+      "note": "More formal: Jag skulle vilja ha den här. For an ett-word item: det här."
+    },
+    "just_looking": {
+      "text": "Jag tittar bara",
+      "note": "Often: Nej tack, jag tittar bara."
+    },
+    "pay_card": {
+      "text": "Kan jag betala med kort?",
+      "note": "A sign saying Kontantfritt means cash is not accepted."
+    },
+    "cash": {
+      "text": "Kontanter",
+      "note": "Always plural. To pay in cash: betala kontant."
+    },
+    "open": {
+      "text": "Öppet",
+      "note": "Opening hours: öppettider."
+    },
+    "closed": {
+      "text": "Stängt"
+    },
+    "big": {
+      "text": "Stor",
+      "note": "With ett-words: stort. Plural: stora."
+    },
+    "small": {
+      "text": "Liten",
+      "note": "Irregular: litet with ett-words, små in the plural."
+    },
+    "today": {
+      "text": "I dag",
+      "note": "Also written idag; both are correct."
+    },
+    "tomorrow": {
+      "text": "I morgon",
+      "note": "Also written imorgon, often said 'imorn'. Tomorrow morning: i morgon bitti."
+    },
+    "yesterday": {
+      "text": "I går",
+      "note": "Also written igår; both are correct."
+    },
+    "now": {
+      "text": "Nu",
+      "note": "Right now: just nu."
+    },
+    "later": {
+      "text": "Senare",
+      "note": "Casual, very common: sen."
+    },
+    "good_evening": {
+      "text": "God kväll",
+      "note": "Quite formal; most Swedes just say Hej."
+    },
+    "good_night": {
+      "text": "God natt",
+      "note": "Also: Sov gott! (sleep well)."
+    },
+    "see_you_later": {
+      "text": "Vi ses!",
+      "note": "Also: Vi ses senare! or Vi ses sen! Keeping in touch: Vi hörs!"
+    },
+    "wait_moment": {
+      "text": "Ett ögonblick, tack",
+      "note": "Casual: Vänta lite! or Vänta en sekund!"
+    },
+    "every_day": {
+      "text": "Varje dag",
+      "note": "Emphatic: varenda dag."
+    },
+    "help": {
+      "text": "Hjälp!",
+      "note": "The h is silent: sounds like 'yelp'."
+    },
+    "call_police": {
+      "text": "Ring polisen!",
+      "note": "The emergency number in Sweden is 112."
+    },
+    "need_doctor": {
+      "text": "Jag behöver en läkare",
+      "note": "Everyday word: doktor. Non-urgent medical advice by phone: 1177."
+    },
+    "im_lost": {
+      "text": "Jag har gått vilse",
+      "note": "Simpler: Jag hittar inte. If driving: Jag har kört vilse."
+    },
+    "dont_feel_well": {
+      "text": "Jag mår inte bra",
+      "note": "Careful: Jag mår illa means you feel sick to your stomach."
+    },
+    "pharmacy": {
+      "text": "Apotek",
+      "note": "The pharmacy: apoteket."
+    },
+    "hospital": {
+      "text": "Sjukhus",
+      "note": "Emergency room: akuten."
+    },
+    "lost_phone": {
+      "text": "Jag har tappat bort min mobil",
+      "note": "Mobil is the everyday word for a phone; telefon also works. Without bort, tappat can also mean dropped."
+    },
+    "allergic": {
+      "text": "Jag är allergisk mot …"
+    },
+    "be_careful": {
+      "text": "Var försiktig!",
+      "note": "Warning shout: Akta dig! or Se upp!"
+    },
+    "no_problem": {
+      "text": "Inga problem",
+      "note": "Also: Ingen fara! or Det är lugnt."
+    },
+    "of_course": {
+      "text": "Självklart",
+      "note": "Also: Såklart! or Visst!"
+    },
+    "maybe": {
+      "text": "Kanske",
+      "note": "The sk sounds like the sj in sju: 'kan-hweh'."
+    },
+    "dont_know": {
+      "text": "Jag vet inte"
+    },
+    "i_like_it": {
+      "text": "Jag gillar det",
+      "note": "Also: Jag tycker om det. About food: Det är gott!"
+    },
+    "dont_like_it": {
+      "text": "Jag gillar det inte",
+      "note": "Also: Jag tycker inte om det."
+    },
+    "im_tired": {
+      "text": "Jag är trött"
+    },
+    "im_happy": {
+      "text": "Jag är glad",
+      "note": "Deeply happy, in life: Jag är lycklig."
+    },
+    "welcome": {
+      "text": "Välkommen!",
+      "note": "To several people: Välkomna!"
+    },
+    "congratulations": {
+      "text": "Grattis!",
+      "note": "More formal: Gratulerar! Birthday: Grattis på födelsedagen!"
+    }
+  }
+}

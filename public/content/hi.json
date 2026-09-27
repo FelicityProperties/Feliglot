@@ -1,0 +1,489 @@
+{
+  "code": "hi",
+  "phrases": {
+    "hello": {
+      "text": "नमस्ते",
+      "roman": "namaste",
+      "note": "Said with palms pressed together. More formal: नमस्कार (namaskaar)."
+    },
+    "goodbye": {
+      "text": "फिर मिलेंगे",
+      "roman": "phir milenge",
+      "note": "नमस्ते (namaste) also works when leaving. अलविदा (alvida) is only for final, dramatic farewells."
+    },
+    "please": {
+      "text": "कृपया",
+      "roman": "kripya",
+      "note": "Formal. In speech, politeness usually comes from the -iye verb ending (बैठिए, baithiye) or English 'please'."
+    },
+    "thank_you": {
+      "text": "धन्यवाद",
+      "roman": "dhanyavaad",
+      "note": "Equally common: शुक्रिया (shukriya)."
+    },
+    "youre_welcome": {
+      "text": "कोई बात नहीं",
+      "roman": "koi baat nahin",
+      "note": "Hindi has no set reply to thanks; this ('it's nothing') is the natural one."
+    },
+    "yes": {
+      "text": "हाँ",
+      "roman": "haan",
+      "note": "Politer: जी हाँ (ji haan) or just जी (ji)."
+    },
+    "no": {
+      "text": "नहीं",
+      "roman": "nahin",
+      "note": "Politer: जी नहीं (ji nahin). Casual: ना (na)."
+    },
+    "sorry": {
+      "text": "माफ़ कीजिए",
+      "roman": "maaf kijiye",
+      "note": "English 'sorry' (सॉरी) is also very common in everyday speech."
+    },
+    "excuse_me": {
+      "text": "सुनिए",
+      "roman": "suniye",
+      "note": "Literally 'please listen' — the usual way to call a stranger or a waiter."
+    },
+    "good_morning": {
+      "text": "सुप्रभात",
+      "roman": "suprabhaat",
+      "note": "Formal. Day to day, people say नमस्ते (namaste) or गुड मॉर्निंग (good morning)."
+    },
+    "how_are_you": {
+      "text": "आप कैसे हैं?",
+      "roman": "aap kaise hain?",
+      "note": "To a woman: आप कैसी हैं? (aap kaisi hain?)"
+    },
+    "im_fine": {
+      "text": "मैं ठीक हूँ, धन्यवाद",
+      "roman": "main theek hoon, dhanyavaad",
+      "note": "To ask back: और आप? (aur aap?)"
+    },
+    "whats_your_name": {
+      "text": "आपका नाम क्या है?",
+      "roman": "aapka naam kya hai?",
+      "note": "Extra respectful, e.g. to an elder: आपका शुभ नाम? (aapka shubh naam?)"
+    },
+    "my_name_is": {
+      "text": "मेरा नाम … है",
+      "roman": "mera naam … hai",
+      "note": "The verb है (hai, 'is') comes at the end, after the name."
+    },
+    "nice_to_meet_you": {
+      "text": "आपसे मिलकर खुशी हुई",
+      "roman": "aapse milkar khushi hui",
+      "note": "Also common: आपसे मिलकर अच्छा लगा (aapse milkar achchha laga)."
+    },
+    "where_from": {
+      "text": "आप कहाँ से हैं?",
+      "roman": "aap kahan se hain?"
+    },
+    "im_from": {
+      "text": "मैं … से हूँ",
+      "roman": "main … se hoon",
+      "note": "से (se, 'from') comes after the place: मैं भारत से हूँ (main Bhaarat se hoon)."
+    },
+    "speak_english": {
+      "text": "क्या आपको अंग्रेज़ी आती है?",
+      "roman": "kya aapko angrezi aati hai?",
+      "note": "Literally 'does English come to you?' Many people say इंग्लिश (english) instead of अंग्रेज़ी."
+    },
+    "dont_understand": {
+      "text": "मुझे समझ नहीं आया",
+      "roman": "mujhe samajh nahin aaya",
+      "note": "To ask for a repeat: फिर से बोलिए (phir se boliye)."
+    },
+    "speak_slowly": {
+      "text": "कृपया थोड़ा धीरे बोलिए",
+      "roman": "kripya thoda dheere boliye",
+      "note": "In speech often without कृपया — the -iye ending is already polite."
+    },
+    "where": {
+      "text": "कहाँ?",
+      "roman": "kahan?",
+      "note": "ँ (chandrabindu) nasalises the vowel: the n in kahan is not fully pronounced."
+    },
+    "what": {
+      "text": "क्या?",
+      "roman": "kya?",
+      "note": "On its own it can sound blunt; to ask someone to repeat, say जी? (ji?)."
+    },
+    "when": {
+      "text": "कब?",
+      "roman": "kab?"
+    },
+    "why": {
+      "text": "क्यों?",
+      "roman": "kyon?"
+    },
+    "who": {
+      "text": "कौन?",
+      "roman": "kaun?"
+    },
+    "how_much": {
+      "text": "यह कितने का है?",
+      "roman": "yeh kitne ka hai?",
+      "note": "Also: इसका दाम क्या है? (iska daam kya hai?)"
+    },
+    "where_bathroom": {
+      "text": "टॉयलेट कहाँ है?",
+      "roman": "toilet kahan hai?",
+      "note": "Also common: बाथरूम (bathroom), वॉशरूम (washroom). Signs say शौचालय (shauchaalay)."
+    },
+    "can_you_help": {
+      "text": "क्या आप मेरी मदद कर सकते हैं?",
+      "roman": "kya aap meri madad kar sakte hain?",
+      "note": "To a woman: क्या आप मेरी मदद कर सकती हैं? (kya aap meri madad kar sakti hain?)"
+    },
+    "what_time": {
+      "text": "कितने बजे हैं?",
+      "roman": "kitne baje hain?",
+      "note": "Very common too: टाइम क्या हुआ है? (time kya hua hai?)"
+    },
+    "what_means": {
+      "text": "इसका क्या मतलब है?",
+      "roman": "iska kya matlab hai?"
+    },
+    "one": {
+      "text": "एक",
+      "roman": "ek",
+      "note": "Devanagari digit: १ (everyday Hindi mostly writes 1)."
+    },
+    "two": {
+      "text": "दो",
+      "roman": "do",
+      "note": "Devanagari digit: २"
+    },
+    "three": {
+      "text": "तीन",
+      "roman": "teen",
+      "note": "Devanagari digit: ३"
+    },
+    "four": {
+      "text": "चार",
+      "roman": "chaar",
+      "note": "Devanagari digit: ४"
+    },
+    "five": {
+      "text": "पाँच",
+      "roman": "paanch",
+      "note": "Devanagari digit: ५"
+    },
+    "six": {
+      "text": "छह",
+      "roman": "chhah",
+      "note": "Devanagari digit: ६. Usually pronounced 'chhe'; also spelled छः."
+    },
+    "seven": {
+      "text": "सात",
+      "roman": "saat",
+      "note": "Devanagari digit: ७"
+    },
+    "eight": {
+      "text": "आठ",
+      "roman": "aath",
+      "note": "Devanagari digit: ८. ठ is a tongue-curled t with a puff of air, not English 'th'."
+    },
+    "nine": {
+      "text": "नौ",
+      "roman": "nau",
+      "note": "Devanagari digit: ९"
+    },
+    "ten": {
+      "text": "दस",
+      "roman": "das",
+      "note": "Devanagari digits: १०"
+    },
+    "water": {
+      "text": "पानी",
+      "roman": "paani"
+    },
+    "coffee": {
+      "text": "कॉफ़ी",
+      "roman": "coffee"
+    },
+    "tea": {
+      "text": "चाय",
+      "roman": "chai",
+      "note": "Order it as एक चाय (ek chai); it comes with milk and sugar unless you ask otherwise."
+    },
+    "bread": {
+      "text": "रोटी",
+      "roman": "roti",
+      "note": "रोटी is Indian flatbread. Sliced loaf bread is ब्रेड (bread) or डबल रोटी (double roti)."
+    },
+    "im_hungry": {
+      "text": "मुझे भूख लगी है",
+      "roman": "mujhe bhookh lagi hai"
+    },
+    "menu_please": {
+      "text": "मेन्यू दिखाइए",
+      "roman": "menu dikhaaiye",
+      "note": "Literally 'please show the menu'. Many say मेन्यू कार्ड (menu card)."
+    },
+    "bill_please": {
+      "text": "बिल ले आइए",
+      "roman": "bill le aaiye",
+      "note": "Also: बिल दीजिए (bill dijiye)."
+    },
+    "delicious": {
+      "text": "बहुत स्वादिष्ट है!",
+      "roman": "bahut swaadisht hai!",
+      "note": "Very common in speech: बहुत टेस्टी है! (bahut tasty hai!)"
+    },
+    "no_meat": {
+      "text": "मैं मांस नहीं खाता",
+      "roman": "main maans nahin khaata",
+      "note": "A woman says: मैं मांस नहीं खाती (main maans nahin khaati). Also: मैं शाकाहारी हूँ (main shaakaahaari hoon)."
+    },
+    "enjoy_meal": {
+      "text": "आराम से खाइए!",
+      "roman": "aaraam se khaaiye!",
+      "note": "Hindi has no fixed 'bon appétit'; hosts say this. Formal: भोजन का आनंद लीजिए (bhojan ka aanand lijiye)."
+    },
+    "left": {
+      "text": "बाएँ",
+      "roman": "baayen",
+      "note": "Turn left: बाएँ मुड़िए (baayen mudiye). Drivers also say लेफ़्ट (left)."
+    },
+    "right": {
+      "text": "दाएँ",
+      "roman": "daayen",
+      "note": "Turn right: दाएँ मुड़िए (daayen mudiye). Drivers also say राइट (right)."
+    },
+    "straight_ahead": {
+      "text": "सीधे",
+      "roman": "seedhe",
+      "note": "Go straight: सीधे जाइए (seedhe jaaiye)."
+    },
+    "stop_here": {
+      "text": "यहीं रोक दीजिए",
+      "roman": "yahin rok dijiye",
+      "note": "Drivers are often called भैया (bhaiya, 'brother'): भैया, यहीं रोक दीजिए."
+    },
+    "airport": {
+      "text": "हवाई अड्डा",
+      "roman": "havaai adda",
+      "note": "In everyday speech most people say एयरपोर्ट (airport)."
+    },
+    "hotel": {
+      "text": "होटल",
+      "roman": "hotel",
+      "note": "In many places होटल can also mean a simple restaurant."
+    },
+    "train_station": {
+      "text": "रेलवे स्टेशन",
+      "roman": "railway station",
+      "note": "Often just स्टेशन (station)."
+    },
+    "want_to_go": {
+      "text": "मुझे … जाना है",
+      "roman": "mujhe … jaana hai",
+      "note": "No word for 'to' is needed: मुझे दिल्ली जाना है (mujhe Dilli jaana hai)."
+    },
+    "is_it_far": {
+      "text": "क्या यहाँ से दूर है?",
+      "roman": "kya yahan se door hai?",
+      "note": "How far is it? कितनी दूर है? (kitni door hai?)"
+    },
+    "one_ticket": {
+      "text": "एक टिकट दीजिए",
+      "roman": "ek ticket dijiye",
+      "note": "Return ticket: आने-जाने का टिकट (aane-jaane ka ticket)."
+    },
+    "too_expensive": {
+      "text": "यह बहुत महँगा है",
+      "roman": "yeh bahut mehenga hai",
+      "note": "When bargaining, add: थोड़ा कम कीजिए (thoda kam kijiye), 'bring it down a bit'."
+    },
+    "cheaper": {
+      "text": "क्या इससे सस्ता कुछ है?",
+      "roman": "kya isse sasta kuchh hai?",
+      "note": "Also: कुछ सस्ता दिखाइए (kuchh sasta dikhaaiye), 'show me something cheaper'."
+    },
+    "id_like_this": {
+      "text": "मुझे यह चाहिए",
+      "roman": "mujhe yeh chaahiye",
+      "note": "When buying, also: यह दे दीजिए (yeh de dijiye)."
+    },
+    "just_looking": {
+      "text": "मैं बस देख रहा हूँ",
+      "roman": "main bas dekh raha hoon",
+      "note": "A woman says: मैं बस देख रही हूँ (main bas dekh rahi hoon)."
+    },
+    "pay_card": {
+      "text": "क्या कार्ड से पेमेंट हो सकता है?",
+      "roman": "kya card se payment ho sakta hai?",
+      "note": "Casual and very common: कार्ड चलेगा? (card chalega?)"
+    },
+    "cash": {
+      "text": "नकद",
+      "roman": "nakad",
+      "note": "In speech, कैश (cash) is just as common."
+    },
+    "open": {
+      "text": "खुला है",
+      "roman": "khula hai",
+      "note": "Many shop signs in India simply say OPEN in English."
+    },
+    "closed": {
+      "text": "बंद है",
+      "roman": "band hai",
+      "note": "बंद rhymes with 'fund', not English 'band'."
+    },
+    "big": {
+      "text": "बड़ा",
+      "roman": "bada",
+      "note": "बड़ी (badi) with feminine nouns. ड़ is a quick flap of the tongue, between d and r."
+    },
+    "small": {
+      "text": "छोटा",
+      "roman": "chhota",
+      "note": "छोटी (chhoti) with feminine nouns."
+    },
+    "today": {
+      "text": "आज",
+      "roman": "aaj"
+    },
+    "tomorrow": {
+      "text": "कल",
+      "roman": "kal",
+      "note": "Same word as 'yesterday'; the verb tense decides: कल मिलेंगे (kal milenge) = see you tomorrow."
+    },
+    "yesterday": {
+      "text": "कल",
+      "roman": "kal",
+      "note": "Same word as 'tomorrow'; the verb tense decides: कल बारिश हुई (kal baarish hui) = it rained yesterday."
+    },
+    "now": {
+      "text": "अभी",
+      "roman": "abhi",
+      "note": "अभी is 'right now'; अब (ab) is 'now' as in 'from now on'."
+    },
+    "later": {
+      "text": "बाद में",
+      "roman": "baad mein"
+    },
+    "good_evening": {
+      "text": "शुभ संध्या",
+      "roman": "shubh sandhya",
+      "note": "Formal (TV, speeches). In daily life people just say नमस्ते (namaste) in the evening too."
+    },
+    "good_night": {
+      "text": "शुभ रात्रि",
+      "roman": "shubh raatri",
+      "note": "In everyday speech: गुड नाइट (good night)."
+    },
+    "see_you_later": {
+      "text": "बाद में मिलते हैं",
+      "roman": "baad mein milte hain",
+      "note": "Also: फिर मिलते हैं (phir milte hain)."
+    },
+    "wait_moment": {
+      "text": "एक मिनट रुकिए",
+      "roman": "ek minute rukiye",
+      "note": "Also common: ज़रा रुकिए (zara rukiye)."
+    },
+    "every_day": {
+      "text": "हर दिन",
+      "roman": "har din",
+      "note": "Also very common: रोज़ (roz)."
+    },
+    "help": {
+      "text": "बचाओ!",
+      "roman": "bachaao!",
+      "note": "Also shouted: मदद करो! (madad karo!)"
+    },
+    "call_police": {
+      "text": "पुलिस को बुलाओ!",
+      "roman": "police ko bulaao!",
+      "note": "Polite form: पुलिस को बुलाइए (police ko bulaaiye). Emergency number in India: 112."
+    },
+    "need_doctor": {
+      "text": "मुझे डॉक्टर की ज़रूरत है",
+      "roman": "mujhe doctor ki zaroorat hai",
+      "note": "Also: डॉक्टर को बुलाइए (doctor ko bulaaiye), 'please call a doctor'."
+    },
+    "im_lost": {
+      "text": "मैं रास्ता भटक गया हूँ",
+      "roman": "main raasta bhatak gaya hoon",
+      "note": "A woman says: मैं रास्ता भटक गई हूँ (main raasta bhatak gayi hoon)."
+    },
+    "dont_feel_well": {
+      "text": "मेरी तबीयत ठीक नहीं है",
+      "roman": "meri tabiyat theek nahin hai"
+    },
+    "pharmacy": {
+      "text": "दवाई की दुकान",
+      "roman": "davaai ki dukaan",
+      "note": "Signs usually say केमिस्ट (chemist) or मेडिकल स्टोर (medical store)."
+    },
+    "hospital": {
+      "text": "अस्पताल",
+      "roman": "aspataal"
+    },
+    "lost_phone": {
+      "text": "मेरा फ़ोन खो गया है",
+      "roman": "mera phone kho gaya hai",
+      "note": "If it was stolen: मेरा फ़ोन चोरी हो गया है (mera phone chori ho gaya hai)."
+    },
+    "allergic": {
+      "text": "मुझे … से एलर्जी है",
+      "roman": "mujhe … se allergy hai"
+    },
+    "be_careful": {
+      "text": "ध्यान से!",
+      "roman": "dhyaan se!",
+      "note": "Also: संभलकर! (sambhalkar!). Warning signs say सावधान (saavdhaan)."
+    },
+    "no_problem": {
+      "text": "कोई दिक्कत नहीं",
+      "roman": "koi dikkat nahin",
+      "note": "Also very common: कोई बात नहीं (koi baat nahin)."
+    },
+    "of_course": {
+      "text": "ज़रूर",
+      "roman": "zaroor",
+      "note": "Also: बिल्कुल (bilkul), 'absolutely'."
+    },
+    "maybe": {
+      "text": "शायद",
+      "roman": "shaayad"
+    },
+    "dont_know": {
+      "text": "मुझे नहीं पता",
+      "roman": "mujhe nahin pata",
+      "note": "Shorter and casual: पता नहीं (pata nahin)."
+    },
+    "i_like_it": {
+      "text": "मुझे यह पसंद है",
+      "roman": "mujhe yeh pasand hai",
+      "note": "Also: मुझे अच्छा लगा (mujhe achchha laga), 'I liked it'."
+    },
+    "dont_like_it": {
+      "text": "मुझे यह पसंद नहीं है",
+      "roman": "mujhe yeh pasand nahin hai"
+    },
+    "im_tired": {
+      "text": "मैं थक गया हूँ",
+      "roman": "main thak gaya hoon",
+      "note": "A woman says: मैं थक गई हूँ (main thak gayi hoon)."
+    },
+    "im_happy": {
+      "text": "मैं खुश हूँ",
+      "roman": "main khush hoon"
+    },
+    "welcome": {
+      "text": "आपका स्वागत है!",
+      "roman": "aapka swaagat hai!",
+      "note": "Warm and very common at the door: आइए, आइए! (aaiye, aaiye!)"
+    },
+    "congratulations": {
+      "text": "बधाई हो!",
+      "roman": "badhaai ho!",
+      "note": "Also common: मुबारक हो! (mubaarak ho!)"
+    }
+  }
+}

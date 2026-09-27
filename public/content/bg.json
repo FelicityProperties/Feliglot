@@ -1,0 +1,468 @@
+{
+  "code": "bg",
+  "phrases": {
+    "hello": {
+      "text": "Здравейте",
+      "roman": "Zdraveyte",
+      "note": "To a friend: Здравей (zdravey). Very casual: Здрасти (zdrasti). Добър ден (dobar den) also works until evening."
+    },
+    "goodbye": {
+      "text": "Довиждане",
+      "roman": "Dovizhdane",
+      "note": "Casual: Чао (chao)."
+    },
+    "please": {
+      "text": "Моля",
+      "roman": "Molya",
+      "note": "Also means 'pardon?' and is a common reply to a thank-you."
+    },
+    "thank_you": {
+      "text": "Благодаря",
+      "roman": "Blagodarya",
+      "note": "Stress on the last syllable: blagoda-RYA. Casual: Мерси (mersi)."
+    },
+    "youre_welcome": {
+      "text": "Няма защо",
+      "roman": "Nyama zashto",
+      "note": "Also very common: Моля (molya)."
+    },
+    "yes": {
+      "text": "Да",
+      "roman": "Da",
+      "note": "Head gestures are reversed: a side-to-side shake often means yes, an up-down nod means no."
+    },
+    "no": {
+      "text": "Не",
+      "roman": "Ne",
+      "note": "Politely declining: Не, благодаря (ne, blagodarya)."
+    },
+    "sorry": {
+      "text": "Извинявайте",
+      "roman": "Izvinyavayte",
+      "note": "To a friend: Извинявай (izvinyavay). For real regret: Съжалявам (sazhalyavam)."
+    },
+    "excuse_me": {
+      "text": "Извинете",
+      "roman": "Izvinete",
+      "note": "Start any question to a stranger with it. Also works as a quick apology."
+    },
+    "good_morning": {
+      "text": "Добро утро",
+      "roman": "Dobro utro",
+      "note": "Used until about 10 a.m.; after that people say Добър ден (dobar den)."
+    },
+    "how_are_you": {
+      "text": "Как сте?",
+      "roman": "Kak ste?",
+      "note": "To a friend: Как си? (kak si?)"
+    },
+    "im_fine": {
+      "text": "Добре съм, благодаря",
+      "roman": "Dobre sam, blagodarya",
+      "note": "The ъ in съм sounds like the u in 'but'. Shorter: Добре, благодаря (dobre, blagodarya)."
+    },
+    "whats_your_name": {
+      "text": "Как се казвате?",
+      "roman": "Kak se kazvate?",
+      "note": "To a friend or child: Как се казваш? (kak se kazvash?)"
+    },
+    "my_name_is": {
+      "text": "Казвам се …",
+      "roman": "Kazvam se …",
+      "note": "Or simply: Аз съм … (az sam …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Приятно ми е",
+      "roman": "Priyatno mi e",
+      "note": "Fuller: Приятно ми е да се запознаем (priyatno mi e da se zapoznaem)."
+    },
+    "where_from": {
+      "text": "Откъде сте?",
+      "roman": "Otkade ste?",
+      "note": "To a friend: Откъде си? (otkade si?)"
+    },
+    "im_from": {
+      "text": "Аз съм от …",
+      "roman": "Az sam ot …",
+      "note": "Also very common: От … съм (ot … sam)."
+    },
+    "speak_english": {
+      "text": "Говорите ли английски?",
+      "roman": "Govorite li angliyski?",
+      "note": "To a friend: Говориш ли английски? (govorish li angliyski?)"
+    },
+    "dont_understand": {
+      "text": "Не разбирам",
+      "roman": "Ne razbiram",
+      "note": "To ask for a repeat: Моля, повторете (molya, povtorete)."
+    },
+    "speak_slowly": {
+      "text": "Моля, говорете по-бавно",
+      "roman": "Molya, govorete po-bavno"
+    },
+    "where": {
+      "text": "Къде?",
+      "roman": "Kade?"
+    },
+    "what": {
+      "text": "Какво?",
+      "roman": "Kakvo?",
+      "note": "Stress on the last syllable: kak-VO."
+    },
+    "when": {
+      "text": "Кога?",
+      "roman": "Koga?",
+      "note": "Stress on the last syllable: ko-GA."
+    },
+    "why": {
+      "text": "Защо?",
+      "roman": "Zashto?"
+    },
+    "who": {
+      "text": "Кой?",
+      "roman": "Koy?"
+    },
+    "how_much": {
+      "text": "Колко струва това?",
+      "roman": "Kolko struva tova?",
+      "note": "Shorter: Колко струва? (kolko struva?)"
+    },
+    "where_bathroom": {
+      "text": "Къде е тоалетната?",
+      "roman": "Kade e toaletnata?",
+      "note": "Signs: М for men, Ж for women."
+    },
+    "can_you_help": {
+      "text": "Можете ли да ми помогнете?",
+      "roman": "Mozhete li da mi pomognete?",
+      "note": "To a friend: Можеш ли да ми помогнеш? (mozhesh li da mi pomognesh?)"
+    },
+    "what_time": {
+      "text": "Колко е часът?",
+      "roman": "Kolko e chasat?"
+    },
+    "what_means": {
+      "text": "Какво означава това?",
+      "roman": "Kakvo oznachava tova?"
+    },
+    "one": {
+      "text": "Едно",
+      "roman": "Edno",
+      "note": "The counting form. With nouns: един (edin) for masculine, една (edna) for feminine."
+    },
+    "two": {
+      "text": "Две",
+      "roman": "Dve",
+      "note": "With masculine nouns: два (dva), e.g. два билета (dva bileta), two tickets."
+    },
+    "three": {
+      "text": "Три",
+      "roman": "Tri"
+    },
+    "four": {
+      "text": "Четири",
+      "roman": "Chetiri"
+    },
+    "five": {
+      "text": "Пет",
+      "roman": "Pet"
+    },
+    "six": {
+      "text": "Шест",
+      "roman": "Shest"
+    },
+    "seven": {
+      "text": "Седем",
+      "roman": "Sedem"
+    },
+    "eight": {
+      "text": "Осем",
+      "roman": "Osem"
+    },
+    "nine": {
+      "text": "Девет",
+      "roman": "Devet"
+    },
+    "ten": {
+      "text": "Десет",
+      "roman": "Deset"
+    },
+    "water": {
+      "text": "Вода",
+      "roman": "Voda",
+      "note": "Stress on the last syllable: vo-DA. Bottled still water: минерална вода (mineralna voda)."
+    },
+    "coffee": {
+      "text": "Кафе",
+      "roman": "Kafe",
+      "note": "Stress on the last syllable: ka-FE."
+    },
+    "tea": {
+      "text": "Чай",
+      "roman": "Chay"
+    },
+    "bread": {
+      "text": "Хляб",
+      "roman": "Hlyab",
+      "note": "х is a breathy h, like the ch in Scottish 'loch'."
+    },
+    "im_hungry": {
+      "text": "Гладен съм",
+      "roman": "Gladen sam",
+      "note": "A woman says: Гладна съм (gladna sam)."
+    },
+    "menu_please": {
+      "text": "Менюто, моля",
+      "roman": "Menyuto, molya",
+      "note": "Also very common: Може ли менюто? (mozhe li menyuto?)"
+    },
+    "bill_please": {
+      "text": "Сметката, моля",
+      "roman": "Smetkata, molya",
+      "note": "Also very common: Може ли сметката? (mozhe li smetkata?)"
+    },
+    "delicious": {
+      "text": "Много е вкусно!",
+      "roman": "Mnogo e vkusno!",
+      "note": "Short and casual: Много вкусно! (mnogo vkusno!)"
+    },
+    "no_meat": {
+      "text": "Не ям месо",
+      "roman": "Ne yam meso",
+      "note": "I'm vegetarian: Вегетарианец съм (vegetarianets sam); a woman: Вегетарианка съм (vegetarianka sam)."
+    },
+    "enjoy_meal": {
+      "text": "Добър апетит!",
+      "roman": "Dobar apetit!"
+    },
+    "left": {
+      "text": "Наляво",
+      "roman": "Nalyavo",
+      "note": "For where something is: вляво (vlyavo), on the left."
+    },
+    "right": {
+      "text": "Надясно",
+      "roman": "Nadyasno",
+      "note": "For where something is: вдясно (vdyasno), on the right."
+    },
+    "straight_ahead": {
+      "text": "Направо",
+      "roman": "Napravo",
+      "note": "Also: Право напред (pravo napred)."
+    },
+    "stop_here": {
+      "text": "Спрете тук, моля",
+      "roman": "Sprete tuk, molya"
+    },
+    "airport": {
+      "text": "Летище",
+      "roman": "Letishte"
+    },
+    "hotel": {
+      "text": "Хотел",
+      "roman": "Hotel"
+    },
+    "train_station": {
+      "text": "Гара",
+      "roman": "Gara",
+      "note": "Bus station: автогара (avtogara)."
+    },
+    "want_to_go": {
+      "text": "Искам да отида до …",
+      "roman": "Iskam da otida do …",
+      "note": "In a taxi, just say: До …, моля (do …, molya)."
+    },
+    "is_it_far": {
+      "text": "Далеч ли е?",
+      "roman": "Dalech li e?"
+    },
+    "one_ticket": {
+      "text": "Един билет, моля",
+      "roman": "Edin bilet, molya",
+      "note": "Two tickets: Два билета (dva bileta)."
+    },
+    "too_expensive": {
+      "text": "Много е скъпо",
+      "roman": "Mnogo e skapo",
+      "note": "Stronger: Прекалено скъпо е (prekaleno skapo e)."
+    },
+    "cheaper": {
+      "text": "Имате ли нещо по-евтино?",
+      "roman": "Imate li neshto po-evtino?"
+    },
+    "id_like_this": {
+      "text": "Искам това, моля",
+      "roman": "Iskam tova, molya",
+      "note": "When buying: Ще взема това (shte vzema tova), 'I'll take this'."
+    },
+    "just_looking": {
+      "text": "Само разглеждам",
+      "roman": "Samo razglezhdam",
+      "note": "Add благодаря (blagodarya) to sound friendly."
+    },
+    "pay_card": {
+      "text": "Може ли да платя с карта?",
+      "roman": "Mozhe li da platya s karta?",
+      "note": "Shortest and very common: Може ли с карта? (mozhe li s karta?)"
+    },
+    "cash": {
+      "text": "В брой",
+      "roman": "V broy",
+      "note": "The answer to 'card or cash?'. Cash itself is пари в брой (pari v broy); casually кеш (kesh)."
+    },
+    "open": {
+      "text": "Отворено",
+      "roman": "Otvoreno"
+    },
+    "closed": {
+      "text": "Затворено",
+      "roman": "Zatvoreno"
+    },
+    "big": {
+      "text": "Голям",
+      "roman": "Golyam",
+      "note": "Feminine: голяма (golyama); neuter: голямо (golyamo)."
+    },
+    "small": {
+      "text": "Малък",
+      "roman": "Malak",
+      "note": "Feminine: малка (malka); neuter: малко (malko)."
+    },
+    "today": {
+      "text": "Днес",
+      "roman": "Dnes"
+    },
+    "tomorrow": {
+      "text": "Утре",
+      "roman": "Utre"
+    },
+    "yesterday": {
+      "text": "Вчера",
+      "roman": "Vchera"
+    },
+    "now": {
+      "text": "Сега",
+      "roman": "Sega",
+      "note": "Stress on the last syllable: se-GA."
+    },
+    "later": {
+      "text": "По-късно",
+      "roman": "Po-kasno",
+      "note": "Also: После (posle), afterwards."
+    },
+    "good_evening": {
+      "text": "Добър вечер",
+      "roman": "Dobar vecher",
+      "note": "Вечер is feminine, but the greeting keeps the fixed form добър."
+    },
+    "good_night": {
+      "text": "Лека нощ",
+      "roman": "Leka nosht"
+    },
+    "see_you_later": {
+      "text": "До скоро",
+      "roman": "Do skoro",
+      "note": "Also: Ще се видим (shte se vidim), 'we'll see each other'."
+    },
+    "wait_moment": {
+      "text": "Един момент, моля",
+      "roman": "Edin moment, molya",
+      "note": "Also: Изчакайте малко, моля (izchakayte malko, molya)."
+    },
+    "every_day": {
+      "text": "Всеки ден",
+      "roman": "Vseki den"
+    },
+    "help": {
+      "text": "Помощ!",
+      "roman": "Pomosht!"
+    },
+    "call_police": {
+      "text": "Извикайте полиция!",
+      "roman": "Izvikayte politsiya!",
+      "note": "The emergency number in Bulgaria is 112."
+    },
+    "need_doctor": {
+      "text": "Трябва ми лекар",
+      "roman": "Tryabva mi lekar",
+      "note": "Also common: доктор (doktor)."
+    },
+    "im_lost": {
+      "text": "Загубих се",
+      "roman": "Zagubih se",
+      "note": "Also: Изгубих се (izgubih se)."
+    },
+    "dont_feel_well": {
+      "text": "Не се чувствам добре",
+      "roman": "Ne se chuvstvam dobre",
+      "note": "Feeling sick or dizzy: Лошо ми е (losho mi e)."
+    },
+    "pharmacy": {
+      "text": "Аптека",
+      "roman": "Apteka"
+    },
+    "hospital": {
+      "text": "Болница",
+      "roman": "Bolnitsa"
+    },
+    "lost_phone": {
+      "text": "Загубих си телефона",
+      "roman": "Zagubih si telefona"
+    },
+    "allergic": {
+      "text": "Алергичен съм към …",
+      "roman": "Alergichen sam kam …",
+      "note": "A woman says: Алергична съм към … (alergichna sam kam …)."
+    },
+    "be_careful": {
+      "text": "Внимавайте!",
+      "roman": "Vnimavayte!",
+      "note": "To a friend: Внимавай! (vnimavay!)"
+    },
+    "no_problem": {
+      "text": "Няма проблем",
+      "roman": "Nyama problem"
+    },
+    "of_course": {
+      "text": "Разбира се",
+      "roman": "Razbira se",
+      "note": "Also: Естествено (estestveno)."
+    },
+    "maybe": {
+      "text": "Може би",
+      "roman": "Mozhe bi"
+    },
+    "dont_know": {
+      "text": "Не знам",
+      "roman": "Ne znam"
+    },
+    "i_like_it": {
+      "text": "Харесва ми",
+      "roman": "Haresva mi"
+    },
+    "dont_like_it": {
+      "text": "Не ми харесва",
+      "roman": "Ne mi haresva"
+    },
+    "im_tired": {
+      "text": "Уморен съм",
+      "roman": "Umoren sam",
+      "note": "A woman says: Уморена съм (umorena sam)."
+    },
+    "im_happy": {
+      "text": "Щастлив съм",
+      "roman": "Shtastliv sam",
+      "note": "A woman says: Щастлива съм (shtastliva sam). 'Glad': Радвам се (radvam se)."
+    },
+    "welcome": {
+      "text": "Добре дошли!",
+      "roman": "Dobre doshli!",
+      "note": "To a friend: Добре дошъл (dobre doshal) to a man, Добре дошла (dobre doshla) to a woman."
+    },
+    "congratulations": {
+      "text": "Честито!",
+      "roman": "Chestito!",
+      "note": "More formal: Поздравления! (pozdravleniya!)"
+    }
+  }
+}

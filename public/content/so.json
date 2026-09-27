@@ -1,0 +1,355 @@
+{
+  "code": "so",
+  "phrases": {
+    "hello": {
+      "text": "Salaamu calaykum",
+      "note": "Reply: wacalaykum salaam. Used by Somalis everywhere, at any time of day."
+    },
+    "goodbye": {
+      "text": "Nabad gelyo",
+      "note": "Casual: nabadeey."
+    },
+    "please": {
+      "text": "Fadlan"
+    },
+    "thank_you": {
+      "text": "Mahadsanid",
+      "note": "Thank you very much: aad baad u mahadsan tahay. To several people: mahadsanidiin."
+    },
+    "youre_welcome": {
+      "text": "Adaa mudan",
+      "note": "Literally 'you deserve it'. Also: waxba ma aha (it's nothing)."
+    },
+    "yes": {
+      "text": "Haa",
+      "note": "Also: haye (okay, sure)."
+    },
+    "no": {
+      "text": "Maya"
+    },
+    "sorry": {
+      "text": "Waan ka xumahay"
+    },
+    "excuse_me": {
+      "text": "Iga raalli ahaw",
+      "note": "To catch someone's eye Somalis often just call walaal (brother/sister); an older man: adeer."
+    },
+    "good_morning": {
+      "text": "Subax wanaagsan"
+    },
+    "how_are_you": {
+      "text": "Sidee tahay?",
+      "note": "Casual: iska warran? (what's the news?)"
+    },
+    "im_fine": {
+      "text": "Waan fiicanahay, mahadsanid",
+      "note": "Short everyday answer: waa nabad (all is peace)."
+    },
+    "whats_your_name": {
+      "text": "Magacaa?",
+      "note": "Fuller form: magacaagu waa maxay?"
+    },
+    "my_name_is": {
+      "text": "Magacaygu waa …",
+      "note": "Also common: waxaan ahay … (I am …)."
+    },
+    "nice_to_meet_you": {
+      "text": "Waan ku faraxsanahay inaan ku barto"
+    },
+    "where_from": {
+      "text": "Xaggee baad ka timid?",
+      "note": "Asking about the country: dalkee baad ka timid?"
+    },
+    "im_from": {
+      "text": "Waxaan ka imid …"
+    },
+    "speak_english": {
+      "text": "Ingiriisi ma ku hadashaa?"
+    },
+    "dont_understand": {
+      "text": "Ma fahmin",
+      "note": "Past tense, as Somalis say it. 'I didn't understand you': kuma fahmin."
+    },
+    "speak_slowly": {
+      "text": "Fadlan si tartiib ah u hadal"
+    },
+    "where": {
+      "text": "Xaggee?",
+      "note": "Also: halkee?"
+    },
+    "what": {
+      "text": "Maxay?",
+      "note": "Also maxaa?, e.g. maxaa dhacay? (what happened?)"
+    },
+    "when": {
+      "text": "Goorma?"
+    },
+    "why": {
+      "text": "Waayo?",
+      "note": "In a sentence use maxaa … u: maxaad u timid? (why did you come?)"
+    },
+    "who": {
+      "text": "Yaa?",
+      "note": "e.g. yaa yimid? (who came?). 'Who is it?': waa kuma?"
+    },
+    "how_much": {
+      "text": "Kani waa immisa?",
+      "note": "In the south you will also hear meeqa: kani waa meeqa?"
+    },
+    "where_bathroom": {
+      "text": "Fadlan, musqushu xaggee bay ku taal?"
+    },
+    "can_you_help": {
+      "text": "Ma i caawin kartaa?"
+    },
+    "what_time": {
+      "text": "Saacaddu waa immisa?"
+    },
+    "what_means": {
+      "text": "Tani maxay ka dhigan tahay?"
+    },
+    "one": {
+      "text": "Kow",
+      "note": "Before a noun use hal: hal koob (one cup)."
+    },
+    "two": {
+      "text": "Laba"
+    },
+    "three": {
+      "text": "Saddex"
+    },
+    "four": {
+      "text": "Afar"
+    },
+    "five": {
+      "text": "Shan"
+    },
+    "six": {
+      "text": "Lix"
+    },
+    "seven": {
+      "text": "Toddoba",
+      "note": "Often pronounced toddobo."
+    },
+    "eight": {
+      "text": "Siddeed"
+    },
+    "nine": {
+      "text": "Sagaal"
+    },
+    "ten": {
+      "text": "Toban"
+    },
+    "water": {
+      "text": "Biyo",
+      "note": "Grammatically plural: 'the water' is biyaha."
+    },
+    "coffee": {
+      "text": "Qaxwo"
+    },
+    "tea": {
+      "text": "Shaah",
+      "note": "Tea with milk: shaah caano leh."
+    },
+    "bread": {
+      "text": "Rooti",
+      "note": "The Somali breakfast flatbread is canjeero (laxoox in the north)."
+    },
+    "im_hungry": {
+      "text": "Waan gaajaysanahay"
+    },
+    "menu_please": {
+      "text": "Fadlan, liiska cuntada ii keen",
+      "note": "Small eateries often have no menu; ask: maxaad haysaan? (what do you have?)"
+    },
+    "bill_please": {
+      "text": "Fadlan, xisaabta ii keen",
+      "note": "Or ask: immisa baad iga leedahay? (how much do I owe you?)"
+    },
+    "delicious": {
+      "text": "Aad bay u macaan tahay!",
+      "note": "Macaan means both 'tasty' and 'sweet'."
+    },
+    "no_meat": {
+      "text": "Hilib ma cuno"
+    },
+    "enjoy_meal": {
+      "text": "Cuntada ku raaxayso!",
+      "note": "Hosts usually invite you to start eating with bismillaah (in God's name)."
+    },
+    "left": {
+      "text": "Bidix"
+    },
+    "right": {
+      "text": "Midig"
+    },
+    "straight_ahead": {
+      "text": "Toos u soco",
+      "note": "Literally 'go straight'; the word on its own is toos."
+    },
+    "stop_here": {
+      "text": "Fadlan, halkan igu dhig",
+      "note": "Literally 'drop me here'. Also: halkan ku joogso (stop here)."
+    },
+    "airport": {
+      "text": "Garoonka diyaaradaha",
+      "note": "In Mogadishu people often say madaarka."
+    },
+    "hotel": {
+      "text": "Hoteel",
+      "note": "In Somalia hoteel often means a restaurant too; ask for a qol (room) if you want to sleep."
+    },
+    "train_station": {
+      "text": "Saldhigga tareenka"
+    },
+    "want_to_go": {
+      "text": "Waxaan rabaa inaan tago …",
+      "note": "To a taxi driver: … i geey (take me to …)."
+    },
+    "is_it_far": {
+      "text": "Ma fog tahay?",
+      "note": "'Is it close?': ma dhow tahay?"
+    },
+    "one_ticket": {
+      "text": "Hal tigidh, fadlan"
+    },
+    "too_expensive": {
+      "text": "Aad buu u qaali yahay",
+      "note": "When bargaining, just: waa qaali!"
+    },
+    "cheaper": {
+      "text": "Wax ka jaban ma haysaa?"
+    },
+    "id_like_this": {
+      "text": "Kan baan rabaa, fadlan",
+      "note": "Kan is for masculine nouns; for a feminine one say tan."
+    },
+    "just_looking": {
+      "text": "Waan iska eegayaa"
+    },
+    "pay_card": {
+      "text": "Kaarka ma ku bixin karaa?",
+      "note": "In Somalia most people pay by mobile money (phone transfer) rather than card."
+    },
+    "cash": {
+      "text": "Lacag caddaan ah",
+      "note": "Casually also kaash."
+    },
+    "open": {
+      "text": "Furan"
+    },
+    "closed": {
+      "text": "Xiran"
+    },
+    "big": {
+      "text": "Weyn"
+    },
+    "small": {
+      "text": "Yar"
+    },
+    "today": {
+      "text": "Maanta"
+    },
+    "tomorrow": {
+      "text": "Berri"
+    },
+    "yesterday": {
+      "text": "Shalay"
+    },
+    "now": {
+      "text": "Hadda"
+    },
+    "later": {
+      "text": "Hadhow",
+      "note": "Also: goor dambe (at a later time)."
+    },
+    "good_evening": {
+      "text": "Fiid wanaagsan",
+      "note": "Fiid is the evening, from sunset. In the afternoon say galab wanaagsan."
+    },
+    "good_night": {
+      "text": "Habeen wanaagsan",
+      "note": "Before bed also: nabad ku seexo (sleep in peace)."
+    },
+    "see_you_later": {
+      "text": "Hadhow ayaan ku arki doonaa",
+      "note": "To several people: hadhow ayaan idin arki doonaa."
+    },
+    "wait_moment": {
+      "text": "Fadlan, yara sug"
+    },
+    "every_day": {
+      "text": "Maalin kasta"
+    },
+    "help": {
+      "text": "I caawiya!",
+      "note": "Shouted to everyone around; to one person: i caawi!"
+    },
+    "call_police": {
+      "text": "Booliiska u yeer!",
+      "note": "To several people: booliiska u yeera!"
+    },
+    "need_doctor": {
+      "text": "Dhakhtar baan u baahanahay"
+    },
+    "im_lost": {
+      "text": "Waan lumay"
+    },
+    "dont_feel_well": {
+      "text": "Ma fiicni",
+      "note": "If you are ill: waan xanuunsanahay (I'm sick)."
+    },
+    "pharmacy": {
+      "text": "Farmashiye",
+      "note": "Also: dukaanka daawada (the medicine shop)."
+    },
+    "hospital": {
+      "text": "Isbitaal",
+      "note": "Also said and spelled cisbitaal."
+    },
+    "lost_phone": {
+      "text": "Taleefankaygii baa iga lumay",
+      "note": "Also common: moobaylkaygii (my mobile)."
+    },
+    "allergic": {
+      "text": "Waxaan xasaasiyad ka qabaa …"
+    },
+    "be_careful": {
+      "text": "Iska jir!",
+      "note": "To several people: iska jira!"
+    },
+    "no_problem": {
+      "text": "Dhib ma leh"
+    },
+    "of_course": {
+      "text": "Dabcan"
+    },
+    "maybe": {
+      "text": "Malaha",
+      "note": "Also: waxaa laga yaabaa (it may be that …)."
+    },
+    "dont_know": {
+      "text": "Ma aqaan",
+      "note": "Also very common: ma ogi, garan maayo."
+    },
+    "i_like_it": {
+      "text": "Waan jeclahay"
+    },
+    "dont_like_it": {
+      "text": "Ma jecli"
+    },
+    "im_tired": {
+      "text": "Waan daallanahay"
+    },
+    "im_happy": {
+      "text": "Waan faraxsanahay"
+    },
+    "welcome": {
+      "text": "Soo dhawoow!",
+      "note": "To several guests: soo dhawaada!"
+    },
+    "congratulations": {
+      "text": "Hambalyo!"
+    }
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "code": "ar",
+  "phrases": {
+    "hello": {
+      "text": "مرحبا",
+      "roman": "marhaban",
+      "note": "The classic greeting: السلام عليكم (as-salamu 'alaykum); reply وعليكم السلام (wa 'alaykum as-salam)."
+    },
+    "goodbye": {
+      "text": "مع السلامة",
+      "roman": "ma'a as-salama",
+      "note": "Also: إلى اللقاء (ila al-liqa), literally 'until the meeting'."
+    },
+    "please": {
+      "text": "من فضلك",
+      "roman": "min fadlika",
+      "note": "To a woman: min fadliki (same spelling). In casual speech often min fadlak."
+    },
+    "thank_you": {
+      "text": "شكرا",
+      "roman": "shukran",
+      "note": "Thank you very much: شكرا جزيلا (shukran jazilan)."
+    },
+    "youre_welcome": {
+      "text": "عفوا",
+      "roman": "'afwan",
+      "note": "Also: لا شكر على واجب (la shukra 'ala wajib), 'no thanks needed for a duty'."
+    },
+    "yes": {
+      "text": "نعم",
+      "roman": "na'am"
+    },
+    "no": {
+      "text": "لا",
+      "roman": "la"
+    },
+    "sorry": {
+      "text": "آسف",
+      "roman": "asif",
+      "note": "A woman says: آسفة (asifa). Also: عذرا ('udhran)."
+    },
+    "excuse_me": {
+      "text": "لو سمحت",
+      "roman": "law samahta",
+      "note": "To a woman: law samahti (same spelling)."
+    },
+    "good_morning": {
+      "text": "صباح الخير",
+      "roman": "sabah al-khayr",
+      "note": "The reply: صباح النور (sabah an-nur), 'morning of light'."
+    },
+    "how_are_you": {
+      "text": "كيف حالك؟",
+      "roman": "kayfa haluka?",
+      "note": "To a woman: kayfa haluki? (same spelling). Also: كيف الحال؟ (kayfa al-hal?)"
+    },
+    "im_fine": {
+      "text": "أنا بخير، شكرا",
+      "roman": "ana bikhayr, shukran",
+      "note": "Very often answered with الحمد لله (al-hamdu lillah), 'thank God'."
+    },
+    "whats_your_name": {
+      "text": "ما اسمك؟",
+      "roman": "ma ismuka?",
+      "note": "To a woman: ma ismuki? (same spelling)."
+    },
+    "my_name_is": {
+      "text": "اسمي …",
+      "roman": "ismi …"
+    },
+    "nice_to_meet_you": {
+      "text": "تشرفنا",
+      "roman": "tasharrafna",
+      "note": "Also: فرصة سعيدة (fursa sa'ida), 'a happy occasion'."
+    },
+    "where_from": {
+      "text": "من أين أنت؟",
+      "roman": "min ayna anta?",
+      "note": "To a woman: min ayna anti? (same spelling)."
+    },
+    "im_from": {
+      "text": "أنا من …",
+      "roman": "ana min …"
+    },
+    "speak_english": {
+      "text": "هل تتكلم الإنجليزية؟",
+      "roman": "hal tatakallam al-injiliziyya?",
+      "note": "To a woman: هل تتكلمين الإنجليزية؟ (hal tatakallamin al-injiliziyya?)"
+    },
+    "dont_understand": {
+      "text": "لا أفهم",
+      "roman": "la afham",
+      "note": "Also: لم أفهم (lam afham), 'I didn't understand'."
+    },
+    "speak_slowly": {
+      "text": "تكلم ببطء من فضلك",
+      "roman": "takallam bibut min fadlika",
+      "note": "To a woman: تكلمي ببطء من فضلك (takallami bibut min fadliki)."
+    },
+    "where": {
+      "text": "أين؟",
+      "roman": "ayna?"
+    },
+    "what": {
+      "text": "ماذا؟",
+      "roman": "madha?",
+      "note": "Before a noun use ما (ma): ما هذا؟ (ma hadha?), 'what is this?'"
+    },
+    "when": {
+      "text": "متى؟",
+      "roman": "mata?"
+    },
+    "why": {
+      "text": "لماذا؟",
+      "roman": "limadha?"
+    },
+    "who": {
+      "text": "مَن؟",
+      "roman": "man?",
+      "note": "Usually written without the vowel mark, so it looks like من (min, 'from'); context tells them apart."
+    },
+    "how_much": {
+      "text": "بكم هذا؟",
+      "roman": "bikam hadha?",
+      "note": "For a feminine item: بكم هذه؟ (bikam hadhihi?)"
+    },
+    "where_bathroom": {
+      "text": "أين دورة المياه؟",
+      "roman": "ayna dawrat al-miyah?",
+      "note": "Also very common: أين الحمام؟ (ayna al-hammam?)"
+    },
+    "can_you_help": {
+      "text": "هل يمكنك مساعدتي؟",
+      "roman": "hal yumkinuka musa'adati?",
+      "note": "To a woman: hal yumkinuki musa'adati? (same spelling)."
+    },
+    "what_time": {
+      "text": "كم الساعة؟",
+      "roman": "kam as-sa'a?"
+    },
+    "what_means": {
+      "text": "ما معنى هذا؟",
+      "roman": "ma ma'na hadha?",
+      "note": "Also: ماذا يعني هذا؟ (madha ya'ni hadha?)"
+    },
+    "one": {
+      "text": "واحد",
+      "roman": "wahid",
+      "note": "Arabic digit: ١"
+    },
+    "two": {
+      "text": "اثنان",
+      "roman": "ithnan",
+      "note": "Arabic digit: ٢. Also heard as اثنين (ithnayn)."
+    },
+    "three": {
+      "text": "ثلاثة",
+      "roman": "thalatha",
+      "note": "Arabic digit: ٣. th as in 'think'."
+    },
+    "four": {
+      "text": "أربعة",
+      "roman": "arba'a",
+      "note": "Arabic digit: ٤. The ' marks ayn, a sound squeezed from deep in the throat."
+    },
+    "five": {
+      "text": "خمسة",
+      "roman": "khamsa",
+      "note": "Arabic digit: ٥. kh as in Scottish 'loch'."
+    },
+    "six": {
+      "text": "ستة",
+      "roman": "sitta",
+      "note": "Arabic digit: ٦. Hold the double t: sit-ta."
+    },
+    "seven": {
+      "text": "سبعة",
+      "roman": "sab'a",
+      "note": "Arabic digit: ٧"
+    },
+    "eight": {
+      "text": "ثمانية",
+      "roman": "thamaniya",
+      "note": "Arabic digit: ٨"
+    },
+    "nine": {
+      "text": "تسعة",
+      "roman": "tis'a",
+      "note": "Arabic digit: ٩"
+    },
+    "ten": {
+      "text": "عشرة",
+      "roman": "'ashara",
+      "note": "Arabic digits: ١٠"
+    },
+    "water": {
+      "text": "ماء",
+      "roman": "ma",
+      "note": "Long a with a light catch at the end. Bottled water: مياه معدنية (miyah ma'daniyya)."
+    },
+    "coffee": {
+      "text": "قهوة",
+      "roman": "qahwa"
+    },
+    "tea": {
+      "text": "شاي",
+      "roman": "shay"
+    },
+    "bread": {
+      "text": "خبز",
+      "roman": "khubz"
+    },
+    "im_hungry": {
+      "text": "أنا جائع",
+      "roman": "ana jai'",
+      "note": "A woman says: أنا جائعة (ana jai'a). In speech also جوعان (ju'an)."
+    },
+    "menu_please": {
+      "text": "قائمة الطعام من فضلك",
+      "roman": "qaimat at-ta'am min fadlika",
+      "note": "To a woman: min fadliki. In restaurants you will also hear المنيو (al-minyu)."
+    },
+    "bill_please": {
+      "text": "الحساب من فضلك",
+      "roman": "al-hisab min fadlika",
+      "note": "To a woman: min fadliki (same spelling)."
+    },
+    "delicious": {
+      "text": "لذيذ!",
+      "roman": "ladhidh!",
+      "note": "For a feminine noun, e.g. الوجبة (the meal): لذيذة (ladhidha)."
+    },
+    "no_meat": {
+      "text": "لا آكل اللحم",
+      "roman": "la akul al-lahm",
+      "note": "Also: أنا نباتي (ana nabati), 'I'm vegetarian'; a woman says نباتية (nabatiyya)."
+    },
+    "enjoy_meal": {
+      "text": "شهية طيبة!",
+      "roman": "shahiyya tayyiba!",
+      "note": "Also: بالهناء والشفاء (bil-hana wash-shifa)."
+    },
+    "left": {
+      "text": "يسار",
+      "roman": "yasar",
+      "note": "To the left: إلى اليسار (ila al-yasar)."
+    },
+    "right": {
+      "text": "يمين",
+      "roman": "yamin",
+      "note": "To the right: إلى اليمين (ila al-yamin)."
+    },
+    "straight_ahead": {
+      "text": "إلى الأمام مباشرة",
+      "roman": "ila al-amam mubashara",
+      "note": "In everyday speech many say على طول ('ala tul)."
+    },
+    "stop_here": {
+      "text": "توقف هنا من فضلك",
+      "roman": "tawaqqaf huna min fadlika",
+      "note": "To a woman: توقفي هنا من فضلك (tawaqqafi huna min fadliki)."
+    },
+    "airport": {
+      "text": "مطار",
+      "roman": "matar",
+      "note": "The airport: المطار (al-matar)."
+    },
+    "hotel": {
+      "text": "فندق",
+      "roman": "funduq"
+    },
+    "train_station": {
+      "text": "محطة القطار",
+      "roman": "mahattat al-qitar"
+    },
+    "want_to_go": {
+      "text": "أريد أن أذهب إلى …",
+      "roman": "urid an adhhab ila …"
+    },
+    "is_it_far": {
+      "text": "هل هو بعيد؟",
+      "roman": "hal huwa ba'id?",
+      "note": "For a feminine place, e.g. المحطة (the station): هل هي بعيدة؟ (hal hiya ba'ida?)"
+    },
+    "one_ticket": {
+      "text": "تذكرة واحدة من فضلك",
+      "roman": "tadhkira wahida min fadlika",
+      "note": "To a woman: min fadliki. Return ticket: تذكرة ذهاب وعودة (tadhkirat dhahab wa 'awda)."
+    },
+    "too_expensive": {
+      "text": "هذا غال جدا",
+      "roman": "hadha ghalin jiddan",
+      "note": "Also: السعر مرتفع جدا (as-si'r murtafi' jiddan), 'the price is very high'."
+    },
+    "cheaper": {
+      "text": "هل يوجد أرخص من هذا؟",
+      "roman": "hal yujad arkhas min hadha?"
+    },
+    "id_like_this": {
+      "text": "أريد هذا من فضلك",
+      "roman": "urid hadha min fadlika",
+      "note": "To a woman: min fadliki. For a feminine item say هذه (hadhihi) instead of هذا."
+    },
+    "just_looking": {
+      "text": "أنا أتفرج فقط",
+      "roman": "ana atafarraj faqat",
+      "note": "Add شكرا (shukran) to sound friendly."
+    },
+    "pay_card": {
+      "text": "هل يمكنني الدفع بالبطاقة؟",
+      "roman": "hal yumkinuni ad-daf' bil-bitaqa?",
+      "note": "Also: هل تقبلون البطاقات؟ (hal taqbalun al-bitaqat?), 'do you accept cards?'"
+    },
+    "cash": {
+      "text": "نقدا",
+      "roman": "naqdan",
+      "note": "I'll pay in cash: سأدفع نقدا (sa-adfa' naqdan). In speech often كاش (kash)."
+    },
+    "open": {
+      "text": "مفتوح",
+      "roman": "maftuh"
+    },
+    "closed": {
+      "text": "مغلق",
+      "roman": "mughlaq"
+    },
+    "big": {
+      "text": "كبير",
+      "roman": "kabir",
+      "note": "Feminine: كبيرة (kabira)."
+    },
+    "small": {
+      "text": "صغير",
+      "roman": "saghir",
+      "note": "Feminine: صغيرة (saghira)."
+    },
+    "today": {
+      "text": "اليوم",
+      "roman": "al-yawm"
+    },
+    "tomorrow": {
+      "text": "غدا",
+      "roman": "ghadan",
+      "note": "Careful: غداء (ghada), with a long a, means lunch."
+    },
+    "yesterday": {
+      "text": "أمس",
+      "roman": "ams",
+      "note": "Also common: البارحة (al-bariha)."
+    },
+    "now": {
+      "text": "الآن",
+      "roman": "al-an"
+    },
+    "later": {
+      "text": "لاحقا",
+      "roman": "lahiqan",
+      "note": "Also: فيما بعد (fima ba'd)."
+    },
+    "good_evening": {
+      "text": "مساء الخير",
+      "roman": "masa al-khayr",
+      "note": "The reply: مساء النور (masa an-nur)."
+    },
+    "good_night": {
+      "text": "تصبح على خير",
+      "roman": "tusbih 'ala khayr",
+      "note": "To a woman: تصبحين على خير (tusbihin 'ala khayr). Also: ليلة سعيدة (layla sa'ida)."
+    },
+    "see_you_later": {
+      "text": "أراك لاحقا",
+      "roman": "araka lahiqan",
+      "note": "To a woman: araki lahiqan (same spelling)."
+    },
+    "wait_moment": {
+      "text": "انتظر لحظة من فضلك",
+      "roman": "intadhir lahdha min fadlika",
+      "note": "To a woman: انتظري لحظة من فضلك (intadhiri lahdha min fadliki). Short: لحظة (lahdha)."
+    },
+    "every_day": {
+      "text": "كل يوم",
+      "roman": "kull yawm"
+    },
+    "help": {
+      "text": "النجدة!",
+      "roman": "an-najda!",
+      "note": "Also: ساعدوني! (sa'iduni!), 'help me!'"
+    },
+    "call_police": {
+      "text": "اتصلوا بالشرطة!",
+      "roman": "ittasilu bish-shurta!",
+      "note": "Said to everyone around. To one man: اتصل (ittasil); to one woman: اتصلي (ittasili)."
+    },
+    "need_doctor": {
+      "text": "أحتاج إلى طبيب",
+      "roman": "ahtaj ila tabib"
+    },
+    "im_lost": {
+      "text": "ضللت الطريق",
+      "roman": "dalaltu at-tariq",
+      "note": "Also: أنا تائه (ana taih); a woman says تائهة (taiha)."
+    },
+    "dont_feel_well": {
+      "text": "لست على ما يرام",
+      "roman": "lastu 'ala ma yuram",
+      "note": "Also: أنا مريض (ana marid), 'I'm ill'; a woman says مريضة (marida)."
+    },
+    "pharmacy": {
+      "text": "صيدلية",
+      "roman": "saydaliyya"
+    },
+    "hospital": {
+      "text": "مستشفى",
+      "roman": "mustashfa"
+    },
+    "lost_phone": {
+      "text": "فقدت هاتفي",
+      "roman": "faqadtu hatifi",
+      "note": "In everyday speech a phone is often جوال (jawwal) or موبايل (mobayl)."
+    },
+    "allergic": {
+      "text": "لدي حساسية من …",
+      "roman": "ladayya hassasiyya min …",
+      "note": "Also: عندي حساسية من … ('indi hassasiyya min …)."
+    },
+    "be_careful": {
+      "text": "انتبه!",
+      "roman": "intabih!",
+      "note": "To a woman: انتبهي! (intabihi!) To a group: انتبهوا! (intabihu!)"
+    },
+    "no_problem": {
+      "text": "لا مشكلة",
+      "roman": "la mushkila",
+      "note": "Also: لا بأس (la bas), 'it's all right'."
+    },
+    "of_course": {
+      "text": "طبعا",
+      "roman": "tab'an",
+      "note": "Also: بالتأكيد (bit-takid), 'certainly'."
+    },
+    "maybe": {
+      "text": "ربما",
+      "roman": "rubbama",
+      "note": "In speech also يمكن (yimkin)."
+    },
+    "dont_know": {
+      "text": "لا أعرف",
+      "roman": "la a'rif",
+      "note": "Also: لا أدري (la adri)."
+    },
+    "i_like_it": {
+      "text": "يعجبني",
+      "roman": "yu'jibuni",
+      "note": "For a feminine noun: تعجبني (tu'jibuni)."
+    },
+    "dont_like_it": {
+      "text": "لا يعجبني",
+      "roman": "la yu'jibuni",
+      "note": "For a feminine noun: لا تعجبني (la tu'jibuni)."
+    },
+    "im_tired": {
+      "text": "أنا متعب",
+      "roman": "ana mut'ab",
+      "note": "A woman says: أنا متعبة (ana mut'aba)."
+    },
+    "im_happy": {
+      "text": "أنا سعيد",
+      "roman": "ana sa'id",
+      "note": "A woman says: أنا سعيدة (ana sa'ida)."
+    },
+    "welcome": {
+      "text": "أهلا وسهلا!",
+      "roman": "ahlan wa sahlan!",
+      "note": "The reply: أهلا بك (ahlan bika); to a woman, ahlan biki."
+    },
+    "congratulations": {
+      "text": "مبروك!",
+      "roman": "mabruk!",
+      "note": "Reply: بارك الله فيك (barak allah fika; to a woman, fiki). More formal: تهانينا! (tahanina!)"
+    }
+  }
+}

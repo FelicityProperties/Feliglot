@@ -1,0 +1,378 @@
+{
+  "code": "hu",
+  "phrases": {
+    "hello": {
+      "text": "Jó napot kívánok",
+      "note": "Shorter: Jó napot! Casual: Szia! (to a group: Sziasztok!). Szia also means bye."
+    },
+    "goodbye": {
+      "text": "Viszontlátásra",
+      "note": "Shorter: Viszlát! Casual: Szia! On the phone: Viszonthallásra."
+    },
+    "please": {
+      "text": "Kérem",
+      "note": "Informal: kérlek. When offering or handing something over, say Tessék instead."
+    },
+    "thank_you": {
+      "text": "Köszönöm",
+      "note": "Warmer: Köszönöm szépen. Casual: Köszi! The sz sounds like English s."
+    },
+    "youre_welcome": {
+      "text": "Szívesen",
+      "note": "Also common: Nincs mit (it's nothing)."
+    },
+    "yes": {
+      "text": "Igen"
+    },
+    "no": {
+      "text": "Nem",
+      "note": "Nem also means 'not': Nem értem (I don't understand)."
+    },
+    "sorry": {
+      "text": "Bocsánat",
+      "note": "More formal: Elnézést kérek. For real regret: Sajnálom. Casual: Bocs!"
+    },
+    "excuse_me": {
+      "text": "Elnézést",
+      "note": "Fuller: Elnézést kérek! Bocsánat works here too."
+    },
+    "good_morning": {
+      "text": "Jó reggelt kívánok",
+      "note": "Casual: Jó reggelt! Used until about 9–10 am; after that say Jó napot kívánok."
+    },
+    "how_are_you": {
+      "text": "Hogy van?",
+      "note": "Informal: Hogy vagy? Children and young people ask elderly people: Hogy tetszik lenni?"
+    },
+    "im_fine": {
+      "text": "Jól vagyok, köszönöm",
+      "note": "Hungarians often say Megvagyok (I'm getting by). To ask back: És Ön?"
+    },
+    "whats_your_name": {
+      "text": "Hogy hívják?",
+      "note": "Informal: Hogy hívnak? Also polite: Mi a neve?"
+    },
+    "my_name_is": {
+      "text": "A nevem …",
+      "note": "Also very common: Anna vagyok (I'm Anna). Hungarians put the family name first: Kovács Anna."
+    },
+    "nice_to_meet_you": {
+      "text": "Örülök, hogy megismerhetem",
+      "note": "Informal: Örülök, hogy megismerhetlek. Short and very common: Nagyon örülök!"
+    },
+    "where_from": {
+      "text": "Honnan jött?",
+      "note": "Informal: Honnan jöttél? Also: Hová valósi? (where are you originally from?)"
+    },
+    "im_from": {
+      "text": "…-ból jöttem",
+      "note": "Usually -ból or -ből to match the vowels: Angliából. Also: Angol vagyok (I'm English)."
+    },
+    "speak_english": {
+      "text": "Beszél angolul?",
+      "note": "Informal: Beszélsz angolul?"
+    },
+    "dont_understand": {
+      "text": "Nem értem",
+      "note": "To ask for a repeat: Tessék? or Megismételné, kérem?"
+    },
+    "speak_slowly": {
+      "text": "Kérem, beszéljen lassabban",
+      "note": "Politer: Beszélne lassabban? Informal: Beszélj lassabban, kérlek!"
+    },
+    "where": {
+      "text": "Hol?",
+      "note": "Where to? is Hová? and where from? is Honnan?"
+    },
+    "what": {
+      "text": "Mi?",
+      "note": "To ask for a repeat say Tessék? – a bare Mi? sounds blunt. As an object: Mit? (Mit kér?)"
+    },
+    "when": {
+      "text": "Mikor?"
+    },
+    "why": {
+      "text": "Miért?"
+    },
+    "who": {
+      "text": "Ki?"
+    },
+    "how_much": {
+      "text": "Mennyibe kerül ez?",
+      "note": "Often just: Mennyibe kerül? At the till: Mennyi lesz? (How much will it be?)"
+    },
+    "where_bathroom": {
+      "text": "Hol van a mosdó?",
+      "note": "Also common: Hol van a vécé? Door signs: Férfi = men, Női = women."
+    },
+    "can_you_help": {
+      "text": "Tudna segíteni?",
+      "note": "Informal: Tudnál segíteni?"
+    },
+    "what_time": {
+      "text": "Hány óra van?",
+      "note": "Also common: Mennyi az idő?"
+    },
+    "what_means": {
+      "text": "Mit jelent ez?"
+    },
+    "one": {
+      "text": "Egy",
+      "note": "Egy also means 'a' or 'an': egy kávé (a coffee)."
+    },
+    "two": {
+      "text": "Kettő",
+      "note": "Before a noun use két, and the noun stays singular: két kávé (two coffees)."
+    },
+    "three": {
+      "text": "Három"
+    },
+    "four": {
+      "text": "Négy"
+    },
+    "five": {
+      "text": "Öt",
+      "note": "ö is said with rounded lips, like German ö or French eu."
+    },
+    "six": {
+      "text": "Hat"
+    },
+    "seven": {
+      "text": "Hét",
+      "note": "Hét also means 'week'."
+    },
+    "eight": {
+      "text": "Nyolc",
+      "note": "ny sounds like the ny in canyon."
+    },
+    "nine": {
+      "text": "Kilenc"
+    },
+    "ten": {
+      "text": "Tíz"
+    },
+    "water": {
+      "text": "Víz",
+      "note": "Still: szénsavmentes. Sparkling: szénsavas. Tap water: csapvíz."
+    },
+    "coffee": {
+      "text": "Kávé",
+      "note": "Ordering a kávé usually gets you an espresso. With milk: tejeskávé."
+    },
+    "tea": {
+      "text": "Tea",
+      "note": "Spelled as in English, but said in two syllables: te-a."
+    },
+    "bread": {
+      "text": "Kenyér"
+    },
+    "im_hungry": {
+      "text": "Éhes vagyok"
+    },
+    "menu_please": {
+      "text": "Kérem az étlapot",
+      "note": "Politer: Kérhetném az étlapot? The drinks menu is the itallap."
+    },
+    "bill_please": {
+      "text": "Kérem a számlát",
+      "note": "Just as common: Fizetni szeretnék (I'd like to pay), or simply Fizetnék!"
+    },
+    "delicious": {
+      "text": "Finom!",
+      "note": "Stronger: Nagyon finom! or Isteni! (divine)"
+    },
+    "no_meat": {
+      "text": "Nem eszem húst",
+      "note": "Or: Vegetáriánus vagyok (I'm vegetarian)."
+    },
+    "enjoy_meal": {
+      "text": "Jó étvágyat!",
+      "note": "Reply: Köszönöm, viszont! (Thanks, you too!)"
+    },
+    "left": {
+      "text": "Balra",
+      "note": "Balra = to the left. On the left: a bal oldalon."
+    },
+    "right": {
+      "text": "Jobbra",
+      "note": "Jobbra = to the right. On the right: a jobb oldalon."
+    },
+    "straight_ahead": {
+      "text": "Egyenesen előre",
+      "note": "Often just: Egyenesen."
+    },
+    "stop_here": {
+      "text": "Itt álljon meg, kérem",
+      "note": "Also natural: Itt jó lesz, köszönöm (Here is fine, thanks)."
+    },
+    "airport": {
+      "text": "Repülőtér",
+      "note": "In speech usually reptér."
+    },
+    "hotel": {
+      "text": "Szálloda",
+      "note": "Hotel is just as common, especially in names and on signs."
+    },
+    "train_station": {
+      "text": "Vasútállomás",
+      "note": "Big city terminals are pályaudvar, e.g. Keleti pályaudvar. Often just: állomás."
+    },
+    "want_to_go": {
+      "text": "…-ba szeretnék menni",
+      "note": "Most places take -ba/-be (a szállodába), some take -ra/-re (a repülőtérre, Budapestre)."
+    },
+    "is_it_far": {
+      "text": "Messze van?",
+      "note": "Also: Messze van innen? (Is it far from here?)"
+    },
+    "one_ticket": {
+      "text": "Egy jegyet kérek",
+      "note": "A return ticket: egy oda-vissza jegy."
+    },
+    "too_expensive": {
+      "text": "Ez túl drága"
+    },
+    "cheaper": {
+      "text": "Van valami olcsóbb?"
+    },
+    "id_like_this": {
+      "text": "Ezt kérném",
+      "note": "Also: Ezt kérem. Kérném is the softer, more polite form."
+    },
+    "just_looking": {
+      "text": "Csak nézelődöm",
+      "note": "Add köszönöm (thanks) to sound friendly. In speech often: nézelődök."
+    },
+    "pay_card": {
+      "text": "Fizethetek kártyával?"
+    },
+    "cash": {
+      "text": "Készpénz",
+      "note": "Paying in cash: készpénzzel. Hungary uses the forint (Ft)."
+    },
+    "open": {
+      "text": "Nyitva"
+    },
+    "closed": {
+      "text": "Zárva"
+    },
+    "big": {
+      "text": "Nagy"
+    },
+    "small": {
+      "text": "Kicsi",
+      "note": "Before a noun usually kis: egy kis sör (a small beer)."
+    },
+    "today": {
+      "text": "Ma"
+    },
+    "tomorrow": {
+      "text": "Holnap"
+    },
+    "yesterday": {
+      "text": "Tegnap"
+    },
+    "now": {
+      "text": "Most"
+    },
+    "later": {
+      "text": "Később",
+      "note": "Also common: majd, e.g. Majd megcsinálom (I'll do it later)."
+    },
+    "good_evening": {
+      "text": "Jó estét kívánok",
+      "note": "Shorter: Jó estét! Used from about 6 pm."
+    },
+    "good_night": {
+      "text": "Jó éjszakát",
+      "note": "Casual: Jó éjt!"
+    },
+    "see_you_later": {
+      "text": "Később találkozunk",
+      "note": "With no set time: Majd találkozunk! Casual goodbye: Viszlát! or Szia!"
+    },
+    "wait_moment": {
+      "text": "Egy pillanat, kérem",
+      "note": "Fuller: Várjon egy pillanatot, kérem. Casual: Várj egy kicsit!"
+    },
+    "every_day": {
+      "text": "Mindennap",
+      "note": "One word when it means daily: Mindennap dolgozom (I work every day)."
+    },
+    "help": {
+      "text": "Segítség!"
+    },
+    "call_police": {
+      "text": "Hívja a rendőrséget!",
+      "note": "To a crowd: Hívjon valaki rendőrt! The emergency number in Hungary is 112."
+    },
+    "need_doctor": {
+      "text": "Orvosra van szükségem",
+      "note": "In an emergency: Hívjon mentőt! (Call an ambulance!)"
+    },
+    "im_lost": {
+      "text": "Eltévedtem"
+    },
+    "dont_feel_well": {
+      "text": "Nem érzem jól magam",
+      "note": "Stronger (feeling sick or faint): Rosszul vagyok."
+    },
+    "pharmacy": {
+      "text": "Gyógyszertár",
+      "note": "Also common: patika."
+    },
+    "hospital": {
+      "text": "Kórház"
+    },
+    "lost_phone": {
+      "text": "Elvesztettem a telefonomat",
+      "note": "In speech often: Elhagytam a telefonom."
+    },
+    "allergic": {
+      "text": "…-ra allergiás vagyok",
+      "note": "-ra or -re to match the vowels: földimogyoróra (to peanuts), tejre (to milk)."
+    },
+    "be_careful": {
+      "text": "Vigyázzon!",
+      "note": "Informal: Vigyázz! On warning signs: Vigyázat!"
+    },
+    "no_problem": {
+      "text": "Semmi gond",
+      "note": "Also: Nem probléma. After an apology: Semmi baj!"
+    },
+    "of_course": {
+      "text": "Természetesen",
+      "note": "Casual and very common: Persze!"
+    },
+    "maybe": {
+      "text": "Talán",
+      "note": "Very common in speech: Lehet (could be)."
+    },
+    "dont_know": {
+      "text": "Nem tudom"
+    },
+    "i_like_it": {
+      "text": "Tetszik",
+      "note": "For food: Ízlik. For something you like in general or like doing: Szeretem."
+    },
+    "dont_like_it": {
+      "text": "Nem tetszik",
+      "note": "For food: Nem ízlik. In general: Nem szeretem."
+    },
+    "im_tired": {
+      "text": "Fáradt vagyok"
+    },
+    "im_happy": {
+      "text": "Boldog vagyok",
+      "note": "For glad or pleased: Örülök."
+    },
+    "welcome": {
+      "text": "Isten hozta!",
+      "note": "To a friend: Isten hozott! Formal, e.g. in hotels: Üdvözöljük!"
+    },
+    "congratulations": {
+      "text": "Gratulálok!",
+      "note": "From a group: Gratulálunk!"
+    }
+  }
+}

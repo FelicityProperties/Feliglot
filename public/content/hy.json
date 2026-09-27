@@ -1,0 +1,454 @@
+{
+  "code": "hy",
+  "phrases": {
+    "hello": {
+      "text": "Բարև ձեզ",
+      "roman": "Barev dzez",
+      "note": "To friends, just Բարև (barev). Also common: Ողջույն (voghjuyn)."
+    },
+    "goodbye": {
+      "text": "Ցտեսություն",
+      "roman": "Tstesutyun",
+      "note": "Casual and very common: Հաջող (hajogh)."
+    },
+    "please": {
+      "text": "Խնդրում եմ",
+      "roman": "Khndrum em",
+      "note": "The kh sounds like the ch in Scottish 'loch'."
+    },
+    "thank_you": {
+      "text": "Շնորհակալություն",
+      "roman": "Shnorhakalutyun",
+      "note": "Everyday: Մերսի (mersi). Very warmly: Շատ շնորհակալ եմ (shat shnorhakal em)."
+    },
+    "youre_welcome": {
+      "text": "Խնդրեմ",
+      "roman": "Khndrem",
+      "note": "Also common: Չարժե (charzhe), 'don't mention it'."
+    },
+    "yes": {
+      "text": "Այո",
+      "roman": "Ayo",
+      "note": "Everyday: Հա (ha)."
+    },
+    "no": {
+      "text": "Ոչ",
+      "roman": "Voch",
+      "note": "Everyday: Չէ (che)."
+    },
+    "sorry": {
+      "text": "Ներողություն",
+      "roman": "Neroghutyun",
+      "note": "Also: Ներեցեք (neretsek). To a friend: Ներիր (nerir)."
+    },
+    "excuse_me": {
+      "text": "Կներեք",
+      "roman": "Knerek",
+      "note": "Ներողություն (neroghutyun) is also used to get someone's attention."
+    },
+    "good_morning": {
+      "text": "Բարի լույս",
+      "roman": "Bari luys"
+    },
+    "how_are_you": {
+      "text": "Ինչպե՞ս եք",
+      "roman": "Inchpes ek?",
+      "note": "Everyday: Ո՞նց եք (vonts ek?). To a friend: Ո՞նց ես (vonts es?)."
+    },
+    "im_fine": {
+      "text": "Լավ եմ, շնորհակալություն",
+      "roman": "Lav em, shnorhakalutyun",
+      "note": "Shorter: Լավ եմ, մերսի (lav em, mersi)."
+    },
+    "whats_your_name": {
+      "text": "Ձեր անունն ի՞նչ է",
+      "roman": "Dzer anunn inch e?",
+      "note": "To a friend or a child: Անունդ ի՞նչ է (anund inch e?)."
+    },
+    "my_name_is": {
+      "text": "Իմ անունը … է",
+      "roman": "Im anuny … e",
+      "note": "Everyday: Անունս … է (anuns … e)."
+    },
+    "nice_to_meet_you": {
+      "text": "Շատ հաճելի է",
+      "roman": "Shat hacheli e",
+      "note": "Also: Ուրախ եմ ծանոթանալու համար (urakh em tsanotanalu hamar)."
+    },
+    "where_from": {
+      "text": "Որտեղի՞ց եք",
+      "roman": "Vorteghits ek?",
+      "note": "To a friend: Որտեղի՞ց ես (vorteghits es?)."
+    },
+    "im_from": {
+      "text": "Ես …-ից եմ",
+      "roman": "Yes …-its em",
+      "note": "The ending -ից (-its) joins the country: Ֆրանսիայից (Fransiayits), from France."
+    },
+    "speak_english": {
+      "text": "Դուք անգլերեն խոսո՞ւմ եք",
+      "roman": "Duk angleren khosum ek?",
+      "note": "Also very common: Անգլերեն գիտե՞ք (angleren gitek?)."
+    },
+    "dont_understand": {
+      "text": "Չեմ հասկանում",
+      "roman": "Chem haskanum",
+      "note": "About something just said: Չհասկացա (chhaskatsa), I didn't get that."
+    },
+    "speak_slowly": {
+      "text": "Խնդրում եմ, ավելի դանդաղ խոսեք",
+      "roman": "Khndrum em, aveli dandagh khosek"
+    },
+    "where": {
+      "text": "Որտե՞ղ",
+      "roman": "Vortegh?",
+      "note": "Also: Ո՞ւր (ur?), especially for 'where to?'."
+    },
+    "what": {
+      "text": "Ի՞նչ",
+      "roman": "Inch?"
+    },
+    "when": {
+      "text": "Ե՞րբ",
+      "roman": "Yerb?"
+    },
+    "why": {
+      "text": "Ինչո՞ւ",
+      "roman": "Inchu?",
+      "note": "Colloquial: Ինչի՞ (inchi?)."
+    },
+    "who": {
+      "text": "Ո՞վ",
+      "roman": "Ov?"
+    },
+    "how_much": {
+      "text": "Սա ինչքա՞ն արժե",
+      "roman": "Sa inchkan arzhe?",
+      "note": "Often shortened to Ինչքա՞ն արժե (inchkan arzhe?)."
+    },
+    "where_bathroom": {
+      "text": "Որտե՞ղ է զուգարանը",
+      "roman": "Vortegh e zugarany?"
+    },
+    "can_you_help": {
+      "text": "Կարո՞ղ եք ինձ օգնել",
+      "roman": "Karogh ek indz ognel?"
+    },
+    "what_time": {
+      "text": "Ժամը քանի՞սն է",
+      "roman": "Zhamy kanisn e?"
+    },
+    "what_means": {
+      "text": "Սա ի՞նչ է նշանակում",
+      "roman": "Sa inch e nshanakum?"
+    },
+    "one": {
+      "text": "Մեկ",
+      "roman": "Mek",
+      "note": "Before a noun often մի (mi): մի սուրճ (mi surch), one coffee."
+    },
+    "two": {
+      "text": "Երկու",
+      "roman": "Yerku"
+    },
+    "three": {
+      "text": "Երեք",
+      "roman": "Yerek"
+    },
+    "four": {
+      "text": "Չորս",
+      "roman": "Chors"
+    },
+    "five": {
+      "text": "Հինգ",
+      "roman": "Hing"
+    },
+    "six": {
+      "text": "Վեց",
+      "roman": "Vets"
+    },
+    "seven": {
+      "text": "Յոթ",
+      "roman": "Yot"
+    },
+    "eight": {
+      "text": "Ութ",
+      "roman": "Ut"
+    },
+    "nine": {
+      "text": "Ինը",
+      "roman": "Iny",
+      "note": "The final ը (y) is a short 'uh': say 'EE-nuh'."
+    },
+    "ten": {
+      "text": "Տասը",
+      "roman": "Tasy"
+    },
+    "water": {
+      "text": "Ջուր",
+      "roman": "Jur"
+    },
+    "coffee": {
+      "text": "Սուրճ",
+      "roman": "Surch"
+    },
+    "tea": {
+      "text": "Թեյ",
+      "roman": "Tey"
+    },
+    "bread": {
+      "text": "Հաց",
+      "roman": "Hats",
+      "note": "Հաց also means a meal: հաց ուտել (hats utel), to have a meal."
+    },
+    "im_hungry": {
+      "text": "Սոված եմ",
+      "roman": "Sovats em"
+    },
+    "menu_please": {
+      "text": "Մենյուն, խնդրում եմ",
+      "roman": "Menyun, khndrum em",
+      "note": "The formal word, printed on menus: ճաշացանկ (chashatsank)."
+    },
+    "bill_please": {
+      "text": "Հաշիվը, խնդրում եմ",
+      "roman": "Hashivy, khndrum em"
+    },
+    "delicious": {
+      "text": "Շատ համեղ է",
+      "roman": "Shat hamegh e",
+      "note": "Everyday: Շատ համով է (shat hamov e)."
+    },
+    "no_meat": {
+      "text": "Ես միս չեմ ուտում",
+      "roman": "Yes mis chem utum",
+      "note": "I'm vegetarian: Ես բուսակեր եմ (yes busaker em)."
+    },
+    "enjoy_meal": {
+      "text": "Բարի ախորժա՜կ",
+      "roman": "Bari akhorzhak!"
+    },
+    "left": {
+      "text": "Ձախ",
+      "roman": "Dzakh",
+      "note": "Turn left: Ձախ թեքվեք (dzakh tekvek)."
+    },
+    "right": {
+      "text": "Աջ",
+      "roman": "Aj"
+    },
+    "straight_ahead": {
+      "text": "Ուղիղ",
+      "roman": "Ughigh",
+      "note": "Go straight on: Ուղիղ գնացեք (ughigh gnatsek)."
+    },
+    "stop_here": {
+      "text": "Այստեղ կանգնեք, խնդրում եմ",
+      "roman": "Aystegh kangnek, khndrum em",
+      "note": "In everyday speech 'here' is often էստեղ (estegh)."
+    },
+    "airport": {
+      "text": "Օդանավակայան",
+      "roman": "Odanavakayan"
+    },
+    "hotel": {
+      "text": "Հյուրանոց",
+      "roman": "Hyuranots"
+    },
+    "train_station": {
+      "text": "Երկաթուղային կայարան",
+      "roman": "Yerkatughayin kayaran",
+      "note": "In everyday speech just Կայարան (kayaran)."
+    },
+    "want_to_go": {
+      "text": "Ուզում եմ գնալ …",
+      "roman": "Uzum em gnal …",
+      "note": "No 'to' needed: Ուզում եմ գնալ Գյումրի (uzum em gnal Gyumri)."
+    },
+    "is_it_far": {
+      "text": "Հեռո՞ւ է",
+      "roman": "Heru e?"
+    },
+    "one_ticket": {
+      "text": "Մեկ տոմս, խնդրում եմ",
+      "roman": "Mek toms, khndrum em"
+    },
+    "too_expensive": {
+      "text": "Շատ թանկ է",
+      "roman": "Shat tank e"
+    },
+    "cheaper": {
+      "text": "Ավելի էժան բան ունե՞ք",
+      "roman": "Aveli ezhan ban unek?"
+    },
+    "id_like_this": {
+      "text": "Ինձ սա տվեք, խնդրում եմ",
+      "roman": "Indz sa tvek, khndrum em",
+      "note": "Also: Սա կվերցնեմ (sa kvertsnem), I'll take this."
+    },
+    "just_looking": {
+      "text": "Ուղղակի նայում եմ",
+      "roman": "Ughghaki nayum em"
+    },
+    "pay_card": {
+      "text": "Կարո՞ղ եմ քարտով վճարել",
+      "roman": "Karogh em kartov vcharel?",
+      "note": "Also common: Քարտով կարելի՞ է (kartov kareli e?)."
+    },
+    "cash": {
+      "text": "Կանխիկ",
+      "roman": "Kankhik",
+      "note": "I'll pay cash: Կանխիկ կվճարեմ (kankhik kvcharem)."
+    },
+    "open": {
+      "text": "Բաց է",
+      "roman": "Bats e"
+    },
+    "closed": {
+      "text": "Փակ է",
+      "roman": "Pak e"
+    },
+    "big": {
+      "text": "Մեծ",
+      "roman": "Mets"
+    },
+    "small": {
+      "text": "Փոքր",
+      "roman": "Pokr"
+    },
+    "today": {
+      "text": "Այսօր",
+      "roman": "Aysor"
+    },
+    "tomorrow": {
+      "text": "Վաղը",
+      "roman": "Vaghy"
+    },
+    "yesterday": {
+      "text": "Երեկ",
+      "roman": "Yerek",
+      "note": "Don't mix it up with երեք (three): here the final k is plain, with no puff of air."
+    },
+    "now": {
+      "text": "Հիմա",
+      "roman": "Hima"
+    },
+    "later": {
+      "text": "Ավելի ուշ",
+      "roman": "Aveli ush",
+      "note": "Also very common: Հետո (heto), afterwards."
+    },
+    "good_evening": {
+      "text": "Բարի երեկո",
+      "roman": "Bari yereko"
+    },
+    "good_night": {
+      "text": "Բարի գիշեր",
+      "roman": "Bari gisher"
+    },
+    "see_you_later": {
+      "text": "Կտեսնվենք",
+      "roman": "Ktesnvenk",
+      "note": "Also: Առայժմ (arayzhm), bye for now."
+    },
+    "wait_moment": {
+      "text": "Մի րոպե սպասեք, խնդրում եմ",
+      "roman": "Mi rope spasek, khndrum em",
+      "note": "Short: Մի րոպե (mi rope)."
+    },
+    "every_day": {
+      "text": "Ամեն օր",
+      "roman": "Amen or"
+    },
+    "help": {
+      "text": "Օգնությո՜ւն",
+      "roman": "Ognutyun!",
+      "note": "Also shouted: Օգնեցե՛ք (ognetsek!)."
+    },
+    "call_police": {
+      "text": "Ոստիկանություն կանչե՛ք",
+      "roman": "Vostikanutyun kanchek!"
+    },
+    "need_doctor": {
+      "text": "Ինձ բժիշկ է պետք",
+      "roman": "Indz bzhishk e petk",
+      "note": "An ambulance: շտապ օգնություն (shtap ognutyun)."
+    },
+    "im_lost": {
+      "text": "Մոլորվել եմ",
+      "roman": "Molorvel em"
+    },
+    "dont_feel_well": {
+      "text": "Ինձ լավ չեմ զգում",
+      "roman": "Indz lav chem zgum"
+    },
+    "pharmacy": {
+      "text": "Դեղատուն",
+      "roman": "Deghatun",
+      "note": "In casual speech also ապտեկա (apteka)."
+    },
+    "hospital": {
+      "text": "Հիվանդանոց",
+      "roman": "Hivandanots"
+    },
+    "lost_phone": {
+      "text": "Հեռախոսս կորցրել եմ",
+      "roman": "Herakhoss kortsrel em"
+    },
+    "allergic": {
+      "text": "Ալերգիա ունեմ …-ի նկատմամբ",
+      "roman": "Alergia unem …-i nkatmamb",
+      "note": "In casual speech also: …-ից ալերգիա ունեմ (…-its alergia unem)."
+    },
+    "be_careful": {
+      "text": "Զգո՛ւյշ եղեք",
+      "roman": "Zguysh yeghek!",
+      "note": "To a friend: Զգո՛ւյշ եղիր (zguysh yeghir!)."
+    },
+    "no_problem": {
+      "text": "Խնդիր չկա",
+      "roman": "Khndir chka",
+      "note": "Also: Ոչ մի խնդիր (voch mi khndir). In reply to 'sorry': Ոչինչ (vochinch)."
+    },
+    "of_course": {
+      "text": "Իհարկե",
+      "roman": "Iharke"
+    },
+    "maybe": {
+      "text": "Գուցե",
+      "roman": "Gutse",
+      "note": "Also: Միգուցե (migutse). 'Probably': Երևի (yerevi)."
+    },
+    "dont_know": {
+      "text": "Չգիտեմ",
+      "roman": "Chgitem"
+    },
+    "i_like_it": {
+      "text": "Ինձ դուր է գալիս",
+      "roman": "Indz dur e galis",
+      "note": "Also: Հավանում եմ (havanum em)."
+    },
+    "dont_like_it": {
+      "text": "Ինձ դուր չի գալիս",
+      "roman": "Indz dur chi galis"
+    },
+    "im_tired": {
+      "text": "Հոգնել եմ",
+      "roman": "Hognel em"
+    },
+    "im_happy": {
+      "text": "Ես ուրախ եմ",
+      "roman": "Yes urakh em",
+      "note": "Happy in a deeper, life sense: Ես երջանիկ եմ (yes yerjanik em)."
+    },
+    "welcome": {
+      "text": "Բարի գալո՜ւստ",
+      "roman": "Bari galust!"
+    },
+    "congratulations": {
+      "text": "Շնորհավո՜ր",
+      "roman": "Shnorhavor!",
+      "note": "Also for holidays: Շնորհավոր Նոր տարի (shnorhavor Nor tari), Happy New Year."
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "code": "mr",
+  "phrases": {
+    "hello": {
+      "text": "नमस्कार",
+      "roman": "namaskaar",
+      "note": "Works at any time of day, often with palms pressed together. नमस्ते (namaste) is also used."
+    },
+    "goodbye": {
+      "text": "येतो",
+      "roman": "yeto",
+      "note": "Lit. 'I'll come (again)': Marathi avoids saying 'I'm going'. A woman says: येते (yete)."
+    },
+    "please": {
+      "text": "कृपया",
+      "roman": "krupaya",
+      "note": "Formal. In speech, politeness comes from the verb form or a soft ना: बसा ना (basa na)."
+    },
+    "thank_you": {
+      "text": "धन्यवाद",
+      "roman": "dhanyavaad",
+      "note": "More formal: मी आभारी आहे (mi aabhaari aahe). Many people simply say थँक यू (thank you)."
+    },
+    "youre_welcome": {
+      "text": "त्यात काय!",
+      "roman": "tyaat kaay!",
+      "note": "Marathi has no set reply to thanks; this ('oh, it's nothing') is the natural one."
+    },
+    "yes": {
+      "text": "हो",
+      "roman": "ho",
+      "note": "Also होय (hoy), the fuller form: a little more formal, and the one used in writing."
+    },
+    "no": {
+      "text": "नाही",
+      "roman": "naahi",
+      "note": "To turn down an offer, say नको (nako), 'I don't want it'."
+    },
+    "sorry": {
+      "text": "माफ करा",
+      "roman": "maaf kara",
+      "note": "Casual and very common: सॉरी (sorry)."
+    },
+    "excuse_me": {
+      "text": "अहो, ऐका ना",
+      "roman": "aho, aika na",
+      "note": "People also call strangers दादा (daada, 'brother') or ताई (taai, 'sister'). In cities: एक्सक्यूज मी (excuse me)."
+    },
+    "good_morning": {
+      "text": "सुप्रभात",
+      "roman": "suprabhaat",
+      "note": "Formal or in messages. Face to face, most people say नमस्कार (namaskaar) or गुड मॉर्निंग (good morning)."
+    },
+    "how_are_you": {
+      "text": "तुम्ही कसे आहात?",
+      "roman": "tumhi kase aahat?",
+      "note": "To a woman: तुम्ही कशा आहात? (tumhi kasha aahat?). Casual: कसं काय? (kasa kaay?)"
+    },
+    "im_fine": {
+      "text": "मी बरा आहे, धन्यवाद",
+      "roman": "mi bara aahe, dhanyavaad",
+      "note": "A woman says: मी बरी आहे (mi bari aahe). Also common: मी मजेत आहे (mi majet aahe)."
+    },
+    "whats_your_name": {
+      "text": "तुमचं नाव काय आहे?",
+      "roman": "tumcha naav kaay aahe?",
+      "note": "More formal: आपलं नाव काय? (aapla naav kaay?)"
+    },
+    "my_name_is": {
+      "text": "माझं नाव … आहे",
+      "roman": "maajha naav … aahe",
+      "note": "The verb आहे (aahe, 'is') comes last, after the name."
+    },
+    "nice_to_meet_you": {
+      "text": "तुम्हाला भेटून आनंद झाला",
+      "roman": "tumhaala bhetun aanand jhaala"
+    },
+    "where_from": {
+      "text": "तुम्ही कुठले आहात?",
+      "roman": "tumhi kuthle aahat?",
+      "note": "To a woman: तुम्ही कुठल्या आहात? (tumhi kuthlya aahat?)"
+    },
+    "im_from": {
+      "text": "मी …चा आहे",
+      "roman": "mi …cha aahe",
+      "note": "A woman says: मी …ची आहे (mi …chi aahe). The place name changes form: पुणे → पुण्याचा (Pune → Punyaacha)."
+    },
+    "speak_english": {
+      "text": "तुम्हाला इंग्रजी येतं का?",
+      "roman": "tumhaala ingraji yeta ka?",
+      "note": "Lit. 'Does English come to you?' Many say इंग्लिश (English) instead of इंग्रजी."
+    },
+    "dont_understand": {
+      "text": "मला समजलं नाही",
+      "roman": "mala samajla naahi",
+      "note": "Also common: मला कळलं नाही (mala kalla naahi)."
+    },
+    "speak_slowly": {
+      "text": "जरा हळू बोलाल का?",
+      "roman": "jara halu bolaal ka?",
+      "note": "More direct: कृपया हळू बोला (krupaya halu bola)."
+    },
+    "where": {
+      "text": "कुठे?",
+      "roman": "kuthe?"
+    },
+    "what": {
+      "text": "काय?",
+      "roman": "kaay?",
+      "note": "To ask someone to repeat, politer: काय म्हणालात? (kaay mhanaalaat?)"
+    },
+    "when": {
+      "text": "कधी?",
+      "roman": "kadhi?"
+    },
+    "why": {
+      "text": "का?",
+      "roman": "ka?",
+      "note": "The same word ends yes/no questions: येतं का? (yeta ka?). Also common: कशाला? (kashaala?, 'what for?')"
+    },
+    "who": {
+      "text": "कोण?",
+      "roman": "kon?"
+    },
+    "how_much": {
+      "text": "हे कितीला आहे?",
+      "roman": "he kitila aahe?",
+      "note": "For the total at the till: किती झाले? (kiti jhaale?)"
+    },
+    "where_bathroom": {
+      "text": "टॉयलेट कुठे आहे?",
+      "roman": "toilet kuthe aahe?",
+      "note": "Also common: बाथरूम (bathroom). Signs say स्वच्छतागृह (swachchhataagruh) or शौचालय (shauchaalay)."
+    },
+    "can_you_help": {
+      "text": "तुम्ही मला मदत कराल का?",
+      "roman": "tumhi mala madat karaal ka?"
+    },
+    "what_time": {
+      "text": "किती वाजले?",
+      "roman": "kiti vaajle?",
+      "note": "The answer uses the same verb: दोन वाजले (don vaajle), 'it's two o'clock'."
+    },
+    "what_means": {
+      "text": "याचा अर्थ काय आहे?",
+      "roman": "yaacha arth kaay aahe?"
+    },
+    "one": {
+      "text": "एक",
+      "roman": "ek",
+      "note": "Marathi digit: १"
+    },
+    "two": {
+      "text": "दोन",
+      "roman": "don",
+      "note": "Marathi digit: २"
+    },
+    "three": {
+      "text": "तीन",
+      "roman": "teen",
+      "note": "Marathi digit: ३"
+    },
+    "four": {
+      "text": "चार",
+      "roman": "chaar",
+      "note": "Marathi digit: ४. Here च sounds like 'ts': tsaar."
+    },
+    "five": {
+      "text": "पाच",
+      "roman": "paach",
+      "note": "Marathi digit: ५. The final च sounds like 'ts': paats."
+    },
+    "six": {
+      "text": "सहा",
+      "roman": "saha",
+      "note": "Marathi digit: ६"
+    },
+    "seven": {
+      "text": "सात",
+      "roman": "saat",
+      "note": "Marathi digit: ७"
+    },
+    "eight": {
+      "text": "आठ",
+      "roman": "aath",
+      "note": "Marathi digit: ८. ठ is a tongue-curled t with a puff of air, not English 'th'."
+    },
+    "nine": {
+      "text": "नऊ",
+      "roman": "nau",
+      "note": "Marathi digit: ९"
+    },
+    "ten": {
+      "text": "दहा",
+      "roman": "daha",
+      "note": "Marathi digits: १०"
+    },
+    "water": {
+      "text": "पाणी",
+      "roman": "paani",
+      "note": "ण is a retroflex n: curl the tongue back to say it."
+    },
+    "coffee": {
+      "text": "कॉफी",
+      "roman": "coffee"
+    },
+    "tea": {
+      "text": "चहा",
+      "roman": "chaha",
+      "note": "Here च sounds like 'ts': tsaha. It comes with milk and sugar unless you ask otherwise."
+    },
+    "bread": {
+      "text": "पाव",
+      "roman": "paav",
+      "note": "Soft bread rolls, as in वडापाव (vadapaav). Sliced bread: ब्रेड (bread). Flatbread: पोळी (poli)."
+    },
+    "im_hungry": {
+      "text": "मला भूक लागली आहे",
+      "roman": "mala bhook laagli aahe"
+    },
+    "menu_please": {
+      "text": "जरा मेन्यू कार्ड द्या",
+      "roman": "jara menu card dya",
+      "note": "जरा (jara, 'a little') softens a request, much like 'please'."
+    },
+    "bill_please": {
+      "text": "बिल आणा",
+      "roman": "bill aana",
+      "note": "Also: बिल द्या (bill dya)."
+    },
+    "delicious": {
+      "text": "खूप छान झालंय!",
+      "roman": "khoop chhaan jhaalay!",
+      "note": "Said of food that has 'turned out' well. Casual: एकदम मस्त! (ekdam mast!) The word for tasty: चविष्ट (chavisht)."
+    },
+    "no_meat": {
+      "text": "मी मांस खात नाही",
+      "roman": "mi maans khaat naahi",
+      "note": "Also: मी शाकाहारी आहे (mi shaakaahaari aahe), 'I'm vegetarian'."
+    },
+    "enjoy_meal": {
+      "text": "सावकाश जेवा!",
+      "roman": "saavkaash jeva!",
+      "note": "Marathi has no fixed 'bon appétit'; hosts say this, lit. 'eat unhurriedly'."
+    },
+    "left": {
+      "text": "डावीकडे",
+      "roman": "daavikade",
+      "note": "Turn left: डावीकडे वळा (daavikade vala). Drivers also say लेफ्ट (left)."
+    },
+    "right": {
+      "text": "उजवीकडे",
+      "roman": "ujvikade",
+      "note": "Turn right: उजवीकडे वळा (ujvikade vala). Drivers also say राइट (right)."
+    },
+    "straight_ahead": {
+      "text": "सरळ पुढे",
+      "roman": "saral pudhe",
+      "note": "Go straight: सरळ जा (saral ja)."
+    },
+    "stop_here": {
+      "text": "इथे थांबवा",
+      "roman": "ithe thaambva",
+      "note": "Softer, to a driver: दादा, इथे थांबवा ना (daada, ithe thaambva na)."
+    },
+    "airport": {
+      "text": "विमानतळ",
+      "roman": "vimaantal",
+      "note": "In everyday speech most people say एअरपोर्ट (airport)."
+    },
+    "hotel": {
+      "text": "हॉटेल",
+      "roman": "hotel",
+      "note": "In Maharashtra हॉटेल often means a restaurant or eatery, too."
+    },
+    "train_station": {
+      "text": "रेल्वे स्टेशन",
+      "roman": "railway station",
+      "note": "Often just स्टेशन (station). Signs say रेल्वे स्थानक (railway sthaanak)."
+    },
+    "want_to_go": {
+      "text": "मला …ला जायचं आहे",
+      "roman": "mala …la jaaycha aahe",
+      "note": "The place takes -ला ('to'): मला पुण्याला जायचं आहे (mala Punyaala jaaycha aahe)."
+    },
+    "is_it_far": {
+      "text": "इथून लांब आहे का?",
+      "roman": "ithun laamb aahe ka?",
+      "note": "How far is it? किती लांब आहे? (kiti laamb aahe?)"
+    },
+    "one_ticket": {
+      "text": "एक तिकीट द्या",
+      "roman": "ek ticket dya",
+      "note": "Name the place first: पुण्याचं एक तिकीट द्या (Punyaacha ek ticket dya)."
+    },
+    "too_expensive": {
+      "text": "हे खूप महाग आहे",
+      "roman": "he khoop mahaag aahe",
+      "note": "When bargaining, add: जरा कमी करा ना (jara kami kara na), 'bring it down a bit'."
+    },
+    "cheaper": {
+      "text": "यापेक्षा स्वस्त काही आहे का?",
+      "roman": "yaapeksha swast kaahi aahe ka?",
+      "note": "Also: जरा स्वस्त दाखवा (jara swast daakhva), 'show me something cheaper'."
+    },
+    "id_like_this": {
+      "text": "मला हे हवं आहे",
+      "roman": "mala he hava aahe",
+      "note": "Also common: मला हे पाहिजे (mala he paahije). At the counter: हे द्या (he dya)."
+    },
+    "just_looking": {
+      "text": "मी फक्त बघतोय",
+      "roman": "mi fakt baghtoy",
+      "note": "A woman says: मी फक्त बघतेय (mi fakt baghtey)."
+    },
+    "pay_card": {
+      "text": "कार्ड चालेल का?",
+      "roman": "card chaalel ka?",
+      "note": "Handy pattern for anything: कॅश चालेल का? (cash chaalel ka?), 'is cash OK?'"
+    },
+    "cash": {
+      "text": "रोख",
+      "roman": "rokh",
+      "note": "In everyday speech कॅश (cash) is just as common."
+    },
+    "open": {
+      "text": "उघडे",
+      "roman": "ughade",
+      "note": "In speech: दुकान चालू आहे (dukaan chaalu aahe), 'the shop is open'."
+    },
+    "closed": {
+      "text": "बंद",
+      "roman": "band",
+      "note": "Rhymes with 'fund'. Also means 'switched off', for lights, phones and so on."
+    },
+    "big": {
+      "text": "मोठा",
+      "roman": "motha",
+      "note": "With feminine nouns: मोठी (mothi); with neuter ones: मोठं (motha, with a light nasal)."
+    },
+    "small": {
+      "text": "लहान",
+      "roman": "lahaan",
+      "note": "Same form for every gender. Also common: छोटा (chhota)."
+    },
+    "today": {
+      "text": "आज",
+      "roman": "aaj",
+      "note": "Here ज sounds like 'dz': aadz."
+    },
+    "tomorrow": {
+      "text": "उद्या",
+      "roman": "udya"
+    },
+    "yesterday": {
+      "text": "काल",
+      "roman": "kaal"
+    },
+    "now": {
+      "text": "आता",
+      "roman": "aata",
+      "note": "Right now, this instant: आत्ता (aatta)."
+    },
+    "later": {
+      "text": "नंतर",
+      "roman": "nantar",
+      "note": "Also common: मग (mag), 'then, afterwards'."
+    },
+    "good_evening": {
+      "text": "शुभ संध्याकाळ",
+      "roman": "shubh sandhyaakaal",
+      "note": "Formal or in messages. Face to face, people just say नमस्कार (namaskaar)."
+    },
+    "good_night": {
+      "text": "शुभ रात्री",
+      "roman": "shubh raatri",
+      "note": "In everyday speech also गुड नाइट (good night)."
+    },
+    "see_you_later": {
+      "text": "नंतर भेटू",
+      "roman": "nantar bhetu",
+      "note": "Also: पुन्हा भेटू (punha bhetu), 'see you again'."
+    },
+    "wait_moment": {
+      "text": "एक मिनिट थांबा",
+      "roman": "ek minute thaamba",
+      "note": "Also common: जरा थांबा (jara thaamba)."
+    },
+    "every_day": {
+      "text": "रोज",
+      "roman": "roj",
+      "note": "Also: दररोज (darroj)."
+    },
+    "help": {
+      "text": "वाचवा!",
+      "roman": "vaachva!",
+      "note": "Also shouted: मदत करा! (madat kara!)"
+    },
+    "call_police": {
+      "text": "पोलिसांना बोलवा!",
+      "roman": "polisaanna bolva!",
+      "note": "Emergency number in India: 112."
+    },
+    "need_doctor": {
+      "text": "मला डॉक्टरची गरज आहे",
+      "roman": "mala doctorchi garaj aahe",
+      "note": "Also: डॉक्टरला बोलवा (doctorla bolva), 'please call a doctor'."
+    },
+    "im_lost": {
+      "text": "मी रस्ता चुकलो आहे",
+      "roman": "mi rasta chuklo aahe",
+      "note": "A woman says: मी रस्ता चुकले आहे (mi rasta chukle aahe)."
+    },
+    "dont_feel_well": {
+      "text": "मला बरं वाटत नाही",
+      "roman": "mala bara vaatat naahi",
+      "note": "Also: माझी तब्येत बरी नाही (maajhi tabyet bari naahi)."
+    },
+    "pharmacy": {
+      "text": "औषधांचं दुकान",
+      "roman": "aushadhaancha dukaan",
+      "note": "In everyday speech people say मेडिकल (medical) or केमिस्ट (chemist)."
+    },
+    "hospital": {
+      "text": "रुग्णालय",
+      "roman": "rugnaalay",
+      "note": "In speech most say हॉस्पिटल (hospital). A local clinic is a दवाखाना (davaakhaana)."
+    },
+    "lost_phone": {
+      "text": "माझा फोन हरवला",
+      "roman": "maajha phone haravla",
+      "note": "If it was stolen: माझा फोन चोरीला गेला (maajha phone chorila gela)."
+    },
+    "allergic": {
+      "text": "मला …ची ॲलर्जी आहे",
+      "roman": "mala …chi allergy aahe",
+      "note": "The allergen takes -ची: मला दुधाची ॲलर्जी आहे (mala dudhaachi allergy aahe), 'to milk'."
+    },
+    "be_careful": {
+      "text": "सांभाळून!",
+      "roman": "saambhaalun!",
+      "note": "Also: जपून! (japun!). Warning signs say सावधान (saavdhaan)."
+    },
+    "no_problem": {
+      "text": "काही हरकत नाही",
+      "roman": "kaahi harkat naahi",
+      "note": "Very common in speech: काही प्रॉब्लेम नाही (kaahi problem naahi)."
+    },
+    "of_course": {
+      "text": "नक्की",
+      "roman": "nakki",
+      "note": "More formal: अर्थात (arthaat). Also: हो, नक्की (ho, nakki)."
+    },
+    "maybe": {
+      "text": "कदाचित",
+      "roman": "kadaachit",
+      "note": "To stay noncommittal: बघू (baghu), 'we'll see'."
+    },
+    "dont_know": {
+      "text": "मला माहीत नाही",
+      "roman": "mala maahit naahi",
+      "note": "Shorter: माहीत नाही (maahit naahi)."
+    },
+    "i_like_it": {
+      "text": "मला हे आवडलं",
+      "roman": "mala he aavadla",
+      "note": "For a lasting liking: मला हे आवडतं (mala he aavadta)."
+    },
+    "dont_like_it": {
+      "text": "मला हे आवडलं नाही",
+      "roman": "mala he aavadla naahi",
+      "note": "For a lasting dislike: मला हे आवडत नाही (mala he aavadat naahi)."
+    },
+    "im_tired": {
+      "text": "मी दमलो आहे",
+      "roman": "mi damlo aahe",
+      "note": "A woman says: मी दमले आहे (mi damle aahe). Also common: थकलो / थकले (thaklo / thakle)."
+    },
+    "im_happy": {
+      "text": "मी खूश आहे",
+      "roman": "mi khush aahe",
+      "note": "Also: मला खूप आनंद झाला (mala khoop aanand jhaala), 'I'm delighted'."
+    },
+    "welcome": {
+      "text": "या, या!",
+      "roman": "ya, ya!",
+      "note": "Warm and usual at the door. Formal, for events and signs: स्वागत आहे (swaagat aahe)."
+    },
+    "congratulations": {
+      "text": "अभिनंदन!",
+      "roman": "abhinandan!"
+    }
+  }
+}

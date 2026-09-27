@@ -1,0 +1,392 @@
+{
+  "code": "ga",
+  "phrases": {
+    "hello": {
+      "text": "Dia duit",
+      "note": "The reply is Dia is Muire duit. To several people: Dia daoibh. Casually: haigh."
+    },
+    "goodbye": {
+      "text": "Slán",
+      "note": "If you are leaving, say slán agat; to someone who is leaving, slán leat."
+    },
+    "please": {
+      "text": "Le do thoil",
+      "note": "To several people: le bhur dtoil."
+    },
+    "thank_you": {
+      "text": "Go raibh maith agat",
+      "note": "To several people: go raibh maith agaibh. Thanks a million: go raibh míle maith agat."
+    },
+    "youre_welcome": {
+      "text": "Tá fáilte romhat",
+      "note": "Also very common: ná habair é (don't mention it) or níl a bhuíochas ort."
+    },
+    "yes": {
+      "text": "Sea",
+      "note": "Irish has no true word for yes; you echo the verb: An bhfuil tú réidh? – Tá. Sea is the general form."
+    },
+    "no": {
+      "text": "Ní hea",
+      "note": "Usually you echo the verb: An bhfuil tú réidh? – Níl. Ní hea is the general form."
+    },
+    "sorry": {
+      "text": "Tá brón orm",
+      "note": "For a small slip or bump, gabh mo leithscéal is also common."
+    },
+    "excuse_me": {
+      "text": "Gabh mo leithscéal",
+      "note": "Said roughly 'gow muh lesh-kayl'. To several people: gabhaigí mo leithscéal."
+    },
+    "good_morning": {
+      "text": "Maidin mhaith",
+      "note": "Also: Dia duit ar maidin. Traditionally Dia duit serves at any time of day."
+    },
+    "how_are_you": {
+      "text": "Conas atá tú?",
+      "note": "Connacht: Cén chaoi a bhfuil tú? Ulster: Cad é mar atá tú? Irish uses tú for everyone."
+    },
+    "im_fine": {
+      "text": "Tá mé go maith, go raibh maith agat",
+      "note": "In Munster: Táim go maith. Also: go breá (fine) or ar fheabhas (great)."
+    },
+    "whats_your_name": {
+      "text": "Cad is ainm duit?",
+      "note": "Connacht: Cén t-ainm atá ort? Ulster: Cad é an t-ainm atá ort?"
+    },
+    "my_name_is": {
+      "text": "… is ainm dom",
+      "note": "The name comes first: Seán is ainm dom. Also common: Is mise Seán."
+    },
+    "nice_to_meet_you": {
+      "text": "Tá áthas orm bualadh leat",
+      "note": "Also common: is deas bualadh leat. In Connacht: castáil leat instead of bualadh leat."
+    },
+    "where_from": {
+      "text": "Cárb as duit?",
+      "note": "Also heard: Cé as thú? (Connacht), Cad as duit? (Munster)."
+    },
+    "im_from": {
+      "text": "Is as … mé",
+      "note": "E.g. Is as Éirinn mé. Countries with 'an' change: Is as an bhFrainc mé (France)."
+    },
+    "speak_english": {
+      "text": "An bhfuil Béarla agat?",
+      "note": "Irish says you 'have' a language. Also heard: An labhraíonn tú Béarla?"
+    },
+    "dont_understand": {
+      "text": "Ní thuigim",
+      "note": "Said roughly 'nee hig-im'. Ní thuigim thú = I don't understand you."
+    },
+    "speak_slowly": {
+      "text": "Labhair níos moille, le do thoil",
+      "note": "To several people: labhraígí níos moille. Softer: An bhféadfá labhairt níos moille?"
+    },
+    "where": {
+      "text": "Cá háit?",
+      "note": "Before a verb it is just cá: Cá bhfuil sé? (Where is it?)"
+    },
+    "what": {
+      "text": "Cad?",
+      "note": "Connacht: Céard? Ulster: Cad é? To mean 'pardon?', say gabh mo leithscéal?"
+    },
+    "when": {
+      "text": "Cathain?",
+      "note": "Also very common: Cén uair?"
+    },
+    "why": {
+      "text": "Cén fáth?",
+      "note": "Also: Cad chuige? (Ulster), Tuige? (Connacht)."
+    },
+    "who": {
+      "text": "Cé?",
+      "note": "Usually with more: Cé hé sin? (who's that – a man), Cé hí sin? (a woman)."
+    },
+    "how_much": {
+      "text": "Cé mhéad atá air seo?",
+      "note": "Ulster: Cá mhéad atá air seo?"
+    },
+    "where_bathroom": {
+      "text": "Cá bhfuil an leithreas, le do thoil?",
+      "note": "On toilet doors: Fir = men, Mná = women."
+    },
+    "can_you_help": {
+      "text": "An féidir leat cabhrú liom?",
+      "note": "More polite: An bhféadfá cabhrú liom? Ulster uses cuidiú for cabhrú."
+    },
+    "what_time": {
+      "text": "Cén t-am é?",
+      "note": "Answer: Tá sé a trí a chlog (It's three o'clock)."
+    },
+    "what_means": {
+      "text": "Cad is brí leis seo?",
+      "note": "Also: Cad a chiallaíonn sé seo? For a word: Cad is brí leis an bhfocal seo?"
+    },
+    "one": {
+      "text": "A haon",
+      "note": "Counting form. With a noun: noun + amháin, e.g. cupán amháin (one cup)."
+    },
+    "two": {
+      "text": "A dó",
+      "note": "With a noun: dhá, e.g. dhá chupán (two cups)."
+    },
+    "three": {
+      "text": "A trí",
+      "note": "Counting people uses special forms: beirt (two people), triúr (three people)."
+    },
+    "four": {
+      "text": "A ceathair",
+      "note": "With a noun: ceithre, e.g. ceithre chupán (four cups)."
+    },
+    "five": {
+      "text": "A cúig"
+    },
+    "six": {
+      "text": "A sé",
+      "note": "Said 'shay': s before e or i sounds like 'sh'."
+    },
+    "seven": {
+      "text": "A seacht",
+      "note": "Said roughly 'shakht'. With a noun: seacht gcupán (seven cups)."
+    },
+    "eight": {
+      "text": "A hocht",
+      "note": "The h is only for counting; with a noun: ocht gcupán (eight cups)."
+    },
+    "nine": {
+      "text": "A naoi",
+      "note": "Said roughly 'nee'."
+    },
+    "ten": {
+      "text": "A deich",
+      "note": "With a noun: deich gcupán (ten cups)."
+    },
+    "water": {
+      "text": "Uisce",
+      "note": "Said 'ish-ka'. Whiskey comes from uisce beatha, 'water of life'."
+    },
+    "coffee": {
+      "text": "Caife",
+      "note": "Said 'kaf-eh'."
+    },
+    "tea": {
+      "text": "Tae",
+      "note": "Said 'tay'. A cup of tea: cupán tae."
+    },
+    "bread": {
+      "text": "Arán",
+      "note": "Brown soda bread: arán donn."
+    },
+    "im_hungry": {
+      "text": "Tá ocras orm",
+      "note": "Literally 'hunger is on me': many feelings are 'on' you in Irish."
+    },
+    "menu_please": {
+      "text": "An biachlár, le do thoil"
+    },
+    "bill_please": {
+      "text": "An bille, le do thoil",
+      "note": "Also: an cuntas, le do thoil."
+    },
+    "delicious": {
+      "text": "Tá sé an-bhlasta!",
+      "note": "Just blasta! works too."
+    },
+    "no_meat": {
+      "text": "Ní ithim feoil",
+      "note": "I'm a vegetarian: is feoilséantóir mé."
+    },
+    "enjoy_meal": {
+      "text": "Bain taitneamh as do bhéile!",
+      "note": "To several people: bainigí taitneamh as bhur mbéile!"
+    },
+    "left": {
+      "text": "Ar chlé",
+      "note": "Turn left: cas ar chlé. Also written ar clé."
+    },
+    "right": {
+      "text": "Ar dheis",
+      "note": "Turn right: cas ar dheis. On your right: ar do dheis."
+    },
+    "straight_ahead": {
+      "text": "Díreach ar aghaidh",
+      "note": "Also: díreach romhat (straight in front of you)."
+    },
+    "stop_here": {
+      "text": "Stop anseo, le do thoil",
+      "note": "Also: stad anseo, le do thoil."
+    },
+    "airport": {
+      "text": "Aerfort",
+      "note": "With 'the': an t-aerfort."
+    },
+    "hotel": {
+      "text": "Óstán",
+      "note": "With 'the': an t-óstán."
+    },
+    "train_station": {
+      "text": "Stáisiún traenach"
+    },
+    "want_to_go": {
+      "text": "Ba mhaith liom dul go …",
+      "note": "Before 'the', use go dtí: Ba mhaith liom dul go dtí an t-aerfort."
+    },
+    "is_it_far": {
+      "text": "An bhfuil sé i bhfad ó seo?",
+      "note": "Answers: tá (it is) or níl (it isn't)."
+    },
+    "one_ticket": {
+      "text": "Ticéad amháin, le do thoil",
+      "note": "A return ticket: ticéad fillte."
+    },
+    "too_expensive": {
+      "text": "Tá sé ródhaor",
+      "note": "Ró- means 'too', as in rómhór (too big)."
+    },
+    "cheaper": {
+      "text": "An bhfuil aon rud níos saoire agat?"
+    },
+    "id_like_this": {
+      "text": "Ba mhaith liom é seo, le do thoil"
+    },
+    "just_looking": {
+      "text": "Níl mé ach ag féachaint thart",
+      "note": "Connacht: ag breathnú thart; Ulster: ag amharc thart."
+    },
+    "pay_card": {
+      "text": "An féidir liom íoc le cárta?"
+    },
+    "cash": {
+      "text": "Airgead tirim",
+      "note": "Literally 'dry money'. Paying in cash: ag íoc le hairgead tirim."
+    },
+    "open": {
+      "text": "Oscailte"
+    },
+    "closed": {
+      "text": "Dúnta"
+    },
+    "big": {
+      "text": "Mór",
+      "note": "Very big: an-mhór."
+    },
+    "small": {
+      "text": "Beag",
+      "note": "Very small: an-bheag."
+    },
+    "today": {
+      "text": "Inniu"
+    },
+    "tomorrow": {
+      "text": "Amárach"
+    },
+    "yesterday": {
+      "text": "Inné"
+    },
+    "now": {
+      "text": "Anois",
+      "note": "Right now: anois díreach."
+    },
+    "later": {
+      "text": "Níos déanaí",
+      "note": "In speech also: ar ball (in a while)."
+    },
+    "good_evening": {
+      "text": "Tráthnóna maith",
+      "note": "Many speakers simply say Dia duit at any hour."
+    },
+    "good_night": {
+      "text": "Oíche mhaith",
+      "note": "Also: codladh sámh (sleep well)."
+    },
+    "see_you_later": {
+      "text": "Feicfidh mé ar ball thú",
+      "note": "Also: slán go fóill (bye for now)."
+    },
+    "wait_moment": {
+      "text": "Fan nóiméad, le do thoil",
+      "note": "To several people: fanaigí nóiméad. Also: fan go fóill."
+    },
+    "every_day": {
+      "text": "Gach lá"
+    },
+    "help": {
+      "text": "Cabhair!",
+      "note": "Help me!: Cabhraigh liom!"
+    },
+    "call_police": {
+      "text": "Glaoigh ar na gardaí!",
+      "note": "In Ireland the police are the Gardaí; elsewhere say na póilíní."
+    },
+    "need_doctor": {
+      "text": "Tá dochtúir uaim",
+      "note": "Also: teastaíonn dochtúir uaim. Ulster: tá dochtúir de dhíth orm."
+    },
+    "im_lost": {
+      "text": "Tá mé ar strae",
+      "note": "Also common: tá mé caillte."
+    },
+    "dont_feel_well": {
+      "text": "Níl mé ar fónamh",
+      "note": "Simpler: níl mé go maith. I'm sick: tá mé tinn."
+    },
+    "pharmacy": {
+      "text": "Cógaslann",
+      "note": "Also: siopa poitigéara (chemist's)."
+    },
+    "hospital": {
+      "text": "Ospidéal"
+    },
+    "lost_phone": {
+      "text": "Chaill mé m'fhón",
+      "note": "Also: chaill mé mo ghuthán (the Ulster word)."
+    },
+    "allergic": {
+      "text": "Tá ailléirge orm le …",
+      "note": "E.g. Tá ailléirge orm le cnónna (nuts)."
+    },
+    "be_careful": {
+      "text": "Bí cúramach!",
+      "note": "Watch out!: Seachain! To several people: bígí cúramach!"
+    },
+    "no_problem": {
+      "text": "Níl fadhb ar bith",
+      "note": "Also: ní haon fhadhb é."
+    },
+    "of_course": {
+      "text": "Ar ndóigh",
+      "note": "Also very common: cinnte! (certainly)."
+    },
+    "maybe": {
+      "text": "B'fhéidir",
+      "note": "Said roughly 'bay-dir'."
+    },
+    "dont_know": {
+      "text": "Níl a fhios agam",
+      "note": "Said roughly 'neel iss ug-um'."
+    },
+    "i_like_it": {
+      "text": "Is maith liom é",
+      "note": "For a feminine noun: is maith liom í."
+    },
+    "dont_like_it": {
+      "text": "Ní maith liom é",
+      "note": "For a feminine noun: ní maith liom í."
+    },
+    "im_tired": {
+      "text": "Tá tuirse orm",
+      "note": "Also: tá mé tuirseach."
+    },
+    "im_happy": {
+      "text": "Tá áthas orm",
+      "note": "Content, satisfied: tá mé sásta."
+    },
+    "welcome": {
+      "text": "Fáilte romhat!",
+      "note": "The famous warm version: Céad míle fáilte! To several guests: fáilte romhaibh!"
+    },
+    "congratulations": {
+      "text": "Comhghairdeas!",
+      "note": "Well done!: Maith thú!"
+    }
+  }
+}

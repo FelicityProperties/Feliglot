@@ -1,0 +1,395 @@
+{
+  "code": "it",
+  "phrases": {
+    "hello": {
+      "text": "Salve",
+      "note": "Polite at any time of day. Buongiorno also works until the afternoon. With friends: ciao."
+    },
+    "goodbye": {
+      "text": "Arrivederci",
+      "note": "Among friends: ciao, the same word as hello."
+    },
+    "please": {
+      "text": "Per favore",
+      "note": "Also: per piacere, or per cortesia in formal requests."
+    },
+    "thank_you": {
+      "text": "Grazie",
+      "note": "Say the final e: GRAHT-tsyeh. Thank you very much: grazie mille."
+    },
+    "youre_welcome": {
+      "text": "Prego",
+      "note": "Also: di niente. To a friend: figurati."
+    },
+    "yes": {
+      "text": "Sì",
+      "note": "Keep the accent: si without it is a pronoun ('oneself')."
+    },
+    "no": {
+      "text": "No",
+      "note": "Same spelling as English, but a short, pure o with no glide."
+    },
+    "sorry": {
+      "text": "Mi dispiace",
+      "note": "For a small slip, like bumping into someone: scusi! To a friend: scusa!"
+    },
+    "excuse_me": {
+      "text": "Mi scusi",
+      "note": "Also just scusi, often followed by senta ('listen'). To squeeze past someone: permesso."
+    },
+    "good_morning": {
+      "text": "Buongiorno",
+      "note": "Used until early afternoon; after that, switch to buonasera."
+    },
+    "how_are_you": {
+      "text": "Come sta?",
+      "note": "To a friend: come stai? Casual: come va?"
+    },
+    "im_fine": {
+      "text": "Bene, grazie",
+      "note": "Fuller: sto bene, grazie. Ask back with e Lei?"
+    },
+    "whats_your_name": {
+      "text": "Come si chiama?",
+      "note": "To a friend or child: come ti chiami?"
+    },
+    "my_name_is": {
+      "text": "Mi chiamo …",
+      "note": "Also simply: sono … ('I am …')."
+    },
+    "nice_to_meet_you": {
+      "text": "Piacere",
+      "note": "Fuller: piacere di conoscerLa. Also: molto lieto; a woman says molto lieta."
+    },
+    "where_from": {
+      "text": "Di dov'è?",
+      "note": "Also: da dove viene? To a friend: di dove sei?"
+    },
+    "im_from": {
+      "text": "Vengo da …",
+      "note": "Da merges with the article: vengo dalla Francia, dagli Stati Uniti. With a city: sono di Roma."
+    },
+    "speak_english": {
+      "text": "Parla inglese?",
+      "note": "To a friend: parli inglese?"
+    },
+    "dont_understand": {
+      "text": "Non capisco",
+      "note": "Also very common: non ho capito ('I didn't catch that')."
+    },
+    "speak_slowly": {
+      "text": "Può parlare più lentamente, per favore?",
+      "note": "Also common: più piano, per favore (which can also mean 'more quietly')."
+    },
+    "where": {
+      "text": "Dove?"
+    },
+    "what": {
+      "text": "Cosa?",
+      "note": "Also: che cosa? To ask someone to repeat, come, scusi? is more polite."
+    },
+    "when": {
+      "text": "Quando?"
+    },
+    "why": {
+      "text": "Perché?",
+      "note": "The same word also means 'because'."
+    },
+    "who": {
+      "text": "Chi?",
+      "note": "Ch is a hard k sound: 'kee'."
+    },
+    "how_much": {
+      "text": "Quanto costa questo?",
+      "note": "Often just: quanto costa? Asking for the total: quant'è?"
+    },
+    "where_bathroom": {
+      "text": "Dov'è il bagno?",
+      "note": "Politer with scusi first. Signs often say toilette or WC."
+    },
+    "can_you_help": {
+      "text": "Mi può aiutare?",
+      "note": "Also: può aiutarmi? To a friend: mi aiuti?"
+    },
+    "what_time": {
+      "text": "Che ore sono?",
+      "note": "Also correct: che ora è?"
+    },
+    "what_means": {
+      "text": "Cosa significa questo?",
+      "note": "Also very common: cosa vuol dire?"
+    },
+    "one": {
+      "text": "Uno",
+      "note": "Before a noun: un (un caffè) or una (una birra)."
+    },
+    "two": {
+      "text": "Due"
+    },
+    "three": {
+      "text": "Tre"
+    },
+    "four": {
+      "text": "Quattro",
+      "note": "Qu sounds like 'kw', and the double t is held: KWAT-tro."
+    },
+    "five": {
+      "text": "Cinque",
+      "note": "Ci sounds like 'chee': CHEEN-kweh."
+    },
+    "six": {
+      "text": "Sei"
+    },
+    "seven": {
+      "text": "Sette",
+      "note": "Hold the double t: SET-teh."
+    },
+    "eight": {
+      "text": "Otto"
+    },
+    "nine": {
+      "text": "Nove"
+    },
+    "ten": {
+      "text": "Dieci",
+      "note": "Pronounced DYEH-chee."
+    },
+    "water": {
+      "text": "Acqua",
+      "note": "Still: acqua naturale. Sparkling: acqua frizzante (or gassata)."
+    },
+    "coffee": {
+      "text": "Caffè",
+      "note": "Un caffè is an espresso. For a longer, milder coffee ask for un caffè americano."
+    },
+    "tea": {
+      "text": "Tè",
+      "note": "Iced tea, popular in summer: tè freddo."
+    },
+    "bread": {
+      "text": "Pane"
+    },
+    "im_hungry": {
+      "text": "Ho fame",
+      "note": "Uses avere ('to have'), not essere. Very hungry: ho molta fame."
+    },
+    "menu_please": {
+      "text": "Il menù, per favore",
+      "note": "Also written menu. Politer: ci porta il menù, per favore?"
+    },
+    "bill_please": {
+      "text": "Il conto, per favore",
+      "note": "Waiters rarely bring it unasked, so you usually need to request it."
+    },
+    "delicious": {
+      "text": "Buonissimo!",
+      "note": "Also very common: che buono! For a feminine noun like la pizza: buonissima!"
+    },
+    "no_meat": {
+      "text": "Non mangio carne",
+      "note": "Also: sono vegetariano; a woman says sono vegetariana."
+    },
+    "enjoy_meal": {
+      "text": "Buon appetito!",
+      "note": "The usual reply: grazie, altrettanto! ('you too')."
+    },
+    "left": {
+      "text": "Sinistra",
+      "note": "Turn left: giri a sinistra."
+    },
+    "right": {
+      "text": "Destra",
+      "note": "Turn right: giri a destra."
+    },
+    "straight_ahead": {
+      "text": "Sempre dritto",
+      "note": "Sempre here means 'keep going', not 'always'. Fuller form: sempre diritto."
+    },
+    "stop_here": {
+      "text": "Si fermi qui, per favore",
+      "note": "Also common: mi lasci qui, per favore ('drop me here')."
+    },
+    "airport": {
+      "text": "Aeroporto",
+      "note": "Every vowel is sounded: a-e-ro-POR-to."
+    },
+    "hotel": {
+      "text": "Hotel",
+      "note": "Same spelling as English, but the h is silent: o-TEL. The Italian word albergo is also common."
+    },
+    "train_station": {
+      "text": "Stazione dei treni",
+      "note": "Usually just la stazione. Formal and on signs: stazione ferroviaria."
+    },
+    "want_to_go": {
+      "text": "Vorrei andare a …",
+      "note": "Vorrei is the polite 'I'd like'. Countries take in (in Francia); a merges with the article: all'aeroporto."
+    },
+    "is_it_far": {
+      "text": "È lontano?",
+      "note": "The answer you hope for: è vicino ('it's close')."
+    },
+    "one_ticket": {
+      "text": "Un biglietto, per favore",
+      "note": "A return ticket: andata e ritorno."
+    },
+    "too_expensive": {
+      "text": "È troppo caro",
+      "note": "For a feminine noun: troppo cara. Casual: costa troppo!"
+    },
+    "cheaper": {
+      "text": "Ha qualcosa di più economico?",
+      "note": "Also: ha qualcosa di meno caro?"
+    },
+    "id_like_this": {
+      "text": "Vorrei questo, per favore",
+      "note": "When you decide to buy: lo prendo ('I'll take it')."
+    },
+    "just_looking": {
+      "text": "Sto solo guardando, grazie",
+      "note": "Also: do solo un'occhiata ('I'm just having a look')."
+    },
+    "pay_card": {
+      "text": "Posso pagare con la carta?",
+      "note": "Also: posso pagare con il bancomat? (the everyday word for a debit card)."
+    },
+    "cash": {
+      "text": "In contanti",
+      "note": "Cash as a noun: i contanti."
+    },
+    "open": {
+      "text": "Aperto"
+    },
+    "closed": {
+      "text": "Chiuso",
+      "note": "Also seen on doors: chiuso per ferie ('closed for holidays')."
+    },
+    "big": {
+      "text": "Grande",
+      "note": "Same form for masculine and feminine. Plural: grandi."
+    },
+    "small": {
+      "text": "Piccolo",
+      "note": "Feminine: piccola. Hold the double c: PEEK-ko-lo."
+    },
+    "today": {
+      "text": "Oggi",
+      "note": "Hold the double g: OD-jee."
+    },
+    "tomorrow": {
+      "text": "Domani",
+      "note": "See you tomorrow: a domani."
+    },
+    "yesterday": {
+      "text": "Ieri",
+      "note": "Pronounced YEH-ree."
+    },
+    "now": {
+      "text": "Adesso",
+      "note": "Also: ora. Right away: subito."
+    },
+    "later": {
+      "text": "Più tardi",
+      "note": "Also: dopo."
+    },
+    "good_evening": {
+      "text": "Buonasera",
+      "note": "Used from mid-afternoon on, both when arriving and when leaving."
+    },
+    "good_night": {
+      "text": "Buonanotte",
+      "note": "Only for parting at night or going to bed, never as a greeting."
+    },
+    "see_you_later": {
+      "text": "A dopo",
+      "note": "Also: a più tardi, or ci vediamo dopo. See you soon: a presto."
+    },
+    "wait_moment": {
+      "text": "Un momento, per favore",
+      "note": "Also: aspetti un attimo. To a friend: aspetta un attimo."
+    },
+    "every_day": {
+      "text": "Ogni giorno",
+      "note": "Also: tutti i giorni."
+    },
+    "help": {
+      "text": "Aiuto!",
+      "note": "Pronounced a-YOO-to."
+    },
+    "call_police": {
+      "text": "Chiami la polizia!",
+      "note": "To a friend: chiama la polizia! The emergency number is 112."
+    },
+    "need_doctor": {
+      "text": "Ho bisogno di un medico",
+      "note": "Also: mi serve un medico. Urgently: chiamate un'ambulanza! ('call an ambulance')."
+    },
+    "im_lost": {
+      "text": "Mi sono perso",
+      "note": "A woman says: mi sono persa."
+    },
+    "dont_feel_well": {
+      "text": "Non mi sento bene",
+      "note": "Also: sto male."
+    },
+    "pharmacy": {
+      "text": "Farmacia",
+      "note": "Look for the green cross. A farmacia di turno is the one open at night and on holidays."
+    },
+    "hospital": {
+      "text": "Ospedale",
+      "note": "The emergency department: pronto soccorso."
+    },
+    "lost_phone": {
+      "text": "Ho perso il telefono",
+      "note": "A mobile is also called il cellulare: ho perso il cellulare."
+    },
+    "allergic": {
+      "text": "Sono allergico a …",
+      "note": "A woman says: sono allergica a … A merges with the article: alle noci."
+    },
+    "be_careful": {
+      "text": "Stia attento!",
+      "note": "To a woman: stia attenta! As a warning shout: attenzione! To a friend: stai attento!"
+    },
+    "no_problem": {
+      "text": "Nessun problema",
+      "note": "Also: non c'è problema."
+    },
+    "of_course": {
+      "text": "Certo",
+      "note": "Also: certamente, or naturalmente."
+    },
+    "maybe": {
+      "text": "Forse"
+    },
+    "dont_know": {
+      "text": "Non lo so",
+      "note": "Also: non so."
+    },
+    "i_like_it": {
+      "text": "Mi piace",
+      "note": "For plural things: mi piacciono."
+    },
+    "dont_like_it": {
+      "text": "Non mi piace",
+      "note": "For plural things: non mi piacciono."
+    },
+    "im_tired": {
+      "text": "Sono stanco",
+      "note": "A woman says: sono stanca."
+    },
+    "im_happy": {
+      "text": "Sono contento",
+      "note": "A woman says: sono contenta. Sono felice (same for both) is stronger."
+    },
+    "welcome": {
+      "text": "Benvenuto!",
+      "note": "To a woman: benvenuta! To a group: benvenuti!"
+    },
+    "congratulations": {
+      "text": "Congratulazioni!",
+      "note": "Also very common: complimenti! For birthdays and holidays: auguri!"
+    }
+  }
+}

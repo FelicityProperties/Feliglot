@@ -1,0 +1,305 @@
+{
+  "code": "en",
+  "phrases": {
+    "hello": {
+      "text": "Hello"
+    },
+    "goodbye": {
+      "text": "Goodbye"
+    },
+    "please": {
+      "text": "Please"
+    },
+    "thank_you": {
+      "text": "Thank you"
+    },
+    "youre_welcome": {
+      "text": "You're welcome"
+    },
+    "yes": {
+      "text": "Yes"
+    },
+    "no": {
+      "text": "No"
+    },
+    "sorry": {
+      "text": "Sorry"
+    },
+    "excuse_me": {
+      "text": "Excuse me"
+    },
+    "good_morning": {
+      "text": "Good morning"
+    },
+    "how_are_you": {
+      "text": "How are you?"
+    },
+    "im_fine": {
+      "text": "I'm fine, thank you"
+    },
+    "whats_your_name": {
+      "text": "What's your name?"
+    },
+    "my_name_is": {
+      "text": "My name is …"
+    },
+    "nice_to_meet_you": {
+      "text": "Nice to meet you"
+    },
+    "where_from": {
+      "text": "Where are you from?"
+    },
+    "im_from": {
+      "text": "I'm from …"
+    },
+    "speak_english": {
+      "text": "Do you speak English?"
+    },
+    "dont_understand": {
+      "text": "I don't understand"
+    },
+    "speak_slowly": {
+      "text": "Please speak more slowly"
+    },
+    "where": {
+      "text": "Where?"
+    },
+    "what": {
+      "text": "What?"
+    },
+    "when": {
+      "text": "When?"
+    },
+    "why": {
+      "text": "Why?"
+    },
+    "who": {
+      "text": "Who?"
+    },
+    "how_much": {
+      "text": "How much is this?"
+    },
+    "where_bathroom": {
+      "text": "Where is the bathroom?"
+    },
+    "can_you_help": {
+      "text": "Can you help me?"
+    },
+    "what_time": {
+      "text": "What time is it?"
+    },
+    "what_means": {
+      "text": "What does this mean?"
+    },
+    "one": {
+      "text": "One"
+    },
+    "two": {
+      "text": "Two"
+    },
+    "three": {
+      "text": "Three"
+    },
+    "four": {
+      "text": "Four"
+    },
+    "five": {
+      "text": "Five"
+    },
+    "six": {
+      "text": "Six"
+    },
+    "seven": {
+      "text": "Seven"
+    },
+    "eight": {
+      "text": "Eight"
+    },
+    "nine": {
+      "text": "Nine"
+    },
+    "ten": {
+      "text": "Ten"
+    },
+    "water": {
+      "text": "Water"
+    },
+    "coffee": {
+      "text": "Coffee"
+    },
+    "tea": {
+      "text": "Tea"
+    },
+    "bread": {
+      "text": "Bread"
+    },
+    "im_hungry": {
+      "text": "I'm hungry"
+    },
+    "menu_please": {
+      "text": "The menu, please"
+    },
+    "bill_please": {
+      "text": "The bill, please"
+    },
+    "delicious": {
+      "text": "Delicious!"
+    },
+    "no_meat": {
+      "text": "I don't eat meat"
+    },
+    "enjoy_meal": {
+      "text": "Enjoy your meal!"
+    },
+    "left": {
+      "text": "Left"
+    },
+    "right": {
+      "text": "Right"
+    },
+    "straight_ahead": {
+      "text": "Straight ahead"
+    },
+    "stop_here": {
+      "text": "Stop here, please"
+    },
+    "airport": {
+      "text": "Airport"
+    },
+    "hotel": {
+      "text": "Hotel"
+    },
+    "train_station": {
+      "text": "Train station"
+    },
+    "want_to_go": {
+      "text": "I want to go to …"
+    },
+    "is_it_far": {
+      "text": "Is it far?"
+    },
+    "one_ticket": {
+      "text": "One ticket, please"
+    },
+    "too_expensive": {
+      "text": "It's too expensive"
+    },
+    "cheaper": {
+      "text": "Do you have anything cheaper?"
+    },
+    "id_like_this": {
+      "text": "I'd like this, please"
+    },
+    "just_looking": {
+      "text": "I'm just looking"
+    },
+    "pay_card": {
+      "text": "Can I pay by card?"
+    },
+    "cash": {
+      "text": "Cash"
+    },
+    "open": {
+      "text": "Open"
+    },
+    "closed": {
+      "text": "Closed"
+    },
+    "big": {
+      "text": "Big"
+    },
+    "small": {
+      "text": "Small"
+    },
+    "today": {
+      "text": "Today"
+    },
+    "tomorrow": {
+      "text": "Tomorrow"
+    },
+    "yesterday": {
+      "text": "Yesterday"
+    },
+    "now": {
+      "text": "Now"
+    },
+    "later": {
+      "text": "Later"
+    },
+    "good_evening": {
+      "text": "Good evening"
+    },
+    "good_night": {
+      "text": "Good night"
+    },
+    "see_you_later": {
+      "text": "See you later"
+    },
+    "wait_moment": {
+      "text": "Wait a moment, please"
+    },
+    "every_day": {
+      "text": "Every day"
+    },
+    "help": {
+      "text": "Help!"
+    },
+    "call_police": {
+      "text": "Call the police!"
+    },
+    "need_doctor": {
+      "text": "I need a doctor"
+    },
+    "im_lost": {
+      "text": "I'm lost"
+    },
+    "dont_feel_well": {
+      "text": "I don't feel well"
+    },
+    "pharmacy": {
+      "text": "Pharmacy"
+    },
+    "hospital": {
+      "text": "Hospital"
+    },
+    "lost_phone": {
+      "text": "I lost my phone"
+    },
+    "allergic": {
+      "text": "I'm allergic to …"
+    },
+    "be_careful": {
+      "text": "Be careful!"
+    },
+    "no_problem": {
+      "text": "No problem"
+    },
+    "of_course": {
+      "text": "Of course"
+    },
+    "maybe": {
+      "text": "Maybe"
+    },
+    "dont_know": {
+      "text": "I don't know"
+    },
+    "i_like_it": {
+      "text": "I like it"
+    },
+    "dont_like_it": {
+      "text": "I don't like it"
+    },
+    "im_tired": {
+      "text": "I'm tired"
+    },
+    "im_happy": {
+      "text": "I'm happy"
+    },
+    "welcome": {
+      "text": "Welcome!"
+    },
+    "congratulations": {
+      "text": "Congratulations!"
+    }
+  }
+}

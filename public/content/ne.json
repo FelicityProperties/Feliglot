@@ -1,0 +1,473 @@
+{
+  "code": "ne",
+  "phrases": {
+    "hello": {
+      "text": "नमस्ते",
+      "roman": "namaste",
+      "note": "Said with palms pressed together, at any time of day. More formal: नमस्कार (namaskaar)."
+    },
+    "goodbye": {
+      "text": "फेरि भेटौँला",
+      "roman": "pheri bhetaunlaa",
+      "note": "Literally 'we'll meet again'. नमस्ते (namaste) is also said when leaving."
+    },
+    "please": {
+      "text": "कृपया",
+      "roman": "kripayaa",
+      "note": "Formal. In speech, politeness comes from the -nuhos verb ending (often said -nus) and a soft न (na)."
+    },
+    "thank_you": {
+      "text": "धन्यवाद",
+      "roman": "dhanyabaad",
+      "note": "Nepalis thank less often than English speakers; the English 'thank you' is also widely used."
+    },
+    "youre_welcome": {
+      "text": "केही छैन",
+      "roman": "kehi chhaina",
+      "note": "Literally 'it's nothing' — Nepali has no set reply to thanks."
+    },
+    "yes": {
+      "text": "हो",
+      "roman": "ho",
+      "note": "Literally 'it is'. Politer: हजुर (hajur). Often you answer by repeating the question's verb."
+    },
+    "no": {
+      "text": "होइन",
+      "roman": "hoina",
+      "note": "Literally 'it isn't'. For 'there isn't / I don't have', say छैन (chhaina)."
+    },
+    "sorry": {
+      "text": "माफ गर्नुहोस्",
+      "roman": "maaf garnuhos",
+      "note": "For small slips the English 'sorry' is also very common."
+    },
+    "excuse_me": {
+      "text": "सुन्नुहोस् न",
+      "roman": "sunnuhos na",
+      "note": "Literally 'please listen'. You can also call out दाइ (daai, 'brother') or दिदी (didi, 'sister')."
+    },
+    "good_morning": {
+      "text": "शुभ प्रभात",
+      "roman": "shubha prabhaat",
+      "note": "Formal or written; in person most people simply say नमस्ते (namaste)."
+    },
+    "how_are_you": {
+      "text": "तपाईंलाई कस्तो छ?",
+      "roman": "tapaainlaai kasto chha?",
+      "note": "Also very common: सन्चै हुनुहुन्छ? (sanchai hunuhunchha?), 'are you well?'"
+    },
+    "im_fine": {
+      "text": "मलाई ठिक छ, धन्यवाद",
+      "roman": "malaai thik chha, dhanyabaad",
+      "note": "To ask back: अनि तपाईंलाई? (ani tapaainlaai?)"
+    },
+    "whats_your_name": {
+      "text": "तपाईंको नाम के हो?",
+      "roman": "tapaainko naam ke ho?"
+    },
+    "my_name_is": {
+      "text": "मेरो नाम … हो",
+      "roman": "mero naam … ho",
+      "note": "The verb हो (ho, 'is') comes at the end, after the name."
+    },
+    "nice_to_meet_you": {
+      "text": "तपाईंलाई भेटेर खुसी लाग्यो",
+      "roman": "tapaainlaai bhetera khusi laagyo"
+    },
+    "where_from": {
+      "text": "तपाईं कहाँबाट आउनुभएको?",
+      "roman": "tapaain kahaanbaata aaunubhaeko?",
+      "note": "Also asked: तपाईंको घर कहाँ हो? (tapaainko ghar kahaan ho?), 'where is your home?'"
+    },
+    "im_from": {
+      "text": "म …बाट आएको हुँ",
+      "roman": "ma …baata aaeko hun",
+      "note": "A woman says: म …बाट आएकी हुँ (ma …baata aaeki hun)."
+    },
+    "speak_english": {
+      "text": "तपाईं अङ्ग्रेजी बोल्नुहुन्छ?",
+      "roman": "tapaain angreji bolnuhunchha?",
+      "note": "Also natural: तपाईंलाई अङ्ग्रेजी आउँछ? (tapaainlaai angreji aaunchha?)"
+    },
+    "dont_understand": {
+      "text": "मैले बुझिनँ",
+      "roman": "maile bujhinan",
+      "note": "Literally 'I didn't understand' — Nepalis use the past tense here."
+    },
+    "speak_slowly": {
+      "text": "अलि बिस्तारै बोल्नुहोस् न",
+      "roman": "ali bistaarai bolnuhos na",
+      "note": "न (na) at the end softens a request, like adding 'please'."
+    },
+    "where": {
+      "text": "कहाँ?",
+      "roman": "kahaan?"
+    },
+    "what": {
+      "text": "के?",
+      "roman": "ke?",
+      "note": "If you didn't catch something, हजुर? (hajur?) is the polite 'pardon?'."
+    },
+    "when": {
+      "text": "कहिले?",
+      "roman": "kahile?"
+    },
+    "why": {
+      "text": "किन?",
+      "roman": "kina?"
+    },
+    "who": {
+      "text": "को?",
+      "roman": "ko?"
+    },
+    "how_much": {
+      "text": "यसको कति पर्छ?",
+      "roman": "yasko kati parchha?",
+      "note": "Also common: यो कति हो? (yo kati ho?)"
+    },
+    "where_bathroom": {
+      "text": "शौचालय कहाँ छ?",
+      "roman": "shauchaalaya kahaan chha?",
+      "note": "In everyday speech ट्वाइलेट (twaailet) is just as common."
+    },
+    "can_you_help": {
+      "text": "मलाई मद्दत गर्न सक्नुहुन्छ?",
+      "roman": "malaai maddat garna saknuhunchha?"
+    },
+    "what_time": {
+      "text": "कति बज्यो?",
+      "roman": "kati bajyo?",
+      "note": "The answer uses the same verb: तीन बज्यो (tin bajyo), 'it's three o'clock'."
+    },
+    "what_means": {
+      "text": "यसको अर्थ के हो?",
+      "roman": "yasko artha ke ho?",
+      "note": "Casual: यो भनेको के हो? (yo bhaneko ke ho?)"
+    },
+    "one": {
+      "text": "एक",
+      "roman": "ek",
+      "note": "Devanagari digit: १"
+    },
+    "two": {
+      "text": "दुई",
+      "roman": "dui",
+      "note": "Devanagari digit: २"
+    },
+    "three": {
+      "text": "तीन",
+      "roman": "tin",
+      "note": "Devanagari digit: ३"
+    },
+    "four": {
+      "text": "चार",
+      "roman": "chaar",
+      "note": "Devanagari digit: ४"
+    },
+    "five": {
+      "text": "पाँच",
+      "roman": "paanch",
+      "note": "Devanagari digit: ५"
+    },
+    "six": {
+      "text": "छ",
+      "roman": "chha",
+      "note": "Devanagari digit: ६. Sounds the same as छ (chha), 'is'."
+    },
+    "seven": {
+      "text": "सात",
+      "roman": "saat",
+      "note": "Devanagari digit: ७"
+    },
+    "eight": {
+      "text": "आठ",
+      "roman": "aath",
+      "note": "Devanagari digit: ८"
+    },
+    "nine": {
+      "text": "नौ",
+      "roman": "nau",
+      "note": "Devanagari digit: ९"
+    },
+    "ten": {
+      "text": "दस",
+      "roman": "das",
+      "note": "Devanagari digits: १०"
+    },
+    "water": {
+      "text": "पानी",
+      "roman": "paani",
+      "note": "Drinking water: खाने पानी (khaane paani)."
+    },
+    "coffee": {
+      "text": "कफी",
+      "roman": "kafi"
+    },
+    "tea": {
+      "text": "चिया",
+      "roman": "chiyaa",
+      "note": "Usually milky and sweet; black tea is कालो चिया (kaalo chiyaa)."
+    },
+    "bread": {
+      "text": "रोटी",
+      "roman": "roti",
+      "note": "Means flatbread; sliced loaf bread is पाउरोटी (paauroti)."
+    },
+    "im_hungry": {
+      "text": "मलाई भोक लाग्यो",
+      "roman": "malaai bhok laagyo",
+      "note": "Thirsty: मलाई तिर्खा लाग्यो (malaai tirkhaa laagyo)."
+    },
+    "menu_please": {
+      "text": "मेनु दिनुहोस् न",
+      "roman": "menu dinuhos na"
+    },
+    "bill_please": {
+      "text": "बिल ल्याउनुहोस् न",
+      "roman": "bil lyaaunuhos na",
+      "note": "Also common: हिसाब गरिदिनुहोस् (hisaab garidinuhos), 'please settle the account'."
+    },
+    "delicious": {
+      "text": "मिठो छ!",
+      "roman": "mitho chha!",
+      "note": "Stronger: एकदम मिठो! (ekdam mitho!)"
+    },
+    "no_meat": {
+      "text": "म मासु खान्नँ",
+      "roman": "ma maasu khaannan",
+      "note": "Vegetarian is शाकाहारी (shaakaahaari)."
+    },
+    "enjoy_meal": {
+      "text": "मज्जाले खानुहोस्!",
+      "roman": "majjaale khaanuhos!",
+      "note": "Nepali has no fixed 'bon appétit'; hosts say this ('eat heartily')."
+    },
+    "left": {
+      "text": "बायाँ",
+      "roman": "baayaan",
+      "note": "Also very common: देब्रे (debre)."
+    },
+    "right": {
+      "text": "दायाँ",
+      "roman": "daayaan",
+      "note": "Also very common: दाहिने (daahine)."
+    },
+    "straight_ahead": {
+      "text": "सिधा अगाडि",
+      "roman": "sidhaa agaadi",
+      "note": "To a driver: सिधै जानुहोस् (sidhai jaanuhos), 'go straight on'."
+    },
+    "stop_here": {
+      "text": "यहाँ रोक्नुहोस् न",
+      "roman": "yahaan roknuhos na",
+      "note": "'Right here' is यहीँ (yahin). Drivers are often called दाइ (daai, 'brother')."
+    },
+    "airport": {
+      "text": "विमानस्थल",
+      "roman": "bimaanasthal",
+      "note": "In everyday speech most people say एयरपोर्ट (eyarport)."
+    },
+    "hotel": {
+      "text": "होटल",
+      "roman": "hotal",
+      "note": "Also means a simple restaurant; a cheap place to stay is often a लज (laj)."
+    },
+    "train_station": {
+      "text": "रेल स्टेसन",
+      "roman": "rel stesan",
+      "note": "Nepal has few trains; the bus station is बसपार्क (baspaark)."
+    },
+    "want_to_go": {
+      "text": "मलाई … जानु छ",
+      "roman": "malaai … jaanu chha",
+      "note": "No word for 'to' is needed: मलाई पोखरा जानु छ (malaai pokharaa jaanu chha)."
+    },
+    "is_it_far": {
+      "text": "टाढा छ?",
+      "roman": "taadhaa chha?"
+    },
+    "one_ticket": {
+      "text": "एउटा टिकट दिनुहोस्",
+      "roman": "eutaa tikat dinuhos",
+      "note": "When counting things, 'one' is एउटा (eutaa), not एक (ek)."
+    },
+    "too_expensive": {
+      "text": "धेरै महँगो भयो",
+      "roman": "dherai mahango bhayo"
+    },
+    "cheaper": {
+      "text": "अलि सस्तो छैन?",
+      "roman": "ali sasto chhaina?",
+      "note": "To bargain: अलि घटाउनुहोस् न (ali ghataaunuhos na), 'lower it a bit'."
+    },
+    "id_like_this": {
+      "text": "मलाई यो दिनुहोस्",
+      "roman": "malaai yo dinuhos"
+    },
+    "just_looking": {
+      "text": "म हेर्दै मात्र छु",
+      "roman": "ma herdai maatra chhu"
+    },
+    "pay_card": {
+      "text": "कार्डबाट तिर्न मिल्छ?",
+      "roman": "kaardbaata tirna milchha?",
+      "note": "मिल्छ? (milchha?), 'is it possible?', works for asking permission for almost anything."
+    },
+    "cash": {
+      "text": "नगद",
+      "roman": "nagad",
+      "note": "In speech also क्यास (kyaas)."
+    },
+    "open": {
+      "text": "खुला",
+      "roman": "khulaa"
+    },
+    "closed": {
+      "text": "बन्द",
+      "roman": "banda",
+      "note": "Also the word for a general strike, when shops stay shut."
+    },
+    "big": {
+      "text": "ठुलो",
+      "roman": "thulo"
+    },
+    "small": {
+      "text": "सानो",
+      "roman": "saano"
+    },
+    "today": {
+      "text": "आज",
+      "roman": "aaja"
+    },
+    "tomorrow": {
+      "text": "भोलि",
+      "roman": "bholi"
+    },
+    "yesterday": {
+      "text": "हिजो",
+      "roman": "hijo"
+    },
+    "now": {
+      "text": "अहिले",
+      "roman": "ahile",
+      "note": "Right now: अहिल्यै (ahilyai)."
+    },
+    "later": {
+      "text": "पछि",
+      "roman": "pachhi"
+    },
+    "good_evening": {
+      "text": "शुभ सन्ध्या",
+      "roman": "shubha sandhyaa",
+      "note": "Formal or written; in person most people simply say नमस्ते (namaste)."
+    },
+    "good_night": {
+      "text": "शुभ रात्रि",
+      "roman": "shubha raatri",
+      "note": "Among friends the English 'good night' is very common."
+    },
+    "see_you_later": {
+      "text": "पछि भेटौँला",
+      "roman": "pachhi bhetaunlaa"
+    },
+    "wait_moment": {
+      "text": "एक छिन पर्खनुहोस्",
+      "roman": "ek chhin parkhanuhos",
+      "note": "Casual: एक छिन है (ek chhin hai), 'just a sec'."
+    },
+    "every_day": {
+      "text": "हरेक दिन",
+      "roman": "harek din",
+      "note": "Also: दिनहुँ (dinahun)."
+    },
+    "help": {
+      "text": "बचाऊ!",
+      "roman": "bachaau!"
+    },
+    "call_police": {
+      "text": "पुलिस बोलाउनुहोस्!",
+      "roman": "pulis bolaaunuhos!",
+      "note": "The official word is प्रहरी (prahari). Police emergency number in Nepal: 100."
+    },
+    "need_doctor": {
+      "text": "मलाई डाक्टर चाहियो",
+      "roman": "malaai daaktar chaahiyo"
+    },
+    "im_lost": {
+      "text": "म हराएँ",
+      "roman": "ma haraaen",
+      "note": "Also: मैले बाटो बिराएँ (maile baato biraaen), 'I've lost my way'."
+    },
+    "dont_feel_well": {
+      "text": "मलाई सन्चो छैन",
+      "roman": "malaai sancho chhaina"
+    },
+    "pharmacy": {
+      "text": "औषधि पसल",
+      "roman": "aushadhi pasal",
+      "note": "People also say मेडिकल (medikal) or फार्मेसी (faarmesi)."
+    },
+    "hospital": {
+      "text": "अस्पताल",
+      "roman": "aspataal"
+    },
+    "lost_phone": {
+      "text": "मेरो फोन हरायो",
+      "roman": "mero fon haraayo",
+      "note": "If it was stolen: मेरो फोन चोरी भयो (mero fon chori bhayo)."
+    },
+    "allergic": {
+      "text": "मलाई …को एलर्जी छ",
+      "roman": "malaai …ko elarji chha"
+    },
+    "be_careful": {
+      "text": "होसियार!",
+      "roman": "hosiyaar!",
+      "note": "Gentler, when someone leaves: सम्हालेर जानुहोस् (samhaalera jaanuhos), 'go carefully'."
+    },
+    "no_problem": {
+      "text": "कुनै समस्या छैन",
+      "roman": "kunai samasyaa chhaina",
+      "note": "Casual: केही छैन (kehi chhaina) or ठिक छ (thik chha)."
+    },
+    "of_course": {
+      "text": "पक्कै पनि",
+      "roman": "pakkai pani"
+    },
+    "maybe": {
+      "text": "सायद",
+      "roman": "saayad",
+      "note": "As a one-word reply, होला (holaa) is very common."
+    },
+    "dont_know": {
+      "text": "मलाई थाहा छैन",
+      "roman": "malaai thaahaa chhaina"
+    },
+    "i_like_it": {
+      "text": "मलाई यो मन पर्छ",
+      "roman": "malaai yo man parchha"
+    },
+    "dont_like_it": {
+      "text": "मलाई यो मन पर्दैन",
+      "roman": "malaai yo man pardaina"
+    },
+    "im_tired": {
+      "text": "म थाकेँ",
+      "roman": "ma thaaken",
+      "note": "Also: मलाई थकाइ लाग्यो (malaai thakaai laagyo)."
+    },
+    "im_happy": {
+      "text": "म खुसी छु",
+      "roman": "ma khusi chhu"
+    },
+    "welcome": {
+      "text": "स्वागत छ!",
+      "roman": "swaagat chha!",
+      "note": "At the door hosts usually say आउनुहोस्, आउनुहोस्! (aaunuhos, aaunuhos!), 'come in'."
+    },
+    "congratulations": {
+      "text": "बधाई छ!",
+      "roman": "badhaai chha!"
+    }
+  }
+}

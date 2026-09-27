@@ -1,0 +1,500 @@
+{
+  "code": "ta",
+  "phrases": {
+    "hello": {
+      "text": "வணக்கம்",
+      "roman": "vanakkam",
+      "note": "Said with palms pressed together; fine at any time of day."
+    },
+    "goodbye": {
+      "text": "போயிட்டு வரேன்",
+      "roman": "poyittu varen",
+      "note": "Literally 'I'll go and come back'; a bare 'I'm going' sounds final. Reply: போயிட்டு வாங்க (poyittu vaanga)."
+    },
+    "please": {
+      "text": "தயவுசெய்து",
+      "roman": "thayavuseidhu",
+      "note": "Formal. Everyday politeness comes from the -ங்க (-nga) verb ending: குடுங்க (kudunga), 'please give'."
+    },
+    "thank_you": {
+      "text": "நன்றி",
+      "roman": "nandri",
+      "note": "'Thanks a lot': ரொம்ப நன்றி (romba nandri)."
+    },
+    "youre_welcome": {
+      "text": "பரவாயில்லை",
+      "roman": "paravaayillai",
+      "note": "Tamil has no set reply to thanks; 'it's alright' is the usual one. Often said paravaalla."
+    },
+    "yes": {
+      "text": "ஆமாம்",
+      "roman": "aamaam",
+      "note": "Politer: ஆமாங்க (aamaanga). To agree to a request: சரி (sari), 'okay'."
+    },
+    "no": {
+      "text": "இல்லை",
+      "roman": "illai",
+      "note": "Said illa in quick speech. Politer: இல்லைங்க (illainga). To refuse an offer: வேண்டாம் (vendaam)."
+    },
+    "sorry": {
+      "text": "மன்னிச்சுக்கோங்க",
+      "roman": "mannichukkonga",
+      "note": "Formal: மன்னிக்கவும் (mannikkavum). Many people simply say 'sorry'."
+    },
+    "excuse_me": {
+      "text": "ஏங்க",
+      "roman": "yenga",
+      "note": "Polite way to hail someone. Also common: சார் (saar) to a man, மேடம் (medam) to a woman."
+    },
+    "good_morning": {
+      "text": "காலை வணக்கம்",
+      "roman": "kaalai vanakkam",
+      "note": "Formal. In daily speech people mostly say குட் மார்னிங் (good morning) or just வணக்கம் (vanakkam)."
+    },
+    "how_are_you": {
+      "text": "எப்படி இருக்கீங்க?",
+      "roman": "eppadi irukkeenga?",
+      "note": "Also very common: நல்லா இருக்கீங்களா? (nallaa irukkeengalaa?), 'are you well?'"
+    },
+    "im_fine": {
+      "text": "நல்லா இருக்கேன், நன்றி",
+      "roman": "nallaa irukken, nandri",
+      "note": "Return the question with நீங்க? (neenga?), 'and you?'"
+    },
+    "whats_your_name": {
+      "text": "உங்க பேரு என்ன?",
+      "roman": "unga peru enna?",
+      "note": "Formal/written: உங்கள் பெயர் என்ன? (ungal peyar enna?)"
+    },
+    "my_name_is": {
+      "text": "என் பேரு …",
+      "roman": "en peru …",
+      "note": "Formal/written: என் பெயர் … (en peyar …)."
+    },
+    "nice_to_meet_you": {
+      "text": "உங்களை சந்திச்சதுல ரொம்ப சந்தோஷம்",
+      "roman": "ungalai sandhichadhula romba sandhosham",
+      "note": "Tamil has no fixed phrase for this; this is the natural way to say it."
+    },
+    "where_from": {
+      "text": "நீங்க எந்த ஊரு?",
+      "roman": "neenga endha ooru?",
+      "note": "ஊர் (oor) means home town. To ask about a country: நீங்க எந்த நாடு? (neenga endha naadu?)"
+    },
+    "im_from": {
+      "text": "நான் …ல இருந்து வரேன்",
+      "roman": "naan …la irundhu varen",
+      "note": "The ending joins the place: நான் இந்தியாவுல இருந்து வரேன் (naan indhiyaavula irundhu varen)."
+    },
+    "speak_english": {
+      "text": "நீங்க இங்கிலீஷ் பேசுவீங்களா?",
+      "roman": "neenga english pesuveengalaa?",
+      "note": "Also: இங்கிலீஷ் தெரியுமா? (english theriyumaa?). Formal word for English: ஆங்கிலம் (aangilam)."
+    },
+    "dont_understand": {
+      "text": "எனக்கு புரியல",
+      "roman": "enakku puriyala",
+      "note": "Formal/written: எனக்குப் புரியவில்லை (enakkup puriyavillai)."
+    },
+    "speak_slowly": {
+      "text": "கொஞ்சம் மெதுவா பேசுங்க",
+      "roman": "konjam medhuvaa pesunga",
+      "note": "கொஞ்சம் (konjam), 'a little', softens a request much like 'please'."
+    },
+    "where": {
+      "text": "எங்கே?",
+      "roman": "enge?",
+      "note": "Casual: எங்க? (enga?)"
+    },
+    "what": {
+      "text": "என்ன?",
+      "roman": "enna?",
+      "note": "Also used for 'pardon?'. Politer: என்னங்க? (ennanga?)"
+    },
+    "when": {
+      "text": "எப்போ?",
+      "roman": "eppo?",
+      "note": "Written: எப்போது? (eppodhu?)"
+    },
+    "why": {
+      "text": "ஏன்?",
+      "roman": "yen?",
+      "note": "Also: எதுக்கு? (edhukku?), 'what for?'"
+    },
+    "who": {
+      "text": "யார்?",
+      "roman": "yaar?",
+      "note": "Casual: யாரு? (yaaru?)"
+    },
+    "how_much": {
+      "text": "இது என்ன விலை?",
+      "roman": "idhu enna vilai?",
+      "note": "Also: இது எவ்வளவு? (idhu evvalavu?), said எவ்ளோ (evlo) in quick speech."
+    },
+    "where_bathroom": {
+      "text": "டாய்லெட் எங்கே இருக்குங்க?",
+      "roman": "toilet enge irukkunga?",
+      "note": "Formal word: கழிவறை (kazhivarai). In speech people say டாய்லெட் or பாத்ரூம் (bathroom)."
+    },
+    "can_you_help": {
+      "text": "எனக்கு கொஞ்சம் உதவி பண்ண முடியுமா?",
+      "roman": "enakku konjam udhavi panna mudiyumaa?"
+    },
+    "what_time": {
+      "text": "மணி என்ன?",
+      "roman": "mani enna?",
+      "note": "Politer to a stranger: மணி என்னங்க? (mani ennanga?)"
+    },
+    "what_means": {
+      "text": "இதுக்கு என்ன அர்த்தம்?",
+      "roman": "idhukku enna artham?"
+    },
+    "one": {
+      "text": "ஒண்ணு",
+      "roman": "onnu",
+      "note": "Written: ஒன்று (ondru). Before a noun: ஒரு (oru). Tamil numeral ௧ is rare; 1 is normal."
+    },
+    "two": {
+      "text": "ரெண்டு",
+      "roman": "rendu",
+      "note": "Written: இரண்டு (irandu). Tamil numeral: ௨."
+    },
+    "three": {
+      "text": "மூணு",
+      "roman": "moonu",
+      "note": "Written: மூன்று (moondru). Tamil numeral: ௩."
+    },
+    "four": {
+      "text": "நாலு",
+      "roman": "naalu",
+      "note": "Written: நான்கு (naangu). Tamil numeral: ௪."
+    },
+    "five": {
+      "text": "அஞ்சு",
+      "roman": "anju",
+      "note": "Written: ஐந்து (aindhu). Tamil numeral: ௫."
+    },
+    "six": {
+      "text": "ஆறு",
+      "roman": "aaru",
+      "note": "Same in speech and writing. Tamil numeral: ௬."
+    },
+    "seven": {
+      "text": "ஏழு",
+      "roman": "ezhu",
+      "note": "zh: curl the tongue tip back, close to an American r. Tamil numeral: ௭."
+    },
+    "eight": {
+      "text": "எட்டு",
+      "roman": "ettu",
+      "note": "Tamil numeral: ௮."
+    },
+    "nine": {
+      "text": "ஒம்பது",
+      "roman": "ombadhu",
+      "note": "Written: ஒன்பது (onbadhu). Tamil numeral: ௯."
+    },
+    "ten": {
+      "text": "பத்து",
+      "roman": "pathu",
+      "note": "Tamil numeral: ௰."
+    },
+    "water": {
+      "text": "தண்ணி",
+      "roman": "thanni",
+      "note": "Written/formal: தண்ணீர் (thanneer)."
+    },
+    "coffee": {
+      "text": "காபி",
+      "roman": "kaapi",
+      "note": "South Indian filter coffee: ஃபில்டர் காபி (filter kaapi)."
+    },
+    "tea": {
+      "text": "டீ",
+      "roman": "tea",
+      "note": "Formal Tamil: தேநீர் (theneer), seen on signs; in speech everyone says டீ."
+    },
+    "bread": {
+      "text": "ரொட்டி",
+      "roman": "rotti",
+      "note": "For sliced loaf bread people often say பிரெட் (bread)."
+    },
+    "im_hungry": {
+      "text": "எனக்கு பசிக்குது",
+      "roman": "enakku pasikkudhu"
+    },
+    "menu_please": {
+      "text": "மெனு கார்டு குடுங்க",
+      "roman": "menu card kudunga",
+      "note": "குடுங்க (kudunga), 'please give', is the everyday way to ask for things."
+    },
+    "bill_please": {
+      "text": "பில் குடுங்க",
+      "roman": "bill kudunga",
+      "note": "Also: பில் கொண்டு வாங்க (bill kondu vaanga), 'please bring the bill'."
+    },
+    "delicious": {
+      "text": "ரொம்ப ருசியா இருக்கு!",
+      "roman": "romba rusiyaa irukku!",
+      "note": "Casual and very common: சூப்பரா இருக்கு! (superaa irukku!)"
+    },
+    "no_meat": {
+      "text": "நான் அசைவம் சாப்பிட மாட்டேன்",
+      "roman": "naan asaivam saappida maatten",
+      "note": "அசைவம் (asaivam) covers meat, fish and often eggs. 'I'm vegetarian': நான் சைவம் (naan saivam)."
+    },
+    "enjoy_meal": {
+      "text": "நல்லா சாப்பிடுங்க",
+      "roman": "nallaa saappidunga",
+      "note": "Tamil has no set 'bon appétit'; hosts say this ('eat well') and keep offering more."
+    },
+    "left": {
+      "text": "இடது",
+      "roman": "idadhu",
+      "note": "'To the left': இடது பக்கம் (idadhu pakkam). In taxis people often just say 'left'."
+    },
+    "right": {
+      "text": "வலது",
+      "roman": "valadhu",
+      "note": "'To the right': வலது பக்கம் (valadhu pakkam). In taxis people often just say 'right'."
+    },
+    "straight_ahead": {
+      "text": "நேரா",
+      "roman": "neraa",
+      "note": "Written: நேராக (neraaga). 'Go straight': நேரா போங்க (neraa ponga)."
+    },
+    "stop_here": {
+      "text": "இங்கே நிறுத்துங்க",
+      "roman": "inge niruthunga",
+      "note": "Also heard: இங்கே போதும் (inge podhum), 'here is fine'."
+    },
+    "airport": {
+      "text": "விமான நிலையம்",
+      "roman": "vimaana nilaiyam",
+      "note": "In everyday speech most people say ஏர்போர்ட் (airport)."
+    },
+    "hotel": {
+      "text": "ஹோட்டல்",
+      "roman": "hotel",
+      "note": "In Tamil Nadu ஹோட்டல் often means a restaurant; a place to stay may be called a லாட்ஜ் (lodge)."
+    },
+    "train_station": {
+      "text": "ரயில் நிலையம்",
+      "roman": "rayil nilaiyam",
+      "note": "In speech often ரயில்வே ஸ்டேஷன் (railway station)."
+    },
+    "want_to_go": {
+      "text": "நான் … போகணும்",
+      "roman": "naan … poganum",
+      "note": "Literally 'I need to go'. The place can take -க்கு (-kku), 'to': மதுரைக்கு (madhuraikku)."
+    },
+    "is_it_far": {
+      "text": "ரொம்ப தூரமா?",
+      "roman": "romba thooramaa?",
+      "note": "The usual way to ask, with ரொம்ப (romba), 'very'. Plain: தூரமா? (thooramaa?)"
+    },
+    "one_ticket": {
+      "text": "ஒரு டிக்கெட் குடுங்க",
+      "roman": "oru ticket kudunga",
+      "note": "Naming the place: சென்னைக்கு ஒரு டிக்கெட் (chennaikku oru ticket)."
+    },
+    "too_expensive": {
+      "text": "விலை ரொம்ப அதிகம்",
+      "roman": "vilai romba adhigam",
+      "note": "Very common too: ரொம்ப காஸ்ட்லி (romba costly)."
+    },
+    "cheaper": {
+      "text": "இதைவிட கம்மி விலையில ஏதாவது இருக்கா?",
+      "roman": "idhaivida kammi vilaiyila edhaavadhu irukkaa?"
+    },
+    "id_like_this": {
+      "text": "இதை எடுத்துக்கறேன்",
+      "roman": "idhai eduthukkaren",
+      "note": "Literally 'I'll take this'. Also: எனக்கு இது வேணும் (enakku idhu venum), 'I want this'."
+    },
+    "just_looking": {
+      "text": "சும்மா பார்க்கறேன்",
+      "roman": "summaa paarkkaren",
+      "note": "சும்மா (summaa), 'just / for nothing', is a very handy word."
+    },
+    "pay_card": {
+      "text": "கார்டுல பே பண்ணலாமா?",
+      "roman": "cardula pay pannalaamaa?",
+      "note": "Also very common: கார்டு எடுப்பீங்களா? (card eduppeengalaa?), 'do you take cards?'"
+    },
+    "cash": {
+      "text": "ரொக்கம்",
+      "roman": "rokkam",
+      "note": "In shops people usually say கேஷ் (cash) or simply பணம் (panam), 'money'."
+    },
+    "open": {
+      "text": "திறந்துள்ளது",
+      "roman": "thirandhulladhu",
+      "note": "Sign wording. In speech: திறந்திருக்கு (thirandhirukku)."
+    },
+    "closed": {
+      "text": "மூடப்பட்டுள்ளது",
+      "roman": "moodappattulladhu",
+      "note": "Sign wording. In speech: மூடியிருக்கு (moodiyirukku)."
+    },
+    "big": {
+      "text": "பெரிய",
+      "roman": "periya",
+      "note": "Used before a noun. 'A big one': பெரிசு (perisu), e.g. பெரிசு இருக்கா? (perisu irukkaa?)"
+    },
+    "small": {
+      "text": "சின்ன",
+      "roman": "chinna",
+      "note": "Used before a noun. 'A small one': சின்னது (chinnadhu). Formal: சிறிய (siriya)."
+    },
+    "today": {
+      "text": "இன்னைக்கு",
+      "roman": "innaikku",
+      "note": "Written/formal: இன்று (indru)."
+    },
+    "tomorrow": {
+      "text": "நாளைக்கு",
+      "roman": "naalaikku",
+      "note": "Written/formal: நாளை (naalai)."
+    },
+    "yesterday": {
+      "text": "நேத்து",
+      "roman": "nethu",
+      "note": "Written/formal: நேற்று (netru)."
+    },
+    "now": {
+      "text": "இப்போ",
+      "roman": "ippo",
+      "note": "Written/formal: இப்போது (ippodhu). Casual: இப்ப (ippa)."
+    },
+    "later": {
+      "text": "அப்புறம்",
+      "roman": "appuram",
+      "note": "Formal: பிறகு (piragu). Asked as a question, அப்புறம்? means 'so, what else is new?'"
+    },
+    "good_evening": {
+      "text": "மாலை வணக்கம்",
+      "roman": "maalai vanakkam",
+      "note": "Formal; in conversation a plain வணக்கம் (vanakkam) is usual."
+    },
+    "good_night": {
+      "text": "குட் நைட்",
+      "roman": "good night",
+      "note": "The everyday form. Formal: இரவு வணக்கம் (iravu vanakkam). Before bed also: நல்லா தூங்குங்க (nallaa thoongunga)."
+    },
+    "see_you_later": {
+      "text": "அப்புறம் பார்க்கலாம்",
+      "roman": "appuram paarkkalaam",
+      "note": "More formal: பிறகு சந்திப்போம் (piragu sandhippom)."
+    },
+    "wait_moment": {
+      "text": "ஒரு நிமிஷம் இருங்க",
+      "roman": "oru nimisham irunga",
+      "note": "Literally 'stay one minute'. Also: கொஞ்சம் இருங்க (konjam irunga)."
+    },
+    "every_day": {
+      "text": "தினமும்",
+      "roman": "dhinamum",
+      "note": "Also: ஒவ்வொரு நாளும் (ovvoru naalum). Casual: டெய்லி (daily)."
+    },
+    "help": {
+      "text": "காப்பாத்துங்க!",
+      "roman": "kaappaathunga!",
+      "note": "Literally 'save (me)!'. Also shouted: உதவி! (udhavi!)"
+    },
+    "call_police": {
+      "text": "போலீஸை கூப்பிடுங்க!",
+      "roman": "poleesai kooppidunga!"
+    },
+    "need_doctor": {
+      "text": "எனக்கு ஒரு டாக்டர் வேணும்",
+      "roman": "enakku oru doctor venum",
+      "note": "Formal word for doctor: மருத்துவர் (maruthuvar)."
+    },
+    "im_lost": {
+      "text": "எனக்கு வழி தெரியல",
+      "roman": "enakku vazhi theriyala",
+      "note": "Literally 'I don't know the way'. Also: நான் வழி தவறிட்டேன் (naan vazhi thavaritten)."
+    },
+    "dont_feel_well": {
+      "text": "எனக்கு உடம்பு சரியில்ல",
+      "roman": "enakku udambu sariyilla",
+      "note": "Literally 'my body isn't right', the standard way to say you're unwell."
+    },
+    "pharmacy": {
+      "text": "மருந்து கடை",
+      "roman": "marundhu kadai",
+      "note": "Signs may say மருந்தகம் (marundhagam); many call it a மெடிக்கல் ஷாப் (medical shop)."
+    },
+    "hospital": {
+      "text": "மருத்துவமனை",
+      "roman": "maruthuvamanai",
+      "note": "In speech: ஆஸ்பத்திரி (aaspathiri) or ஹாஸ்பிட்டல் (hospital)."
+    },
+    "lost_phone": {
+      "text": "என் போனை தொலைச்சிட்டேன்",
+      "roman": "en phonai tholaichitten",
+      "note": "Also: என் போனை காணோம் (en phonai kaanom), 'my phone is missing'."
+    },
+    "allergic": {
+      "text": "எனக்கு … அலர்ஜி",
+      "roman": "enakku … alarji",
+      "note": "Also natural: எனக்கு … ஒத்துக்காது (enakku … othukkaadhu), '… doesn't agree with me'."
+    },
+    "be_careful": {
+      "text": "கவனமா இருங்க!",
+      "roman": "kavanamaa irunga!",
+      "note": "Quick shouted warning: பார்த்து! (paarthu!) or ஜாக்கிரதை! (jaakkiradhai!)"
+    },
+    "no_problem": {
+      "text": "பிரச்சனை இல்ல",
+      "roman": "pirachanai illa",
+      "note": "Also: பரவாயில்லை (paravaayillai), 'it's alright'."
+    },
+    "of_course": {
+      "text": "கண்டிப்பா",
+      "roman": "kandippaa",
+      "note": "Also: நிச்சயமா (nichchayamaa). Written: கண்டிப்பாக (kandippaaga)."
+    },
+    "maybe": {
+      "text": "இருக்கலாம்",
+      "roman": "irukkalaam",
+      "note": "Before a statement use ஒருவேளை (oruvelai), 'perhaps'."
+    },
+    "dont_know": {
+      "text": "எனக்கு தெரியாது",
+      "roman": "enakku theriyaadhu",
+      "note": "Softer, 'I'm not sure': தெரியலையே (theriyalaiye)."
+    },
+    "i_like_it": {
+      "text": "எனக்கு பிடிச்சிருக்கு",
+      "roman": "enakku pidichirukku",
+      "note": "For something you like in general (a food, a habit): எனக்கு பிடிக்கும் (enakku pidikkum)."
+    },
+    "dont_like_it": {
+      "text": "எனக்கு பிடிக்கல",
+      "roman": "enakku pidikkala",
+      "note": "For something you dislike in general: எனக்கு பிடிக்காது (enakku pidikkaadhu)."
+    },
+    "im_tired": {
+      "text": "எனக்கு களைப்பா இருக்கு",
+      "roman": "enakku kalaippaa irukku",
+      "note": "Very common too: ரொம்ப டயர்டா இருக்கு (romba tiredaa irukku)."
+    },
+    "im_happy": {
+      "text": "நான் சந்தோஷமா இருக்கேன்",
+      "roman": "naan sandhoshamaa irukken",
+      "note": "Pure Tamil word for happiness: மகிழ்ச்சி (magizhchi)."
+    },
+    "welcome": {
+      "text": "வாங்க, வாங்க!",
+      "roman": "vaanga, vaanga!",
+      "note": "Literally 'come, come!'. On signs: நல்வரவு (nalvaravu)."
+    },
+    "congratulations": {
+      "text": "வாழ்த்துக்கள்!",
+      "roman": "vaazhthukkal!",
+      "note": "Warmer: மனமார்ந்த வாழ்த்துக்கள் (manamaarndha vaazhthukkal), 'heartfelt congratulations'."
+    }
+  }
+}
