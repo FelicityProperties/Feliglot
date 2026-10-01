@@ -383,6 +383,397 @@
     "congratulations": {
       "text": "Čestitam!",
       "note": "On a birthday: Sretan rođendan!"
+    },
+    "my_family": {
+      "text": "Moja obitelj"
+    },
+    "mother": {
+      "text": "Majka",
+      "note": "About your own mother, people usually say mama."
+    },
+    "father": {
+      "text": "Otac",
+      "note": "About your own father, people usually say tata."
+    },
+    "brother": {
+      "text": "Brat"
+    },
+    "sister": {
+      "text": "Sestra"
+    },
+    "child": {
+      "text": "Dijete",
+      "note": "Plural: djeca. Son: sin. Daughter: kći."
+    },
+    "friend": {
+      "text": "Prijatelj",
+      "note": "A female friend: prijateljica. Casually you'll also hear frend."
+    },
+    "this_is_my_friend": {
+      "text": "Ovo je moj prijatelj",
+      "note": "For a female friend: Ovo je moja prijateljica."
+    },
+    "are_you_married": {
+      "text": "Jeste li oženjeni?",
+      "note": "To a woman: Jeste li udani? Works for anyone: Jeste li u braku?"
+    },
+    "have_children": {
+      "text": "Imate li djece?",
+      "note": "Casual: Imaš li djece?"
+    },
+    "monday": {
+      "text": "ponedjeljak",
+      "note": "Days are not capitalised in Croatian. On Monday: u ponedjeljak."
+    },
+    "tuesday": {
+      "text": "utorak",
+      "note": "From an old word for 'second': the second day of the week."
+    },
+    "wednesday": {
+      "text": "srijeda",
+      "note": "Literally 'middle', the middle of the week. On Wednesday: u srijedu."
+    },
+    "thursday": {
+      "text": "četvrtak",
+      "note": "From četiri (four): the fourth day."
+    },
+    "friday": {
+      "text": "petak",
+      "note": "From pet (five): the fifth day."
+    },
+    "saturday": {
+      "text": "subota",
+      "note": "On Saturday: u subotu."
+    },
+    "sunday": {
+      "text": "nedjelja",
+      "note": "Literally 'not working' (ne + djelati). On Sunday: u nedjelju."
+    },
+    "weekend": {
+      "text": "Vikend",
+      "note": "At the weekend: za vikend or preko vikenda."
+    },
+    "what_day": {
+      "text": "Koji je danas dan?",
+      "note": "Answer: Danas je petak."
+    },
+    "next_week": {
+      "text": "Sljedeći tjedan",
+      "note": "Also common: idući tjedan. Last week: prošli tjedan."
+    },
+    "eleven": {
+      "text": "Jedanaest",
+      "note": "The teens all end in -naest: dvanaest, trinaest, četrnaest."
+    },
+    "twelve": {
+      "text": "Dvanaest"
+    },
+    "fifteen": {
+      "text": "Petnaest",
+      "note": "In fast speech the teens often sound like 'petnajst', 'dvanajst'."
+    },
+    "twenty": {
+      "text": "Dvadeset",
+      "note": "Twenty-one: dvadeset jedan, also dvadeset i jedan."
+    },
+    "thirty": {
+      "text": "Trideset"
+    },
+    "fifty": {
+      "text": "Pedeset",
+      "note": "Spelled pedeset, not petdeset. Sixty: šezdeset."
+    },
+    "hundred": {
+      "text": "Sto",
+      "note": "Two hundred: dvjesto. Five hundred: petsto."
+    },
+    "thousand": {
+      "text": "Tisuću",
+      "note": "Two thousand: dvije tisuće. Ten thousand: deset tisuća."
+    },
+    "how_old": {
+      "text": "Koliko imate godina?",
+      "note": "Casual: Koliko imaš godina?"
+    },
+    "years_old": {
+      "text": "Imam … godina",
+      "note": "The ending varies: dvadeset jednu godinu, dvadeset dvije godine, but trideset godina."
+    },
+    "red": {
+      "text": "Crveni",
+      "note": "Changes with the noun: crvena majica, crveno svjetlo."
+    },
+    "blue": {
+      "text": "Plavi",
+      "note": "Plava kosa means blond hair. Light blue: svijetloplavi."
+    },
+    "green": {
+      "text": "Zeleni"
+    },
+    "yellow": {
+      "text": "Žuti"
+    },
+    "black": {
+      "text": "Crni",
+      "note": "Careful: red wine is crno vino (literally 'black wine')."
+    },
+    "white": {
+      "text": "Bijeli",
+      "note": "White wine: bijelo vino."
+    },
+    "what_colour": {
+      "text": "Koje je boje?",
+      "note": "About something you point at: Koje je ovo boje?"
+    },
+    "this_one": {
+      "text": "Ovaj",
+      "note": "Changes with the item: ova (majica), ovo (pivo). Ovo works for anything."
+    },
+    "that_one": {
+      "text": "Onaj",
+      "note": "Changes with the item: ona, ono. For something near the listener: taj (ta, to)."
+    },
+    "another_one": {
+      "text": "Još jedan, molim",
+      "note": "With feminine nouns: još jednu (kavu). Neuter: još jedno (pivo)."
+    },
+    "its_hot": {
+      "text": "Vruće je",
+      "note": "Pleasantly warm: Toplo je."
+    },
+    "its_cold": {
+      "text": "Hladno je",
+      "note": "I'm cold: Hladno mi je, casually Zima mi je."
+    },
+    "its_raining": {
+      "text": "Pada kiša",
+      "note": "Literally 'rain is falling'. It's snowing: Pada snijeg."
+    },
+    "its_sunny": {
+      "text": "Sunčano je"
+    },
+    "its_windy": {
+      "text": "Vjetrovito je",
+      "note": "Also: Puše vjetar. On the coast you'll hear of the bura (cold) and jugo (warm) winds."
+    },
+    "weather_today": {
+      "text": "Kakvo je vrijeme danas?",
+      "note": "Vrijeme means both 'weather' and 'time'."
+    },
+    "beautiful_day": {
+      "text": "Prekrasan je dan",
+      "note": "Also common: Divan je dan!"
+    },
+    "umbrella": {
+      "text": "Kišobran",
+      "note": "Literally 'rain-guard'. A beach umbrella: suncobran."
+    },
+    "summer": {
+      "text": "Ljeto",
+      "note": "In summer: ljeti."
+    },
+    "winter": {
+      "text": "Zima",
+      "note": "In winter: zimi."
+    },
+    "have_reservation": {
+      "text": "Imam rezervaciju",
+      "note": "Then add your name: na ime Smith (under the name Smith)."
+    },
+    "room": {
+      "text": "Soba",
+      "note": "Double room: dvokrevetna soba. Single: jednokrevetna soba."
+    },
+    "passport": {
+      "text": "Putovnica",
+      "note": "In everyday speech also: pasoš."
+    },
+    "luggage": {
+      "text": "Prtljaga",
+      "note": "A suitcase: kofer."
+    },
+    "wifi_password": {
+      "text": "Koja je lozinka za Wi-Fi?",
+      "note": "Wi-Fi is said 'vaj-faj'. Many people say šifra instead of lozinka."
+    },
+    "check_out_time": {
+      "text": "Do koliko sati je odjava?",
+      "note": "Hotel staff often just say check-out. Check-in: prijava."
+    },
+    "map": {
+      "text": "Karta",
+      "note": "A city map: plan grada. Karta also means ticket."
+    },
+    "bus": {
+      "text": "Autobus",
+      "note": "Bus stop: stanica (officially stajalište). Bus station: autobusni kolodvor. Tram: tramvaj."
+    },
+    "next_train": {
+      "text": "Kada ide sljedeći vlak?",
+      "note": "Also: Kad polazi idući vlak?"
+    },
+    "is_this_seat_free": {
+      "text": "Je li ovo mjesto slobodno?",
+      "note": "Shorter: Je li slobodno?"
+    },
+    "what_do_you_do": {
+      "text": "Čime se bavite?",
+      "note": "Casual: Čime se baviš? Also common: Što radite? (it can also mean 'What are you doing?')"
+    },
+    "i_work_in": {
+      "text": "Radim u …",
+      "note": "The noun's ending changes: radim u banci (banka), u školi (škola), u prodaji."
+    },
+    "im_student": {
+      "text": "Student sam",
+      "note": "A woman says: Studentica sam."
+    },
+    "office": {
+      "text": "Ured",
+      "note": "At the office: u uredu."
+    },
+    "meeting": {
+      "text": "Sastanak",
+      "note": "I have a meeting: Imam sastanak."
+    },
+    "im_busy": {
+      "text": "Zauzet sam",
+      "note": "A woman says: Zauzeta sam. Also common: Nemam vremena (I have no time)."
+    },
+    "day_off": {
+      "text": "Slobodan dan",
+      "note": "I'm off tomorrow: Sutra sam slobodan (a woman: slobodna)."
+    },
+    "colleague": {
+      "text": "Kolega",
+      "note": "A female colleague: kolegica."
+    },
+    "lets_start": {
+      "text": "Počnimo",
+      "note": "Casual: Ajmo! or Krenimo!"
+    },
+    "good_job": {
+      "text": "Bravo!",
+      "note": "Also very common: Svaka čast! (roughly 'hats off') or Odlično!"
+    },
+    "table_for_two": {
+      "text": "Stol za dvoje, molim",
+      "note": "Also: Imate li slobodan stol za dvoje?"
+    },
+    "what_recommend": {
+      "text": "Što biste nam preporučili?",
+      "note": "Nam means 'to us'. On your own: Što biste mi preporučili?"
+    },
+    "not_spicy": {
+      "text": "Da ne bude ljuto, molim",
+      "note": "To ask: Je li ljuto? Ljut also means angry."
+    },
+    "vegetarian_food": {
+      "text": "Vegetarijanska hrana",
+      "note": "To ask: Imate li vegetarijanskih jela?"
+    },
+    "more_water": {
+      "text": "Još vode, molim",
+      "note": "Another bottle: Još jednu bocu vode, molim."
+    },
+    "no_sugar": {
+      "text": "Bez šećera, molim",
+      "note": "With milk: s mlijekom."
+    },
+    "im_full": {
+      "text": "Sit sam",
+      "note": "A woman says: Sita sam. Politer at someone's table: Hvala, dosta mi je."
+    },
+    "takeaway": {
+      "text": "Za van, molim",
+      "note": "Also common: Za ponijeti, molim."
+    },
+    "it_was_delicious": {
+      "text": "Bilo je jako fino",
+      "note": "Also: Bilo je odlično! or Bilo je ukusno."
+    },
+    "keep_change": {
+      "text": "Zadržite ostatak",
+      "note": "Also common when handing over the money: U redu je, hvala."
+    },
+    "head": {
+      "text": "Glava"
+    },
+    "stomach": {
+      "text": "Trbuh",
+      "note": "Trbuh is the belly, what you'd point to. The organ itself: želudac."
+    },
+    "head_hurts": {
+      "text": "Boli me glava",
+      "note": "Literally 'the head hurts me'. Stomach ache: Boli me trbuh."
+    },
+    "have_fever": {
+      "text": "Imam temperaturu",
+      "note": "In everyday speech temperatura means a fever. The medical word: vrućica."
+    },
+    "medicine": {
+      "text": "Lijek",
+      "note": "Plural: lijekovi. A prescription: recept."
+    },
+    "call_ambulance": {
+      "text": "Zovite hitnu!",
+      "note": "Fuller: Zovite hitnu pomoć! Dial 112, or 194 for an ambulance."
+    },
+    "dentist": {
+      "text": "Zubar",
+      "note": "On signs: stomatolog or stomatološka ordinacija."
+    },
+    "need_rest": {
+      "text": "Moram se odmoriti",
+      "note": "Also: Trebam odmor."
+    },
+    "feel_better": {
+      "text": "Osjećam se bolje",
+      "note": "Also common: Bolje mi je."
+    },
+    "get_well": {
+      "text": "Brzo ozdravite!",
+      "note": "To a friend: Brzo ozdravi! Also: Želim vam brz oporavak!"
+    },
+    "lets_meet": {
+      "text": "Nađimo se",
+      "note": "Casual: Ajmo se naći! The classic invitation: Idemo na kavu?"
+    },
+    "are_you_free": {
+      "text": "Jeste li sutra slobodni?",
+      "note": "Casual: Jesi li sutra slobodan? (to a woman: slobodna)"
+    },
+    "call_me": {
+      "text": "Nazovite me",
+      "note": "Casual: Nazovi me! Also: Javite se (get in touch)."
+    },
+    "your_number": {
+      "text": "Koji je vaš broj telefona?",
+      "note": "Casual: Koji ti je broj? Mobile number: broj mobitela."
+    },
+    "see_you_soon": {
+      "text": "Vidimo se uskoro",
+      "note": "More formal: Do skorog viđenja."
+    },
+    "have_nice_day": {
+      "text": "Ugodan dan!",
+      "note": "Fuller: Želim vam ugodan dan!"
+    },
+    "good_luck": {
+      "text": "Sretno!",
+      "note": "Also said to someone setting off on a trip or starting something new."
+    },
+    "happy_birthday": {
+      "text": "Sretan rođendan!",
+      "note": "Also: Sve najbolje! (all the best)"
+    },
+    "thanks_a_lot": {
+      "text": "Hvala vam puno",
+      "note": "Casual: Hvala ti puno! Also: Puno hvala!"
+    },
+    "miss_you": {
+      "text": "Nedostaješ mi",
+      "note": "To more than one person: Nedostajete mi."
     }
   }
 }

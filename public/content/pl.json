@@ -370,6 +370,396 @@
     "congratulations": {
       "text": "Gratulacje!",
       "note": "For birthdays and holidays: Wszystkiego najlepszego!"
+    },
+    "my_family": {
+      "text": "Moja rodzina"
+    },
+    "mother": {
+      "text": "Mama",
+      "note": "The more formal word: matka. Most people say mama, also about their own mother to others."
+    },
+    "father": {
+      "text": "Tata",
+      "note": "The more formal word: ojciec."
+    },
+    "brother": {
+      "text": "Brat"
+    },
+    "sister": {
+      "text": "Siostra"
+    },
+    "child": {
+      "text": "Dziecko",
+      "note": "Plural: dzieci. Son: syn. Daughter: córka."
+    },
+    "friend": {
+      "text": "Przyjaciel",
+      "note": "A female friend: przyjaciółka. For a less close friend: kolega (a woman: koleżanka)."
+    },
+    "this_is_my_friend": {
+      "text": "To jest mój przyjaciel",
+      "note": "For a female friend: To jest moja przyjaciółka. Less close: To jest mój kolega."
+    },
+    "are_you_married": {
+      "text": "Czy jest pan żonaty?",
+      "note": "To a woman: Czy jest pani mężatką? Casual, to a man: Jesteś żonaty?"
+    },
+    "have_children": {
+      "text": "Czy ma pan dzieci?",
+      "note": "To a woman: Czy ma pani dzieci? Casual: Masz dzieci?"
+    },
+    "monday": {
+      "text": "poniedziałek",
+      "note": "Days are not capitalised in Polish. On Monday: w poniedziałek."
+    },
+    "tuesday": {
+      "text": "wtorek",
+      "note": "From an old word for 'second': the second day of the week. On Tuesday: we wtorek."
+    },
+    "wednesday": {
+      "text": "środa",
+      "note": "Related to środek (middle): the middle of the week. On Wednesday: w środę."
+    },
+    "thursday": {
+      "text": "czwartek",
+      "note": "From cztery (four): the fourth day. On Thursday: w czwartek."
+    },
+    "friday": {
+      "text": "piątek",
+      "note": "From pięć (five): the fifth day. On Friday: w piątek."
+    },
+    "saturday": {
+      "text": "sobota",
+      "note": "On Saturday: w sobotę."
+    },
+    "sunday": {
+      "text": "niedziela",
+      "note": "From nie działać, 'not working': the day of rest. On Sunday: w niedzielę."
+    },
+    "weekend": {
+      "text": "Weekend",
+      "note": "Borrowed from English and said roughly 'WEE-kent'. At the weekend: w weekend."
+    },
+    "what_day": {
+      "text": "Jaki dzisiaj jest dzień?",
+      "note": "To ask the date instead: Którego dzisiaj jest?"
+    },
+    "next_week": {
+      "text": "W przyszłym tygodniu",
+      "note": "This is 'during next week'. The noun phrase on its own: przyszły tydzień."
+    },
+    "eleven": {
+      "text": "Jedenaście",
+      "note": "11–19 all end in -naście, from na dziesięć ('on ten')."
+    },
+    "twelve": {
+      "text": "Dwanaście"
+    },
+    "fifteen": {
+      "text": "Piętnaście"
+    },
+    "twenty": {
+      "text": "Dwadzieścia",
+      "note": "Tens and units just follow each other: dwadzieścia jeden (21)."
+    },
+    "thirty": {
+      "text": "Trzydzieści",
+      "note": "40 is czterdzieści; from 50 on, the tens end in -dziesiąt."
+    },
+    "fifty": {
+      "text": "Pięćdziesiąt",
+      "note": "60: sześćdziesiąt, 70: siedemdziesiąt, 80: osiemdziesiąt, 90: dziewięćdziesiąt."
+    },
+    "hundred": {
+      "text": "Sto",
+      "note": "200: dwieście, 300: trzysta, 500: pięćset."
+    },
+    "thousand": {
+      "text": "Tysiąc",
+      "note": "2000: dwa tysiące; 5000: pięć tysięcy."
+    },
+    "how_old": {
+      "text": "Ile ma pan lat?",
+      "note": "To a woman: Ile ma pani lat? Casual: Ile masz lat?"
+    },
+    "years_old": {
+      "text": "Mam … lat",
+      "note": "After 2, 3, 4 (and 22, 23, 24…) say lata: Mam dwadzieścia dwa lata."
+    },
+    "red": {
+      "text": "Czerwony",
+      "note": "With feminine nouns: czerwona; with neuter nouns: czerwone. Other colours change the same way."
+    },
+    "blue": {
+      "text": "Niebieski",
+      "note": "Navy or dark blue: granatowy."
+    },
+    "green": {
+      "text": "Zielony"
+    },
+    "yellow": {
+      "text": "Żółty",
+      "note": "Roughly 'ZHOOW-tih': ó sounds like u, ł like English w."
+    },
+    "black": {
+      "text": "Czarny"
+    },
+    "white": {
+      "text": "Biały",
+      "note": "Roughly 'BYAH-wih'."
+    },
+    "what_colour": {
+      "text": "Jaki to ma kolor?",
+      "note": "Also common: Jakiego to jest koloru?"
+    },
+    "this_one": {
+      "text": "Ten",
+      "note": "For a feminine noun: ta; for a neuter noun: to. Often: ten tutaj."
+    },
+    "that_one": {
+      "text": "Tamten",
+      "note": "For a feminine noun: tamta; for a neuter noun: tamto."
+    },
+    "another_one": {
+      "text": "Poproszę jeszcze jeden",
+      "note": "For a feminine noun: jeszcze jedną (kawę); for a neuter noun: jeszcze jedno (piwo)."
+    },
+    "its_hot": {
+      "text": "Jest gorąco",
+      "note": "Pleasantly warm: Jest ciepło."
+    },
+    "its_cold": {
+      "text": "Jest zimno",
+      "note": "Just chilly: Jest chłodno."
+    },
+    "its_raining": {
+      "text": "Pada deszcz",
+      "note": "Often just: Pada. Snowing: Pada śnieg."
+    },
+    "its_sunny": {
+      "text": "Jest słonecznie",
+      "note": "Also common: Świeci słońce (the sun is shining)."
+    },
+    "its_windy": {
+      "text": "Jest wietrznie",
+      "note": "Also common: Wieje wiatr (the wind is blowing), or just Wieje."
+    },
+    "weather_today": {
+      "text": "Jaka jest dzisiaj pogoda?",
+      "note": "Shorter: Jaka dziś pogoda?"
+    },
+    "beautiful_day": {
+      "text": "Jest piękny dzień",
+      "note": "As an exclamation: Ale piękny dzień!"
+    },
+    "umbrella": {
+      "text": "Parasol",
+      "note": "Also very common: parasolka."
+    },
+    "summer": {
+      "text": "Lato",
+      "note": "In summer: latem or w lecie."
+    },
+    "winter": {
+      "text": "Zima",
+      "note": "In winter: zimą or w zimie."
+    },
+    "have_reservation": {
+      "text": "Mam rezerwację",
+      "note": "With your name: Mam rezerwację na nazwisko Smith."
+    },
+    "room": {
+      "text": "Pokój",
+      "note": "Single room: pokój jednoosobowy; double: pokój dwuosobowy."
+    },
+    "passport": {
+      "text": "Paszport"
+    },
+    "luggage": {
+      "text": "Bagaż",
+      "note": "Hand luggage: bagaż podręczny. A suitcase: walizka."
+    },
+    "wifi_password": {
+      "text": "Jakie jest hasło do Wi-Fi?",
+      "note": "Wi-Fi is said 'wee-fee' or the English way."
+    },
+    "check_out_time": {
+      "text": "O której jest wymeldowanie?",
+      "note": "Many hotels also say check-out. As a deadline: Do której trzeba zwolnić pokój?"
+    },
+    "map": {
+      "text": "Mapa",
+      "note": "A city street map: plan miasta."
+    },
+    "bus": {
+      "text": "Autobus"
+    },
+    "next_train": {
+      "text": "Kiedy jest następny pociąg?",
+      "note": "Also common: O której odjeżdża następny pociąg?"
+    },
+    "is_this_seat_free": {
+      "text": "Czy to miejsce jest wolne?",
+      "note": "Very common and shorter: Czy tu jest wolne?"
+    },
+    "what_do_you_do": {
+      "text": "Czym się pan zajmuje?",
+      "note": "To a woman: Czym się pani zajmuje? Casual: Co robisz zawodowo?"
+    },
+    "i_work_in": {
+      "text": "Pracuję w …",
+      "note": "The word after w changes form: w banku (bank), w szkole (szkoła)."
+    },
+    "im_student": {
+      "text": "Jestem studentem",
+      "note": "A woman says: Jestem studentką. A school pupil: uczeń (a girl: uczennica)."
+    },
+    "office": {
+      "text": "Biuro",
+      "note": "At the office: w biurze."
+    },
+    "meeting": {
+      "text": "Spotkanie",
+      "note": "Spotkanie is any meeting, also with friends. A formal staff meeting: zebranie."
+    },
+    "im_busy": {
+      "text": "Jestem zajęty",
+      "note": "A woman says: Jestem zajęta. Also common: Nie mam teraz czasu."
+    },
+    "day_off": {
+      "text": "Dzień wolny",
+      "note": "I have a day off: Mam wolne."
+    },
+    "colleague": {
+      "text": "Kolega z pracy",
+      "note": "A female colleague: koleżanka z pracy. When it's clear, just kolega."
+    },
+    "lets_start": {
+      "text": "Zaczynajmy",
+      "note": "Very common too: Zaczynamy! (literally 'we're starting')."
+    },
+    "good_job": {
+      "text": "Dobra robota!",
+      "note": "Also: Świetnie! or Brawo!"
+    },
+    "table_for_two": {
+      "text": "Poproszę stolik dla dwóch osób",
+      "note": "For three: dla trzech osób; for four: dla czterech osób."
+    },
+    "what_recommend": {
+      "text": "Co pan poleca?",
+      "note": "To a woman: Co pani poleca?"
+    },
+    "not_spicy": {
+      "text": "Poproszę bez ostrych przypraw",
+      "note": "If asked łagodny czy ostry? (mild or spicy?), answer: łagodny."
+    },
+    "vegetarian_food": {
+      "text": "Wegetariańskie jedzenie",
+      "note": "On menus: dania wegetariańskie. I'm vegetarian: Jestem wegetarianinem (a woman: wegetarianką)."
+    },
+    "more_water": {
+      "text": "Poproszę jeszcze wody",
+      "note": "Wody, not woda: asking for 'some' of something uses this form, e.g. Poproszę jeszcze chleba."
+    },
+    "no_sugar": {
+      "text": "Poproszę bez cukru",
+      "note": "Without milk: bez mleka."
+    },
+    "im_full": {
+      "text": "Najadłem się",
+      "note": "A woman says: Najadłam się. Also: Jestem najedzony (a woman: najedzona)."
+    },
+    "takeaway": {
+      "text": "Na wynos, proszę",
+      "note": "You'll be asked: Na miejscu czy na wynos? (eat in or take away?)"
+    },
+    "it_was_delicious": {
+      "text": "Było pyszne",
+      "note": "Also very common: Bardzo mi smakowało."
+    },
+    "keep_change": {
+      "text": "Reszty nie trzeba",
+      "note": "Also: Proszę zatrzymać resztę."
+    },
+    "head": {
+      "text": "Głowa"
+    },
+    "stomach": {
+      "text": "Brzuch",
+      "note": "Brzuch is the belly; the organ itself is żołądek."
+    },
+    "head_hurts": {
+      "text": "Boli mnie głowa",
+      "note": "Same pattern: Boli mnie brzuch (my stomach hurts)."
+    },
+    "have_fever": {
+      "text": "Mam gorączkę",
+      "note": "Also common: Mam temperaturę."
+    },
+    "medicine": {
+      "text": "Lekarstwo",
+      "note": "Also: lek, the word on packaging and used by doctors. Plural: leki."
+    },
+    "call_ambulance": {
+      "text": "Proszę wezwać karetkę!",
+      "note": "In a crowd: Niech ktoś wezwie karetkę! Emergency number: 112."
+    },
+    "dentist": {
+      "text": "Dentysta",
+      "note": "A woman dentist: dentystka. Formal: stomatolog."
+    },
+    "need_rest": {
+      "text": "Muszę odpocząć",
+      "note": "Also: Potrzebuję odpoczynku."
+    },
+    "feel_better": {
+      "text": "Czuję się lepiej",
+      "note": "Also common: Już mi lepiej (I'm already better)."
+    },
+    "get_well": {
+      "text": "Szybkiego powrotu do zdrowia!",
+      "note": "To a friend: Zdrowiej szybko! or Wracaj do zdrowia!"
+    },
+    "lets_meet": {
+      "text": "Spotkajmy się",
+      "note": "Also: Umówmy się (let's arrange a time to meet)."
+    },
+    "are_you_free": {
+      "text": "Czy ma pan jutro czas?",
+      "note": "To a woman: Czy ma pani jutro czas? Casual: Masz jutro czas?"
+    },
+    "call_me": {
+      "text": "Proszę do mnie zadzwonić",
+      "note": "Casual: Zadzwoń do mnie!"
+    },
+    "your_number": {
+      "text": "Jaki jest pana numer telefonu?",
+      "note": "To a woman: Jaki jest pani numer telefonu? Casual: Jaki masz numer?"
+    },
+    "see_you_soon": {
+      "text": "Do zobaczenia wkrótce",
+      "note": "Day to day, plain Do zobaczenia! or casual Na razie! is more common."
+    },
+    "have_nice_day": {
+      "text": "Miłego dnia!",
+      "note": "In the evening: Miłego wieczoru! Before the weekend: Miłego weekendu!"
+    },
+    "good_luck": {
+      "text": "Powodzenia!",
+      "note": "Also: Trzymam kciuki! (I'm keeping my fingers crossed)."
+    },
+    "happy_birthday": {
+      "text": "Wszystkiego najlepszego z okazji urodzin!",
+      "note": "Short and common: Wszystkiego najlepszego! The birthday song: Sto lat!"
+    },
+    "thanks_a_lot": {
+      "text": "Bardzo dziękuję",
+      "note": "Even warmer: Serdecznie dziękuję. Casual: Wielkie dzięki!"
+    },
+    "miss_you": {
+      "text": "Tęsknię za tobą",
+      "note": "Often just: Tęsknię! To several people: Tęsknię za wami."
     }
   }
 }

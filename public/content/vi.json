@@ -386,6 +386,396 @@
     "congratulations": {
       "text": "Chúc mừng!",
       "note": "More formal: xin chúc mừng! Happy birthday: chúc mừng sinh nhật!"
+    },
+    "my_family": {
+      "text": "Gia đình tôi",
+      "note": "Also: gia đình của tôi. The whole family: cả nhà, e.g. cả nhà tôi."
+    },
+    "mother": {
+      "text": "Mẹ",
+      "note": "In the South: má. Calling her: mẹ ơi! (Mum!)"
+    },
+    "father": {
+      "text": "Bố",
+      "note": "In the South: ba. Cha is used in some regions and in writing."
+    },
+    "brother": {
+      "text": "Anh trai",
+      "note": "An older brother; a younger one is em trai. Brothers and sisters: anh chị em."
+    },
+    "sister": {
+      "text": "Chị gái",
+      "note": "An older sister; a younger one is em gái."
+    },
+    "child": {
+      "text": "Con",
+      "note": "Son: con trai. Daughter: con gái. My child: con tôi."
+    },
+    "friend": {
+      "text": "Bạn",
+      "note": "Same for a woman. Careful: bạn trai means boyfriend, bạn gái girlfriend. Bạn is also 'you'."
+    },
+    "this_is_my_friend": {
+      "text": "Đây là bạn tôi",
+      "note": "Same for a female friend. With a name: đây là Nam, bạn tôi."
+    },
+    "are_you_married": {
+      "text": "Anh đã lập gia đình chưa?",
+      "note": "To a woman: chị đã lập gia đình chưa? Casual: anh có vợ chưa? / chị có chồng chưa?"
+    },
+    "have_children": {
+      "text": "Anh đã có con chưa?",
+      "note": "To a woman: chị đã có con chưa? How many? Anh có mấy cháu? (cháu: polite for others' kids)"
+    },
+    "monday": {
+      "text": "Thứ Hai",
+      "note": "Literally 'second day'; Sunday has no number. Calendars write T2."
+    },
+    "tuesday": {
+      "text": "Thứ Ba"
+    },
+    "wednesday": {
+      "text": "Thứ Tư",
+      "note": "Uses tư, a form of four also heard in hai mươi tư (24); never bốn."
+    },
+    "thursday": {
+      "text": "Thứ Năm"
+    },
+    "friday": {
+      "text": "Thứ Sáu"
+    },
+    "saturday": {
+      "text": "Thứ Bảy"
+    },
+    "sunday": {
+      "text": "Chủ Nhật",
+      "note": "Literally 'the Lord's day'. Calendars write CN."
+    },
+    "weekend": {
+      "text": "Cuối tuần",
+      "note": "At the weekend: vào cuối tuần."
+    },
+    "what_day": {
+      "text": "Hôm nay là thứ mấy?",
+      "note": "For the date: hôm nay là ngày bao nhiêu?"
+    },
+    "next_week": {
+      "text": "Tuần sau",
+      "note": "Also: tuần tới. Next Monday: thứ Hai tuần sau."
+    },
+    "eleven": {
+      "text": "Mười một",
+      "note": "Teens are ten + digit: mười một (11), mười chín (19). But 15 is mười lăm."
+    },
+    "twelve": {
+      "text": "Mười hai"
+    },
+    "fifteen": {
+      "text": "Mười lăm",
+      "note": "Năm becomes lăm after mười. Some Northerners say mười nhăm."
+    },
+    "twenty": {
+      "text": "Hai mươi",
+      "note": "Mươi (flat tone) means tens. Casually also hai chục (two tens)."
+    },
+    "thirty": {
+      "text": "Ba mươi",
+      "note": "In quick speech mươi is often dropped: ba mốt (31), ba lăm (35)."
+    },
+    "fifty": {
+      "text": "Năm mươi",
+      "note": "Fifty-five is năm mươi lăm: năm at the start, lăm at the end."
+    },
+    "hundred": {
+      "text": "Một trăm",
+      "note": "101 is một trăm linh một (North) or một trăm lẻ một (South)."
+    },
+    "thousand": {
+      "text": "Một nghìn",
+      "note": "In the South: một ngàn. In shops it's often dropped: hai mươi = 20.000đ (dots group thousands)."
+    },
+    "how_old": {
+      "text": "Anh bao nhiêu tuổi?",
+      "note": "To a woman: chị bao nhiêu tuổi? A child: cháu mấy tuổi? Asking age is normal, to pick pronouns."
+    },
+    "years_old": {
+      "text": "Tôi … tuổi",
+      "note": "Also: năm nay tôi … tuổi (this year I'm …)."
+    },
+    "red": {
+      "text": "Màu đỏ",
+      "note": "Describing a thing, màu is usually dropped: áo đỏ (a red shirt)."
+    },
+    "blue": {
+      "text": "Màu xanh dương",
+      "note": "Xanh alone can mean blue or green. Also: xanh da trời (sky blue), xanh nước biển (sea blue)."
+    },
+    "green": {
+      "text": "Màu xanh lá cây",
+      "note": "Often shortened to xanh lá (leaf green)."
+    },
+    "yellow": {
+      "text": "Màu vàng",
+      "note": "Vàng also means gold."
+    },
+    "black": {
+      "text": "Màu đen"
+    },
+    "white": {
+      "text": "Màu trắng"
+    },
+    "what_colour": {
+      "text": "Nó màu gì?",
+      "note": "Pointing at it: cái này màu gì? In a shop: có những màu nào? (which colours do you have?)"
+    },
+    "this_one": {
+      "text": "Cái này",
+      "note": "Cái is the all-purpose word for 'thing', so cái này works for almost any object."
+    },
+    "that_one": {
+      "text": "Cái kia",
+      "note": "Cái kia is over there; cái đó is near the other person or already mentioned."
+    },
+    "another_one": {
+      "text": "Cho tôi thêm một cái nữa",
+      "note": "Another drink: cho tôi thêm một ly nữa (cốc in the North)."
+    },
+    "its_hot": {
+      "text": "Trời nóng quá!",
+      "note": "Trời, literally 'sky', starts most weather talk. Hot and muggy: oi quá!"
+    },
+    "its_cold": {
+      "text": "Trời lạnh quá!",
+      "note": "In the North also rét, for bitter cold: trời rét quá!"
+    },
+    "its_raining": {
+      "text": "Trời đang mưa",
+      "note": "When it starts: mưa rồi! Heavy rain: mưa to (North) / mưa lớn (South)."
+    },
+    "its_sunny": {
+      "text": "Trời nắng",
+      "note": "Nắng is sunshine with its heat. In summer you'll hear: nắng quá! (the sun's so strong!)"
+    },
+    "its_windy": {
+      "text": "Trời nhiều gió quá!",
+      "note": "Strong wind: gió to quá! (gió lớn in the South)."
+    },
+    "weather_today": {
+      "text": "Hôm nay thời tiết thế nào?",
+      "note": "In the South: hôm nay thời tiết ra sao?"
+    },
+    "beautiful_day": {
+      "text": "Hôm nay trời đẹp quá!"
+    },
+    "umbrella": {
+      "text": "Cái ô",
+      "note": "In the South: cái dù. On a motorbike people wear a raincoat instead: áo mưa."
+    },
+    "summer": {
+      "text": "Mùa hè",
+      "note": "Summer holidays: nghỉ hè. Literary: mùa hạ."
+    },
+    "winter": {
+      "text": "Mùa đông",
+      "note": "Only the North has a real winter; the South has mùa mưa (rainy) and mùa khô (dry season)."
+    },
+    "have_reservation": {
+      "text": "Tôi đã đặt phòng trước",
+      "note": "With your name: tôi đặt phòng tên là John."
+    },
+    "room": {
+      "text": "Phòng",
+      "note": "Any rooms free? Còn phòng không? Single / double: phòng đơn / phòng đôi."
+    },
+    "passport": {
+      "text": "Hộ chiếu",
+      "note": "At check-in staff may ask: cho tôi xem hộ chiếu."
+    },
+    "luggage": {
+      "text": "Hành lý",
+      "note": "Leaving bags: tôi gửi hành lý ở đây được không?"
+    },
+    "wifi_password": {
+      "text": "Mật khẩu wifi là gì?",
+      "note": "Very common in cafés: cho xin pass wifi. Wifi is said 'wai-phai'."
+    },
+    "check_out_time": {
+      "text": "Mấy giờ phải trả phòng?",
+      "note": "Trả phòng is check-out; check-in is nhận phòng. Hotel staff also say check-out."
+    },
+    "map": {
+      "text": "Bản đồ"
+    },
+    "bus": {
+      "text": "Xe buýt",
+      "note": "Bus stop: trạm xe buýt. Long-distance coach: xe khách, from the bến xe (bus station)."
+    },
+    "next_train": {
+      "text": "Mấy giờ có chuyến tàu tiếp theo?",
+      "note": "Chuyến is one trip or departure; also for buses: chuyến xe tiếp theo."
+    },
+    "is_this_seat_free": {
+      "text": "Chỗ này có ai ngồi không?",
+      "note": "Also: ghế này còn trống không? (is this seat empty?)"
+    },
+    "what_do_you_do": {
+      "text": "Anh làm nghề gì?",
+      "note": "To a woman: chị làm nghề gì? Also: anh làm việc ở đâu? (where do you work?)"
+    },
+    "i_work_in": {
+      "text": "Tôi làm việc ở …",
+      "note": "Ở is for a place: ở ngân hàng (at a bank). For a field: tôi làm trong ngành du lịch (tourism)."
+    },
+    "im_student": {
+      "text": "Tôi là sinh viên",
+      "note": "A university student; a school pupil is học sinh. Same for women."
+    },
+    "office": {
+      "text": "Văn phòng",
+      "note": "People often say they're at công ty (the company): tôi đang ở công ty."
+    },
+    "meeting": {
+      "text": "Cuộc họp",
+      "note": "Often just họp: tôi đang họp (I'm in a meeting)."
+    },
+    "im_busy": {
+      "text": "Tôi đang bận",
+      "note": "Turning someone down politely: xin lỗi, tôi bận rồi."
+    },
+    "day_off": {
+      "text": "Ngày nghỉ",
+      "note": "I'm off today: hôm nay tôi được nghỉ. Leave from work: nghỉ phép."
+    },
+    "colleague": {
+      "text": "Đồng nghiệp",
+      "note": "Same for a woman. Colleagues call each other anh, chị or em, by age."
+    },
+    "lets_start": {
+      "text": "Chúng ta bắt đầu nhé",
+      "note": "Casual: bắt đầu thôi! Chúng ta is 'we' including the listener; chúng tôi leaves them out."
+    },
+    "good_job": {
+      "text": "Làm tốt lắm!",
+      "note": "Also common: giỏi lắm! (well done!), mostly to someone younger."
+    },
+    "table_for_two": {
+      "text": "Cho tôi một bàn hai người",
+      "note": "Staff often just ask mấy người? (how many?) Answer: hai người."
+    },
+    "what_recommend": {
+      "text": "Ở đây có món gì ngon?",
+      "note": "Call a young server with em ơi first. House speciality: món đặc biệt."
+    },
+    "not_spicy": {
+      "text": "Không cay nhé",
+      "note": "No chilli at all: đừng cho ớt nhé. Just a little: ít cay thôi."
+    },
+    "vegetarian_food": {
+      "text": "Món chay",
+      "note": "Do you have any? Có món chay không? Vegetarian restaurant: quán chay."
+    },
+    "more_water": {
+      "text": "Cho tôi thêm nước",
+      "note": "Nước alone can mean any drink; plain drinking water is nước lọc."
+    },
+    "no_sugar": {
+      "text": "Không đường nhé",
+      "note": "Vietnamese coffee comes sweet by default. Less sugar: ít đường."
+    },
+    "im_full": {
+      "text": "Tôi no rồi",
+      "note": "Very full: tôi no quá rồi. Said with a smile, it's the polite way to refuse more food."
+    },
+    "takeaway": {
+      "text": "Cho tôi mang về",
+      "note": "Ordering: một phần mang về (one portion to go). Eating in: ăn ở đây."
+    },
+    "it_was_delicious": {
+      "text": "Đồ ăn ngon lắm",
+      "note": "No past tense needed; context does the work. Shorter: ngon lắm!"
+    },
+    "keep_change": {
+      "text": "Không cần trả lại đâu",
+      "note": "In the South: khỏi thối nha. Tipping isn't customary, so this is a kind gesture."
+    },
+    "head": {
+      "text": "Đầu"
+    },
+    "stomach": {
+      "text": "Bụng",
+      "note": "Bụng is the belly; the organ is dạ dày (bao tử in the South)."
+    },
+    "head_hurts": {
+      "text": "Tôi bị đau đầu",
+      "note": "Bị marks something unpleasant. Also: tôi nhức đầu. Stomach ache: tôi bị đau bụng."
+    },
+    "have_fever": {
+      "text": "Tôi bị sốt",
+      "note": "High fever: sốt cao. A cold: tôi bị cảm."
+    },
+    "medicine": {
+      "text": "Thuốc",
+      "note": "Take medicine: uống thuốc (literally 'drink'). Thuốc lá means cigarettes."
+    },
+    "call_ambulance": {
+      "text": "Gọi xe cấp cứu đi!",
+      "note": "Number: 115. Politer to a passer-by: làm ơn gọi cấp cứu giúp tôi!"
+    },
+    "dentist": {
+      "text": "Nha sĩ",
+      "note": "Toothache: tôi bị đau răng."
+    },
+    "need_rest": {
+      "text": "Tôi cần nghỉ ngơi",
+      "note": "A short break: tôi nghỉ một lát nhé."
+    },
+    "feel_better": {
+      "text": "Tôi thấy đỡ hơn rồi",
+      "note": "Also: tôi khỏe hơn rồi. People will ask: anh đỡ chưa? (feeling better?)"
+    },
+    "get_well": {
+      "text": "Chúc anh mau khỏe!",
+      "note": "To a woman: chúc chị mau khỏe! More formal: chúc anh sớm bình phục."
+    },
+    "lets_meet": {
+      "text": "Mình gặp nhau nhé",
+      "note": "Mình is the friendly 'we' (formal: chúng ta). Vague plan: hôm nào gặp nhau nhé!"
+    },
+    "are_you_free": {
+      "text": "Ngày mai anh có rảnh không?",
+      "note": "To a woman: ngày mai chị có rảnh không? Casual: mai rảnh không?"
+    },
+    "call_me": {
+      "text": "Anh gọi cho tôi nhé",
+      "note": "To a woman: chị gọi cho tôi nhé. Many people call and message on Zalo."
+    },
+    "your_number": {
+      "text": "Số điện thoại của anh là bao nhiêu?",
+      "note": "To a woman: số điện thoại của chị là bao nhiêu? Softer: cho tôi xin số điện thoại nhé."
+    },
+    "see_you_soon": {
+      "text": "Hẹn sớm gặp lại",
+      "note": "Casual: sớm gặp lại nhé!"
+    },
+    "have_nice_day": {
+      "text": "Chúc anh một ngày tốt lành!",
+      "note": "To a woman: chúc chị một ngày tốt lành! Also common: chúc anh một ngày vui vẻ!"
+    },
+    "good_luck": {
+      "text": "Chúc may mắn!",
+      "note": "Warmer: chúc anh may mắn! (chị to a woman)."
+    },
+    "happy_birthday": {
+      "text": "Chúc mừng sinh nhật!",
+      "note": "Warmer with a pronoun: chúc mừng sinh nhật anh! (chị to a woman)."
+    },
+    "thanks_a_lot": {
+      "text": "Cảm ơn anh rất nhiều",
+      "note": "To a woman: cảm ơn chị rất nhiều. Casual: cảm ơn nhiều nhé!"
+    },
+    "miss_you": {
+      "text": "Mình nhớ bạn lắm",
+      "note": "Mình is the friendly 'I' between friends. In families: con nhớ mẹ (child to mother)."
     }
   }
 }

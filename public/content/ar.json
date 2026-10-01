@@ -477,6 +477,498 @@
       "text": "مبروك!",
       "roman": "mabruk!",
       "note": "Reply: بارك الله فيك (barak allah fika; to a woman, fiki). More formal: تهانينا! (tahanina!)"
+    },
+    "my_family": {
+      "text": "عائلتي",
+      "roman": "'ailati",
+      "note": "Also: أسرتي (usrati)."
+    },
+    "mother": {
+      "text": "أم",
+      "roman": "umm",
+      "note": "My mother: أمي (ummi). More formal: والدة (walida)."
+    },
+    "father": {
+      "text": "أب",
+      "roman": "ab",
+      "note": "My father: أبي (abi). More formal: والد (walid)."
+    },
+    "brother": {
+      "text": "أخ",
+      "roman": "akh",
+      "note": "My brother: أخي (akhi)."
+    },
+    "sister": {
+      "text": "أخت",
+      "roman": "ukht",
+      "note": "My sister: أختي (ukhti)."
+    },
+    "child": {
+      "text": "ابن",
+      "roman": "ibn",
+      "note": "Literally 'son'. A daughter: ابنة (ibna) or بنت (bint)."
+    },
+    "friend": {
+      "text": "صديق",
+      "roman": "sadiq",
+      "note": "A female friend: صديقة (sadiqa)."
+    },
+    "this_is_my_friend": {
+      "text": "هذا صديقي",
+      "roman": "hadha sadiqi",
+      "note": "For a female friend: هذه صديقتي (hadhihi sadiqati)."
+    },
+    "are_you_married": {
+      "text": "هل أنت متزوج؟",
+      "roman": "hal anta mutazawwij?",
+      "note": "To a woman: هل أنت متزوجة؟ (hal anti mutazawwija?)"
+    },
+    "have_children": {
+      "text": "هل لديك أطفال؟",
+      "roman": "hal ladayka atfal?",
+      "note": "To a woman: hal ladayki atfal? (same spelling). Also: أولاد (awlad)."
+    },
+    "monday": {
+      "text": "الاثنين",
+      "roman": "al-ithnayn",
+      "note": "From اثنان (two): the Arabic week counts Sunday as day one."
+    },
+    "tuesday": {
+      "text": "الثلاثاء",
+      "roman": "ath-thulatha",
+      "note": "From ثلاثة (three): the third day."
+    },
+    "wednesday": {
+      "text": "الأربعاء",
+      "roman": "al-arbi'a",
+      "note": "From أربعة (four): the fourth day."
+    },
+    "thursday": {
+      "text": "الخميس",
+      "roman": "al-khamis",
+      "note": "From خمسة (five): the fifth day."
+    },
+    "friday": {
+      "text": "الجمعة",
+      "roman": "al-jum'a",
+      "note": "Literally 'the gathering', named for the Friday congregational prayer."
+    },
+    "saturday": {
+      "text": "السبت",
+      "roman": "as-sabt",
+      "note": "Related to the word 'Sabbath'."
+    },
+    "sunday": {
+      "text": "الأحد",
+      "roman": "al-ahad",
+      "note": "From أحد (one): the first day of the Arabic week."
+    },
+    "weekend": {
+      "text": "عطلة نهاية الأسبوع",
+      "roman": "'utlat nihayat al-usbu'",
+      "note": "Short: نهاية الأسبوع (nihayat al-usbu'). In many Arab countries it is Friday and Saturday."
+    },
+    "what_day": {
+      "text": "أي يوم هو اليوم؟",
+      "roman": "ayy yawm huwa al-yawm?"
+    },
+    "next_week": {
+      "text": "الأسبوع القادم",
+      "roman": "al-usbu' al-qadim",
+      "note": "Also: الأسبوع المقبل (al-usbu' al-muqbil)."
+    },
+    "eleven": {
+      "text": "أحد عشر",
+      "roman": "ahada 'ashar",
+      "note": "Arabic digits: ١١"
+    },
+    "twelve": {
+      "text": "اثنا عشر",
+      "roman": "ithna 'ashar",
+      "note": "Arabic digits: ١٢. Also heard as اثني عشر (ithnay 'ashar)."
+    },
+    "fifteen": {
+      "text": "خمسة عشر",
+      "roman": "khamsata 'ashar",
+      "note": "Arabic digits: ١٥"
+    },
+    "twenty": {
+      "text": "عشرون",
+      "roman": "'ishrun",
+      "note": "Arabic digits: ٢٠. Also heard as عشرين ('ishrin)."
+    },
+    "thirty": {
+      "text": "ثلاثون",
+      "roman": "thalathun",
+      "note": "Arabic digits: ٣٠. Also heard as ثلاثين (thalathin)."
+    },
+    "fifty": {
+      "text": "خمسون",
+      "roman": "khamsun",
+      "note": "Arabic digits: ٥٠. Also heard as خمسين (khamsin)."
+    },
+    "hundred": {
+      "text": "مئة",
+      "roman": "mia",
+      "note": "Arabic digits: ١٠٠. Also spelled مائة, said the same way."
+    },
+    "thousand": {
+      "text": "ألف",
+      "roman": "alf",
+      "note": "Arabic digits: ١٠٠٠"
+    },
+    "how_old": {
+      "text": "كم عمرك؟",
+      "roman": "kam 'umruka?",
+      "note": "To a woman: kam 'umruki? (same spelling)."
+    },
+    "years_old": {
+      "text": "عمري … سنة",
+      "roman": "'umri … sana",
+      "note": "With 3 to 10, use سنوات (sanawat) instead of سنة."
+    },
+    "red": {
+      "text": "أحمر",
+      "roman": "ahmar",
+      "note": "Feminine: حمراء (hamra)."
+    },
+    "blue": {
+      "text": "أزرق",
+      "roman": "azraq",
+      "note": "Feminine: زرقاء (zarqa)."
+    },
+    "green": {
+      "text": "أخضر",
+      "roman": "akhdar",
+      "note": "Feminine: خضراء (khadra)."
+    },
+    "yellow": {
+      "text": "أصفر",
+      "roman": "asfar",
+      "note": "Feminine: صفراء (safra)."
+    },
+    "black": {
+      "text": "أسود",
+      "roman": "aswad",
+      "note": "Feminine: سوداء (sawda)."
+    },
+    "white": {
+      "text": "أبيض",
+      "roman": "abyad",
+      "note": "Feminine: بيضاء (bayda)."
+    },
+    "what_colour": {
+      "text": "ما لونه؟",
+      "roman": "ma lawnuhu?",
+      "note": "For a feminine noun: ما لونها؟ (ma lawnuha?)"
+    },
+    "this_one": {
+      "text": "هذا",
+      "roman": "hadha",
+      "note": "For a feminine item: هذه (hadhihi)."
+    },
+    "that_one": {
+      "text": "ذلك",
+      "roman": "dhalika",
+      "note": "For a feminine item: تلك (tilka)."
+    },
+    "another_one": {
+      "text": "واحد آخر من فضلك",
+      "roman": "wahid akhar min fadlika",
+      "note": "To a woman: min fadliki. For a feminine item: واحدة أخرى (wahida ukhra)."
+    },
+    "its_hot": {
+      "text": "الجو حار",
+      "roman": "al-jaww harr"
+    },
+    "its_cold": {
+      "text": "الجو بارد",
+      "roman": "al-jaww barid"
+    },
+    "its_raining": {
+      "text": "السماء تمطر",
+      "roman": "as-sama tumtir",
+      "note": "Also: إنها تمطر (innaha tumtir)."
+    },
+    "its_sunny": {
+      "text": "الجو مشمس",
+      "roman": "al-jaww mushmis"
+    },
+    "its_windy": {
+      "text": "الجو عاصف",
+      "roman": "al-jaww 'asif",
+      "note": "Also: الرياح قوية (ar-riyah qawiyya), 'the wind is strong'."
+    },
+    "weather_today": {
+      "text": "كيف الطقس اليوم؟",
+      "roman": "kayfa at-taqs al-yawm?",
+      "note": "Also: كيف الجو اليوم؟ (kayfa al-jaww al-yawm?)"
+    },
+    "beautiful_day": {
+      "text": "إنه يوم جميل",
+      "roman": "innahu yawm jamil",
+      "note": "Also: الجو جميل اليوم (al-jaww jamil al-yawm), 'the weather is lovely today'."
+    },
+    "umbrella": {
+      "text": "مظلة",
+      "roman": "midhalla",
+      "note": "Also common: شمسية (shamsiyya)."
+    },
+    "summer": {
+      "text": "الصيف",
+      "roman": "as-sayf",
+      "note": "In summer: في الصيف (fi as-sayf)."
+    },
+    "winter": {
+      "text": "الشتاء",
+      "roman": "ash-shita",
+      "note": "In winter: في الشتاء (fi ash-shita)."
+    },
+    "have_reservation": {
+      "text": "لدي حجز",
+      "roman": "ladayya hajz",
+      "note": "Also: عندي حجز ('indi hajz)."
+    },
+    "room": {
+      "text": "غرفة",
+      "roman": "ghurfa",
+      "note": "Room number: رقم الغرفة (raqm al-ghurfa)."
+    },
+    "passport": {
+      "text": "جواز السفر",
+      "roman": "jawaz as-safar",
+      "note": "My passport: جواز سفري (jawaz safari)."
+    },
+    "luggage": {
+      "text": "أمتعة",
+      "roman": "amti'a",
+      "note": "Also: حقائب (haqaib), 'bags'."
+    },
+    "wifi_password": {
+      "text": "ما كلمة مرور الواي فاي؟",
+      "roman": "ma kalimat murur al-way fay?",
+      "note": "Also: ما كلمة سر الواي فاي؟ (ma kalimat sirr al-way fay?)"
+    },
+    "check_out_time": {
+      "text": "متى موعد تسجيل الخروج؟",
+      "roman": "mata maw'id tasjil al-khuruj?",
+      "note": "Also: متى يجب أن أغادر الغرفة؟ (mata yajib an ughadir al-ghurfa?)"
+    },
+    "map": {
+      "text": "خريطة",
+      "roman": "kharita"
+    },
+    "bus": {
+      "text": "حافلة",
+      "roman": "hafila",
+      "note": "In speech usually باص (bas)."
+    },
+    "next_train": {
+      "text": "متى القطار القادم؟",
+      "roman": "mata al-qitar al-qadim?"
+    },
+    "is_this_seat_free": {
+      "text": "هل هذا المقعد فارغ؟",
+      "roman": "hal hadha al-maq'ad farigh?",
+      "note": "Also: هل هذا المكان محجوز؟ (hal hadha al-makan mahjuz?), 'is this place taken?'"
+    },
+    "what_do_you_do": {
+      "text": "ماذا تعمل؟",
+      "roman": "madha ta'mal?",
+      "note": "To a woman: ماذا تعملين؟ (madha ta'malin?)"
+    },
+    "i_work_in": {
+      "text": "أعمل في …",
+      "roman": "a'mal fi …"
+    },
+    "im_student": {
+      "text": "أنا طالب",
+      "roman": "ana talib",
+      "note": "A woman says: أنا طالبة (ana taliba)."
+    },
+    "office": {
+      "text": "مكتب",
+      "roman": "maktab",
+      "note": "Also means 'desk'."
+    },
+    "meeting": {
+      "text": "اجتماع",
+      "roman": "ijtima'",
+      "note": "I have a meeting: لدي اجتماع (ladayya ijtima')."
+    },
+    "im_busy": {
+      "text": "أنا مشغول",
+      "roman": "ana mashghul",
+      "note": "A woman says: أنا مشغولة (ana mashghula)."
+    },
+    "day_off": {
+      "text": "يوم عطلة",
+      "roman": "yawm 'utla",
+      "note": "Also: يوم إجازة (yawm ijaza)."
+    },
+    "colleague": {
+      "text": "زميل",
+      "roman": "zamil",
+      "note": "A female colleague: زميلة (zamila)."
+    },
+    "lets_start": {
+      "text": "لنبدأ",
+      "roman": "linabda",
+      "note": "Also: هيا نبدأ (hayya nabda)."
+    },
+    "good_job": {
+      "text": "أحسنت!",
+      "roman": "ahsanta!",
+      "note": "To a woman: ahsanti! (same spelling). Also: عمل رائع! ('amal rai'!)"
+    },
+    "table_for_two": {
+      "text": "طاولة لشخصين من فضلك",
+      "roman": "tawila lishakhsayn min fadlika",
+      "note": "To a woman: min fadliki (same spelling)."
+    },
+    "what_recommend": {
+      "text": "بماذا تنصحني؟",
+      "roman": "bimadha tansahuni?",
+      "note": "To a woman: بماذا تنصحينني؟ (bimadha tansahinani?) Also: ماذا تقترح؟ (madha taqtarih?)"
+    },
+    "not_spicy": {
+      "text": "غير حار من فضلك",
+      "roman": "ghayr harr min fadlika",
+      "note": "To a woman: min fadliki. حار (harr) means both hot and spicy."
+    },
+    "vegetarian_food": {
+      "text": "طعام نباتي",
+      "roman": "ta'am nabati",
+      "note": "Do you have vegetarian food? هل لديكم طعام نباتي؟ (hal ladaykum ta'am nabati?)"
+    },
+    "more_water": {
+      "text": "المزيد من الماء من فضلك",
+      "roman": "al-mazid min al-ma min fadlika",
+      "note": "To a woman: min fadliki (same spelling)."
+    },
+    "no_sugar": {
+      "text": "بدون سكر من فضلك",
+      "roman": "bidun sukkar min fadlika",
+      "note": "To a woman: min fadliki. A little sugar: سكر قليل (sukkar qalil)."
+    },
+    "im_full": {
+      "text": "شبعت",
+      "roman": "shabi'tu",
+      "note": "In speech also: أنا شبعان (ana shab'an); a woman says شبعانة (shab'ana)."
+    },
+    "takeaway": {
+      "text": "سآخذه معي من فضلك",
+      "roman": "sa-akhudhuhu ma'i min fadlika",
+      "note": "To a woman: min fadliki. In many countries people simply say سفري (safari)."
+    },
+    "it_was_delicious": {
+      "text": "كان الطعام لذيذا",
+      "roman": "kana at-ta'am ladhidhan",
+      "note": "Short: كان لذيذا (kana ladhidhan)."
+    },
+    "keep_change": {
+      "text": "احتفظ بالباقي",
+      "roman": "ihtafidh bil-baqi",
+      "note": "To a woman: احتفظي بالباقي (ihtafidhi bil-baqi). Also: الباقي لك (al-baqi laka)."
+    },
+    "head": {
+      "text": "رأس",
+      "roman": "ras"
+    },
+    "stomach": {
+      "text": "معدة",
+      "roman": "ma'ida",
+      "note": "In speech also بطن (batn), 'belly'."
+    },
+    "head_hurts": {
+      "text": "رأسي يؤلمني",
+      "roman": "rasi yulimuni",
+      "note": "Also: لدي صداع (ladayya suda'), 'I have a headache'."
+    },
+    "have_fever": {
+      "text": "لدي حمى",
+      "roman": "ladayya humma",
+      "note": "In speech also: عندي حرارة ('indi harara)."
+    },
+    "medicine": {
+      "text": "دواء",
+      "roman": "dawa",
+      "note": "Plural: أدوية (adwiya)."
+    },
+    "call_ambulance": {
+      "text": "اتصلوا بالإسعاف!",
+      "roman": "ittasilu bil-is'af!",
+      "note": "Said to everyone around. To one man: اتصل (ittasil); to one woman: اتصلي (ittasili)."
+    },
+    "dentist": {
+      "text": "طبيب أسنان",
+      "roman": "tabib asnan",
+      "note": "A woman dentist: طبيبة أسنان (tabibat asnan)."
+    },
+    "need_rest": {
+      "text": "أحتاج إلى الراحة",
+      "roman": "ahtaj ila ar-raha",
+      "note": "Also: أريد أن أرتاح (urid an artah), 'I want to rest'."
+    },
+    "feel_better": {
+      "text": "أشعر بتحسن",
+      "roman": "ash'ur bitahassun",
+      "note": "Also: أنا بحال أفضل الآن (ana bihal afdal al-an), 'I'm better now'."
+    },
+    "get_well": {
+      "text": "أتمنى لك الشفاء العاجل!",
+      "roman": "atamanna laka ash-shifa al-'ajil!",
+      "note": "To a woman: laki instead of laka (same spelling). Everyday: سلامتك! (salamtak!)"
+    },
+    "lets_meet": {
+      "text": "لنلتقِ",
+      "roman": "linaltaqi",
+      "note": "Also: ما رأيك أن نلتقي؟ (ma rayuka an naltaqi?), 'how about we meet?'"
+    },
+    "are_you_free": {
+      "text": "هل أنت متفرغ غدا؟",
+      "roman": "hal anta mutafarrigh ghadan?",
+      "note": "To a woman: هل أنت متفرغة غدا؟ (hal anti mutafarrigha ghadan?)"
+    },
+    "call_me": {
+      "text": "اتصل بي",
+      "roman": "ittasil bi",
+      "note": "To a woman: اتصلي بي (ittasili bi)."
+    },
+    "your_number": {
+      "text": "ما رقم هاتفك؟",
+      "roman": "ma raqm hatifika?",
+      "note": "To a woman: ma raqm hatifiki? (same spelling)."
+    },
+    "see_you_soon": {
+      "text": "أراك قريبا",
+      "roman": "araka qariban",
+      "note": "To a woman: araki qariban (same spelling)."
+    },
+    "have_nice_day": {
+      "text": "يوما سعيدا!",
+      "roman": "yawman sa'idan!",
+      "note": "Fuller: أتمنى لك يوما سعيدا (atamanna laka yawman sa'idan)."
+    },
+    "good_luck": {
+      "text": "حظا سعيدا!",
+      "roman": "hadhdhan sa'idan!",
+      "note": "Also very common: بالتوفيق! (bit-tawfiq!)"
+    },
+    "happy_birthday": {
+      "text": "عيد ميلاد سعيد!",
+      "roman": "'id milad sa'id!",
+      "note": "Also: كل عام وأنت بخير (kull 'am wa anta bikhayr); to a woman, anti."
+    },
+    "thanks_a_lot": {
+      "text": "شكرا جزيلا",
+      "roman": "shukran jazilan",
+      "note": "Also: ألف شكر (alf shukr), 'a thousand thanks'."
+    },
+    "miss_you": {
+      "text": "اشتقت إليك",
+      "roman": "ishtaqtu ilayka",
+      "note": "To a woman: ishtaqtu ilayki (same spelling)."
     }
   }
 }

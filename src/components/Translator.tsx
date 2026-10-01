@@ -8,6 +8,8 @@ import { useSpeakLanguage } from "@/lib/store";
 import { useContent } from "@/lib/useContent";
 import { DENSE_SCRIPT, NO_SPACES, fold } from "@/lib/fold";
 import type { LangContent, TranslateResult } from "@/lib/types";
+import { ArrowLeftRight, Sparkles } from "lucide-react";
+import { track } from "@/lib/track";
 import SpeakButton from "./SpeakButton";
 
 const MAX = 300;
@@ -27,7 +29,7 @@ function LangSelect({ id, label, value, onChange }: { id: string; label: string;
         id={id}
         value={value}
         onChange={(e) => onChange(e.target.value)}
-        className="w-full rounded-xl border border-sand-300 bg-white px-3 py-2.5 text-base"
+        className="input py-3"
       >
         {LANGUAGES_BY_NAME.map((l) => (
           <option key={l.code} value={l.code}>
@@ -131,7 +133,10 @@ export default function Translator() {
       });
       const d = await r.json().catch(() => ({}));
       if (!r.ok || !d.result) setAi({ loading: false, error: d.error ?? "Something went wrong — please try again." });
-      else setAi({ loading: false, result: d.result, for: `${from}>${to}:${input}` });
+      else {
+        setAi({ loading: false, result: d.result, for: `${from}>${to}:${input}` });
+        track("translate_ai", { lang: to });
+      }
     } catch {
       setAi({ loading: false, error: "No connection — please try again." });
     }
@@ -148,10 +153,10 @@ export default function Translator() {
         <button
           type="button"
           onClick={swap}
-          className="self-center rounded-full border border-sand-300 bg-white px-3 py-2 text-ink-700 hover:bg-sand-100 sm:mb-1"
+          className="grid h-12 w-12 place-items-center self-center rounded-2xl border border-sand-300 bg-card text-primary shadow-soft sm:self-end"
           aria-label="Swap languages"
         >
-          ⇄
+          <ArrowLeftRight size={20} aria-hidden />
         </button>
         <LangSelect id="to" label="To" value={to} onChange={pickTo} />
       </div>
@@ -167,7 +172,7 @@ export default function Translator() {
         onChange={(e) => setText(e.target.value.slice(0, MAX))}
         rows={3}
         placeholder={`${LRI}Type in ${fromLang.name} — e.g. “${FSI}${example}${PDI}”${PDI}`}
-        className="mt-4 w-full rounded-2xl border border-sand-300 bg-white px-5 py-4 text-lg outline-none focus:border-teal-600"
+        className="input mt-4 min-h-32 resize-y text-xl"
       />
       <div className="mt-1 flex items-center justify-between gap-3 text-xs text-ink-500">
         <span>
@@ -190,9 +195,11 @@ export default function Translator() {
       )}
 
       {aiCurrent && ai.result && (
-        <section className="mt-6 rounded-2xl border border-teal-600 bg-white p-5">
-          <h2 className="text-xs font-medium uppercase tracking-wide text-teal-700">AI translation</h2>
-          <p dir={toLang.dir} lang={toLang.speech} className="mt-2 text-2xl font-semibold text-ink-900">
+        <section className="mt-6 rounded-3xl bg-primary-soft p-6">
+          <h2 className="eyebrow flex items-center gap-1.5">
+            <Sparkles size={14} aria-hidden /> AI translation
+          </h2>
+          <p dir={toLang.dir} lang={toLang.speech} className="mt-2 font-display text-3xl font-black text-ink-900">
             {ai.result.translation}
           </p>
           {ai.result.romanization && <p className="text-lg text-teal-700">{ai.result.romanization}</p>}
@@ -200,7 +207,7 @@ export default function Translator() {
             <SpeakButton text={ai.result.translation} tag={toLang.speech} languageName={toLang.name} />
           </div>
           {ai.result.breakdown.length > 0 && (
-            <table className="mt-4 w-full text-start text-sm">
+            <table className="mt-5 w-full rounded-2xl bg-card text-start text-sm">
               <caption className="sr-only">Word by word</caption>
               <thead className="text-ink-500">
                 <tr>
@@ -239,7 +246,8 @@ export default function Translator() {
       )}
 
       <section className="mt-8">
-        <h2 className="text-lg font-semibold text-ink-900">From the Feliglot phrasebook</h2>
+        <p className="eyebrow">Phrasebook matches</p>
+        <h2 className="mt-1 text-xl font-extrabold text-ink-900">From the Feliglot courses</h2>
         {fromState.failed || toState.failed ? (
           <p className="mt-2 text-ink-600">
             Couldn&apos;t load the phrases.{" "}
@@ -266,23 +274,23 @@ export default function Translator() {
             {aiEnabled && " Use “Translate & explain” for anything else."}
           </p>
         ) : (
-          <ul className="mt-3 divide-y divide-sand-200 rounded-2xl border border-sand-200 bg-white">
+          <ul className="mt-3 grid gap-3 sm:grid-cols-2">
             {matches.map((id) => {
               const src = fromContent.phrases[id];
               const dst = toContent.phrases[id];
               return (
-                <li key={id} className="flex flex-col gap-2 p-4 sm:flex-row sm:items-center sm:justify-between">
+                <li key={id} className="flex flex-col gap-3 rounded-3xl border border-sand-300 bg-card p-5 shadow-soft">
                   <div className="min-w-0">
                     <p dir={fromLang.dir} lang={fromLang.speech} className="text-sm text-ink-500">
                       {src.text}
                     </p>
-                    <p dir={toLang.dir} lang={toLang.speech} className="text-xl font-semibold text-ink-900">
+                    <p dir={toLang.dir} lang={toLang.speech} className="font-display text-2xl font-black text-ink-900">
                       {dst?.text}
                     </p>
-                    {dst?.roman && <p className="text-teal-700">{dst.roman}</p>}
+                    {dst?.roman && <p className="text-primary">{dst.roman}</p>}
                     {dst?.note && <p className="mt-1 text-sm text-ink-500">💡 {dst.note}</p>}
                   </div>
-                  <div className="flex shrink-0 flex-col items-start gap-2 sm:items-end">
+                  <div className="flex flex-wrap items-center gap-3">
                     {dst && <SpeakButton text={dst.text} tag={toLang.speech} languageName={toLang.name} />}
                     {learnLang !== speak && (
                       <Link href={`/learn/${learnLang}/${UNIT_OF[id]}`} className="text-sm text-teal-700 hover:underline">

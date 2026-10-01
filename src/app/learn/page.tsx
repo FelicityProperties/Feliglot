@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import LanguagePicker from "@/components/LanguagePicker";
+import { CONCEPTS, UNITS } from "@/lib/curriculum";
 import { LANGUAGES } from "@/lib/languages";
 
 export const metadata: Metadata = {
@@ -10,9 +11,10 @@ export const metadata: Metadata = {
 export default function LanguagesPage() {
   return (
     <div>
-      <h1 className="text-3xl font-bold tracking-tight">All languages</h1>
+      <p className="eyebrow">Start here</p>
+      <h1 className="mt-1 text-4xl font-black tracking-tight">All languages</h1>
       <p className="mt-2 mb-6 text-ink-600">
-        {LANGUAGES.length} courses, each with the same 100 everyday phrases in 10 short lessons.
+        {LANGUAGES.length} courses, each with the same {CONCEPTS.length} everyday phrases in {UNITS.length} short lessons.
       </p>
       <LanguagePicker />
     </div>

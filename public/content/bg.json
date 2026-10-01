@@ -463,6 +463,488 @@
       "text": "Честито!",
       "roman": "Chestito!",
       "note": "More formal: Поздравления! (pozdravleniya!)"
+    },
+    "my_family": {
+      "text": "Моето семейство",
+      "roman": "Moeto semeystvo",
+      "note": "In a sentence, more often: семейството ми (semeystvoto mi)."
+    },
+    "mother": {
+      "text": "Майка",
+      "roman": "Mayka",
+      "note": "Mum: мама (mama); calling to her: мамо (mamo). My mother: майка ми (mayka mi)."
+    },
+    "father": {
+      "text": "Баща",
+      "roman": "Bashta",
+      "note": "Stress on the last syllable: ba-SHTA. Dad: татко (tatko), also how you address him."
+    },
+    "brother": {
+      "text": "Брат",
+      "roman": "Brat",
+      "note": "Older brother: по-голям брат (po-golyam brat); younger: по-малък брат (po-malak brat)."
+    },
+    "sister": {
+      "text": "Сестра",
+      "roman": "Sestra"
+    },
+    "child": {
+      "text": "Дете",
+      "roman": "Dete",
+      "note": "Plural: деца (detsa). Son: син (sin); daughter: дъщеря (dashterya)."
+    },
+    "friend": {
+      "text": "Приятел",
+      "roman": "Priyatel",
+      "note": "A female friend: приятелка (priyatelka). Both can also mean boyfriend or girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "Това е мой приятел",
+      "roman": "Tova e moy priyatel",
+      "note": "For a female friend: Това е моя приятелка (tova e moya priyatelka)."
+    },
+    "are_you_married": {
+      "text": "Женен ли сте?",
+      "roman": "Zhenen li ste?",
+      "note": "To a woman: Омъжена ли сте? (omazhena li ste?)"
+    },
+    "have_children": {
+      "text": "Имате ли деца?",
+      "roman": "Imate li detsa?",
+      "note": "To a friend: Имаш ли деца? (imash li detsa?)"
+    },
+    "monday": {
+      "text": "понеделник",
+      "roman": "ponedelnik",
+      "note": "Days are not capitalised in Bulgarian. On Monday: в понеделник (v ponedelnik)."
+    },
+    "tuesday": {
+      "text": "вторник",
+      "roman": "vtornik",
+      "note": "From втори (vtori), 'second'. On Tuesday: във вторник (vav vtornik)."
+    },
+    "wednesday": {
+      "text": "сряда",
+      "roman": "sryada",
+      "note": "On Wednesday: в сряда (v sryada)."
+    },
+    "thursday": {
+      "text": "четвъртък",
+      "roman": "chetvartak",
+      "note": "From четвърти (chetvarti), 'fourth'. On Thursday: в четвъртък (v chetvartak)."
+    },
+    "friday": {
+      "text": "петък",
+      "roman": "petak",
+      "note": "From пети (peti), 'fifth'. On Friday: в петък (v petak)."
+    },
+    "saturday": {
+      "text": "събота",
+      "roman": "sabota",
+      "note": "On Saturday: в събота (v sabota)."
+    },
+    "sunday": {
+      "text": "неделя",
+      "roman": "nedelya",
+      "note": "Stress: ne-DE-lya. On Sunday: в неделя (v nedelya)."
+    },
+    "weekend": {
+      "text": "Уикенд",
+      "roman": "Uikend",
+      "note": "At the weekend: през уикенда (prez uikenda). Also: събота и неделя (sabota i nedelya)."
+    },
+    "what_day": {
+      "text": "Какъв ден е днес?",
+      "roman": "Kakav den e dnes?",
+      "note": "For the date: Коя дата е днес? (koya data e dnes?)"
+    },
+    "next_week": {
+      "text": "Следващата седмица",
+      "roman": "Sledvashtata sedmitsa",
+      "note": "Casual: другата седмица (drugata sedmitsa)."
+    },
+    "eleven": {
+      "text": "Единайсет",
+      "roman": "Edinayset",
+      "note": "The everyday spoken form. Written or formal: единадесет (edinadeset)."
+    },
+    "twelve": {
+      "text": "Дванайсет",
+      "roman": "Dvanayset",
+      "note": "Written or formal: дванадесет (dvanadeset)."
+    },
+    "fifteen": {
+      "text": "Петнайсет",
+      "roman": "Petnayset",
+      "note": "Written or formal: петнадесет (petnadeset)."
+    },
+    "twenty": {
+      "text": "Двайсет",
+      "roman": "Dvayset",
+      "note": "Written or formal: двадесет (dvadeset). Twenty-one: двайсет и едно (dvayset i edno)."
+    },
+    "thirty": {
+      "text": "Трийсет",
+      "roman": "Triyset",
+      "note": "Written or formal: тридесет (trideset)."
+    },
+    "fifty": {
+      "text": "Петдесет",
+      "roman": "Petdeset",
+      "note": "The т is barely heard: it sounds like pedeset."
+    },
+    "hundred": {
+      "text": "Сто",
+      "roman": "Sto"
+    },
+    "thousand": {
+      "text": "Хиляда",
+      "roman": "Hilyada",
+      "note": "Two thousand: две хиляди (dve hilyadi)."
+    },
+    "how_old": {
+      "text": "На колко години сте?",
+      "roman": "Na kolko godini ste?",
+      "note": "To a friend or child: На колко години си? (na kolko godini si?)"
+    },
+    "years_old": {
+      "text": "На … години съм",
+      "roman": "Na … godini sam",
+      "note": "Also common: Аз съм на … (az sam na …), leaving out години."
+    },
+    "red": {
+      "text": "Червен",
+      "roman": "Cherven",
+      "note": "Feminine: червена (chervena); neuter: червено (cherveno)."
+    },
+    "blue": {
+      "text": "Син",
+      "roman": "Sin",
+      "note": "Feminine: синя (sinya); neuter: синьо (sinyo). Light blue: светлосин (svetlosin)."
+    },
+    "green": {
+      "text": "Зелен",
+      "roman": "Zelen",
+      "note": "Feminine: зелена (zelena); neuter: зелено (zeleno)."
+    },
+    "yellow": {
+      "text": "Жълт",
+      "roman": "Zhalt",
+      "note": "Feminine: жълта (zhalta); neuter: жълто (zhalto)."
+    },
+    "black": {
+      "text": "Черен",
+      "roman": "Cheren",
+      "note": "Feminine: черна (cherna); neuter: черно (cherno)."
+    },
+    "white": {
+      "text": "Бял",
+      "roman": "Byal",
+      "note": "Feminine: бяла (byala); neuter: бяло (byalo)."
+    },
+    "what_colour": {
+      "text": "Какъв цвят е?",
+      "roman": "Kakav tsvyat e?"
+    },
+    "this_one": {
+      "text": "Този",
+      "roman": "Tozi",
+      "note": "Agrees with the item: тази (tazi) for feminine, това (tova) for neuter nouns or when unsure."
+    },
+    "that_one": {
+      "text": "Онзи",
+      "roman": "Onzi",
+      "note": "Feminine: онази (onazi); neuter: онова (onova). Pointing: онзи там (onzi tam), 'that one there'."
+    },
+    "another_one": {
+      "text": "Още един, моля",
+      "roman": "Oshte edin, molya",
+      "note": "Feminine: още една (oshte edna), e.g. another beer; neuter: още едно (oshte edno), e.g. another coffee."
+    },
+    "its_hot": {
+      "text": "Горещо е",
+      "roman": "Goreshto e",
+      "note": "Just pleasantly warm: Топло е (toplo e)."
+    },
+    "its_cold": {
+      "text": "Студено е",
+      "roman": "Studeno e"
+    },
+    "its_raining": {
+      "text": "Вали дъжд",
+      "roman": "Vali dazhd",
+      "note": "Often just: Вали (vali). It's snowing: Вали сняг (vali snyag)."
+    },
+    "its_sunny": {
+      "text": "Слънчево е",
+      "roman": "Slanchevo e"
+    },
+    "its_windy": {
+      "text": "Ветровито е",
+      "roman": "Vetrovito e",
+      "note": "Also common: Духа вятър (duha vyatar), 'the wind is blowing'."
+    },
+    "weather_today": {
+      "text": "Какво е времето днес?",
+      "roman": "Kakvo e vremeto dnes?",
+      "note": "Времето (vremeto) means both 'the weather' and 'the time'."
+    },
+    "beautiful_day": {
+      "text": "Какъв хубав ден!",
+      "roman": "Kakav hubav den!",
+      "note": "Also: Днес е прекрасен ден (dnes e prekrasen den)."
+    },
+    "umbrella": {
+      "text": "Чадър",
+      "roman": "Chadar"
+    },
+    "summer": {
+      "text": "Лято",
+      "roman": "Lyato",
+      "note": "In summer: през лятото (prez lyatoto)."
+    },
+    "winter": {
+      "text": "Зима",
+      "roman": "Zima",
+      "note": "In winter: през зимата (prez zimata)."
+    },
+    "have_reservation": {
+      "text": "Имам резервация",
+      "roman": "Imam rezervatsiya",
+      "note": "Also: Имам резервирана стая (imam rezervirana staya), 'I have a room booked'."
+    },
+    "room": {
+      "text": "Стая",
+      "roman": "Staya",
+      "note": "Double room: двойна стая (dvoyna staya)."
+    },
+    "passport": {
+      "text": "Паспорт",
+      "roman": "Pasport"
+    },
+    "luggage": {
+      "text": "Багаж",
+      "roman": "Bagazh"
+    },
+    "wifi_password": {
+      "text": "Каква е паролата за уайфая?",
+      "roman": "Kakva e parolata za uayfaya?",
+      "note": "Also common: Каква е паролата за интернета? (kakva e parolata za interneta?)"
+    },
+    "check_out_time": {
+      "text": "До колко часа трябва да освободя стаята?",
+      "roman": "Do kolko chasa tryabva da osvobodya stayata?",
+      "note": "On hotel signs, check-out is напускане (napuskane)."
+    },
+    "map": {
+      "text": "Карта",
+      "roman": "Karta",
+      "note": "The same word as 'card', as in paying by card."
+    },
+    "bus": {
+      "text": "Автобус",
+      "roman": "Avtobus"
+    },
+    "next_train": {
+      "text": "Кога е следващият влак?",
+      "roman": "Koga e sledvashtiyat vlak?"
+    },
+    "is_this_seat_free": {
+      "text": "Свободно ли е това място?",
+      "roman": "Svobodno li e tova myasto?",
+      "note": "Shorter: Свободно ли е? (svobodno li e?)"
+    },
+    "what_do_you_do": {
+      "text": "Какво работите?",
+      "roman": "Kakvo rabotite?",
+      "note": "To a friend: Какво работиш? (kakvo rabotish?)"
+    },
+    "i_work_in": {
+      "text": "Работя в …",
+      "roman": "Rabotya v …",
+      "note": "Before a word starting with в or ф, в becomes във (vav)."
+    },
+    "im_student": {
+      "text": "Студент съм",
+      "roman": "Student sam",
+      "note": "A woman says: Студентка съм (studentka sam). A school pupil: ученик (uchenik)."
+    },
+    "office": {
+      "text": "Офис",
+      "roman": "Ofis"
+    },
+    "meeting": {
+      "text": "Среща",
+      "roman": "Sreshta",
+      "note": "A larger staff meeting: събрание (sabranie)."
+    },
+    "im_busy": {
+      "text": "Зает съм",
+      "roman": "Zaet sam",
+      "note": "A woman says: Заета съм (zaeta sam)."
+    },
+    "day_off": {
+      "text": "Почивен ден",
+      "roman": "Pochiven den"
+    },
+    "colleague": {
+      "text": "Колега",
+      "roman": "Kolega",
+      "note": "Female: колежка (kolezhka)."
+    },
+    "lets_start": {
+      "text": "Да започваме",
+      "roman": "Da zapochvame",
+      "note": "Also: Хайде да започваме (hayde da zapochvame)."
+    },
+    "good_job": {
+      "text": "Браво!",
+      "roman": "Bravo!",
+      "note": "Also: Добра работа! (dobra rabota!)"
+    },
+    "table_for_two": {
+      "text": "Маса за двама, моля",
+      "roman": "Masa za dvama, molya"
+    },
+    "what_recommend": {
+      "text": "Какво препоръчвате?",
+      "roman": "Kakvo preporachvate?",
+      "note": "Also very common: Какво ще ни препоръчате? (kakvo shte ni preporachate?)"
+    },
+    "not_spicy": {
+      "text": "Без люто, моля",
+      "roman": "Bez lyuto, molya",
+      "note": "Also: Да не е люто, моля (da ne e lyuto, molya)."
+    },
+    "vegetarian_food": {
+      "text": "Вегетарианска храна",
+      "roman": "Vegetarianska hrana",
+      "note": "To ask: Имате ли вегетариански ястия? (imate li vegetarianski yastiya?)"
+    },
+    "more_water": {
+      "text": "Още вода, моля",
+      "roman": "Oshte voda, molya",
+      "note": "Also very common: Може ли още вода? (mozhe li oshte voda?)"
+    },
+    "no_sugar": {
+      "text": "Без захар, моля",
+      "roman": "Bez zahar, molya"
+    },
+    "im_full": {
+      "text": "Сит съм",
+      "roman": "Sit sam",
+      "note": "A woman says: Сита съм (sita sam). Also common: Нахраних се (nahranih se)."
+    },
+    "takeaway": {
+      "text": "За вкъщи, моля",
+      "roman": "Za vkashti, molya",
+      "note": "For a coffee to go: за из път (za iz pat)."
+    },
+    "it_was_delicious": {
+      "text": "Беше много вкусно",
+      "roman": "Beshe mnogo vkusno"
+    },
+    "keep_change": {
+      "text": "Задръжте рестото",
+      "roman": "Zadrazhte restoto",
+      "note": "Also common: Няма нужда от ресто (nyama nuzhda ot resto)."
+    },
+    "head": {
+      "text": "Глава",
+      "roman": "Glava",
+      "note": "Stress on the last syllable: gla-VA."
+    },
+    "stomach": {
+      "text": "Стомах",
+      "roman": "Stomah",
+      "note": "Belly or tummy: корем (korem), as in Боли ме коремът (boli me koremat)."
+    },
+    "head_hurts": {
+      "text": "Боли ме главата",
+      "roman": "Boli me glavata"
+    },
+    "have_fever": {
+      "text": "Имам температура",
+      "roman": "Imam temperatura"
+    },
+    "medicine": {
+      "text": "Лекарство",
+      "roman": "Lekarstvo",
+      "note": "A pill or tablet: хапче (hapche)."
+    },
+    "call_ambulance": {
+      "text": "Извикайте линейка!",
+      "roman": "Izvikayte lineyka!",
+      "note": "Also: Извикайте Бърза помощ! (izvikayte barza pomosht!), the emergency medical service."
+    },
+    "dentist": {
+      "text": "Зъболекар",
+      "roman": "Zabolekar",
+      "note": "Also common: стоматолог (stomatolog)."
+    },
+    "need_rest": {
+      "text": "Трябва да си почина",
+      "roman": "Tryabva da si pochina"
+    },
+    "feel_better": {
+      "text": "Чувствам се по-добре",
+      "roman": "Chuvstvam se po-dobre",
+      "note": "Shorter: По-добре съм (po-dobre sam)."
+    },
+    "get_well": {
+      "text": "Бързо оздравяване!",
+      "roman": "Barzo ozdravyavane!",
+      "note": "To a friend: Оздравявай бързо! (ozdravyavay barzo!)"
+    },
+    "lets_meet": {
+      "text": "Хайде да се видим",
+      "roman": "Hayde da se vidim",
+      "note": "Хайде (hayde), 'come on, let's', is used all the time."
+    },
+    "are_you_free": {
+      "text": "Имате ли време утре?",
+      "roman": "Imate li vreme utre?",
+      "note": "To a friend: Свободен ли си утре? (svoboden li si utre?); to a woman: свободна (svobodna)."
+    },
+    "call_me": {
+      "text": "Обадете ми се",
+      "roman": "Obadete mi se",
+      "note": "To a friend: Обади ми се (obadi mi se)."
+    },
+    "your_number": {
+      "text": "Какъв е телефонният ви номер?",
+      "roman": "Kakav e telefonniyat vi nomer?",
+      "note": "To a friend: Какъв ти е номерът? (kakav ti e nomerat?)"
+    },
+    "see_you_soon": {
+      "text": "Ще се видим скоро",
+      "roman": "Shte se vidim skoro",
+      "note": "Shorter and very common: До скоро! (do skoro!)"
+    },
+    "have_nice_day": {
+      "text": "Приятен ден!",
+      "roman": "Priyaten den!",
+      "note": "In the evening: Приятна вечер! (priyatna vecher!)"
+    },
+    "good_luck": {
+      "text": "Успех!",
+      "roman": "Uspeh!",
+      "note": "Also: Късмет! (kasmet!), literally 'luck'."
+    },
+    "happy_birthday": {
+      "text": "Честит рожден ден!",
+      "roman": "Chestit rozhden den!",
+      "note": "Name days are celebrated too: Честит имен ден! (chestit imen den!)"
+    },
+    "thanks_a_lot": {
+      "text": "Много ви благодаря",
+      "roman": "Mnogo vi blagodarya",
+      "note": "Casual: Много благодаря (mnogo blagodarya) or Мерси много (mersi mnogo)."
+    },
+    "miss_you": {
+      "text": "Липсваш ми",
+      "roman": "Lipsvash mi",
+      "note": "Built like 'you are missing to me'. To several people: Липсвате ми (lipsvate mi)."
     }
   }
 }

@@ -382,6 +382,404 @@
     "congratulations": {
       "text": "Onneksi olkoon!",
       "note": "Casual: Onnea! Happy birthday: Hyvää syntymäpäivää!"
+    },
+    "my_family": {
+      "text": "Perheeni",
+      "note": "The ending -ni means 'my'. Emphatic: minun perheeni. Spoken: mun perhe."
+    },
+    "mother": {
+      "text": "Äiti",
+      "note": "Also what you call her. Casual: äiskä. Parents: vanhemmat."
+    },
+    "father": {
+      "text": "Isä",
+      "note": "Casual: iskä or faija."
+    },
+    "brother": {
+      "text": "Veli",
+      "note": "My brother: veljeni. Brothers and sisters: sisarukset."
+    },
+    "sister": {
+      "text": "Sisko",
+      "note": "More formal: sisar. My sister: siskoni."
+    },
+    "child": {
+      "text": "Lapsi",
+      "note": "Plural: lapset. Son: poika. Daughter: tytär."
+    },
+    "friend": {
+      "text": "Ystävä",
+      "note": "Same word for a man or a woman. Casual and very common: kaveri."
+    },
+    "this_is_my_friend": {
+      "text": "Tämä on ystäväni",
+      "note": "Same for a female friend. Spoken: Tää on mun kaveri."
+    },
+    "are_you_married": {
+      "text": "Oletteko naimisissa?",
+      "note": "Informal: Oletko naimisissa?"
+    },
+    "have_children": {
+      "text": "Onko teillä lapsia?",
+      "note": "Informal: Onko sinulla lapsia?"
+    },
+    "monday": {
+      "text": "maanantai",
+      "note": "Days take no capital letter. On Monday: maanantaina. Timetables shorten them: ma, ti, ke, to, pe, la, su."
+    },
+    "tuesday": {
+      "text": "tiistai",
+      "note": "On Tuesday: tiistaina."
+    },
+    "wednesday": {
+      "text": "keskiviikko",
+      "note": "Literally 'mid-week'. On Wednesday: keskiviikkona."
+    },
+    "thursday": {
+      "text": "torstai",
+      "note": "On Thursday: torstaina."
+    },
+    "friday": {
+      "text": "perjantai",
+      "note": "On Friday: perjantaina."
+    },
+    "saturday": {
+      "text": "lauantai",
+      "note": "On Saturday: lauantaina."
+    },
+    "sunday": {
+      "text": "sunnuntai",
+      "note": "On Sunday: sunnuntaina."
+    },
+    "weekend": {
+      "text": "Viikonloppu",
+      "note": "At the weekend: viikonloppuna. Have a nice weekend: Hyvää viikonloppua!"
+    },
+    "what_day": {
+      "text": "Mikä päivä tänään on?",
+      "note": "Answer: Tänään on perjantai."
+    },
+    "next_week": {
+      "text": "Ensi viikolla",
+      "note": "As in 'I'll see you next week'. The noun: ensi viikko. Last week: viime viikolla."
+    },
+    "eleven": {
+      "text": "Yksitoista",
+      "note": "All the teens end in -toista: kolmetoista (13), neljätoista (14). Spoken: ykstoista."
+    },
+    "twelve": {
+      "text": "Kaksitoista",
+      "note": "Spoken: kakstoista."
+    },
+    "fifteen": {
+      "text": "Viisitoista",
+      "note": "Spoken: viistoista."
+    },
+    "twenty": {
+      "text": "Kaksikymmentä",
+      "note": "Literally 'two tens'. Spoken: kakskyt. 21: kaksikymmentäyksi."
+    },
+    "thirty": {
+      "text": "Kolmekymmentä",
+      "note": "Spoken: kolmekyt or kolkyt."
+    },
+    "fifty": {
+      "text": "Viisikymmentä",
+      "note": "Spoken: viiskyt."
+    },
+    "hundred": {
+      "text": "Sata",
+      "note": "No 'one' in front: just sata. 200: kaksisataa."
+    },
+    "thousand": {
+      "text": "Tuhat",
+      "note": "2000: kaksituhatta. Casual for a thousand euros: tonni."
+    },
+    "how_old": {
+      "text": "Kuinka vanha olette?",
+      "note": "Informal: Kuinka vanha olet?"
+    },
+    "years_old": {
+      "text": "Olen … vuotta vanha",
+      "note": "Often just the number: Olen kaksikymmentä. Also: Olen kaksikymmentävuotias."
+    },
+    "red": {
+      "text": "Punainen",
+      "note": "Spoken: punanen."
+    },
+    "blue": {
+      "text": "Sininen",
+      "note": "Light blue: vaaleansininen. Dark blue: tummansininen."
+    },
+    "green": {
+      "text": "Vihreä",
+      "note": "Spoken: vihree."
+    },
+    "yellow": {
+      "text": "Keltainen",
+      "note": "Spoken: keltanen."
+    },
+    "black": {
+      "text": "Musta"
+    },
+    "white": {
+      "text": "Valkoinen",
+      "note": "Spoken: valkonen."
+    },
+    "what_colour": {
+      "text": "Minkä värinen se on?",
+      "note": "Spoken: Mikä väri se on?"
+    },
+    "this_one": {
+      "text": "Tämä",
+      "note": "When ordering: Tämä, kiitos. Spoken: tää."
+    },
+    "that_one": {
+      "text": "Tuo",
+      "note": "For something further away than tämä. Spoken: toi."
+    },
+    "another_one": {
+      "text": "Vielä yksi, kiitos",
+      "note": "Also: Yksi lisää, kiitos."
+    },
+    "its_hot": {
+      "text": "On kuuma",
+      "note": "Exclaiming: Onpa kuuma! Pleasantly warm: On lämmin."
+    },
+    "its_cold": {
+      "text": "On kylmä",
+      "note": "Below freezing: On pakkasta."
+    },
+    "its_raining": {
+      "text": "Sataa",
+      "note": "Pouring: Sataa kaatamalla. Snowing: Sataa lunta."
+    },
+    "its_sunny": {
+      "text": "Aurinko paistaa",
+      "note": "Literally 'the sun is shining'. Also: On aurinkoista."
+    },
+    "its_windy": {
+      "text": "Tuulee",
+      "note": "Very windy: Tuulee kovaa."
+    },
+    "weather_today": {
+      "text": "Millainen sää tänään on?",
+      "note": "Everyday: Millainen ilma tänään on?"
+    },
+    "beautiful_day": {
+      "text": "On kaunis päivä",
+      "note": "As small talk: Onpa kaunis päivä! Also: On ihana ilma."
+    },
+    "umbrella": {
+      "text": "Sateenvarjo",
+      "note": "Often shortened to varjo."
+    },
+    "summer": {
+      "text": "Kesä",
+      "note": "In summer: kesällä. Midsummer: juhannus."
+    },
+    "winter": {
+      "text": "Talvi",
+      "note": "In winter: talvella."
+    },
+    "have_reservation": {
+      "text": "Minulla on varaus",
+      "note": "Spoken: Mulla on varaus. Then give your name: Varaus on nimellä Smith."
+    },
+    "room": {
+      "text": "Huone",
+      "note": "Single room: yhden hengen huone. Double: kahden hengen huone."
+    },
+    "passport": {
+      "text": "Passi",
+      "note": "ID card: henkilökortti."
+    },
+    "luggage": {
+      "text": "Matkatavarat",
+      "note": "Usually plural. Suitcase: matkalaukku. Carry-on: käsimatkatavara."
+    },
+    "wifi_password": {
+      "text": "Mikä on wifin salasana?",
+      "note": "Wifi is usually said 'vai-fai'; some read it the Finnish way, 'vii-fii'."
+    },
+    "check_out_time": {
+      "text": "Mihin aikaan huone pitää luovuttaa?",
+      "note": "Hotel signs say huoneen luovutus. Many hotels also just say check-out."
+    },
+    "map": {
+      "text": "Kartta"
+    },
+    "bus": {
+      "text": "Bussi",
+      "note": "Long-distance buses are often called linja-auto. Bus stop: bussipysäkki."
+    },
+    "next_train": {
+      "text": "Milloin seuraava juna lähtee?",
+      "note": "Spoken: Koska lähtee seuraava juna?"
+    },
+    "is_this_seat_free": {
+      "text": "Onko tämä paikka vapaa?",
+      "note": "Short and very common: Onko tässä vapaata?"
+    },
+    "what_do_you_do": {
+      "text": "Mitä teette työksenne?",
+      "note": "Informal: Mitä teet työksesi?"
+    },
+    "i_work_in": {
+      "text": "Työskentelen …",
+      "note": "Add -ssa/-ssä: Työskentelen pankissa (a bank), myynnissä (sales). Spoken: Oon töissä pankissa."
+    },
+    "im_student": {
+      "text": "Olen opiskelija",
+      "note": "Same for a woman. A school pupil: oppilas."
+    },
+    "office": {
+      "text": "Toimisto",
+      "note": "At the office: toimistolla."
+    },
+    "meeting": {
+      "text": "Kokous",
+      "note": "Everyday office word: palaveri. I'm in a meeting: Olen palaverissa."
+    },
+    "im_busy": {
+      "text": "Minulla on kiire",
+      "note": "Spoken: Mulla on kiire."
+    },
+    "day_off": {
+      "text": "Vapaapäivä",
+      "note": "I'm off today: Olen tänään vapaalla."
+    },
+    "colleague": {
+      "text": "Työkaveri",
+      "note": "Same for a woman. More formal: kollega or työtoveri."
+    },
+    "lets_start": {
+      "text": "Aloitetaan",
+      "note": "Finns use this passive form for 'let's': Mennään! (Let's go!)"
+    },
+    "good_job": {
+      "text": "Hyvää työtä!",
+      "note": "Also: Hyvin tehty! or just Hienoa!"
+    },
+    "table_for_two": {
+      "text": "Pöytä kahdelle, kiitos",
+      "note": "Also: Saisimmeko pöydän kahdelle?"
+    },
+    "what_recommend": {
+      "text": "Mitä suosittelette?",
+      "note": "Waiters are often addressed informally: Mitä suosittelet?"
+    },
+    "not_spicy": {
+      "text": "Ei tulista, kiitos",
+      "note": "Spicy: tulinen. Asking for a dish to be mild: Mietona, kiitos."
+    },
+    "vegetarian_food": {
+      "text": "Kasvisruoka",
+      "note": "On menus, a vegetarian option: kasvisvaihtoehto. Vegan: vegaaninen."
+    },
+    "more_water": {
+      "text": "Lisää vettä, kiitos",
+      "note": "Politer: Saisinko lisää vettä?"
+    },
+    "no_sugar": {
+      "text": "Ilman sokeria, kiitos",
+      "note": "With milk: maidon kanssa. Black coffee: musta kahvi."
+    },
+    "im_full": {
+      "text": "Olen täynnä",
+      "note": "Declining more politely: Kiitos, en jaksa enää."
+    },
+    "takeaway": {
+      "text": "Mukaan, kiitos",
+      "note": "Staff often ask: Täällä vai mukaan? (Eat here or take away?)"
+    },
+    "it_was_delicious": {
+      "text": "Oli herkullista",
+      "note": "Everyday: Oli tosi hyvää!"
+    },
+    "keep_change": {
+      "text": "Pitäkää loput",
+      "note": "Informal: Pidä loput. Also: Pitäkää vaihtorahat."
+    },
+    "head": {
+      "text": "Pää",
+      "note": "Hold the long ää. Headache: päänsärky."
+    },
+    "stomach": {
+      "text": "Vatsa",
+      "note": "Spoken: maha."
+    },
+    "head_hurts": {
+      "text": "Päätä särkee",
+      "note": "Also: Minulla on päänsärkyä. For a sharp pain: Tähän sattuu (It hurts here)."
+    },
+    "have_fever": {
+      "text": "Minulla on kuumetta",
+      "note": "Spoken: Mulla on kuumetta."
+    },
+    "medicine": {
+      "text": "Lääke",
+      "note": "Painkiller: särkylääke. Prescription: resepti."
+    },
+    "call_ambulance": {
+      "text": "Soittakaa ambulanssi!",
+      "note": "To one person: Soita ambulanssi! Official word: sairasauto."
+    },
+    "dentist": {
+      "text": "Hammaslääkäri",
+      "note": "Literally 'tooth doctor'. Toothache: hammassärky."
+    },
+    "need_rest": {
+      "text": "Minun täytyy levätä",
+      "note": "Spoken: Mun pitää levätä. Also: Tarvitsen lepoa."
+    },
+    "feel_better": {
+      "text": "Voin paremmin",
+      "note": "Often with jo (already): Voin jo paremmin."
+    },
+    "get_well": {
+      "text": "Parane pian!",
+      "note": "On cards: Pikaista paranemista!"
+    },
+    "lets_meet": {
+      "text": "Tavataan",
+      "note": "Making a plan: Tavataanko huomenna? Vaguer: Nähdään joskus!"
+    },
+    "are_you_free": {
+      "text": "Onko teillä aikaa huomenna?",
+      "note": "Informal: Onko sinulla aikaa huomenna? Also: Oletko vapaa huomenna?"
+    },
+    "call_me": {
+      "text": "Soittakaa minulle",
+      "note": "Informal: Soita minulle! Spoken: Soita mulle!"
+    },
+    "your_number": {
+      "text": "Mikä teidän puhelinnumeronne on?",
+      "note": "Everyday: Mikä sun numero on? Numbers are read digit by digit."
+    },
+    "see_you_soon": {
+      "text": "Nähdään pian",
+      "note": "Also: Nähdään taas (see you again)."
+    },
+    "have_nice_day": {
+      "text": "Hyvää päivänjatkoa!",
+      "note": "Literally 'a good rest of the day'. Reply: Kiitos, samoin! (Thanks, you too!)"
+    },
+    "good_luck": {
+      "text": "Onnea!",
+      "note": "Before an exam or a match: Tsemppiä! Playful: Lykkyä tykö!"
+    },
+    "happy_birthday": {
+      "text": "Hyvää syntymäpäivää!",
+      "note": "Very common: Paljon onnea! (also the birthday song)"
+    },
+    "thanks_a_lot": {
+      "text": "Kiitos paljon",
+      "note": "Stronger: Kiitos oikein paljon! Casual: Kiitti tosi paljon!"
+    },
+    "miss_you": {
+      "text": "Minulla on ikävä sinua",
+      "note": "Spoken: Mulla on ikävä sua, or just: Ikävä!"
     }
   }
 }

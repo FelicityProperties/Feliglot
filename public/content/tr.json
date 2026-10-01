@@ -371,6 +371,403 @@
     "congratulations": {
       "text": "Tebrikler!",
       "note": "Also: Tebrik ederim. For a new job, home or baby you'll also hear: Hayırlı olsun!"
+    },
+    "my_family": {
+      "text": "Ailem",
+      "note": "The -m ending means 'my': aile → ailem, anne → annem. Also: Benim ailem."
+    },
+    "mother": {
+      "text": "Anne",
+      "note": "Not like the English name: say an-neh, both n's sounded. My mother: annem."
+    },
+    "father": {
+      "text": "Baba",
+      "note": "My father: babam. Parents: anne baba."
+    },
+    "brother": {
+      "text": "Erkek kardeş",
+      "note": "Kardeş alone means sibling. An older brother is ağabey, usually said and written abi."
+    },
+    "sister": {
+      "text": "Kız kardeş",
+      "note": "An older sister is abla. Abi and abla are also friendly ways to address strangers."
+    },
+    "child": {
+      "text": "Çocuk",
+      "note": "Son: oğul (my son: oğlum). Daughter: kız (my daughter: kızım)."
+    },
+    "friend": {
+      "text": "Arkadaş",
+      "note": "Same word for a woman. Careful: kız arkadaş and erkek arkadaş usually mean girlfriend and boyfriend."
+    },
+    "this_is_my_friend": {
+      "text": "Bu benim arkadaşım",
+      "note": "Same for a female friend. With a name: Bu arkadaşım Ayşe."
+    },
+    "are_you_married": {
+      "text": "Evli misiniz?",
+      "note": "To a friend: Evli misin?"
+    },
+    "have_children": {
+      "text": "Çocuğunuz var mı?",
+      "note": "Turkish uses the singular here. To a friend: Çocuğun var mı?"
+    },
+    "monday": {
+      "text": "pazartesi",
+      "note": "Literally 'the day after pazar (Sunday)'. Days are lowercase except in a full date."
+    },
+    "tuesday": {
+      "text": "salı",
+      "note": "ı (no dot) is a short 'uh' sound: sa-luh."
+    },
+    "wednesday": {
+      "text": "çarşamba",
+      "note": "ç is 'ch' and ş is 'sh': char-sham-ba."
+    },
+    "thursday": {
+      "text": "perşembe",
+      "note": "ş is 'sh': per-shem-beh."
+    },
+    "friday": {
+      "text": "cuma",
+      "note": "c is said like English j: joo-ma. Friday prayers: cuma namazı."
+    },
+    "saturday": {
+      "text": "cumartesi",
+      "note": "Literally 'the day after cuma (Friday)'."
+    },
+    "sunday": {
+      "text": "pazar",
+      "note": "Also means 'market'. To be clear: pazar günü."
+    },
+    "weekend": {
+      "text": "Hafta sonu",
+      "note": "At the weekend: hafta sonu, no extra ending. Have a nice weekend: İyi hafta sonları!"
+    },
+    "what_day": {
+      "text": "Bugün günlerden ne?",
+      "note": "Also: Bugün hangi gün? For the date: Bugün ayın kaçı?"
+    },
+    "next_week": {
+      "text": "Gelecek hafta",
+      "note": "Also: önümüzdeki hafta, or casually haftaya. Last week: geçen hafta."
+    },
+    "eleven": {
+      "text": "On bir",
+      "note": "Literally 'ten one', written as two words. Up to nineteen works the same way."
+    },
+    "twelve": {
+      "text": "On iki"
+    },
+    "fifteen": {
+      "text": "On beş"
+    },
+    "twenty": {
+      "text": "Yirmi",
+      "note": "Twenty-five: yirmi beş. The tens: yirmi, otuz, kırk, elli, altmış, yetmiş, seksen, doksan."
+    },
+    "thirty": {
+      "text": "Otuz"
+    },
+    "fifty": {
+      "text": "Elli",
+      "note": "Hold the double l a little: el-li."
+    },
+    "hundred": {
+      "text": "Yüz",
+      "note": "Never bir yüz. Two hundred: iki yüz. Also means 'face'."
+    },
+    "thousand": {
+      "text": "Bin",
+      "note": "Never bir bin. Two thousand: iki bin. Written 1.000 in Turkey, with a dot."
+    },
+    "how_old": {
+      "text": "Kaç yaşındasınız?",
+      "note": "To a friend or child: Kaç yaşındasın?"
+    },
+    "years_old": {
+      "text": "… yaşındayım",
+      "note": "E.g. Otuz yaşındayım, Yirmi beş yaşındayım."
+    },
+    "red": {
+      "text": "Kırmızı",
+      "note": "Every ı is undotted, a short 'uh': kuhr-muh-zuh."
+    },
+    "blue": {
+      "text": "Mavi",
+      "note": "Navy blue: lacivert. Light blue: açık mavi."
+    },
+    "green": {
+      "text": "Yeşil",
+      "note": "ş is 'sh': ye-shil."
+    },
+    "yellow": {
+      "text": "Sarı",
+      "note": "Also means blond: sarı saçlı (blond-haired)."
+    },
+    "black": {
+      "text": "Siyah",
+      "note": "Also kara, in set names like Karadeniz (the Black Sea)."
+    },
+    "white": {
+      "text": "Beyaz",
+      "note": "Also ak, in set names like Akdeniz (the Mediterranean)."
+    },
+    "what_colour": {
+      "text": "Ne renk?",
+      "note": "Also: Rengi ne? In a shop: Başka rengi var mı? (Is there another colour?)"
+    },
+    "this_one": {
+      "text": "Bunu",
+      "note": "Form of bu (this) for the thing you want: Bunu alayım. Also: Bu olsun."
+    },
+    "that_one": {
+      "text": "Şunu",
+      "note": "Şu is the 'pointing' that; onu is for something far off or out of sight. Also: Şu olsun."
+    },
+    "another_one": {
+      "text": "Bir tane daha lütfen",
+      "note": "Tane counts items. For drinks just name it: Bir çay daha lütfen."
+    },
+    "its_hot": {
+      "text": "Hava sıcak",
+      "note": "Hava means weather, and also air. I'm hot: Sıcakladım."
+    },
+    "its_cold": {
+      "text": "Hava soğuk",
+      "note": "ğ is silent: so-uk. I'm cold: Üşüyorum."
+    },
+    "its_raining": {
+      "text": "Yağmur yağıyor",
+      "note": "It's snowing: Kar yağıyor."
+    },
+    "its_sunny": {
+      "text": "Hava güneşli",
+      "note": "Also: Güneş açtı (the sun has come out)."
+    },
+    "its_windy": {
+      "text": "Hava rüzgârlı",
+      "note": "Often written rüzgarlı. Also: Rüzgâr var."
+    },
+    "weather_today": {
+      "text": "Bugün hava nasıl?",
+      "note": "The weather forecast: hava durumu."
+    },
+    "beautiful_day": {
+      "text": "Bugün hava çok güzel",
+      "note": "Also: Ne güzel bir gün!"
+    },
+    "umbrella": {
+      "text": "Şemsiye",
+      "note": "ş is 'sh': shem-see-yeh."
+    },
+    "summer": {
+      "text": "Yaz",
+      "note": "In summer: yazın. Spring: ilkbahar. Autumn: sonbahar."
+    },
+    "winter": {
+      "text": "Kış",
+      "note": "In winter: kışın."
+    },
+    "have_reservation": {
+      "text": "Rezervasyonum var",
+      "note": "Giving the name: … adına rezervasyonum var."
+    },
+    "room": {
+      "text": "Oda",
+      "note": "Single room: tek kişilik oda. Double room: çift kişilik oda."
+    },
+    "passport": {
+      "text": "Pasaport",
+      "note": "Passport control: pasaport kontrolü."
+    },
+    "luggage": {
+      "text": "Bagaj",
+      "note": "A suitcase: bavul or valiz. Bagaj is also a car's boot."
+    },
+    "wifi_password": {
+      "text": "Wi-Fi şifresi nedir?",
+      "note": "Wi-Fi is said 'vay-fay' or 'vee-fee'. Many just ask: İnternet şifresi ne?"
+    },
+    "check_out_time": {
+      "text": "Çıkış saat kaçta?",
+      "note": "Hotel staff also say check-out, as in English. Check-in: giriş."
+    },
+    "map": {
+      "text": "Harita",
+      "note": "A city map: şehir haritası."
+    },
+    "bus": {
+      "text": "Otobüs",
+      "note": "Long-distance buses leave from the otogar. A shared minibus: dolmuş."
+    },
+    "next_train": {
+      "text": "Bir sonraki tren ne zaman?",
+      "note": "Asking for the time: Bir sonraki tren saat kaçta?"
+    },
+    "is_this_seat_free": {
+      "text": "Burası boş mu?",
+      "note": "Literally 'is this spot empty?'. Also: Bu koltuk boş mu?"
+    },
+    "what_do_you_do": {
+      "text": "Ne iş yapıyorsunuz?",
+      "note": "To a friend: Ne iş yapıyorsun?"
+    },
+    "i_work_in": {
+      "text": "…'da çalışıyorum",
+      "note": "-da/-de by vowel harmony, -ta/-te after p, ç, t, k, f, h, s, ş. No apostrophe after common nouns: bankada, ofiste."
+    },
+    "im_student": {
+      "text": "Öğrenciyim",
+      "note": "Same for a woman. University student: Üniversite öğrencisiyim."
+    },
+    "office": {
+      "text": "Ofis",
+      "note": "Also: büro. At the office: ofiste."
+    },
+    "meeting": {
+      "text": "Toplantı",
+      "note": "I'm in a meeting: Toplantıdayım."
+    },
+    "im_busy": {
+      "text": "Meşgulüm",
+      "note": "Casual: İşim var (I've got things to do). Very busy: Çok yoğunum."
+    },
+    "day_off": {
+      "text": "İzin günü",
+      "note": "I'm off today: Bugün izinliyim."
+    },
+    "colleague": {
+      "text": "İş arkadaşı",
+      "note": "Same for a woman. Someone in the same profession: meslektaş."
+    },
+    "lets_start": {
+      "text": "Başlayalım",
+      "note": "Also: Hadi başlayalım. Shall we start? Başlayalım mı?"
+    },
+    "good_job": {
+      "text": "Harika iş çıkardın!",
+      "note": "Polite: Harika iş çıkardınız! Short: Bravo! For something made or cooked: Eline sağlık!"
+    },
+    "table_for_two": {
+      "text": "İki kişilik bir masa lütfen",
+      "note": "Also common on arrival: İki kişiyiz (we're two)."
+    },
+    "what_recommend": {
+      "text": "Ne tavsiye edersiniz?",
+      "note": "Also: Ne önerirsiniz?"
+    },
+    "not_spicy": {
+      "text": "Acısız olsun lütfen",
+      "note": "Acı means spicy (also bitter). Just a little spicy: az acılı."
+    },
+    "vegetarian_food": {
+      "text": "Vejetaryen yemek",
+      "note": "Do you have any? Vejetaryen yemeğiniz var mı? Zeytinyağlılar are cold vegetable dishes, usually meat-free."
+    },
+    "more_water": {
+      "text": "Biraz daha su lütfen",
+      "note": "Another bottle: Bir su daha lütfen."
+    },
+    "no_sugar": {
+      "text": "Şekersiz lütfen",
+      "note": "Turkish coffee without sugar is sade; medium is orta; sweet is şekerli."
+    },
+    "im_full": {
+      "text": "Doydum",
+      "note": "Literally 'I've become full'; the usual way to say it. Turning down more: Sağ olun, doydum."
+    },
+    "takeaway": {
+      "text": "Paket olsun lütfen",
+      "note": "Also: Paket yapar mısınız? Eating in: Burada yiyeceğim."
+    },
+    "it_was_delicious": {
+      "text": "Çok lezzetliydi",
+      "note": "Also: Harikaydı! To thank whoever cooked: Elinize sağlık!"
+    },
+    "keep_change": {
+      "text": "Üstü kalsın",
+      "note": "Üstü is the change. A tip is bahşiş."
+    },
+    "head": {
+      "text": "Baş",
+      "note": "Also kafa, more casual."
+    },
+    "stomach": {
+      "text": "Mide",
+      "note": "The belly in general: karın. Stomachache: mide ağrısı or karın ağrısı."
+    },
+    "head_hurts": {
+      "text": "Başım ağrıyor",
+      "note": "Same pattern: Midem ağrıyor (my stomach hurts). Headache: baş ağrısı."
+    },
+    "have_fever": {
+      "text": "Ateşim var",
+      "note": "Ateş also means fire."
+    },
+    "medicine": {
+      "text": "İlaç",
+      "note": "Painkiller: ağrı kesici. Prescription: reçete."
+    },
+    "call_ambulance": {
+      "text": "Ambulans çağırın!",
+      "note": "The emergency number in Turkey is 112."
+    },
+    "dentist": {
+      "text": "Diş hekimi",
+      "note": "In everyday speech: dişçi. Toothache: diş ağrısı."
+    },
+    "need_rest": {
+      "text": "Dinlenmem lazım",
+      "note": "Also: Dinlenmem gerek."
+    },
+    "feel_better": {
+      "text": "Kendimi daha iyi hissediyorum",
+      "note": "Shorter: Daha iyiyim."
+    },
+    "get_well": {
+      "text": "Geçmiş olsun!",
+      "note": "Said for any illness, injury or mishap. Also: Acil şifalar!"
+    },
+    "lets_meet": {
+      "text": "Buluşalım",
+      "note": "Also: Görüşelim. As a suggestion: Buluşalım mı?"
+    },
+    "are_you_free": {
+      "text": "Yarın müsait misiniz?",
+      "note": "To a friend: Yarın müsait misin? or Yarın boş musun?"
+    },
+    "call_me": {
+      "text": "Beni arayın",
+      "note": "To a friend: Beni ara. Softer: Beni arar mısınız?"
+    },
+    "your_number": {
+      "text": "Telefon numaranız kaç?",
+      "note": "Politer: Numaranızı alabilir miyim? To a friend: Numaran kaç?"
+    },
+    "see_you_soon": {
+      "text": "Yakında görüşürüz",
+      "note": "Also: Görüşmek üzere."
+    },
+    "have_nice_day": {
+      "text": "İyi günler!",
+      "note": "Also used as a daytime goodbye. To someone at work: Kolay gelsin!"
+    },
+    "good_luck": {
+      "text": "İyi şanslar!",
+      "note": "Before an exam or a new job, also: Başarılar!"
+    },
+    "happy_birthday": {
+      "text": "İyi ki doğdun!",
+      "note": "Literally 'good thing you were born'. Polite: İyi ki doğdunuz! Also: Doğum günün kutlu olsun!"
+    },
+    "thanks_a_lot": {
+      "text": "Çok teşekkür ederim",
+      "note": "Also: Çok sağ olun. Casual: Çok teşekkürler!"
+    },
+    "miss_you": {
+      "text": "Seni özledim",
+      "note": "Literally 'I've missed you'; the usual way to say it. To several people: Sizi özledim."
     }
   }
 }

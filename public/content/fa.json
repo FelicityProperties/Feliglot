@@ -475,6 +475,488 @@
       "text": "تبریک می‌گم!",
       "roman": "tabrik migam!",
       "note": "For a birthday, wedding or new purchase: mobaarak baashe! (مبارک باشه!)"
+    },
+    "my_family": {
+      "text": "خانواده‌ام",
+      "roman": "khaanevaade-am",
+      "note": "In speech often khaanevaadam. Also: khaanevaade-ye man (خانواده‌ی من)."
+    },
+    "mother": {
+      "text": "مادر",
+      "roman": "maadar",
+      "note": "Mum: maamaan (مامان), what most people call their own mother."
+    },
+    "father": {
+      "text": "پدر",
+      "roman": "pedar",
+      "note": "Dad: baabaa (بابا)."
+    },
+    "brother": {
+      "text": "برادر",
+      "roman": "baraadar",
+      "note": "Informal: daadaash (داداش), also used affectionately for a male friend."
+    },
+    "sister": {
+      "text": "خواهر",
+      "roman": "khaahar",
+      "note": "The و is silent. Informal: aabji (آبجی)."
+    },
+    "child": {
+      "text": "بچه",
+      "roman": "bachche",
+      "note": "Means both 'kid' and 'son or daughter'. Formal: farzand (فرزند)."
+    },
+    "friend": {
+      "text": "دوست",
+      "roman": "doost",
+      "note": "Same for a male or female friend. Casual, for a close mate: rafigh (رفیق)."
+    },
+    "this_is_my_friend": {
+      "text": "این دوست منه",
+      "roman": "in doost-e mane",
+      "note": "Same for a female friend. More formal: ishoon doost-e man hastan (ایشون دوست من هستن)."
+    },
+    "are_you_married": {
+      "text": "ازدواج کردید؟",
+      "roman": "ezdevaaj kardid?",
+      "note": "More formal: mote'ahhel hastid? (متأهل هستید؟)"
+    },
+    "have_children": {
+      "text": "بچه دارید؟",
+      "roman": "bachche daarid?",
+      "note": "More formal: farzand daarid? (فرزند دارید؟)"
+    },
+    "monday": {
+      "text": "دوشنبه",
+      "roman": "doshanbe",
+      "note": "The week starts on Saturday (shanbe) and days count on from it: do-shanbe, 'two-shanbe'."
+    },
+    "tuesday": {
+      "text": "سه‌شنبه",
+      "roman": "seshanbe"
+    },
+    "wednesday": {
+      "text": "چهارشنبه",
+      "roman": "chahaarshanbe",
+      "note": "In everyday speech usually chaarshanbe."
+    },
+    "thursday": {
+      "text": "پنجشنبه",
+      "roman": "panjshanbe"
+    },
+    "friday": {
+      "text": "جمعه",
+      "roman": "jom'e",
+      "note": "The main weekly day off in Iran."
+    },
+    "saturday": {
+      "text": "شنبه",
+      "roman": "shanbe",
+      "note": "The first day of the Iranian week."
+    },
+    "sunday": {
+      "text": "یکشنبه",
+      "roman": "yekshanbe"
+    },
+    "weekend": {
+      "text": "آخر هفته",
+      "roman": "aakhar-e hafte"
+    },
+    "what_day": {
+      "text": "امروز چندشنبه‌ست؟",
+      "roman": "emrooz chandshanbast?",
+      "note": "Lit. 'How-many-shanbe is today?', the usual way to ask the weekday."
+    },
+    "next_week": {
+      "text": "هفته‌ی بعد",
+      "roman": "hafte-ye ba'd",
+      "note": "Also very common: hafte-ye dige (هفته‌ی دیگه)."
+    },
+    "eleven": {
+      "text": "یازده",
+      "roman": "yaazdah",
+      "note": "Persian digits: ۱۱"
+    },
+    "twelve": {
+      "text": "دوازده",
+      "roman": "davaazdah",
+      "note": "Persian digits: ۱۲"
+    },
+    "fifteen": {
+      "text": "پانزده",
+      "roman": "paanzdah",
+      "note": "Persian digits: ۱۵. In speech usually poonzdah."
+    },
+    "twenty": {
+      "text": "بیست",
+      "roman": "bist",
+      "note": "Persian digits: ۲۰"
+    },
+    "thirty": {
+      "text": "سی",
+      "roman": "si",
+      "note": "Persian digits: ۳۰"
+    },
+    "fifty": {
+      "text": "پنجاه",
+      "roman": "panjaah",
+      "note": "Persian digits: ۵۰"
+    },
+    "hundred": {
+      "text": "صد",
+      "roman": "sad",
+      "note": "Persian digits: ۱۰۰. No 'one' needed: sad on its own is a hundred."
+    },
+    "thousand": {
+      "text": "هزار",
+      "roman": "hezaar",
+      "note": "Persian digits: ۱۰۰۰. As with sad, no 'one' is needed."
+    },
+    "how_old": {
+      "text": "چند سالتونه؟",
+      "roman": "chand saaletoone?",
+      "note": "Also: chand saal daarid? (چند سال دارید؟)"
+    },
+    "years_old": {
+      "text": "… سالمه",
+      "roman": "… saalame",
+      "note": "More formal: … saal daaram (… سال دارم)."
+    },
+    "red": {
+      "text": "قرمز",
+      "roman": "ghermez",
+      "note": "Also, more poetic: sorkh (سرخ)."
+    },
+    "blue": {
+      "text": "آبی",
+      "roman": "aabi",
+      "note": "From aab, 'water'."
+    },
+    "green": {
+      "text": "سبز",
+      "roman": "sabz"
+    },
+    "yellow": {
+      "text": "زرد",
+      "roman": "zard"
+    },
+    "black": {
+      "text": "سیاه",
+      "roman": "siyaah",
+      "note": "For clothes, cars and hair people often say meshki (مشکی)."
+    },
+    "white": {
+      "text": "سفید",
+      "roman": "sefid"
+    },
+    "what_colour": {
+      "text": "چه رنگیه؟",
+      "roman": "che rangiye?",
+      "note": "Also: rangesh chiye? (رنگش چیه؟)"
+    },
+    "this_one": {
+      "text": "این یکی",
+      "roman": "in yeki",
+      "note": "To ask for it: ino mikhaam (اینو می‌خوام), 'I want this'."
+    },
+    "that_one": {
+      "text": "اون یکی",
+      "roman": "oon yeki",
+      "note": "Oon is the spoken form of aan (آن), 'that'."
+    },
+    "another_one": {
+      "text": "یکی دیگه، لطفاً",
+      "roman": "yeki dige, lotfan",
+      "note": "Dige is the spoken form of digar (دیگر), 'other'."
+    },
+    "its_hot": {
+      "text": "هوا گرمه",
+      "roman": "havaa garme",
+      "note": "Lit. 'the air is warm'. I'm hot: garmame (گرممه)."
+    },
+    "its_cold": {
+      "text": "هوا سرده",
+      "roman": "havaa sarde",
+      "note": "I'm cold: sardame (سردمه)."
+    },
+    "its_raining": {
+      "text": "داره بارون میاد",
+      "roman": "daare baaroon miyaad",
+      "note": "Lit. 'rain is coming'. Written: baaraan (باران)."
+    },
+    "its_sunny": {
+      "text": "هوا آفتابیه",
+      "roman": "havaa aaftaabiye"
+    },
+    "its_windy": {
+      "text": "باد میاد",
+      "roman": "baad miyaad",
+      "note": "Lit. 'wind is coming', like rain. Stormy: havaa toofaaniye (هوا طوفانیه)."
+    },
+    "weather_today": {
+      "text": "امروز هوا چطوره؟",
+      "roman": "emrooz havaa chetore?"
+    },
+    "beautiful_day": {
+      "text": "چه هوای خوبیه!",
+      "roman": "che havaa-ye khoobiye!",
+      "note": "Lit. 'What nice weather!', the usual way to say it. Also: che rooz-e ghashangi! (چه روز قشنگی!)"
+    },
+    "umbrella": {
+      "text": "چتر",
+      "roman": "chatr"
+    },
+    "summer": {
+      "text": "تابستان",
+      "roman": "taabestaan",
+      "note": "In speech usually taabestoon (تابستون)."
+    },
+    "winter": {
+      "text": "زمستان",
+      "roman": "zemestaan",
+      "note": "In speech usually zemestoon (زمستون)."
+    },
+    "have_reservation": {
+      "text": "رزرو دارم",
+      "roman": "rezerv daaram",
+      "note": "Also: ye otaagh rezerv kardam (یه اتاق رزرو کردم), 'I booked a room'."
+    },
+    "room": {
+      "text": "اتاق",
+      "roman": "otaagh",
+      "note": "Single room: otaagh-e yek-nafare (اتاق یک‌نفره); double: do-nafare (دونفره)."
+    },
+    "passport": {
+      "text": "پاسپورت",
+      "roman": "paasport",
+      "note": "Official word, on forms and signs: gozarnaame (گذرنامه)."
+    },
+    "luggage": {
+      "text": "چمدان",
+      "roman": "chamedaan",
+      "note": "Strictly 'suitcase'; in speech chamedoon. Checked bags at the airport: baar (بار)."
+    },
+    "wifi_password": {
+      "text": "رمز وای‌فای چیه؟",
+      "roman": "ramz-e vaay-faay chiye?",
+      "note": "Many say pasvord (پسورد) instead of ramz."
+    },
+    "check_out_time": {
+      "text": "ساعت چند باید اتاق رو تحویل بدم؟",
+      "roman": "saa'at chand baayad otaagh ro tahvil bedam?",
+      "note": "Lit. 'What time must I hand the room back?' Check-out time: saa'at-e takhliye (ساعت تخلیه)."
+    },
+    "map": {
+      "text": "نقشه",
+      "roman": "naghshe"
+    },
+    "bus": {
+      "text": "اتوبوس",
+      "roman": "otoboos",
+      "note": "Bus stop: istgaah-e otoboos (ایستگاه اتوبوس)."
+    },
+    "next_train": {
+      "text": "قطار بعدی کِی حرکت می‌کنه؟",
+      "roman": "ghataar-e ba'di key harekat mikone?",
+      "note": "Also: ghataar-e ba'di saa'at chande? (قطار بعدی ساعت چنده؟)"
+    },
+    "is_this_seat_free": {
+      "text": "این صندلی خالیه؟",
+      "roman": "in sandali khaaliye?",
+      "note": "Shorter: injaa khaaliye? (اینجا خالیه؟)"
+    },
+    "what_do_you_do": {
+      "text": "شغلتون چیه؟",
+      "roman": "shoghletoon chiye?",
+      "note": "Also: chikaare hastid? (چی‌کاره هستید؟)"
+    },
+    "i_work_in": {
+      "text": "تو … کار می‌کنم",
+      "roman": "too … kaar mikonam",
+      "note": "E.g. too baank kaar mikonam, 'I work in a bank'. Written: dar (در) instead of too."
+    },
+    "im_student": {
+      "text": "دانشجو هستم",
+      "roman": "daaneshjoo hastam",
+      "note": "Same for men and women. A school pupil: daanesh-aamooz (دانش‌آموز)."
+    },
+    "office": {
+      "text": "دفتر",
+      "roman": "daftar",
+      "note": "Also means 'notebook'. A government office: edaare (اداره)."
+    },
+    "meeting": {
+      "text": "جلسه",
+      "roman": "jalase",
+      "note": "I have a meeting: jalase daaram (جلسه دارم)."
+    },
+    "im_busy": {
+      "text": "سرم شلوغه",
+      "roman": "saram sholooghe",
+      "note": "Lit. 'my head is crowded'. Also: kaar daaram (کار دارم), 'I have things to do'."
+    },
+    "day_off": {
+      "text": "روز تعطیل",
+      "roman": "rooz-e ta'til",
+      "note": "It's my day off: emrooz ta'tilam (امروز تعطیلم). Leave from work: morakhasi (مرخصی)."
+    },
+    "colleague": {
+      "text": "همکار",
+      "roman": "hamkaar",
+      "note": "Same word for men and women."
+    },
+    "lets_start": {
+      "text": "شروع کنیم",
+      "roman": "shoroo' konim",
+      "note": "Casual: bezan berim! (بزن بریم!), 'let's go!'"
+    },
+    "good_job": {
+      "text": "آفرین!",
+      "roman": "aafarin!",
+      "note": "To a colleague or boss, kheyli aali bood! (خیلی عالی بود!) sounds less like a teacher."
+    },
+    "table_for_two": {
+      "text": "یه میز برای دو نفر، لطفاً",
+      "roman": "ye miz baraa-ye do nafar, lotfan",
+      "note": "Also: ye miz-e do-nafare mikhaastam (یه میز دونفره می‌خواستم)."
+    },
+    "what_recommend": {
+      "text": "چی پیشنهاد می‌کنید؟",
+      "roman": "chi pishnahaad mikonid?"
+    },
+    "not_spicy": {
+      "text": "لطفاً تند نباشه",
+      "roman": "lotfan tond nabaashe"
+    },
+    "vegetarian_food": {
+      "text": "غذای گیاهی",
+      "roman": "ghazaa-ye giyaahi",
+      "note": "Do you have any?: ghazaa-ye giyaahi daarid? (غذای گیاهی دارید؟)"
+    },
+    "more_water": {
+      "text": "لطفاً یه کم دیگه آب بیارید",
+      "roman": "lotfan ye kam dige aab biyaarid"
+    },
+    "no_sugar": {
+      "text": "بدون شکر، لطفاً",
+      "roman": "bedoon-e shekar, lotfan",
+      "note": "Tea usually comes with sugar cubes, ghand (قند), on the side."
+    },
+    "im_full": {
+      "text": "سیر شدم",
+      "roman": "sir shodam",
+      "note": "Hosts often insist on more; a polite no: na merci, sir shodam (نه مرسی، سیر شدم)."
+    },
+    "takeaway": {
+      "text": "لطفاً بپیچید ببرم",
+      "roman": "lotfan bepichid bebaram",
+      "note": "If asked injaa meyl mikonid? (اینجا میل می‌کنید؟), just say mibaram (می‌برم)."
+    },
+    "it_was_delicious": {
+      "text": "خیلی خوشمزه بود",
+      "roman": "kheyli khoshmaze bood",
+      "note": "To a host or cook, add dastetoon dard nakone (دستتون درد نکنه)."
+    },
+    "keep_change": {
+      "text": "باقیش مال خودتون",
+      "roman": "baaghish maal-e khodetoon"
+    },
+    "head": {
+      "text": "سر",
+      "roman": "sar"
+    },
+    "stomach": {
+      "text": "شکم",
+      "roman": "shekam",
+      "note": "Stomach ache is usually delam dard mikone (دلم درد می‌کنه). The organ: me'de (معده)."
+    },
+    "head_hurts": {
+      "text": "سرم درد می‌کنه",
+      "roman": "saram dard mikone",
+      "note": "Also: sardard daaram (سردرد دارم), 'I have a headache'."
+    },
+    "have_fever": {
+      "text": "تب دارم",
+      "roman": "tab daaram"
+    },
+    "medicine": {
+      "text": "دارو",
+      "roman": "daaroo",
+      "note": "A pill or tablet: ghors (قرص)."
+    },
+    "call_ambulance": {
+      "text": "آمبولانس خبر کنید!",
+      "roman": "aamboolaans khabar konid!",
+      "note": "Also: zang bezanid orzhaans! (زنگ بزنید اورژانس!). The emergency number is 115 (۱۱۵)."
+    },
+    "dentist": {
+      "text": "دندان‌پزشک",
+      "roman": "dandaanpezeshk",
+      "note": "In speech: dandoonpezeshk (دندون‌پزشک)."
+    },
+    "need_rest": {
+      "text": "باید استراحت کنم",
+      "roman": "baayad esteraahat konam"
+    },
+    "feel_better": {
+      "text": "حالم بهتره",
+      "roman": "haalam behtare",
+      "note": "Also: behtar shodam (بهتر شدم)."
+    },
+    "get_well": {
+      "text": "امیدوارم زودتر خوب بشید!",
+      "roman": "omidvaaram zoodtar khoob beshid!",
+      "note": "Very common: ishaallaa zoodtar khoob mishid (ایشالا زودتر خوب می‌شید)."
+    },
+    "lets_meet": {
+      "text": "یه روز همدیگه رو ببینیم",
+      "roman": "ye rooz hamdige ro bebinim",
+      "note": "To set a time: ye gharaar bezaarim (یه قرار بذاریم)."
+    },
+    "are_you_free": {
+      "text": "فردا وقت دارید؟",
+      "roman": "fardaa vaght daarid?",
+      "note": "Also: fardaa vaghtetoon aazaade? (فردا وقتتون آزاده؟)"
+    },
+    "call_me": {
+      "text": "بهم زنگ بزنید",
+      "roman": "behem zang bezanid",
+      "note": "To a friend: behem zang bezan (بهم زنگ بزن)."
+    },
+    "your_number": {
+      "text": "شماره‌تون چنده؟",
+      "roman": "shomaaratoon chande?",
+      "note": "Lit. 'How much is your number?', the usual way to ask."
+    },
+    "see_you_soon": {
+      "text": "به امید دیدار",
+      "roman": "be omid-e didaar",
+      "note": "Lit. 'in hope of meeting'. Casual: mibinamet! (می‌بینمت!)"
+    },
+    "have_nice_day": {
+      "text": "روز خوبی داشته باشید!",
+      "roman": "rooz-e khoobi daashte baashid!",
+      "note": "Shorter: rooz khosh! (روز خوش!) Before an outing: khosh begzare! (خوش بگذره!)"
+    },
+    "good_luck": {
+      "text": "موفق باشید!",
+      "roman": "movaffagh baashid!",
+      "note": "To a friend: movaffagh baashi! (موفق باشی!)"
+    },
+    "happy_birthday": {
+      "text": "تولدت مبارک!",
+      "roman": "tavallodet mobaarak!",
+      "note": "Politer: tavallodetoon mobaarak! (تولدتون مبارک!)"
+    },
+    "thanks_a_lot": {
+      "text": "خیلی ممنون",
+      "roman": "kheyli mamnoon",
+      "note": "Also: kheyli merci (خیلی مرسی). For a favour or a meal: dastetoon dard nakone (دستتون درد نکنه)."
+    },
+    "miss_you": {
+      "text": "دلم برات تنگ شده",
+      "roman": "delam baraat tang shode",
+      "note": "Lit. 'my heart has got tight for you'. To an elder: delam baraatoon tang shode (دلم براتون تنگ شده)."
     }
   }
 }

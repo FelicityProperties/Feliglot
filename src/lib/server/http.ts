@@ -40,3 +40,9 @@ export function makeLimiter(max: number, windowMs: number) {
     return false;
   };
 }
+
+// A redirect whose headers stay writable, so cookies set during the request
+// (sessions, the Google sign-in attempt) are attached to it.
+export function redirectTo(location: string | URL): Response {
+  return new Response(null, { status: 302, headers: { location: String(location) } });
+}

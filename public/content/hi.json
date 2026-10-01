@@ -484,6 +484,495 @@
       "text": "बधाई हो!",
       "roman": "badhaai ho!",
       "note": "Also common: मुबारक हो! (mubaarak ho!)"
+    },
+    "my_family": {
+      "text": "मेरा परिवार",
+      "roman": "mera parivaar",
+      "note": "Casual: मेरे घरवाले (mere gharvaale), 'my folks at home'."
+    },
+    "mother": {
+      "text": "माँ",
+      "roman": "maan",
+      "note": "The n only nasalises the vowel. Many say मम्मी (mummy); respectful: माताजी (maataji)."
+    },
+    "father": {
+      "text": "पिता",
+      "roman": "pita",
+      "note": "Usually called पापा (papa); respectful: पिताजी (pitaji)."
+    },
+    "brother": {
+      "text": "भाई",
+      "roman": "bhaai",
+      "note": "Older brother: भैया (bhaiya). भाई is also a friendly way to address any man."
+    },
+    "sister": {
+      "text": "बहन",
+      "roman": "behen",
+      "note": "Older sister: दीदी (didi), also a polite way to address a young woman."
+    },
+    "child": {
+      "text": "बच्चा",
+      "roman": "bachcha",
+      "note": "Son: बेटा (beta), daughter: बेटी (beti). Plural: बच्चे (bachche)."
+    },
+    "friend": {
+      "text": "दोस्त",
+      "roman": "dost",
+      "note": "Same word for a woman. Between women, a female friend is also सहेली (saheli)."
+    },
+    "this_is_my_friend": {
+      "text": "यह मेरा दोस्त है",
+      "roman": "yeh mera dost hai",
+      "note": "A female friend: यह मेरी दोस्त है (yeh meri dost hai)."
+    },
+    "are_you_married": {
+      "text": "क्या आपकी शादी हो गई है?",
+      "roman": "kya aapki shaadi ho gayi hai?",
+      "note": "Also: क्या आप शादीशुदा हैं? (kya aap shaadishuda hain?)"
+    },
+    "have_children": {
+      "text": "क्या आपके बच्चे हैं?",
+      "roman": "kya aapke bachche hain?"
+    },
+    "monday": {
+      "text": "सोमवार",
+      "roman": "somvaar",
+      "note": "On Monday: सोमवार को (somvaar ko). Every day name ends in -वार (vaar), 'day'."
+    },
+    "tuesday": {
+      "text": "मंगलवार",
+      "roman": "mangalvaar"
+    },
+    "wednesday": {
+      "text": "बुधवार",
+      "roman": "budhvaar"
+    },
+    "thursday": {
+      "text": "गुरुवार",
+      "roman": "guruvaar",
+      "note": "Also: बृहस्पतिवार (brihaspativaar) and, in the north-west, वीरवार (veervaar)."
+    },
+    "friday": {
+      "text": "शुक्रवार",
+      "roman": "shukravaar",
+      "note": "Also heard, especially among Muslims: जुम्मा (jumma)."
+    },
+    "saturday": {
+      "text": "शनिवार",
+      "roman": "shanivaar"
+    },
+    "sunday": {
+      "text": "रविवार",
+      "roman": "ravivaar",
+      "note": "Also very common: इतवार (itvaar), and English संडे (sunday)."
+    },
+    "weekend": {
+      "text": "वीकेंड",
+      "roman": "weekend",
+      "note": "Formal Hindi: सप्ताहांत (saptaahaant), rarely heard in speech."
+    },
+    "what_day": {
+      "text": "आज कौन सा दिन है?",
+      "roman": "aaj kaun sa din hai?",
+      "note": "For the date: आज कौन सी तारीख है? (aaj kaun si taareekh hai?)"
+    },
+    "next_week": {
+      "text": "अगले हफ़्ते",
+      "roman": "agle hafte",
+      "note": "Formal: अगले सप्ताह (agle saptaah)."
+    },
+    "eleven": {
+      "text": "ग्यारह",
+      "roman": "gyaarah",
+      "note": "Devanagari digits: ११. Hindi numbers 11–99 are irregular, so each one is learned on its own."
+    },
+    "twelve": {
+      "text": "बारह",
+      "roman": "baarah",
+      "note": "Devanagari digits: १२"
+    },
+    "fifteen": {
+      "text": "पंद्रह",
+      "roman": "pandrah",
+      "note": "Devanagari digits: १५"
+    },
+    "twenty": {
+      "text": "बीस",
+      "roman": "bees",
+      "note": "Devanagari digits: २०"
+    },
+    "thirty": {
+      "text": "तीस",
+      "roman": "tees",
+      "note": "Devanagari digits: ३०"
+    },
+    "fifty": {
+      "text": "पचास",
+      "roman": "pachaas",
+      "note": "Devanagari digits: ५०"
+    },
+    "hundred": {
+      "text": "सौ",
+      "roman": "sau",
+      "note": "Devanagari digits: १००. Also said एक सौ (ek sau)."
+    },
+    "thousand": {
+      "text": "हज़ार",
+      "roman": "hazaar",
+      "note": "Devanagari digits: १०००. Also एक हज़ार (ek hazaar). 1,00,000 is एक लाख (ek laakh)."
+    },
+    "how_old": {
+      "text": "आपकी उम्र क्या है?",
+      "roman": "aapki umar kya hai?",
+      "note": "Also: आप कितने साल के हैं? (aap kitne saal ke hain?); to a woman, की (ki) replaces के (ke)."
+    },
+    "years_old": {
+      "text": "मैं … साल का हूँ",
+      "roman": "main … saal ka hoon",
+      "note": "A woman says: मैं … साल की हूँ (main … saal ki hoon)."
+    },
+    "red": {
+      "text": "लाल",
+      "roman": "laal",
+      "note": "Never changes its ending, whatever the noun."
+    },
+    "blue": {
+      "text": "नीला",
+      "roman": "neela",
+      "note": "नीली (neeli) with feminine nouns."
+    },
+    "green": {
+      "text": "हरा",
+      "roman": "hara",
+      "note": "हरी (hari) with feminine nouns."
+    },
+    "yellow": {
+      "text": "पीला",
+      "roman": "peela",
+      "note": "पीली (peeli) with feminine nouns."
+    },
+    "black": {
+      "text": "काला",
+      "roman": "kaala",
+      "note": "काली (kaali) with feminine nouns."
+    },
+    "white": {
+      "text": "सफ़ेद",
+      "roman": "safed",
+      "note": "Like लाल (laal), it never changes its ending."
+    },
+    "what_colour": {
+      "text": "यह किस रंग का है?",
+      "roman": "yeh kis rang ka hai?",
+      "note": "For a feminine noun: यह किस रंग की है? (yeh kis rang ki hai?)"
+    },
+    "this_one": {
+      "text": "यह वाला",
+      "roman": "yeh vaala",
+      "note": "For a feminine item: यह वाली (yeh vaali)."
+    },
+    "that_one": {
+      "text": "वह वाला",
+      "roman": "voh vaala",
+      "note": "For a feminine item: वह वाली (voh vaali). वह is often spelled वो (vo), as it is said."
+    },
+    "another_one": {
+      "text": "एक और दीजिए",
+      "roman": "ek aur dijiye",
+      "note": "Short and common: एक और (ek aur)."
+    },
+    "its_hot": {
+      "text": "बहुत गर्मी है",
+      "roman": "bahut garmi hai",
+      "note": "Without बहुत (bahut, 'very'): गर्मी है. Hot food or water is गरम (garam)."
+    },
+    "its_cold": {
+      "text": "बहुत ठंड है",
+      "roman": "bahut thand hai",
+      "note": "Without बहुत (bahut, 'very'): ठंड है. Cold food or water is ठंडा (thanda)."
+    },
+    "its_raining": {
+      "text": "बारिश हो रही है",
+      "roman": "baarish ho rahi hai"
+    },
+    "its_sunny": {
+      "text": "धूप निकली है",
+      "roman": "dhoop nikli hai",
+      "note": "Literally 'the sunshine has come out'. Harsh sun: तेज़ धूप है (tez dhoop hai)."
+    },
+    "its_windy": {
+      "text": "तेज़ हवा चल रही है",
+      "roman": "tez hava chal rahi hai",
+      "note": "Also: आज बहुत हवा है (aaj bahut hava hai)."
+    },
+    "weather_today": {
+      "text": "आज मौसम कैसा है?",
+      "roman": "aaj mausam kaisa hai?"
+    },
+    "beautiful_day": {
+      "text": "आज मौसम बहुत अच्छा है",
+      "roman": "aaj mausam bahut achchha hai",
+      "note": "A warmer word for pleasant weather: सुहाना (suhaana), as in मौसम सुहाना है (mausam suhaana hai)."
+    },
+    "umbrella": {
+      "text": "छाता",
+      "roman": "chhaata",
+      "note": "Also: छतरी (chhatri)."
+    },
+    "summer": {
+      "text": "गर्मी",
+      "roman": "garmi",
+      "note": "Also means 'heat'. In summer: गर्मियों में (garmiyon mein)."
+    },
+    "winter": {
+      "text": "सर्दी",
+      "roman": "sardi",
+      "note": "Also means 'cold', even a head cold. In winter: सर्दियों में (sardiyon mein)."
+    },
+    "have_reservation": {
+      "text": "मेरे नाम पर बुकिंग है",
+      "roman": "mere naam par booking hai",
+      "note": "Literally 'there's a booking in my name'. रिज़र्वेशन (reservation) is mostly used for trains."
+    },
+    "room": {
+      "text": "कमरा",
+      "roman": "kamra",
+      "note": "Hotels also say रूम (room). Any rooms free? कमरा मिलेगा? (kamra milega?)"
+    },
+    "passport": {
+      "text": "पासपोर्ट",
+      "roman": "passport"
+    },
+    "luggage": {
+      "text": "सामान",
+      "roman": "saamaan",
+      "note": "Also means 'things, stuff' in general."
+    },
+    "wifi_password": {
+      "text": "वाई-फ़ाई का पासवर्ड क्या है?",
+      "roman": "wi-fi ka password kya hai?"
+    },
+    "check_out_time": {
+      "text": "चेक-आउट कितने बजे है?",
+      "roman": "check-out kitne baje hai?",
+      "note": "Also: चेक-आउट का टाइम क्या है? (check-out ka time kya hai?)"
+    },
+    "map": {
+      "text": "नक्शा",
+      "roman": "naksha",
+      "note": "On phones people say मैप (map): मैप पर दिखाइए (map par dikhaaiye), 'show me on the map'."
+    },
+    "bus": {
+      "text": "बस",
+      "roman": "bus",
+      "note": "Bus station: बस अड्डा (bus adda). Same spelling as बस (bas), 'enough, just'."
+    },
+    "next_train": {
+      "text": "अगली ट्रेन कब है?",
+      "roman": "agli train kab hai?",
+      "note": "Railway staff and older people often call a train गाड़ी (gaadi)."
+    },
+    "is_this_seat_free": {
+      "text": "क्या यह सीट खाली है?",
+      "roman": "kya yeh seat khaali hai?",
+      "note": "Also: यहाँ कोई बैठा है? (yahan koi baitha hai?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "आप क्या करते हैं?",
+      "roman": "aap kya karte hain?",
+      "note": "To a woman: आप क्या करती हैं? (aap kya karti hain?)"
+    },
+    "i_work_in": {
+      "text": "मैं … में काम करता हूँ",
+      "roman": "main … mein kaam karta hoon",
+      "note": "A woman says: मैं … में काम करती हूँ (main … mein kaam karti hoon)."
+    },
+    "im_student": {
+      "text": "मैं छात्र हूँ",
+      "roman": "main chhaatr hoon",
+      "note": "A woman says: मैं छात्रा हूँ (main chhaatra hoon). Very common: मैं स्टूडेंट हूँ (main student hoon)."
+    },
+    "office": {
+      "text": "दफ़्तर",
+      "roman": "daftar",
+      "note": "In everyday speech ऑफ़िस (office) is just as common."
+    },
+    "meeting": {
+      "text": "मीटिंग",
+      "roman": "meeting",
+      "note": "Formal Hindi: बैठक (baithak). I'm in a meeting: मैं मीटिंग में हूँ (main meeting mein hoon)."
+    },
+    "im_busy": {
+      "text": "मैं व्यस्त हूँ",
+      "roman": "main vyast hoon",
+      "note": "In casual speech: मैं बिज़ी हूँ (main busy hoon)."
+    },
+    "day_off": {
+      "text": "छुट्टी",
+      "roman": "chhutti",
+      "note": "Also a holiday or leave. To take a day off: छुट्टी लेना (chhutti lena)."
+    },
+    "colleague": {
+      "text": "सहकर्मी",
+      "roman": "sahkarmi",
+      "note": "Same word for a woman. In speech, कलीग (colleague) is common."
+    },
+    "lets_start": {
+      "text": "चलिए, शुरू करते हैं",
+      "roman": "chaliye, shuru karte hain",
+      "note": "Casual: चलो, शुरू करें (chalo, shuru karen)."
+    },
+    "good_job": {
+      "text": "बहुत बढ़िया!",
+      "roman": "bahut badhiya!",
+      "note": "To a child or junior: शाबाश! (shaabaash!)"
+    },
+    "table_for_two": {
+      "text": "दो लोगों के लिए एक टेबल चाहिए",
+      "roman": "do logon ke liye ek table chaahiye",
+      "note": "Politer as a question: दो लोगों के लिए टेबल मिलेगी? (do logon ke liye table milegi?)"
+    },
+    "what_recommend": {
+      "text": "यहाँ क्या अच्छा मिलता है?",
+      "roman": "yahan kya achchha milta hai?",
+      "note": "Also: यहाँ की स्पेशल डिश क्या है? (yahan ki special dish kya hai?)"
+    },
+    "not_spicy": {
+      "text": "तीखा मत बनाइए",
+      "roman": "teekha mat banaaiye",
+      "note": "Or: मिर्च कम डालिए (mirch kam daaliye), 'go easy on the chilli'."
+    },
+    "vegetarian_food": {
+      "text": "शाकाहारी खाना",
+      "roman": "shaakaahaari khaana",
+      "note": "Menus and signs say वेज (veg) and नॉन-वेज (non-veg); a green dot marks veg food."
+    },
+    "more_water": {
+      "text": "थोड़ा और पानी दीजिए",
+      "roman": "thoda aur paani dijiye"
+    },
+    "no_sugar": {
+      "text": "चीनी मत डालिए",
+      "roman": "cheeni mat daaliye",
+      "note": "Ordering tea: बिना चीनी की चाय (bina cheeni ki chai). Many also say शुगर (sugar)."
+    },
+    "im_full": {
+      "text": "मेरा पेट भर गया",
+      "roman": "mera pet bhar gaya",
+      "note": "To a host who keeps serving: बस, बस! (bas, bas!)"
+    },
+    "takeaway": {
+      "text": "पैक कर दीजिए",
+      "roman": "pack kar dijiye",
+      "note": "Also very common: पार्सल कर दीजिए (parcel kar dijiye)."
+    },
+    "it_was_delicious": {
+      "text": "खाना बहुत स्वादिष्ट था",
+      "roman": "khaana bahut swaadisht tha",
+      "note": "Warm and very common: मज़ा आ गया! (maza aa gaya!)"
+    },
+    "keep_change": {
+      "text": "बाकी पैसे रख लीजिए",
+      "roman": "baaki paise rakh lijiye",
+      "note": "Small change is छुट्टे (chhutte): छुट्टे हैं? (chhutte hain?), 'do you have change?'"
+    },
+    "head": {
+      "text": "सिर",
+      "roman": "sir",
+      "note": "Short i as in 'sit', with a tapped r; not like English 'sir'."
+    },
+    "stomach": {
+      "text": "पेट",
+      "roman": "pet",
+      "note": "Stomach ache: पेट में दर्द (pet mein dard)."
+    },
+    "head_hurts": {
+      "text": "मेरे सिर में दर्द है",
+      "roman": "mere sir mein dard hai",
+      "note": "Also very common: सिर दर्द हो रहा है (sir dard ho raha hai)."
+    },
+    "have_fever": {
+      "text": "मुझे बुखार है",
+      "roman": "mujhe bukhaar hai"
+    },
+    "medicine": {
+      "text": "दवाई",
+      "roman": "davaai",
+      "note": "Also दवा (dava). A tablet is गोली (goli)."
+    },
+    "call_ambulance": {
+      "text": "एम्बुलेंस बुलाओ!",
+      "roman": "ambulance bulaao!",
+      "note": "Polite form: एम्बुलेंस बुलाइए (ambulance bulaaiye). In India dial 108 or 112."
+    },
+    "dentist": {
+      "text": "दाँतों का डॉक्टर",
+      "roman": "daanton ka doctor",
+      "note": "In cities also डेंटिस्ट (dentist). Toothache: दाँत में दर्द (daant mein dard)."
+    },
+    "need_rest": {
+      "text": "मुझे आराम करना है",
+      "roman": "mujhe aaraam karna hai",
+      "note": "Also: मुझे आराम की ज़रूरत है (mujhe aaraam ki zaroorat hai)."
+    },
+    "feel_better": {
+      "text": "अब मेरी तबीयत बेहतर है",
+      "roman": "ab meri tabiyat behtar hai",
+      "note": "Also: अब मैं पहले से ठीक हूँ (ab main pehle se theek hoon)."
+    },
+    "get_well": {
+      "text": "जल्दी ठीक हो जाइए!",
+      "roman": "jaldi theek ho jaaiye!",
+      "note": "To a friend: जल्दी ठीक हो जाओ! (jaldi theek ho jaao!)"
+    },
+    "lets_meet": {
+      "text": "कभी मिलते हैं",
+      "roman": "kabhi milte hain",
+      "note": "To fix a time: कब मिलें? (kab milen?), 'when shall we meet?'"
+    },
+    "are_you_free": {
+      "text": "क्या आप कल फ़्री हैं?",
+      "roman": "kya aap kal free hain?",
+      "note": "Also: क्या कल आपके पास समय है? (kya kal aapke paas samay hai?)"
+    },
+    "call_me": {
+      "text": "मुझे फ़ोन कीजिए",
+      "roman": "mujhe phone kijiye",
+      "note": "Also common: मुझे कॉल कीजिए (mujhe call kijiye)."
+    },
+    "your_number": {
+      "text": "आपका फ़ोन नंबर क्या है?",
+      "roman": "aapka phone number kya hai?",
+      "note": "Often: अपना नंबर दीजिए (apna number dijiye), 'give me your number'."
+    },
+    "see_you_soon": {
+      "text": "जल्दी मिलेंगे",
+      "roman": "jaldi milenge"
+    },
+    "have_nice_day": {
+      "text": "आपका दिन अच्छा रहे!",
+      "roman": "aapka din achchha rahe!",
+      "note": "Formal: आपका दिन शुभ हो! (aapka din shubh ho!)"
+    },
+    "good_luck": {
+      "text": "शुभकामनाएँ!",
+      "roman": "shubhkaamnaayen!",
+      "note": "Before an exam or interview people usually say ऑल द बेस्ट! (all the best!)"
+    },
+    "happy_birthday": {
+      "text": "जन्मदिन मुबारक हो!",
+      "roman": "janamdin mubaarak ho!",
+      "note": "Also: जन्मदिन की शुभकामनाएँ! (janamdin ki shubhkaamnaayen!). The song is sung in English."
+    },
+    "thanks_a_lot": {
+      "text": "बहुत-बहुत धन्यवाद",
+      "roman": "bahut-bahut dhanyavaad",
+      "note": "Also: बहुत शुक्रिया (bahut shukriya)."
+    },
+    "miss_you": {
+      "text": "मुझे तुम्हारी याद आती है",
+      "roman": "mujhe tumhaari yaad aati hai",
+      "note": "Literally 'your memory comes to me'. To an elder: आपकी (aapki) instead of तुम्हारी."
     }
   }
 }

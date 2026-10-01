@@ -7,7 +7,7 @@
 
 import { useSyncExternalStore } from "react";
 import { getLanguage } from "./languages";
-import { EMPTY_PROGRESS, cleanProgress, mergeProgress, sameProgress, type Progress } from "./progress";
+import { BOX_DAYS, EMPTY_PROGRESS, MAX_BOX, addDays, cleanProgress, mergeProgress, sameProgress, type Card, type Progress } from "./progress";
 
 export type { Progress } from "./progress";
 
@@ -99,30 +99,70 @@ export function localDay(d = new Date()): string {
 
 export function addXp(points: number) {
   const p = progressSnapshot();
-  writeProgress({ ...p, xp: p.xp + points });
+  const today = localDay();
+  writeProgress({ ...p, xp: p.xp + points, xpDays: { ...p.xpDays, [today]: (p.xpDays[today] ?? 0) + points } });
 }
 
-export function markUnitDone(lang: string, unit: string) {
+function withDay(days: string[], day: string): string[] {
+  // Keep the list bounded; a streak longer than a year is still shown as 365+.
+  return [...new Set([...days, day])].sort().slice(-400);
+}
+
+// Passing a lesson marks it done, extends the streak, and puts its phrases
+// into the learner's memory so they come back for review tomorrow.
+export function markUnitDone(lang: string, unit: string, conceptIds: string[]) {
   const p = progressSnapshot();
+  const today = localDay();
   const units = new Set(p.done[lang] ?? []);
   units.add(unit);
-  const days = new Set(p.days);
-  days.add(localDay());
-  writeProgress({
-    ...p,
-    done: { ...p.done, [lang]: [...units] },
-    // Keep the list bounded; a streak longer than a year is still shown as 365+.
-    days: [...days].sort().slice(-400),
-  });
+  const cards = { ...p.cards };
+  for (const id of conceptIds) {
+    const key = `${lang}:${id}`;
+    // t: 0 marks a card that has never been reviewed, so when progress is
+    // merged with an account any reviewed copy of it wins.
+    if (!cards[key]) cards[key] = { b: 1, due: addDays(today, BOX_DAYS[1]), t: 0 };
+  }
+  writeProgress({ ...p, done: { ...p.done, [lang]: [...units] }, days: withDay(p.days, today), cards });
+}
+
+// After a review: remembered phrases move up a box (seen less often),
+// forgotten ones start again tomorrow. Only phrases that are due count, so
+// practising the same ones again can't push them weeks ahead.
+export function recordReview(results: { key: string; correct: boolean }[]) {
+  const p = progressSnapshot();
+  const today = localDay();
+  const now = Date.now();
+  const cards = { ...p.cards };
+  for (const { key, correct } of results) {
+    const old: Card = cards[key] ?? { b: 1, due: today, t: 0 };
+    if (old.due > today) continue;
+    const b = correct ? Math.min(old.b + 1, MAX_BOX) : 1;
+    cards[key] = { b, due: addDays(today, BOX_DAYS[b]), t: now };
+  }
+  writeProgress({ ...p, cards, days: withDay(p.days, today) });
+}
+
+export function setGoal(xp: number) {
+  const p = progressSnapshot();
+  writeProgress({ ...p, goal: xp, goalT: Date.now() });
 }
 
 // --- Account ---------------------------------------------------------------
 
+export type AccountUser = {
+  email: string;
+  name: string | null;
+  avatar: string | null;
+  method: string;
+  joined: string;
+  admin: boolean;
+};
+
 export type Account =
   | { status: "loading" }
   | { status: "off" } // accounts not switched on for this site
-  | { status: "signed-out" }
-  | { status: "signed-in"; email: string; saving: boolean; saveFailed: boolean };
+  | { status: "signed-out"; google: boolean }
+  | ({ status: "signed-in"; google: boolean; saving: boolean; saveFailed: boolean } & AccountUser);
 
 let account: Account = { status: "loading" };
 const accountListeners = new Set<() => void>();
@@ -159,15 +199,15 @@ export function refreshAccount(): Promise<void> {
       const r = await fetch("/api/me", { cache: "no-store" });
       const d = await r.json();
       if (d.enabled === false) setAccount({ status: "off" });
-      else if (!d.user) setAccount({ status: "signed-out" });
+      else if (!d.user) setAccount({ status: "signed-out", google: Boolean(d.google) });
       else {
-        setAccount({ status: "signed-in", email: d.user.email, saving: false, saveFailed: false });
+        setAccount({ status: "signed-in", google: Boolean(d.google), saving: false, saveFailed: false, ...(d.user as AccountUser) });
         adopt(d);
         scheduleSave(0);
       }
     } catch {
       // Offline or the server is unreachable: carry on with this device's copy.
-      if (account.status === "loading") setAccount({ status: "signed-out" });
+      if (account.status === "loading") setAccount({ status: "signed-out", google: false });
     } finally {
       refreshing = null;
     }
@@ -192,7 +232,7 @@ async function saveNow() {
       body: JSON.stringify({ progress: progressSnapshot(), speak: read(SPEAK_KEY) }),
     });
     if (r.status === 401) {
-      setAccount({ status: "signed-out" });
+      setAccount({ status: "signed-out", google: account.google });
       return;
     }
     if (!r.ok) throw new Error(String(r.status));
@@ -218,8 +258,8 @@ async function post(path: string, body: unknown): Promise<{ ok: boolean; error?:
 }
 
 // Signing up or in keeps everything done on this device and adds it to the account.
-export async function signUp(email: string, password: string) {
-  const r = await post("/api/auth/signup", { email, password });
+export async function signUp(email: string, password: string, name?: string) {
+  const r = await post("/api/auth/signup", { email, password, name });
   if (r.ok) await refreshAccount();
   return r;
 }
@@ -237,9 +277,28 @@ export async function logOut() {
   clearTimeout(saveTimer);
   await saveNow();
   await post("/api/auth/logout", {});
+  clearDevice();
+}
+
+function clearDevice() {
+  const google = account.status === "signed-in" || account.status === "signed-out" ? account.google : false;
   write(PROGRESS_KEY, null);
   write(SPEAK_KEY, null);
-  setAccount({ status: "signed-out" });
+  setAccount({ status: "signed-out", google });
+}
+
+// Permanently deletes the account and everything saved with it.
+export async function deleteAccount(): Promise<{ ok: boolean; error?: string }> {
+  clearTimeout(saveTimer);
+  try {
+    const r = await fetch("/api/account", { method: "DELETE", headers: { "content-type": "application/json" } });
+    const d = await r.json().catch(() => ({}));
+    if (!r.ok) return { ok: false, error: d.error ?? "Something went wrong — please try again." };
+    clearDevice();
+    return { ok: true };
+  } catch {
+    return { ok: false, error: "No connection — please try again." };
+  }
 }
 
 // Consecutive days with a passed lesson, ending today — or yesterday, so a
@@ -282,4 +341,18 @@ function subscribeDay(cb: () => void) {
 // The learner's local date (YYYY-MM-DD); "" on the server.
 export function useToday(): string {
   return useSyncExternalStore(subscribeDay, () => localDay(), () => "");
+}
+
+// Longest run of consecutive learning days ever.
+export function bestStreak(days: string[]): number {
+  const sorted = [...new Set(days)].sort();
+  let best = 0;
+  let run = 0;
+  let prev: string | null = null;
+  for (const d of sorted) {
+    run = prev && addDays(prev, 1) === d ? run + 1 : 1;
+    best = Math.max(best, run);
+    prev = d;
+  }
+  return best;
 }

@@ -454,6 +454,490 @@
     "congratulations": {
       "text": "සුබ පැතුම්!",
       "roman": "suba paetum!"
+    },
+    "my_family": {
+      "text": "මගේ පවුල",
+      "roman": "mage pawula",
+      "note": "Sinhala often says 'our' instead: අපේ පවුල (ape pawula), අපේ අම්මා (ape amma)."
+    },
+    "mother": {
+      "text": "අම්මා",
+      "roman": "amma",
+      "note": "Formal/written: මව (mawa)."
+    },
+    "father": {
+      "text": "තාත්තා",
+      "roman": "tatta",
+      "note": "Formal/written: පියා (piya). Some families say අප්පච්චි (appachchi)."
+    },
+    "brother": {
+      "text": "සහෝදරයා",
+      "roman": "sahodaraya",
+      "note": "In speech you say which one: අයියා (aiya), older brother; මල්ලී (malli), younger brother."
+    },
+    "sister": {
+      "text": "සහෝදරිය",
+      "roman": "sahodariya",
+      "note": "In speech you say which one: අක්කා (akka), older sister; නංගී (nangi), younger sister."
+    },
+    "child": {
+      "text": "දරුවා",
+      "roman": "daruwa",
+      "note": "Son: පුතා (puta), daughter: දුව (duwa). Children: දරුවෝ (daruwo)."
+    },
+    "friend": {
+      "text": "යාළුවා",
+      "roman": "yaluwa",
+      "note": "Used for women too; the formal female word is යෙහෙළිය (yeheliya). Mates call each other මචං (machan)."
+    },
+    "this_is_my_friend": {
+      "text": "මේ මගේ යාළුවා",
+      "roman": "me mage yaluwa",
+      "note": "A female friend: මේ මගේ යෙහෙළිය (me mage yeheliya), though යාළුවා is often used for women too."
+    },
+    "are_you_married": {
+      "text": "ඔයා විවාහ වෙලාද?",
+      "roman": "oya wiwaha welada?",
+      "note": "Everyday: ඔයා කසාද බැඳලාද? (oya kasada baendalada?)"
+    },
+    "have_children": {
+      "text": "ඔයාට දරුවෝ ඉන්නවාද?",
+      "roman": "oyata daruwo innawada?",
+      "note": "Also common: ළමයි ඉන්නවාද? (lamai innawada?)"
+    },
+    "monday": {
+      "text": "සඳුදා",
+      "roman": "sanduda",
+      "note": "From සඳ (sanda), 'moon', just like English. No word for 'on' needed: සඳුදා එන්න (sanduda enna)."
+    },
+    "tuesday": {
+      "text": "අඟහරුවාදා",
+      "roman": "angaharuwada",
+      "note": "ඟ (ng) is a g with a light n before it: an-ga-ha-ru-wa-da."
+    },
+    "wednesday": {
+      "text": "බදාදා",
+      "roman": "badada"
+    },
+    "thursday": {
+      "text": "බ්‍රහස්පතින්දා",
+      "roman": "brahaspatinda"
+    },
+    "friday": {
+      "text": "සිකුරාදා",
+      "roman": "sikurada"
+    },
+    "saturday": {
+      "text": "සෙනසුරාදා",
+      "roman": "senasurada",
+      "note": "From සෙනසුරු (senasuru), 'Saturn', just like English."
+    },
+    "sunday": {
+      "text": "ඉරිදා",
+      "roman": "irida",
+      "note": "From ඉර (ira), 'sun', just like English."
+    },
+    "weekend": {
+      "text": "සති අන්තය",
+      "roman": "sati antaya",
+      "note": "In speech: සති අන්තේ (sati ante), or the English වීකෙන්ඩ් එක (wikend eka)."
+    },
+    "what_day": {
+      "text": "අද මොන දවසද?",
+      "roman": "ada mona dawasada?",
+      "note": "For the date: අද කීවෙනිදාද? (ada kiwenidada?)"
+    },
+    "next_week": {
+      "text": "ලබන සතියේ",
+      "roman": "labana satiye",
+      "note": "Also: ඊළඟ සතියේ (ilanga satiye). 'This week': මේ සතියේ (me satiye)."
+    },
+    "eleven": {
+      "text": "එකොළහ",
+      "roman": "ekolaha"
+    },
+    "twelve": {
+      "text": "දොළහ",
+      "roman": "dolaha"
+    },
+    "fifteen": {
+      "text": "පහළොව",
+      "roman": "pahalowa"
+    },
+    "twenty": {
+      "text": "විස්ස",
+      "roman": "wissa",
+      "note": "In compound numbers it becomes විසි (wisi): විසිඑක (wisieka), 21."
+    },
+    "thirty": {
+      "text": "තිහ",
+      "roman": "tiha",
+      "note": "In compound numbers it becomes තිස් (tis): තිස්පහ (tispaha), 35."
+    },
+    "fifty": {
+      "text": "පනහ",
+      "roman": "panaha",
+      "note": "In compound numbers it becomes පනස් (panas): පනස්දෙක (panasdeka), 52."
+    },
+    "hundred": {
+      "text": "සීය",
+      "roman": "siya",
+      "note": "In compound numbers: එකසිය (ekasiya), as in එකසිය පනහ (ekasiya panaha), 150."
+    },
+    "thousand": {
+      "text": "දාහ",
+      "roman": "daha",
+      "note": "Formal: දහස (dahasa). 'A thousand rupees': රුපියල් දාහක් (rupiyal dahak)."
+    },
+    "how_old": {
+      "text": "ඔයාට වයස කීයද?",
+      "roman": "oyata wayasa kiyada?"
+    },
+    "years_old": {
+      "text": "මට අවුරුදු …",
+      "roman": "mata awurudu …",
+      "note": "Add -යි (-i) to the number: මට අවුරුදු විස්සයි (mata awurudu wissai), 'I'm twenty'."
+    },
+    "red": {
+      "text": "රතු",
+      "roman": "ratu",
+      "note": "Colours are often said with පාට (pata), 'colour': රතු පාට (ratu pata)."
+    },
+    "blue": {
+      "text": "නිල්",
+      "roman": "nil",
+      "note": "Light blue: ලා නිල් (la nil)."
+    },
+    "green": {
+      "text": "කොළ",
+      "roman": "kola",
+      "note": "Also means 'leaf', so people often say කොළ පාට (kola pata) to be clear."
+    },
+    "yellow": {
+      "text": "කහ",
+      "roman": "kaha",
+      "note": "Also the word for turmeric."
+    },
+    "black": {
+      "text": "කළු",
+      "roman": "kalu"
+    },
+    "white": {
+      "text": "සුදු",
+      "roman": "sudu",
+      "note": "Westerners are often called සුද්දා (sudda), 'the white one'."
+    },
+    "what_colour": {
+      "text": "ඒක මොන පාටද?",
+      "roman": "eka mona patada?",
+      "note": "About something you are holding: මේක මොන පාටද? (meka mona patada?)"
+    },
+    "this_one": {
+      "text": "මේක",
+      "roman": "meka",
+      "note": "With a request: මේක දෙන්න (meka denna), 'give me this one'."
+    },
+    "that_one": {
+      "text": "අරක",
+      "roman": "araka",
+      "note": "Sinhala has three: මේක (meka) here, ඒක (eka) near you, අරක (araka) over there."
+    },
+    "another_one": {
+      "text": "තව එකක් දෙන්න",
+      "roman": "tawa ekak denna",
+      "note": "Softer: තව එකක් දෙන්න පුළුවන්ද? (tawa ekak denna puluwanda?)"
+    },
+    "its_hot": {
+      "text": "රස්නෙයි",
+      "roman": "rasnei",
+      "note": "'Really hot': හරිම රස්නෙයි (harima rasnei)."
+    },
+    "its_cold": {
+      "text": "සීතලයි",
+      "roman": "sitalai",
+      "note": "'I feel cold': මට සීතලයි (mata sitalai)."
+    },
+    "its_raining": {
+      "text": "වහිනවා",
+      "roman": "wahinawa",
+      "note": "Fuller: වැස්ස වහිනවා (waessa wahinawa). 'Rain' is වැස්ස (waessa)."
+    },
+    "its_sunny": {
+      "text": "අව්ව පායලා",
+      "roman": "awwa payala",
+      "note": "Also simply: අව්වයි (awwai), which suggests strong, hot sun."
+    },
+    "its_windy": {
+      "text": "හුළං හමනවා",
+      "roman": "hulang hamanawa",
+      "note": "Also: සුළඟයි (sulangai)."
+    },
+    "weather_today": {
+      "text": "අද කාලගුණය කොහොමද?",
+      "roman": "ada kalagunaya kohomada?",
+      "note": "In small talk people more often ask අද වහියිද? (ada wahiyida?), 'will it rain today?'"
+    },
+    "beautiful_day": {
+      "text": "අද ලස්සන දවසක්",
+      "roman": "ada lassana dawasak",
+      "note": "More native about the weather: අද කාලගුණය හරිම හොඳයි (ada kalagunaya harima hondai)."
+    },
+    "umbrella": {
+      "text": "කුඩය",
+      "roman": "kudaya",
+      "note": "In speech: කුඩේ (kude)."
+    },
+    "summer": {
+      "text": "ගිම්හානය",
+      "roman": "gimhanaya",
+      "note": "A textbook word: Sri Lanka has dry and monsoon seasons rather than summer and winter."
+    },
+    "winter": {
+      "text": "ශීත කාලය",
+      "roman": "shita kalaya",
+      "note": "Mostly said of other countries; at home people talk of the rainy season, වැසි කාලය (waesi kalaya)."
+    },
+    "have_reservation": {
+      "text": "මම බුක් කරලා තියෙනවා",
+      "roman": "mama buk karala tiyenawa",
+      "note": "The formal Sinhala word for a booking, seen on websites, is වෙන්කිරීම (wenkirima)."
+    },
+    "room": {
+      "text": "කාමරය",
+      "roman": "kamaraya",
+      "note": "In hotels people often say රූම් එක (rum eka)."
+    },
+    "passport": {
+      "text": "පාස්පෝට් එක",
+      "roman": "paspot eka",
+      "note": "Official word: ගමන් බලපත්‍රය (gaman balapatraya)."
+    },
+    "luggage": {
+      "text": "ගමන් මලු",
+      "roman": "gaman malu",
+      "note": "In speech people say බඩු (badu), 'things', or බෑග් (baeg), 'bags'."
+    },
+    "wifi_password": {
+      "text": "වයිෆයි පාස්වර්ඩ් එක මොකක්ද?",
+      "roman": "waifai pasward eka mokakda?"
+    },
+    "check_out_time": {
+      "text": "චෙක් අවුට් වෙලාව කීයද?",
+      "roman": "chek aut welawa kiyada?",
+      "note": "Or: කීයට චෙක් අවුට් කරන්න ඕනෙද? (kiyata chek aut karanna oneda?)"
+    },
+    "map": {
+      "text": "සිතියම",
+      "roman": "sitiyama",
+      "note": "A map on a phone is usually just මැප් එක (maep eka)."
+    },
+    "bus": {
+      "text": "බස් එක",
+      "roman": "bas eka",
+      "note": "Formal: බසය (basaya). The bus stop is the බස් හෝල්ට් එක (bas holt eka)."
+    },
+    "next_train": {
+      "text": "ඊළඟ කෝච්චිය කීයටද?",
+      "roman": "ilanga kochchiya kiyatada?"
+    },
+    "is_this_seat_free": {
+      "text": "මෙතන කවුරුහරි ඉන්නවාද?",
+      "roman": "metana kauruhari innawada?",
+      "note": "Literally 'is anyone here?'. Also: මේ සීට් එක හිස්ද? (me sit eka hisda?)"
+    },
+    "what_do_you_do": {
+      "text": "ඔයා මොකක්ද කරන්නේ?",
+      "roman": "oya mokakda karanne?",
+      "note": "More explicit: ඔයාගේ රස්සාව මොකක්ද? (oyage rassawa mokakda?), 'what's your job?'"
+    },
+    "i_work_in": {
+      "text": "මම වැඩ කරන්නේ …",
+      "roman": "mama waeda karanne …",
+      "note": "'In a …' ends in -ක (-ka): මම වැඩ කරන්නේ බැංකුවක (mama waeda karanne baenkuwaka), 'in a bank'."
+    },
+    "im_student": {
+      "text": "මම ශිෂ්‍යයෙක්",
+      "roman": "mama shishyayek",
+      "note": "A woman says: මම ශිෂ්‍යාවක් (mama shishyawak). At university: මම කැම්පස් යනවා (mama kaempas yanawa)."
+    },
+    "office": {
+      "text": "කාර්යාලය",
+      "roman": "karyalaya",
+      "note": "In speech: ඔෆිස් එක (ofis eka), as in මම ඔෆිස් යනවා (mama ofis yanawa)."
+    },
+    "meeting": {
+      "text": "රැස්වීම",
+      "roman": "raeswima",
+      "note": "At work people usually say මීටිං එක (miting eka)."
+    },
+    "im_busy": {
+      "text": "මම බිසී",
+      "roman": "mama bisi",
+      "note": "Formal: මම කාර්යබහුලයි (mama karyabahulai). Also: මට වෙලාවක් නෑ (mata welawak nae), 'I have no time'."
+    },
+    "day_off": {
+      "text": "නිවාඩු දවස",
+      "roman": "niwadu dawasa",
+      "note": "'I'm off today': අද මට නිවාඩු (ada mata niwadu)."
+    },
+    "colleague": {
+      "text": "සහසේවකයා",
+      "roman": "sahasewakaya",
+      "note": "A woman: සහසේවිකාව (sahasewikawa). In offices many just say කොලීග් (kolig)."
+    },
+    "lets_start": {
+      "text": "අපි පටන් ගමු",
+      "roman": "api patan gamu"
+    },
+    "good_job": {
+      "text": "නියමයි!",
+      "roman": "niyamai!",
+      "note": "Also: හොඳට කළා! (hondata kala!), 'well done', or the teacher's ශාබාශ්! (shabash!)"
+    },
+    "table_for_two": {
+      "text": "දෙන්නෙකුට මේසයක් දෙන්න",
+      "roman": "dennekuta mesayak denna",
+      "note": "People have their own count word: දෙන්නා (denna), 'two people', not දෙක (deka)."
+    },
+    "what_recommend": {
+      "text": "මොනවාද කන්න හොඳ?",
+      "roman": "monawada kanna honda?",
+      "note": "Asking 'what's good to eat?' is the natural way; a word for 'recommend' would sound bookish."
+    },
+    "not_spicy": {
+      "text": "සැර නැතුව දෙන්න",
+      "roman": "saera naetuwa denna",
+      "note": "'Less spicy' is often more realistic: සැර අඩුවෙන් දෙන්න (saera aduwen denna)."
+    },
+    "vegetarian_food": {
+      "text": "නිර්මාංශ කෑම",
+      "roman": "nirmansha kaema",
+      "note": "Clearer in speech: මස් මාළු නැති කෑම (mas malu naeti kaema), 'food without meat or fish'."
+    },
+    "more_water": {
+      "text": "තව වතුර ටිකක් දෙන්න",
+      "roman": "tawa watura tikak denna"
+    },
+    "no_sugar": {
+      "text": "සීනි නැතුව දෙන්න",
+      "roman": "sini naetuwa denna",
+      "note": "Tea comes very sweet by default. 'Less sugar': සීනි අඩුවෙන් (sini aduwen)."
+    },
+    "im_full": {
+      "text": "මගේ බඩ පිරුණා",
+      "roman": "mage bada piruna",
+      "note": "To turn down more food, just: ඇති, ස්තුතියි (aeti, stutiyi), 'that's enough, thanks'."
+    },
+    "takeaway": {
+      "text": "පාර්සල් කරලා දෙන්න",
+      "roman": "parsal karala denna",
+      "note": "Sri Lankans call takeaway food a පාර්සල් (parsal), from 'parcel'."
+    },
+    "it_was_delicious": {
+      "text": "හරිම රසට තිබුණා",
+      "roman": "harima rasata tibuna"
+    },
+    "keep_change": {
+      "text": "ඉතුරු ටික තියාගන්න",
+      "roman": "ituru tika tiyaganna",
+      "note": "Also: ඉතුරු සල්ලි තියාගන්න (ituru salli tiyaganna), 'keep the rest of the money'."
+    },
+    "head": {
+      "text": "ඔළුව",
+      "roman": "oluwa",
+      "note": "Formal/written: හිස (hisa)."
+    },
+    "stomach": {
+      "text": "බඩ",
+      "roman": "bada",
+      "note": "Formal: උදරය (udaraya). 'Stomach ache': බඩේ කැක්කුම (bade kaekkuma)."
+    },
+    "head_hurts": {
+      "text": "මට ඔළුව රිදෙනවා",
+      "roman": "mata oluwa ridenawa",
+      "note": "'A headache': ඔළුවේ කැක්කුම (oluwe kaekkuma)."
+    },
+    "have_fever": {
+      "text": "මට උණ තියෙනවා",
+      "roman": "mata una tiyenawa",
+      "note": "Also: මට උණ හැදිලා (mata una haedila), 'I've come down with a fever'."
+    },
+    "medicine": {
+      "text": "බෙහෙත්",
+      "roman": "behet",
+      "note": "Medicine is 'drunk', even pills: බෙහෙත් බොන්න (behet bonna), 'take your medicine'."
+    },
+    "call_ambulance": {
+      "text": "ඇම්බියුලන්ස් එකක් ගෙන්වන්න!",
+      "roman": "aembiyulans ekak genwanna!",
+      "note": "The free ambulance service in Sri Lanka, සුව සැරිය (suwa saeriya), is on 1990."
+    },
+    "dentist": {
+      "text": "දන්ත වෛද්‍යවරයා",
+      "roman": "danta waidyawaraya",
+      "note": "In speech: දත් දොස්තර (dat dostara), 'tooth doctor'."
+    },
+    "need_rest": {
+      "text": "මට විවේක ගන්න ඕනේ",
+      "roman": "mata wiweka ganna one"
+    },
+    "feel_better": {
+      "text": "මට දැන් සනීපයි",
+      "roman": "mata daen sanipai",
+      "note": "'A bit better': මට දැන් ටිකක් හොඳයි (mata daen tikak hondai)."
+    },
+    "get_well": {
+      "text": "ඉක්මනින් සනීප වෙන්න!",
+      "roman": "ikmanin sanipa wenna!"
+    },
+    "lets_meet": {
+      "text": "අපි හම්බවෙමු",
+      "roman": "api hambawemu",
+      "note": "Friends also say අපි සෙට් වෙමු (api set wemu)."
+    },
+    "are_you_free": {
+      "text": "ඔයා හෙට නිදහස්ද?",
+      "roman": "oya heta nidahasda?",
+      "note": "Also common: හෙට වෙලාව තියෙනවාද? (heta welawa tiyenawada?), 'do you have time tomorrow?'"
+    },
+    "call_me": {
+      "text": "මට කෝල් එකක් දෙන්න",
+      "roman": "mata kol ekak denna",
+      "note": "Also: මට කතා කරන්න (mata kata karanna), which can also mean 'talk to me'."
+    },
+    "your_number": {
+      "text": "ඔයාගේ ෆෝන් නම්බර් එක මොකක්ද?",
+      "roman": "oyage fon nambar eka mokakda?",
+      "note": "Softer: නම්බර් එක දෙන්න පුළුවන්ද? (nambar eka denna puluwanda?)"
+    },
+    "see_you_soon": {
+      "text": "ඉක්මනින් හම්බවෙමු",
+      "roman": "ikmanin hambawemu"
+    },
+    "have_nice_day": {
+      "text": "සුබ දවසක්!",
+      "roman": "suba dawasak!",
+      "note": "Rather formal; when parting people more often say පරිස්සමින් යන්න (parissamin yanna), 'go safely'."
+    },
+    "good_luck": {
+      "text": "ජය වේවා!",
+      "roman": "jaya wewa!",
+      "note": "The classic wish before an exam or a match. The English 'good luck' is common too."
+    },
+    "happy_birthday": {
+      "text": "සුබ උපන්දිනයක්!",
+      "roman": "suba upandinayak!",
+      "note": "Fuller: සුබ උපන්දිනයක් වේවා! (suba upandinayak wewa!). The English 'happy birthday' is common too."
+    },
+    "thanks_a_lot": {
+      "text": "බොහොම ස්තුතියි",
+      "roman": "bohoma stutiyi",
+      "note": "Casual: ගොඩක් ස්තුතියි (godak stutiyi)."
+    },
+    "miss_you": {
+      "text": "මට ඔයාව මතක් වෙනවා",
+      "roman": "mata oyawa matak wenawa",
+      "note": "Heartfelt: ඔයා නැති අඩුව දැනෙනවා (oya naeti aduwa daenenawa), 'I feel your absence'."
     }
   }
 }

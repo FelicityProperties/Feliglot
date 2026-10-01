@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import UnitGrid from "@/components/UnitGrid";
-import { UNITS } from "@/lib/curriculum";
+import { ArrowLeft } from "lucide-react";
+import { CONCEPTS, UNITS } from "@/lib/curriculum";
 import { loadContent } from "@/lib/content";
 import { LANGUAGES, getLanguage } from "@/lib/languages";
 
@@ -18,7 +19,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   if (!l) return {};
   return {
     title: `Learn ${l.name}`,
-    description: `Learn ${l.name} (${l.nativeName}) free: 100 everyday phrases in 10 five-minute lessons, with audio, flashcards and quizzes.`,
+    description: `Learn ${l.name} (${l.nativeName}) free: ${CONCEPTS.length} everyday phrases in ${UNITS.length} five-minute lessons, with audio, flashcards, speaking practice and reviews.`,
   };
 }
 
@@ -40,18 +41,25 @@ export default async function CoursePage({ params }: { params: Promise<{ lang: s
   );
 
   return (
-    <div>
-      <Link href="/learn" className="text-sm text-ink-500 hover:text-teal-700">
-        ← All languages
-      </Link>
-      <h1 className="mt-3 text-4xl font-bold tracking-tight">
-        <span dir={l.dir} lang={l.speech}>
-          {l.nativeName}
-        </span>
-        {l.nativeName !== l.name && <span className="ml-3 text-2xl font-medium text-ink-500">{l.name}</span>}
-      </h1>
-      <p className="mt-2 mb-8 max-w-2xl text-ink-600">
-        {l.tagline ?? `100 everyday ${l.name} phrases in 10 short lessons.`}
+    <div className="mx-auto max-w-3xl">
+      <div className="flex items-center gap-4">
+        <Link href="/learn" className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl border border-sand-300 bg-card shadow-soft" aria-label="All languages">
+          <ArrowLeft size={20} aria-hidden />
+        </Link>
+        <div className="min-w-0">
+          <p className="text-xs text-ink-500">Learning</p>
+          <h1 className="text-3xl leading-tight font-black tracking-tight break-words">
+            {l.name}{" "}
+            {l.nativeName !== l.name && (
+              <span dir={l.dir} lang={l.speech} className="text-primary">
+                {l.nativeName}
+              </span>
+            )}
+          </h1>
+        </div>
+      </div>
+      <p className="mt-3 mb-6 max-w-2xl text-ink-600">
+        {l.tagline ?? `${CONCEPTS.length} everyday ${l.name} phrases in ${UNITS.length} short lessons.`}
         {l.romanization && " Every phrase is also written in Latin letters so you can read it from day one."}
       </p>
       <UnitGrid lang={l.code} dir={l.dir} previews={previews} />

@@ -469,6 +469,492 @@
       "text": "Συγχαρητήρια!",
       "roman": "Sincharitíria!",
       "note": "For a job well done: μπράβο! (brávo)."
+    },
+    "my_family": {
+      "text": "Η οικογένειά μου",
+      "roman": "I ikoyéniá mou",
+      "note": "οικογένεια gains a second accent before μου; the stress falls on -niá."
+    },
+    "mother": {
+      "text": "Μητέρα",
+      "roman": "Mitéra",
+      "note": "Everyday: μαμά (mamá)."
+    },
+    "father": {
+      "text": "Πατέρας",
+      "roman": "Patéras",
+      "note": "Everyday: μπαμπάς (bambás). Both parents: οι γονείς (i gonís)."
+    },
+    "brother": {
+      "text": "Αδερφός",
+      "roman": "Aderfós",
+      "note": "Also αδελφός (adelfós), the more formal form you will see in writing."
+    },
+    "sister": {
+      "text": "Αδερφή",
+      "roman": "Aderfí",
+      "note": "Also αδελφή (adelfí), the more formal form you will see in writing."
+    },
+    "child": {
+      "text": "Παιδί",
+      "roman": "Pedí",
+      "note": "Son: γιος (yios); daughter: κόρη (kóri). Children: παιδιά (pediá)."
+    },
+    "friend": {
+      "text": "Φίλος",
+      "roman": "Fílos",
+      "note": "Female: φίλη (fíli)."
+    },
+    "this_is_my_friend": {
+      "text": "Αυτός είναι ο φίλος μου",
+      "roman": "Aftós íne o fílos mou",
+      "note": "For a female friend: αυτή είναι η φίλη μου (aftí íne i fíli mou)."
+    },
+    "are_you_married": {
+      "text": "Είστε παντρεμένος;",
+      "roman": "Íste pandreménos?",
+      "note": "To a woman: είστε παντρεμένη; (íste pandreméni)."
+    },
+    "have_children": {
+      "text": "Έχετε παιδιά;",
+      "roman": "Échete pediá?",
+      "note": "To a friend: έχεις παιδιά; (échis pediá)."
+    },
+    "monday": {
+      "text": "Δευτέρα",
+      "roman": "Deftéra",
+      "note": "Literally 'second': Greeks count from Sunday. On Monday: τη Δευτέρα (ti Deftéra)."
+    },
+    "tuesday": {
+      "text": "Τρίτη",
+      "roman": "Tríti",
+      "note": "Literally 'third'. In Greece the unlucky day is Tuesday the 13th, not Friday."
+    },
+    "wednesday": {
+      "text": "Τετάρτη",
+      "roman": "Tetárti",
+      "note": "Literally 'fourth'."
+    },
+    "thursday": {
+      "text": "Πέμπτη",
+      "roman": "Pémpti",
+      "note": "Literally 'fifth'."
+    },
+    "friday": {
+      "text": "Παρασκευή",
+      "roman": "Paraskeví",
+      "note": "Not a number like the others: it means 'preparation' (for the Sabbath)."
+    },
+    "saturday": {
+      "text": "Σάββατο",
+      "roman": "Sávvato",
+      "note": "From 'Sabbath'. The double ββ sounds like a single v."
+    },
+    "sunday": {
+      "text": "Κυριακή",
+      "roman": "Kiriakí",
+      "note": "Means 'the Lord's day'."
+    },
+    "weekend": {
+      "text": "Σαββατοκύριακο",
+      "roman": "Savvatokíriako",
+      "note": "Saturday + Sunday in one word. Have a good one: καλό Σαββατοκύριακο! (kaló Savvatokíriako)."
+    },
+    "what_day": {
+      "text": "Τι μέρα είναι σήμερα;",
+      "roman": "Ti méra íne símera?",
+      "note": "Also: τι μέρα έχουμε σήμερα; (ti méra échoume símera)."
+    },
+    "next_week": {
+      "text": "Την επόμενη εβδομάδα",
+      "roman": "Tin epómeni evdomáda",
+      "note": "More casually: την άλλη εβδομάδα (tin álli evdomáda)."
+    },
+    "eleven": {
+      "text": "Έντεκα",
+      "roman": "Éndeka"
+    },
+    "twelve": {
+      "text": "Δώδεκα",
+      "roman": "Dódeka"
+    },
+    "fifteen": {
+      "text": "Δεκαπέντε",
+      "roman": "Dekapénde",
+      "note": "From 13 on it is ten + unit: δεκατρία (dekatría) 13, δεκαέξι (dekaéxi) 16."
+    },
+    "twenty": {
+      "text": "Είκοσι",
+      "roman": "Íkosi",
+      "note": "Just add the unit: είκοσι ένα (íkosi éna), 21."
+    },
+    "thirty": {
+      "text": "Τριάντα",
+      "roman": "Triánda"
+    },
+    "fifty": {
+      "text": "Πενήντα",
+      "roman": "Penínda"
+    },
+    "hundred": {
+      "text": "Εκατό",
+      "roman": "Ekató",
+      "note": "Before another number it becomes εκατόν: εκατόν είκοσι (ekatón íkosi), 120."
+    },
+    "thousand": {
+      "text": "Χίλια",
+      "roman": "Chília",
+      "note": "Two thousand: δύο χιλιάδες (dío chiliádes)."
+    },
+    "how_old": {
+      "text": "Πόσων χρονών είστε;",
+      "roman": "Póson chronón íste?",
+      "note": "To a friend or child: πόσων χρονών είσαι; (póson chronón íse)."
+    },
+    "years_old": {
+      "text": "Είμαι … χρονών",
+      "roman": "Íme … chronón",
+      "note": "E.g. είμαι τριάντα χρονών (íme triánda chronón). Χρονών is often dropped."
+    },
+    "red": {
+      "text": "Κόκκινο",
+      "roman": "Kókkino",
+      "note": "Neuter form; masculine κόκκινος (kókkinos), feminine κόκκινη (kókkini)."
+    },
+    "blue": {
+      "text": "Μπλε",
+      "roman": "Ble",
+      "note": "Never changes form. Light or sky blue: γαλάζιο (galázio)."
+    },
+    "green": {
+      "text": "Πράσινο",
+      "roman": "Prásino",
+      "note": "Neuter form; masculine πράσινος (prásinos), feminine πράσινη (prásini)."
+    },
+    "yellow": {
+      "text": "Κίτρινο",
+      "roman": "Kítrino",
+      "note": "Neuter form; masculine κίτρινος (kítrinos), feminine κίτρινη (kítrini)."
+    },
+    "black": {
+      "text": "Μαύρο",
+      "roman": "Mávro",
+      "note": "Neuter form; masculine μαύρος (mávros), feminine μαύρη (mávri)."
+    },
+    "white": {
+      "text": "Άσπρο",
+      "roman": "Áspro",
+      "note": "Neuter form; masculine άσπρος (áspros), feminine άσπρη (áspri). Formal: λευκό (lefkó)."
+    },
+    "what_colour": {
+      "text": "Τι χρώμα είναι;",
+      "roman": "Ti chróma íne?"
+    },
+    "this_one": {
+      "text": "Αυτό εδώ",
+      "roman": "Aftó edó",
+      "note": "Neuter form. For a masculine noun: αυτόν εδώ (aftón edó); feminine: αυτή εδώ (aftí edó)."
+    },
+    "that_one": {
+      "text": "Εκείνο εκεί",
+      "roman": "Ekíno ekí",
+      "note": "Neuter form. In everyday speech also αυτό εκεί (aftó ekí)."
+    },
+    "another_one": {
+      "text": "Άλλο ένα, παρακαλώ",
+      "roman": "Állo éna, parakaló",
+      "note": "For a masculine item: άλλον έναν (állon énan); feminine: άλλη μία (álli mía)."
+    },
+    "its_hot": {
+      "text": "Κάνει ζέστη",
+      "roman": "Káni zésti",
+      "note": "For the weather only. 'I feel hot' is ζεσταίνομαι (zesténome)."
+    },
+    "its_cold": {
+      "text": "Κάνει κρύο",
+      "roman": "Káni krío",
+      "note": "For the weather only. 'I feel cold' is κρυώνω (krióno)."
+    },
+    "its_raining": {
+      "text": "Βρέχει",
+      "roman": "Vréchi"
+    },
+    "its_sunny": {
+      "text": "Έχει ήλιο",
+      "roman": "Échi ílio",
+      "note": "Also: έχει λιακάδα (échi liakáda)."
+    },
+    "its_windy": {
+      "text": "Φυσάει",
+      "roman": "Fisái",
+      "note": "Literally 'it blows'. Also: έχει αέρα (échi aéra)."
+    },
+    "weather_today": {
+      "text": "Τι καιρό κάνει σήμερα;",
+      "roman": "Ti keró káni símera?"
+    },
+    "beautiful_day": {
+      "text": "Τι ωραία μέρα!",
+      "roman": "Ti oréa méra!",
+      "note": "Also: είναι πανέμορφη μέρα (íne panémorfi méra)."
+    },
+    "umbrella": {
+      "text": "Ομπρέλα",
+      "roman": "Ombréla"
+    },
+    "summer": {
+      "text": "Καλοκαίρι",
+      "roman": "Kalokéri",
+      "note": "Before the holidays people wish each other καλό καλοκαίρι! (kaló kalokéri)."
+    },
+    "winter": {
+      "text": "Χειμώνας",
+      "roman": "Chimónas",
+      "note": "In winter: τον χειμώνα (ton chimóna)."
+    },
+    "have_reservation": {
+      "text": "Έχω κάνει κράτηση",
+      "roman": "Écho káni krátisi",
+      "note": "Add your name: στο όνομα … (sto ónoma …)."
+    },
+    "room": {
+      "text": "Δωμάτιο",
+      "roman": "Domátio",
+      "note": "Single room: μονόκλινο (monóklino); double: δίκλινο (díklino)."
+    },
+    "passport": {
+      "text": "Διαβατήριο",
+      "roman": "Diavatírio"
+    },
+    "luggage": {
+      "text": "Αποσκευές",
+      "roman": "Aposkevés",
+      "note": "Everyday: οι βαλίτσες (i valítses), 'the suitcases'."
+    },
+    "wifi_password": {
+      "text": "Ποιος είναι ο κωδικός του Wi-Fi;",
+      "roman": "Pios íne o kodikós tou Wi-Fi?",
+      "note": "Wi-Fi is written and said as in English. κωδικός (kodikós) is the usual word for a password."
+    },
+    "check_out_time": {
+      "text": "Μέχρι τι ώρα πρέπει να αφήσω το δωμάτιο;",
+      "roman": "Méchri ti óra prépi na afíso to domátio?",
+      "note": "Reception may call check-out αναχώρηση (anachórisi), 'departure'."
+    },
+    "map": {
+      "text": "Χάρτης",
+      "roman": "Chártis",
+      "note": "Asking for one: έναν χάρτη, παρακαλώ (énan chárti, parakaló)."
+    },
+    "bus": {
+      "text": "Λεωφορείο",
+      "roman": "Leoforío",
+      "note": "Bus stop: στάση (stási)."
+    },
+    "next_train": {
+      "text": "Πότε φεύγει το επόμενο τρένο;",
+      "roman": "Póte févyi to epómeno tréno?"
+    },
+    "is_this_seat_free": {
+      "text": "Είναι ελεύθερη αυτή η θέση;",
+      "roman": "Íne eléftheri aftí i thési?",
+      "note": "Or: είναι πιασμένη; (íne piasméni), 'is it taken?'"
+    },
+    "what_do_you_do": {
+      "text": "Τι δουλειά κάνετε;",
+      "roman": "Ti douliá kánete?",
+      "note": "To a friend: τι δουλειά κάνεις; (ti douliá kánis)."
+    },
+    "i_work_in": {
+      "text": "Δουλεύω σε …",
+      "roman": "Doulévo se …",
+      "note": "E.g. σε τράπεζα (se trápeza), at a bank. σε + 'the' → στο/στη(ν)/στις: στις πωλήσεις (stis polísis), in sales."
+    },
+    "im_student": {
+      "text": "Είμαι φοιτητής",
+      "roman": "Íme fititís",
+      "note": "A woman says: είμαι φοιτήτρια (íme fitítria). A school pupil is μαθητής (mathitís)."
+    },
+    "office": {
+      "text": "Γραφείο",
+      "roman": "Grafío",
+      "note": "Also means 'desk'."
+    },
+    "meeting": {
+      "text": "Συνάντηση",
+      "roman": "Sinándisi",
+      "note": "For an internal work meeting, σύσκεψη (sískepsi) is also common."
+    },
+    "im_busy": {
+      "text": "Είμαι απασχολημένος",
+      "roman": "Íme apascholiménos",
+      "note": "A woman says: είμαι απασχολημένη (íme apascholiméni). Casually: έχω δουλειά (écho douliá)."
+    },
+    "day_off": {
+      "text": "Ρεπό",
+      "roman": "Repó",
+      "note": "I'm off today: έχω ρεπό σήμερα (écho repó símera)."
+    },
+    "colleague": {
+      "text": "Συνάδελφος",
+      "roman": "Sinádelfos",
+      "note": "Same word for a woman, with η: η συνάδελφος (i sinádelfos)."
+    },
+    "lets_start": {
+      "text": "Ας ξεκινήσουμε",
+      "roman": "As xekinísoume",
+      "note": "Also: ξεκινάμε! (xekináme), 'we're starting'."
+    },
+    "good_job": {
+      "text": "Μπράβο, καλή δουλειά!",
+      "roman": "Brávo, kalí douliá!",
+      "note": "Μπράβο! (brávo) alone is the most common praise. To a friend: μπράβο σου! (brávo sou)."
+    },
+    "table_for_two": {
+      "text": "Ένα τραπέζι για δύο, παρακαλώ",
+      "roman": "Éna trapézi yia dío, parakaló",
+      "note": "Often: για δύο άτομα (yia dío átoma), 'for two people'."
+    },
+    "what_recommend": {
+      "text": "Τι προτείνετε;",
+      "roman": "Ti protínete?",
+      "note": "Also: τι είναι καλό σήμερα; (ti íne kaló símera), 'what's good today?'"
+    },
+    "not_spicy": {
+      "text": "Όχι καυτερό, παρακαλώ",
+      "roman": "Óchi kafteró, parakaló",
+      "note": "Spicy is also πικάντικο (pikándiko)."
+    },
+    "vegetarian_food": {
+      "text": "Χορτοφαγικό φαγητό",
+      "roman": "Chortofayikó fayitó",
+      "note": "Asking: έχετε κάτι χορτοφαγικό; (échete káti chortofayikó)."
+    },
+    "more_water": {
+      "text": "Κι άλλο νερό, παρακαλώ",
+      "roman": "Ki állo neró, parakaló",
+      "note": "Another bottle: άλλο ένα νερό (állo éna neró)."
+    },
+    "no_sugar": {
+      "text": "Χωρίς ζάχαρη, παρακαλώ",
+      "roman": "Chorís záchari, parakaló",
+      "note": "Greek coffee with no sugar is σκέτος (skétos); medium sweet, μέτριος (métrios)."
+    },
+    "im_full": {
+      "text": "Χόρτασα",
+      "roman": "Chórtasa",
+      "note": "Also: είμαι χορτάτος (íme chortátos); a woman says χορτάτη (chortáti)."
+    },
+    "takeaway": {
+      "text": "Για πακέτο, παρακαλώ",
+      "roman": "Yia pakéto, parakaló",
+      "note": "In cafés also: για έξω (yia éxo). For here: για εδώ (yia edó)."
+    },
+    "it_was_delicious": {
+      "text": "Ήταν πολύ νόστιμο!",
+      "roman": "Ítan polí nóstimo!",
+      "note": "About the whole meal: ήταν όλα πολύ νόστιμα (ítan óla polí nóstima)."
+    },
+    "keep_change": {
+      "text": "Κρατήστε τα ρέστα",
+      "roman": "Kratíste ta résta"
+    },
+    "head": {
+      "text": "Κεφάλι",
+      "roman": "Kefáli"
+    },
+    "stomach": {
+      "text": "Στομάχι",
+      "roman": "Stomáchi",
+      "note": "Belly or tummy: κοιλιά (kiliá)."
+    },
+    "head_hurts": {
+      "text": "Πονάει το κεφάλι μου",
+      "roman": "Ponái to kefáli mou",
+      "note": "Also: έχω πονοκέφαλο (écho ponokéfalo), 'I have a headache'."
+    },
+    "have_fever": {
+      "text": "Έχω πυρετό",
+      "roman": "Écho piretó"
+    },
+    "medicine": {
+      "text": "Φάρμακο",
+      "roman": "Fármako",
+      "note": "Plural: φάρμακα (fármaka). Sold at the φαρμακείο (farmakío)."
+    },
+    "call_ambulance": {
+      "text": "Καλέστε ασθενοφόρο!",
+      "roman": "Kaléste asthenofóro!",
+      "note": "People also say: πάρτε το ΕΚΑΒ! (párte to ékav), the ambulance service. Number: 166."
+    },
+    "dentist": {
+      "text": "Οδοντίατρος",
+      "roman": "Odondíatros",
+      "note": "Literally 'tooth doctor'; tooth is δόντι (dóndi)."
+    },
+    "need_rest": {
+      "text": "Πρέπει να ξεκουραστώ",
+      "roman": "Prépi na xekourastó",
+      "note": "Also: χρειάζομαι ξεκούραση (chriázome xekoúrasi)."
+    },
+    "feel_better": {
+      "text": "Νιώθω καλύτερα",
+      "roman": "Niótho kalítera",
+      "note": "Also: είμαι καλύτερα (íme kalítera)."
+    },
+    "get_well": {
+      "text": "Περαστικά!",
+      "roman": "Perastiká!",
+      "note": "Literally 'may it pass'. Said to anyone who is ill or hurt."
+    },
+    "lets_meet": {
+      "text": "Ας βρεθούμε",
+      "roman": "As vrethoúme",
+      "note": "Often as an invitation: πάμε για καφέ; (páme yia kafé), 'shall we go for a coffee?'"
+    },
+    "are_you_free": {
+      "text": "Είστε ελεύθερος αύριο;",
+      "roman": "Íste eléftheros ávrio?",
+      "note": "To a woman: είστε ελεύθερη αύριο; (íste eléftheri ávrio). Also: έχετε χρόνο αύριο; (échete chróno ávrio)."
+    },
+    "call_me": {
+      "text": "Πάρτε με τηλέφωνο",
+      "roman": "Párte me tiléfono",
+      "note": "To a friend: πάρε με (páre me). Also: τηλεφωνήστε μου (tilefoníste mou)."
+    },
+    "your_number": {
+      "text": "Ποιο είναι το τηλέφωνό σας;",
+      "roman": "Pio íne to tiléfonó sas?",
+      "note": "To a friend: ποιο είναι το τηλέφωνό σου; (pio íne to tiléfonó sou)."
+    },
+    "see_you_soon": {
+      "text": "Τα λέμε σύντομα!",
+      "roman": "Ta léme síndoma!"
+    },
+    "have_nice_day": {
+      "text": "Καλή σας μέρα!",
+      "roman": "Kalí sas méra!",
+      "note": "To a friend: καλή σου μέρα! (kalí sou méra). Also very common: καλή συνέχεια! (kalí sinéchia)."
+    },
+    "good_luck": {
+      "text": "Καλή τύχη!",
+      "roman": "Kalí tíchi!",
+      "note": "Before an exam or a new job: καλή επιτυχία! (kalí epitichía)."
+    },
+    "happy_birthday": {
+      "text": "Χρόνια πολλά!",
+      "roman": "Chrónia pollá!",
+      "note": "Literally 'many years'. Also said on name days and holidays."
+    },
+    "thanks_a_lot": {
+      "text": "Ευχαριστώ πολύ",
+      "roman": "Efcharistó polí",
+      "note": "More polite: σας ευχαριστώ πολύ (sas efcharistó polí). Warmer still: πάρα πολύ (pára polí)."
+    },
+    "miss_you": {
+      "text": "Μου λείπεις",
+      "roman": "Mou lípis",
+      "note": "Literally 'you are missing to me'. To several people: μου λείπετε (mou lípete)."
     }
   }
 }

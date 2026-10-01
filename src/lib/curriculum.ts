@@ -1,14 +1,16 @@
-// The shared course. Every language teaches the same 100 phrases, keyed by a
-// concept id, so any language can be learned from any other: the learner
-// sees the phrase in the language they are learning and its meaning in the
-// language they already speak.
+// The shared course. Every language teaches the same phrases (two levels of
+// 100), keyed by a concept id, so any language can be learned from any
+// other: the learner sees the phrase in the language they are learning and
+// its meaning in the language they already speak.
 //
 // `hint` disambiguates the English for translators and is never shown.
 
 export type Concept = { id: string; en: string; hint?: string };
-export type Unit = { slug: string; title: string; emoji: string; blurb: string; concepts: Concept[] };
+export type Unit = { slug: string; title: string; emoji: string; blurb: string; level: 1 | 2; concepts: Concept[] };
 
-export const UNITS: Unit[] = [
+type UnitDef = Omit<Unit, "level">;
+
+const LEVEL_1: UnitDef[] = [
   {
     slug: "first-words",
     title: "First words",
@@ -189,6 +191,194 @@ export const UNITS: Unit[] = [
       { id: "congratulations", en: "Congratulations!" },
     ],
   },
+];
+
+const LEVEL_2: UnitDef[] = [
+  {
+    slug: "family",
+    title: "Family & friends",
+    emoji: "👨‍👩‍👧",
+    blurb: "Talk about the people in your life.",
+    concepts: [
+      { id: "my_family", en: "My family" },
+      { id: "mother", en: "Mother" },
+      { id: "father", en: "Father" },
+      { id: "brother", en: "Brother" },
+      { id: "sister", en: "Sister" },
+      { id: "child", en: "Child", hint: "a son or daughter, not 'kid' in general" },
+      { id: "friend", en: "Friend", hint: "a male friend; give the female form in a note if different" },
+      { id: "this_is_my_friend", en: "This is my friend", hint: "introducing a male friend; give the female form in a note if different" },
+      { id: "are_you_married", en: "Are you married?", hint: "polite" },
+      { id: "have_children", en: "Do you have children?", hint: "polite" },
+    ],
+  },
+  {
+    slug: "days-of-week",
+    title: "Days of the week",
+    emoji: "📅",
+    blurb: "Plan your week, from Monday to Sunday.",
+    concepts: [
+      { id: "monday", en: "Monday" },
+      { id: "tuesday", en: "Tuesday" },
+      { id: "wednesday", en: "Wednesday" },
+      { id: "thursday", en: "Thursday" },
+      { id: "friday", en: "Friday" },
+      { id: "saturday", en: "Saturday" },
+      { id: "sunday", en: "Sunday" },
+      { id: "weekend", en: "Weekend" },
+      { id: "what_day", en: "What day is it today?" },
+      { id: "next_week", en: "Next week" },
+    ],
+  },
+  {
+    slug: "numbers-2",
+    title: "Numbers 11–1000",
+    emoji: "💯",
+    blurb: "Bigger numbers, prices and ages.",
+    concepts: [
+      { id: "eleven", en: "Eleven", hint: "the number 11" },
+      { id: "twelve", en: "Twelve", hint: "the number 12" },
+      { id: "fifteen", en: "Fifteen", hint: "the number 15" },
+      { id: "twenty", en: "Twenty", hint: "the number 20" },
+      { id: "thirty", en: "Thirty", hint: "the number 30" },
+      { id: "fifty", en: "Fifty", hint: "the number 50" },
+      { id: "hundred", en: "One hundred", hint: "the number 100" },
+      { id: "thousand", en: "One thousand", hint: "the number 1000" },
+      { id: "how_old", en: "How old are you?", hint: "polite" },
+      { id: "years_old", en: "I'm … years old", hint: "… is where the number goes" },
+    ],
+  },
+  {
+    slug: "colours",
+    title: "Colours & choices",
+    emoji: "🎨",
+    blurb: "Describe things and pick the one you want.",
+    concepts: [
+      { id: "red", en: "Red" },
+      { id: "blue", en: "Blue" },
+      { id: "green", en: "Green" },
+      { id: "yellow", en: "Yellow" },
+      { id: "black", en: "Black" },
+      { id: "white", en: "White" },
+      { id: "what_colour", en: "What colour is it?" },
+      { id: "this_one", en: "This one", hint: "pointing at an item you want" },
+      { id: "that_one", en: "That one", hint: "pointing at an item further away" },
+      { id: "another_one", en: "Another one, please", hint: "one more of the same" },
+    ],
+  },
+  {
+    slug: "weather",
+    title: "Weather & seasons",
+    emoji: "🌤️",
+    blurb: "Small talk's favourite subject.",
+    concepts: [
+      { id: "its_hot", en: "It's hot", hint: "the weather" },
+      { id: "its_cold", en: "It's cold", hint: "the weather" },
+      { id: "its_raining", en: "It's raining" },
+      { id: "its_sunny", en: "It's sunny" },
+      { id: "its_windy", en: "It's windy" },
+      { id: "weather_today", en: "What's the weather like today?" },
+      { id: "beautiful_day", en: "It's a beautiful day" },
+      { id: "umbrella", en: "Umbrella" },
+      { id: "summer", en: "Summer" },
+      { id: "winter", en: "Winter" },
+    ],
+  },
+  {
+    slug: "travel",
+    title: "Hotel & travel",
+    emoji: "🧳",
+    blurb: "Check in, find your way, catch your train.",
+    concepts: [
+      { id: "have_reservation", en: "I have a reservation", hint: "at a hotel" },
+      { id: "room", en: "Room", hint: "a hotel room" },
+      { id: "passport", en: "Passport" },
+      { id: "luggage", en: "Luggage" },
+      { id: "wifi_password", en: "What's the Wi-Fi password?" },
+      { id: "check_out_time", en: "What time is check-out?", hint: "leaving a hotel" },
+      { id: "map", en: "Map" },
+      { id: "bus", en: "Bus" },
+      { id: "next_train", en: "When is the next train?" },
+      { id: "is_this_seat_free", en: "Is this seat free?", hint: "on a train, bus or in a café" },
+    ],
+  },
+  {
+    slug: "work",
+    title: "Work & study",
+    emoji: "💼",
+    blurb: "Jobs, offices and getting things done.",
+    concepts: [
+      { id: "what_do_you_do", en: "What do you do?", hint: "asking someone's job, politely" },
+      { id: "i_work_in", en: "I work in …", hint: "… is where a field or place goes, e.g. sales or a bank" },
+      { id: "im_student", en: "I'm a student", hint: "male speaker; give the female form in a note if different" },
+      { id: "office", en: "Office" },
+      { id: "meeting", en: "Meeting", hint: "a work meeting" },
+      { id: "im_busy", en: "I'm busy" },
+      { id: "day_off", en: "Day off", hint: "a day without work" },
+      { id: "colleague", en: "Colleague", hint: "male; give the female form in a note if different" },
+      { id: "lets_start", en: "Let's start" },
+      { id: "good_job", en: "Good job!", hint: "praising someone's work" },
+    ],
+  },
+  {
+    slug: "restaurant",
+    title: "At the restaurant",
+    emoji: "🍜",
+    blurb: "From getting a table to the last bite.",
+    concepts: [
+      { id: "table_for_two", en: "A table for two, please" },
+      { id: "what_recommend", en: "What do you recommend?", hint: "to a waiter, polite" },
+      { id: "not_spicy", en: "Not spicy, please" },
+      { id: "vegetarian_food", en: "Vegetarian food" },
+      { id: "more_water", en: "More water, please" },
+      { id: "no_sugar", en: "No sugar, please", hint: "in tea or coffee" },
+      { id: "im_full", en: "I'm full", hint: "had enough to eat" },
+      { id: "takeaway", en: "To take away, please", hint: "food packed to take with you" },
+      { id: "it_was_delicious", en: "It was delicious" },
+      { id: "keep_change", en: "Keep the change" },
+    ],
+  },
+  {
+    slug: "health",
+    title: "Body & health",
+    emoji: "🩺",
+    blurb: "Explain what hurts and get the right help.",
+    concepts: [
+      { id: "head", en: "Head" },
+      { id: "stomach", en: "Stomach" },
+      { id: "head_hurts", en: "My head hurts" },
+      { id: "have_fever", en: "I have a fever" },
+      { id: "medicine", en: "Medicine", hint: "medication" },
+      { id: "call_ambulance", en: "Call an ambulance!" },
+      { id: "dentist", en: "Dentist" },
+      { id: "need_rest", en: "I need to rest" },
+      { id: "feel_better", en: "I feel better" },
+      { id: "get_well", en: "Get well soon!" },
+    ],
+  },
+  {
+    slug: "social",
+    title: "Plans & wishes",
+    emoji: "🎉",
+    blurb: "Make plans and say the warm things.",
+    concepts: [
+      { id: "lets_meet", en: "Let's meet up" },
+      { id: "are_you_free", en: "Are you free tomorrow?", hint: "polite" },
+      { id: "call_me", en: "Call me", hint: "phone me; polite" },
+      { id: "your_number", en: "What's your phone number?", hint: "polite" },
+      { id: "see_you_soon", en: "See you soon" },
+      { id: "have_nice_day", en: "Have a nice day!" },
+      { id: "good_luck", en: "Good luck!" },
+      { id: "happy_birthday", en: "Happy birthday!" },
+      { id: "thanks_a_lot", en: "Thank you very much" },
+      { id: "miss_you", en: "I miss you", hint: "to a friend or family member" },
+    ],
+  },
+];
+
+export const UNITS: Unit[] = [
+  ...LEVEL_1.map((u) => ({ ...u, level: 1 as const })),
+  ...LEVEL_2.map((u) => ({ ...u, level: 2 as const })),
 ];
 
 export const CONCEPTS: Concept[] = UNITS.flatMap((u) => u.concepts);

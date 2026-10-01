@@ -399,6 +399,406 @@
     "congratulations": {
       "text": "Gefeliciteerd!",
       "note": "At a birthday, Dutch people also congratulate the family: Gefeliciteerd met je zoon!"
+    },
+    "my_family": {
+      "text": "Mijn familie",
+      "note": "Familie usually means all your relatives; your own household (partner and kids) is your gezin."
+    },
+    "mother": {
+      "text": "Moeder",
+      "note": "de moeder. To and about your own: mama or mam. Parents: de ouders."
+    },
+    "father": {
+      "text": "Vader",
+      "note": "de vader. To and about your own: papa or pap. The v is soft, close to f."
+    },
+    "brother": {
+      "text": "Broer",
+      "note": "de broer, plural broers. oe sounds like 'oo' in 'food': 'broor'."
+    },
+    "sister": {
+      "text": "Zus",
+      "note": "de zus, plural zussen. Zuster is old-fashioned and also means nurse."
+    },
+    "child": {
+      "text": "Kind",
+      "note": "het kind, plural kinderen. Son: de zoon. Daughter: de dochter."
+    },
+    "friend": {
+      "text": "Vriend",
+      "note": "de vriend. Female: vriendin. Mijn vriend / mijn vriendin often means boyfriend / girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "Dit is een vriend van mij",
+      "note": "For a female friend: Dit is een vriendin van mij. Dit is mijn vriend often means 'my boyfriend'."
+    },
+    "are_you_married": {
+      "text": "Bent u getrouwd?",
+      "note": "Casual: Ben je getrouwd? On forms you will see gehuwd."
+    },
+    "have_children": {
+      "text": "Heeft u kinderen?",
+      "note": "Casual: Heb je kinderen?"
+    },
+    "monday": {
+      "text": "maandag",
+      "note": "Days are written in lower case. On Monday: op maandag, or just maandag."
+    },
+    "tuesday": {
+      "text": "dinsdag",
+      "note": "The final g sounds like the throaty ch in Scottish 'loch': 'DINS-dakh'."
+    },
+    "wednesday": {
+      "text": "woensdag",
+      "note": "oe sounds like 'oo': 'WOONS-dakh'."
+    },
+    "thursday": {
+      "text": "donderdag",
+      "note": "From donder (thunder), after the thunder god – just like English Thursday."
+    },
+    "friday": {
+      "text": "vrijdag",
+      "note": "ij sounds between 'ay' and 'eye': roughly 'VRAY-dakh'."
+    },
+    "saturday": {
+      "text": "zaterdag",
+      "note": "Named after Saturn, like English Saturday."
+    },
+    "sunday": {
+      "text": "zondag",
+      "note": "On Sundays: op zondag, or 's zondags."
+    },
+    "weekend": {
+      "text": "Weekend",
+      "note": "het weekend. Dutch really uses this word. Have a nice weekend: Fijn weekend!"
+    },
+    "what_day": {
+      "text": "Welke dag is het vandaag?",
+      "note": "For the date: De hoeveelste is het vandaag? or Welke datum is het vandaag?"
+    },
+    "next_week": {
+      "text": "Volgende week",
+      "note": "No preposition needed: Ik kom volgende week. Also common: komende week."
+    },
+    "eleven": {
+      "text": "Elf",
+      "note": "Rhymes with English 'shelf'."
+    },
+    "twelve": {
+      "text": "Twaalf",
+      "note": "aa is a long 'ah': 'twahlf'."
+    },
+    "fifteen": {
+      "text": "Vijftien",
+      "note": "Teens are built like English: vijf + tien. But 13 is dertien and 14 is veertien."
+    },
+    "twenty": {
+      "text": "Twintig",
+      "note": "Units come first: 21 is eenentwintig, 'one-and-twenty', written as one word."
+    },
+    "thirty": {
+      "text": "Dertig",
+      "note": "Not drie-: dertig, like dertien (13). Forty is veertig."
+    },
+    "fifty": {
+      "text": "Vijftig",
+      "note": "In prices, euro stays singular: vijftig euro."
+    },
+    "hundred": {
+      "text": "Honderd",
+      "note": "No 'one' needed: honderd euro. 150 is honderdvijftig, one word."
+    },
+    "thousand": {
+      "text": "Duizend",
+      "note": "In writing, a dot separates thousands (1.000) and a comma marks decimals."
+    },
+    "how_old": {
+      "text": "Hoe oud bent u?",
+      "note": "Casual: Hoe oud ben je?"
+    },
+    "years_old": {
+      "text": "Ik ben … jaar",
+      "note": "Jaar stays singular after a number. Also: Ik ben … jaar oud, or simply Ik ben dertig."
+    },
+    "red": {
+      "text": "Rood",
+      "note": "Before a noun it usually adds -e: een rode jas. Red wine: rode wijn."
+    },
+    "blue": {
+      "text": "Blauw",
+      "note": "auw sounds like 'ow' in 'cow'. Before a noun: blauwe, as in een blauwe jas."
+    },
+    "green": {
+      "text": "Groen",
+      "note": "oe sounds like 'oo': 'groon'. Green tea: groene thee."
+    },
+    "yellow": {
+      "text": "Geel",
+      "note": "The g is throaty, as in Scottish 'loch': 'khayl'."
+    },
+    "black": {
+      "text": "Zwart",
+      "note": "Before a noun: zwarte. Black coffee: zwarte koffie."
+    },
+    "white": {
+      "text": "Wit",
+      "note": "Before a noun the t doubles: witte wijn (white wine)."
+    },
+    "what_colour": {
+      "text": "Welke kleur is het?",
+      "note": "Also common: Welke kleur heeft het? or Wat voor kleur is het?"
+    },
+    "this_one": {
+      "text": "Deze",
+      "note": "For a het-word, say dit: dit broodje. When buying: Ik neem deze."
+    },
+    "that_one": {
+      "text": "Die",
+      "note": "For a het-word, say dat: dat broodje. Pointing further off: die daar."
+    },
+    "another_one": {
+      "text": "Nog één, alstublieft",
+      "note": "The accents mark the stressed een, 'ayn'. Casual: Nog eentje! With a noun it is unstressed: Nog een koffie, graag."
+    },
+    "its_hot": {
+      "text": "Het is warm",
+      "note": "Really hot: Het is heet, or casually Het is bloedheet!"
+    },
+    "its_cold": {
+      "text": "Het is koud",
+      "note": "Very cold: Het is ijskoud. Below zero: Het vriest."
+    },
+    "its_raining": {
+      "text": "Het regent",
+      "note": "Pouring: Het giet! or the idiom Het regent pijpenstelen."
+    },
+    "its_sunny": {
+      "text": "De zon schijnt",
+      "note": "Also: Het is zonnig. For lovely weather in general: Lekker weer!"
+    },
+    "its_windy": {
+      "text": "Het waait",
+      "note": "Also: Het is winderig. Very windy: Het waait hard."
+    },
+    "weather_today": {
+      "text": "Wat voor weer is het vandaag?",
+      "note": "Also common: Hoe is het weer vandaag? The forecast is het weerbericht."
+    },
+    "beautiful_day": {
+      "text": "Wat een mooie dag!",
+      "note": "About the weather people often say: Wat een lekker weer! or Prachtig weer, hè?"
+    },
+    "umbrella": {
+      "text": "Paraplu",
+      "note": "de paraplu. Stress on the end: pa-ra-PLU. A sunshade is a parasol."
+    },
+    "summer": {
+      "text": "Zomer",
+      "note": "de zomer. In summer: in de zomer, or 's zomers."
+    },
+    "winter": {
+      "text": "Winter",
+      "note": "de winter. Same word as English, but the w is softer, close to v. In winter: 's winters."
+    },
+    "have_reservation": {
+      "text": "Ik heb een reservering",
+      "note": "With your name: Ik heb een reservering op naam van … Also: Ik heb gereserveerd."
+    },
+    "room": {
+      "text": "Kamer",
+      "note": "de kamer. Single room: eenpersoonskamer. Double room: tweepersoonskamer."
+    },
+    "passport": {
+      "text": "Paspoort",
+      "note": "het paspoort. Any photo ID is an identiteitsbewijs."
+    },
+    "luggage": {
+      "text": "Bagage",
+      "note": "de bagage. Say ba-KHAA-zhuh: the first g is throaty, the second is French. Hand luggage: handbagage."
+    },
+    "wifi_password": {
+      "text": "Wat is het wachtwoord van de wifi?",
+      "note": "Wifi is often said 'WEE-fee'. Also: Wat is het wifiwachtwoord?"
+    },
+    "check_out_time": {
+      "text": "Hoe laat moet ik uitchecken?",
+      "note": "Dutch borrows check in and out as inchecken and uitchecken."
+    },
+    "map": {
+      "text": "Kaart",
+      "note": "de kaart. A city map is a plattegrond. Kaart also means card or menu."
+    },
+    "bus": {
+      "text": "Bus",
+      "note": "de bus. By bus: met de bus. Bus stop: de bushalte."
+    },
+    "next_train": {
+      "text": "Wanneer gaat de volgende trein?",
+      "note": "Also very common: Hoe laat gaat de volgende trein? Platform: het spoor or het perron."
+    },
+    "is_this_seat_free": {
+      "text": "Is deze plaats nog vrij?",
+      "note": "Also very common: Is deze plek nog vrij? or Zit hier iemand?"
+    },
+    "what_do_you_do": {
+      "text": "Wat doet u voor werk?",
+      "note": "Casual: Wat doe je voor werk? Wat doet u? alone can also mean 'What are you doing?'"
+    },
+    "i_work_in": {
+      "text": "Ik werk in …",
+      "note": "For a field: Ik werk in de zorg (healthcare). For a company, use bij: Ik werk bij een bank."
+    },
+    "im_student": {
+      "text": "Ik ben student",
+      "note": "No article in Dutch. Women usually say student too; studente also exists."
+    },
+    "office": {
+      "text": "Kantoor",
+      "note": "het kantoor. At the office: op kantoor, with no article."
+    },
+    "meeting": {
+      "text": "Vergadering",
+      "note": "de vergadering. In offices people also say meeting or overleg: Ik zit in een overleg."
+    },
+    "im_busy": {
+      "text": "Ik heb het druk",
+      "note": "Dutch says 'I have it busy'. Ik ben bezig means you're in the middle of something."
+    },
+    "day_off": {
+      "text": "Vrije dag",
+      "note": "een vrije dag. I'm off today: Ik heb vandaag vrij. To take a day off: een dag vrij nemen."
+    },
+    "colleague": {
+      "text": "Collega",
+      "note": "de collega, the same word for a man or a woman. Say 'ko-LAY-khah'."
+    },
+    "lets_start": {
+      "text": "Laten we beginnen",
+      "note": "Also common, as a gentle question: Zullen we beginnen?"
+    },
+    "good_job": {
+      "text": "Goed gedaan!",
+      "note": "Also: Knap gedaan! Casual encouragement: Lekker bezig! (Keep it up!)"
+    },
+    "table_for_two": {
+      "text": "Een tafel voor twee, alstublieft",
+      "note": "Often asked as a question: Heeft u een tafeltje voor twee?"
+    },
+    "what_recommend": {
+      "text": "Wat kunt u aanraden?",
+      "note": "Also: Wat raadt u aan? Casual: Wat is hier lekker?"
+    },
+    "not_spicy": {
+      "text": "Niet pittig, alstublieft",
+      "note": "Softer: Niet te pittig, graag. To ask: Is dit pittig?"
+    },
+    "vegetarian_food": {
+      "text": "Vegetarisch eten",
+      "note": "To ask: Heeft u iets vegetarisch? Vegan is veganistisch."
+    },
+    "more_water": {
+      "text": "Nog wat water, alstublieft",
+      "note": "For tap water, ask for kraanwater. A jug of water is een karaf water."
+    },
+    "no_sugar": {
+      "text": "Zonder suiker, alstublieft",
+      "note": "No milk: zonder melk. The ui in suiker is like 'ow' in 'house', with rounded lips."
+    },
+    "im_full": {
+      "text": "Ik zit vol",
+      "note": "Dutch says 'I sit full'. Politer to a host: Ik heb genoeg gehad, dank u."
+    },
+    "takeaway": {
+      "text": "Om mee te nemen, alstublieft",
+      "note": "Staff may ask: Hier opeten of meenemen? (Eat here or take away?)"
+    },
+    "it_was_delicious": {
+      "text": "Het was heerlijk",
+      "note": "Also: Het was erg lekker! Waiters often ask: Heeft het gesmaakt?"
+    },
+    "keep_change": {
+      "text": "Laat maar zitten",
+      "note": "Also common: Het is goed zo. Tips are modest; rounding up is normal."
+    },
+    "head": {
+      "text": "Hoofd",
+      "note": "het hoofd. The final d sounds like t. Headache: hoofdpijn."
+    },
+    "stomach": {
+      "text": "Buik",
+      "note": "de buik, your belly. The organ itself is de maag. Stomach ache: buikpijn."
+    },
+    "head_hurts": {
+      "text": "Ik heb hoofdpijn",
+      "note": "Dutch says 'I have headache'. Also: Mijn hoofd doet pijn."
+    },
+    "have_fever": {
+      "text": "Ik heb koorts",
+      "note": "A slight temperature: Ik heb verhoging."
+    },
+    "medicine": {
+      "text": "Medicijn",
+      "note": "het medicijn, usually in the plural: medicijnen. Painkiller: een pijnstiller."
+    },
+    "call_ambulance": {
+      "text": "Bel een ambulance!",
+      "note": "Or just: Bel 112! Say 'am-bu-LAN-suh'."
+    },
+    "dentist": {
+      "text": "Tandarts",
+      "note": "de tandarts: tand (tooth) + arts (doctor). Toothache: kiespijn."
+    },
+    "need_rest": {
+      "text": "Ik moet rusten",
+      "note": "Adding even softens it: Ik moet even rusten. Also: Ik heb rust nodig."
+    },
+    "feel_better": {
+      "text": "Ik voel me beter",
+      "note": "Also very common: Het gaat al beter."
+    },
+    "get_well": {
+      "text": "Beterschap!",
+      "note": "Said to anyone who is ill. Warmer: Veel beterschap! or Word snel beter!"
+    },
+    "lets_meet": {
+      "text": "Laten we een keer afspreken",
+      "note": "As a question: Zullen we een keer afspreken? Een keer means 'some time'; afspreken is to arrange to meet."
+    },
+    "are_you_free": {
+      "text": "Heeft u morgen tijd?",
+      "note": "Casual: Heb je morgen tijd? Ben je morgen vrij? means off work."
+    },
+    "call_me": {
+      "text": "Belt u mij maar",
+      "note": "Casual: Bel me maar! The maar makes it a friendly invitation rather than an order."
+    },
+    "your_number": {
+      "text": "Wat is uw telefoonnummer?",
+      "note": "Casual: Wat is je nummer? In the Netherlands a mobile number is often called je 06-nummer."
+    },
+    "see_you_soon": {
+      "text": "Tot snel",
+      "note": "Also: Tot gauw! Tot straks is for later the same day."
+    },
+    "have_nice_day": {
+      "text": "Fijne dag!",
+      "note": "Shop staff often say: Nog een fijne dag! Reply: U ook! or, casually, Jij ook!"
+    },
+    "good_luck": {
+      "text": "Succes!",
+      "note": "Say 'suk-SES'. Also: Veel succes! Veel geluk is more for luck in life."
+    },
+    "happy_birthday": {
+      "text": "Gefeliciteerd met je verjaardag!",
+      "note": "Polite: met uw verjaardag. Often just: Van harte! The birthday song is Lang zal ze leven."
+    },
+    "thanks_a_lot": {
+      "text": "Hartelijk bedankt",
+      "note": "Also very common: Heel erg bedankt! Casual: Superbedankt!"
+    },
+    "miss_you": {
+      "text": "Ik mis je",
+      "note": "Warmer: Ik mis je heel erg. Je is said 'yuh'."
     }
   }
 }

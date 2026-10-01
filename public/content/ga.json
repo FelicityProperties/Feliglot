@@ -387,6 +387,405 @@
     "congratulations": {
       "text": "Comhghairdeas!",
       "note": "Well done!: Maith thú!"
+    },
+    "my_family": {
+      "text": "Mo theaghlach",
+      "note": "Mo (my) softens teaghlach to theaghlach. Also: mo mhuintir (my people, my folks)."
+    },
+    "mother": {
+      "text": "Máthair",
+      "note": "Mum: mam or mamaí. My mother: mo mháthair."
+    },
+    "father": {
+      "text": "Athair",
+      "note": "Dad: daid or daidí. My father: m'athair."
+    },
+    "brother": {
+      "text": "Deartháir",
+      "note": "Said roughly 'dreh-hawr'. My brother: mo dheartháir."
+    },
+    "sister": {
+      "text": "Deirfiúr",
+      "note": "Said roughly 'dreh-fyoor'. My sister: mo dheirfiúr."
+    },
+    "child": {
+      "text": "Páiste",
+      "note": "Son: mac. Daughter: iníon. Also: leanbh (child, baby)."
+    },
+    "friend": {
+      "text": "Cara",
+      "note": "Same word for a female friend. My friend: mo chara."
+    },
+    "this_is_my_friend": {
+      "text": "Seo é mo chara",
+      "note": "For a female friend: Seo í mo chara."
+    },
+    "are_you_married": {
+      "text": "An bhfuil tú pósta?",
+      "note": "Answers: tá (I am) or níl (I'm not)."
+    },
+    "have_children": {
+      "text": "An bhfuil páistí agat?",
+      "note": "Also: An bhfuil clann agat?"
+    },
+    "monday": {
+      "text": "Dé Luain",
+      "note": "Said roughly 'day loo-in'. Every Monday: gach Luan."
+    },
+    "tuesday": {
+      "text": "Dé Máirt",
+      "note": "Named after Mars, like French mardi."
+    },
+    "wednesday": {
+      "text": "Dé Céadaoin",
+      "note": "Said roughly 'day kay-deen'. Céadaoin means 'first fast'."
+    },
+    "thursday": {
+      "text": "Déardaoin",
+      "note": "Written as one word, unlike the other days. Said roughly 'dayr-deen'."
+    },
+    "friday": {
+      "text": "Dé hAoine",
+      "note": "Said roughly 'day hee-nyeh'. Aoine means 'fast': the old meatless day."
+    },
+    "saturday": {
+      "text": "Dé Sathairn",
+      "note": "Said roughly 'day sa-hirn'."
+    },
+    "sunday": {
+      "text": "Dé Domhnaigh",
+      "note": "Said roughly 'day dow-nee'."
+    },
+    "weekend": {
+      "text": "Deireadh seachtaine",
+      "note": "This weekend: an deireadh seachtaine seo."
+    },
+    "what_day": {
+      "text": "Cén lá atá ann inniu?",
+      "note": "Answer e.g. Inniu an Luan (Today is Monday). Also: Cén lá é inniu?"
+    },
+    "next_week": {
+      "text": "An tseachtain seo chugainn",
+      "note": "Last week: an tseachtain seo caite."
+    },
+    "eleven": {
+      "text": "A haon déag",
+      "note": "With a noun: aon chupán déag (eleven cups)."
+    },
+    "twelve": {
+      "text": "A dó dhéag",
+      "note": "With a noun: dhá chupán déag (twelve cups)."
+    },
+    "fifteen": {
+      "text": "A cúig déag",
+      "note": "With a noun: cúig chupán déag (fifteen cups)."
+    },
+    "twenty": {
+      "text": "Fiche",
+      "note": "Said roughly 'fih-heh'. No a before the tens. Twenty-one: fiche a haon."
+    },
+    "thirty": {
+      "text": "Tríocha",
+      "note": "The older style is still heard in speech: deich is fiche (ten and twenty)."
+    },
+    "fifty": {
+      "text": "Caoga",
+      "note": "Said roughly 'kee-ga'."
+    },
+    "hundred": {
+      "text": "Céad",
+      "note": "Said 'kayd', as in céad míle fáilte (a hundred thousand welcomes)."
+    },
+    "thousand": {
+      "text": "Míle",
+      "note": "Said 'mee-leh'. Also means a mile."
+    },
+    "how_old": {
+      "text": "Cén aois thú?",
+      "note": "Also common: Cén aois atá tú?"
+    },
+    "years_old": {
+      "text": "Tá mé … bliain d'aois",
+      "note": "E.g. Tá mé fiche bliain d'aois. After 3–6 say bliana; after 7–10, mbliana."
+    },
+    "red": {
+      "text": "Dearg",
+      "note": "Said roughly 'jar-ug'. Red hair is rua, not dearg."
+    },
+    "blue": {
+      "text": "Gorm",
+      "note": "Said roughly 'gur-um'."
+    },
+    "green": {
+      "text": "Glas",
+      "note": "Glas is nature's green (grass, fields); for bright, artificial green many say uaine."
+    },
+    "yellow": {
+      "text": "Buí",
+      "note": "Said 'bwee'."
+    },
+    "black": {
+      "text": "Dubh",
+      "note": "Said roughly 'duv'. Dublin comes from Dubh Linn, 'black pool'."
+    },
+    "white": {
+      "text": "Bán",
+      "note": "Said 'bawn'."
+    },
+    "what_colour": {
+      "text": "Cén dath atá air?",
+      "note": "For a feminine noun: Cén dath atá uirthi?"
+    },
+    "this_one": {
+      "text": "An ceann seo",
+      "note": "Ceann stands in for the noun, like 'one' in English."
+    },
+    "that_one": {
+      "text": "An ceann sin",
+      "note": "That one over there: an ceann sin thall."
+    },
+    "another_one": {
+      "text": "Ceann eile, le do thoil",
+      "note": "Same again (e.g. drinks): an rud céanna arís, le do thoil."
+    },
+    "its_hot": {
+      "text": "Tá sé te",
+      "note": "Very hot: tá sé an-te. Scorching: tá sé ag scoilteadh na gcloch (splitting the stones)."
+    },
+    "its_cold": {
+      "text": "Tá sé fuar",
+      "note": "Very cold: tá sé an-fhuar. I'm cold: tá fuacht orm."
+    },
+    "its_raining": {
+      "text": "Tá sé ag cur báistí",
+      "note": "Also: tá sé ag báisteach. Pouring: tá sé ag stealladh báistí."
+    },
+    "its_sunny": {
+      "text": "Tá an ghrian ag taitneamh",
+      "note": "Also: tá sé grianmhar."
+    },
+    "its_windy": {
+      "text": "Tá sé gaofar",
+      "note": "Very windy: tá gaoth mhór ann."
+    },
+    "weather_today": {
+      "text": "Conas atá an aimsir inniu?",
+      "note": "Connacht: Cén chaoi a bhfuil an aimsir inniu? Ulster: Cad é mar atá an aimsir inniu?"
+    },
+    "beautiful_day": {
+      "text": "Is álainn an lá é",
+      "note": "The classic small-talk line: Lá breá! (A fine day!)"
+    },
+    "umbrella": {
+      "text": "Scáth fearthainne",
+      "note": "Also: scáth báistí."
+    },
+    "summer": {
+      "text": "Samhradh",
+      "note": "Said roughly 'sow-ruh'. In summer: sa samhradh."
+    },
+    "winter": {
+      "text": "Geimhreadh",
+      "note": "In winter: sa gheimhreadh."
+    },
+    "have_reservation": {
+      "text": "Tá áirithint agam",
+      "note": "Also: tá seomra curtha in áirithe agam (I've booked a room)."
+    },
+    "room": {
+      "text": "Seomra",
+      "note": "Said roughly 'shohm-ruh'. A single room: seomra singil; a double: seomra dúbailte."
+    },
+    "passport": {
+      "text": "Pas",
+      "note": "My passport: mo phas."
+    },
+    "luggage": {
+      "text": "Bagáiste",
+      "note": "Often just: na málaí (the bags)."
+    },
+    "wifi_password": {
+      "text": "Cén pasfhocal atá ar an Wi-Fi?",
+      "note": "The fh in pasfhocal is silent: said roughly 'pass-ock-ul'."
+    },
+    "check_out_time": {
+      "text": "Cén t-am a chaithfidh mé an seomra a fhágáil?"
+    },
+    "map": {
+      "text": "Léarscáil",
+      "note": "Also common: mapa."
+    },
+    "bus": {
+      "text": "Bus",
+      "note": "By bus: ar an mbus (said 'ar un mus')."
+    },
+    "next_train": {
+      "text": "Cathain a imeoidh an chéad traein eile?",
+      "note": "An chéad … eile = the next …: an chéad bhus eile (the next bus)."
+    },
+    "is_this_seat_free": {
+      "text": "An bhfuil an suíochán seo saor?",
+      "note": "Also natural: An bhfuil aon duine ina shuí anseo? (Is anyone sitting here?)"
+    },
+    "what_do_you_do": {
+      "text": "Cén obair a dhéanann tú?",
+      "note": "Also: Cén post atá agat?"
+    },
+    "i_work_in": {
+      "text": "Tá mé ag obair i …",
+      "note": "E.g. Tá mé ag obair i mbanc (i adds m before b). Before a vowel use in: in oifig."
+    },
+    "im_student": {
+      "text": "Is mac léinn mé",
+      "note": "Women usually say it too, though iníon léinn is also heard. Said roughly 'mock layn'."
+    },
+    "office": {
+      "text": "Oifig",
+      "note": "In the office: san oifig."
+    },
+    "meeting": {
+      "text": "Cruinniú",
+      "note": "Said roughly 'krin-yoo'. I have a meeting: tá cruinniú agam."
+    },
+    "im_busy": {
+      "text": "Tá mé gnóthach",
+      "note": "Also common: tá mé cruógach."
+    },
+    "day_off": {
+      "text": "Lá saor",
+      "note": "I have a day off tomorrow: tá lá saor agam amárach."
+    },
+    "colleague": {
+      "text": "Comhghleacaí",
+      "note": "Same word for a woman. Said roughly 'koh-ghlak-ee': the gh is a soft, throaty sound, not a hard g."
+    },
+    "lets_start": {
+      "text": "Tosaímis",
+      "note": "Also common: Ar aghaidh linn! (Off we go!)"
+    },
+    "good_job": {
+      "text": "Maith thú!",
+      "note": "Also: obair mhaith! Very common too: maith an fear! (to a man), maith an cailín! (to a woman)."
+    },
+    "table_for_two": {
+      "text": "Bord do bheirt, le do thoil",
+      "note": "Beirt means 'two people'. For three: bord do thriúr."
+    },
+    "what_recommend": {
+      "text": "Cad a mholfá dom?",
+      "note": "Connacht: Céard a mholfá dom? Ulster: Cad é a mholfá dom?"
+    },
+    "not_spicy": {
+      "text": "Gan é a bheith spíosrach, le do thoil",
+      "note": "Te ('hot') also works: gan é a bheith róthe (not too hot)."
+    },
+    "vegetarian_food": {
+      "text": "Bia feoilséantach",
+      "note": "In speech also: bia gan feoil (food without meat)."
+    },
+    "more_water": {
+      "text": "Tuilleadh uisce, le do thoil",
+      "note": "Tuilleadh = more (of something): tuilleadh aráin (more bread)."
+    },
+    "no_sugar": {
+      "text": "Gan siúcra, le do thoil",
+      "note": "With milk: le bainne. Black coffee: caife dubh."
+    },
+    "im_full": {
+      "text": "Tá mo sháith ite agam",
+      "note": "Literally 'I've eaten my fill'. Shorter: tá mé lán or tá mé sách."
+    },
+    "takeaway": {
+      "text": "Le tabhairt liom, le do thoil",
+      "note": "Takeaway food is bia beir leat."
+    },
+    "it_was_delicious": {
+      "text": "Bhí sé an-bhlasta",
+      "note": "Also: bhí sé go hálainn (it was lovely)."
+    },
+    "keep_change": {
+      "text": "Coinnigh an tsóinseáil",
+      "note": "After an the s is silent: said roughly 'un tone-shawl'."
+    },
+    "head": {
+      "text": "Ceann",
+      "note": "Said roughly 'kyown'. Also means 'one', as in an ceann seo (this one)."
+    },
+    "stomach": {
+      "text": "Bolg",
+      "note": "Said roughly 'bul-ug'. Stomach ache: tinneas boilg."
+    },
+    "head_hurts": {
+      "text": "Tá tinneas cinn orm",
+      "note": "Literally 'head-sickness is on me'. Also: tá pian i mo cheann."
+    },
+    "have_fever": {
+      "text": "Tá fiabhras orm",
+      "note": "A temperature: tá teocht ard orm."
+    },
+    "medicine": {
+      "text": "Cógas",
+      "note": "Hence cógaslann (pharmacy). Also: leigheas. Pills: piollaí or táibléid."
+    },
+    "call_ambulance": {
+      "text": "Glaoigh ar otharcharr!",
+      "note": "Otharcharr literally means 'patient car'. In Ireland dial 112 or 999."
+    },
+    "dentist": {
+      "text": "Fiaclóir",
+      "note": "From fiacail (tooth). Toothache: tinneas fiacaile."
+    },
+    "need_rest": {
+      "text": "Caithfidh mé mo scíth a ligean",
+      "note": "Also: tá scíth uaim (I need a rest)."
+    },
+    "feel_better": {
+      "text": "Tá biseach orm",
+      "note": "Also: tá mé níos fearr anois."
+    },
+    "get_well": {
+      "text": "Biseach luath ort!",
+      "note": "Fuller: Go dtaga biseach ort go luath!"
+    },
+    "lets_meet": {
+      "text": "Buailimis le chéile",
+      "note": "As a question: An mbuailfimid le chéile? (Shall we meet up?)"
+    },
+    "are_you_free": {
+      "text": "An mbeidh tú saor amárach?",
+      "note": "Irish uses 'will you be' with tomorrow. Answers: beidh (yes) or ní bheidh (no)."
+    },
+    "call_me": {
+      "text": "Cuir glao orm",
+      "note": "Also: glaoigh orm. Ulster: cuir scairt orm."
+    },
+    "your_number": {
+      "text": "Cén uimhir fhóin atá agat?",
+      "note": "The fh is silent. Often heard as uimhir fóin. Ulster: Cén uimhir ghutháin atá agat?"
+    },
+    "see_you_soon": {
+      "text": "Feicfidh mé go luath thú",
+      "note": "The thú (you) goes at the end, as in feicfidh mé ar ball thú."
+    },
+    "have_nice_day": {
+      "text": "Bíodh lá maith agat!",
+      "note": "To several people: bíodh lá maith agaibh!"
+    },
+    "good_luck": {
+      "text": "Go n-éirí leat!",
+      "note": "To several people: go n-éirí libh! Also very common: ádh mór!"
+    },
+    "happy_birthday": {
+      "text": "Breithlá sona duit!",
+      "note": "Also very common: Lá breithe sona duit!"
+    },
+    "thanks_a_lot": {
+      "text": "Go raibh míle maith agat",
+      "note": "Míle (a thousand) makes it stronger. To several people: go raibh míle maith agaibh."
+    },
+    "miss_you": {
+      "text": "Braithim uaim thú",
+      "note": "Also: airím uaim thú (Munster), or is fada liom uaim thú."
     }
   }
 }

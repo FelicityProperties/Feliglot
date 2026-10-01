@@ -350,6 +350,391 @@
     },
     "congratulations": {
       "text": "Hambalyo!"
+    },
+    "my_family": {
+      "text": "Qoyskayga",
+      "note": "In everyday speech also reerkayga (my household)."
+    },
+    "mother": {
+      "text": "Hooyo",
+      "note": "My mother: hooyaday."
+    },
+    "father": {
+      "text": "Aabbe",
+      "note": "My father: aabbahay. Also spelled aabe."
+    },
+    "brother": {
+      "text": "Walaal",
+      "note": "One word for brother and sister; masculine here: walaalka (the brother), walaalkay (my brother)."
+    },
+    "sister": {
+      "text": "Walaal",
+      "note": "Same word as brother, but feminine: walaasha (the sister), walaashay (my sister)."
+    },
+    "child": {
+      "text": "Ilmo",
+      "note": "Children: carruur. Son: wiil; daughter: gabadh (gabar in the south)."
+    },
+    "friend": {
+      "text": "Saaxiib",
+      "note": "A female friend: saaxiibad."
+    },
+    "this_is_my_friend": {
+      "text": "Kani waa saaxiibkay",
+      "note": "For a female friend: tani waa saaxiibadday."
+    },
+    "are_you_married": {
+      "text": "Ma guursatay?",
+      "note": "Literally 'have you married?'; the same for a man or a woman."
+    },
+    "have_children": {
+      "text": "Carruur ma leedahay?"
+    },
+    "monday": {
+      "text": "Isniin",
+      "note": "'On Monday': Isniinta, e.g. Isniinta ayaan imanayaa (I'm coming on Monday)."
+    },
+    "tuesday": {
+      "text": "Talaado",
+      "note": "Like all Somali day names it comes from Arabic: literally 'the third (day)'."
+    },
+    "wednesday": {
+      "text": "Arbaco",
+      "note": "The c is a throaty sound, the Arabic ʿayn, squeezed deep in the throat."
+    },
+    "thursday": {
+      "text": "Khamiis",
+      "note": "Kh is a rough sound, like ch in Scottish 'loch'."
+    },
+    "friday": {
+      "text": "Jimce",
+      "note": "The weekly day off and day of prayer. 'On Friday': Jimcaha."
+    },
+    "saturday": {
+      "text": "Sabti",
+      "note": "The Somali working week starts on Saturday."
+    },
+    "sunday": {
+      "text": "Axad",
+      "note": "X is a strong breathy h, as in Axmed (Ahmed). A normal working day in Somalia."
+    },
+    "weekend": {
+      "text": "Dhammaadka toddobaadka",
+      "note": "Literally 'the end of the week'. In Somalia the weekly day off is Friday (Jimce)."
+    },
+    "what_day": {
+      "text": "Maanta waa maalintee?",
+      "note": "Answer: maanta waa Jimce (today is Friday)."
+    },
+    "next_week": {
+      "text": "Toddobaadka soo socda",
+      "note": "Usbuuc is also common: usbuuca soo socda. Last week: toddobaadkii hore."
+    },
+    "eleven": {
+      "text": "Kow iyo toban",
+      "note": "Literally 'one and ten': the unit comes first. You will also hear toban iyo kow."
+    },
+    "twelve": {
+      "text": "Laba iyo toban"
+    },
+    "fifteen": {
+      "text": "Shan iyo toban"
+    },
+    "twenty": {
+      "text": "Labaatan",
+      "note": "21 is kow iyo labaatan: the unit comes first."
+    },
+    "thirty": {
+      "text": "Soddon"
+    },
+    "fifty": {
+      "text": "Konton",
+      "note": "Irregular, not built from shan (5). Compare afartan (40) and lixdan (60)."
+    },
+    "hundred": {
+      "text": "Boqol",
+      "note": "Two hundred: laba boqol."
+    },
+    "thousand": {
+      "text": "Kun",
+      "note": "Two thousand: laba kun."
+    },
+    "how_old": {
+      "text": "Immisa jir baad tahay?",
+      "note": "In the south you will also hear: meeqa jir baad tahay?"
+    },
+    "years_old": {
+      "text": "Waxaan ahay … jir",
+      "note": "e.g. waxaan ahay soddon jir (I'm thirty). Jir means '-year-old'."
+    },
+    "red": {
+      "text": "Cas",
+      "note": "After a noun: shaati cas (a red shirt). The colour as a noun: casaan."
+    },
+    "blue": {
+      "text": "Buluug",
+      "note": "After a noun add ah: shaati buluug ah (a blue shirt)."
+    },
+    "green": {
+      "text": "Cagaar",
+      "note": "After a noun add ah: shaati cagaar ah (a green shirt)."
+    },
+    "yellow": {
+      "text": "Jaalle",
+      "note": "After a noun add ah: shaati jaalle ah. Also: huruud."
+    },
+    "black": {
+      "text": "Madow",
+      "note": "After a noun: shaati madow (a black shirt)."
+    },
+    "white": {
+      "text": "Cad",
+      "note": "Careful: cad is white, cas is red. The colour as a noun: caddaan."
+    },
+    "what_colour": {
+      "text": "Waa midabkee?",
+      "note": "Answer: waa cas (it's red)."
+    },
+    "this_one": {
+      "text": "Kan",
+      "note": "For a feminine noun: tan."
+    },
+    "that_one": {
+      "text": "Kaas",
+      "note": "For a feminine noun: taas."
+    },
+    "another_one": {
+      "text": "Mid kale, fadlan",
+      "note": "Bring me another one: mid kale ii keen."
+    },
+    "its_hot": {
+      "text": "Waa kulayl",
+      "note": "Very hot: kulayl badan baa jira."
+    },
+    "its_cold": {
+      "text": "Waa qabow",
+      "note": "Feeling cold yourself: qabow baa i haya."
+    },
+    "its_raining": {
+      "text": "Roob baa da'aya",
+      "note": "The ' is a glottal stop, a short catch in the voice: da-'aya."
+    },
+    "its_sunny": {
+      "text": "Qorrax baa jirta",
+      "note": "Literally 'there is sun'. When it comes out after clouds: qorraxdu way soo baxday."
+    },
+    "its_windy": {
+      "text": "Dabayl baa jirta"
+    },
+    "weather_today": {
+      "text": "Maanta hawadu sidee tahay?",
+      "note": "Hawo means both 'air' and 'weather'; cimilo is also used."
+    },
+    "beautiful_day": {
+      "text": "Waa maalin qurux badan",
+      "note": "Also: maanta hawadu way fiican tahay (the weather is nice today)."
+    },
+    "umbrella": {
+      "text": "Dallad"
+    },
+    "summer": {
+      "text": "Xagaa",
+      "note": "Somali seasons follow the rains; xagaa is the dry season after the gu' rains, roughly July to September."
+    },
+    "winter": {
+      "text": "Jiilaal",
+      "note": "The long dry season, roughly December to March: hot in the south, cool in the northern highlands."
+    },
+    "have_reservation": {
+      "text": "Qol baan ballansaday",
+      "note": "Literally 'I booked a room'."
+    },
+    "room": {
+      "text": "Qol",
+      "note": "The room: qolka. Room key: furaha qolka."
+    },
+    "passport": {
+      "text": "Baasaboor"
+    },
+    "luggage": {
+      "text": "Shandado",
+      "note": "One bag or suitcase: shandad. Your belongings in general: alaab."
+    },
+    "wifi_password": {
+      "text": "Wi-Fi-ga furihiisu waa maxay?",
+      "note": "Fure (key) is used for a password; many people also just say 'password'."
+    },
+    "check_out_time": {
+      "text": "Goorma ayaa qolka laga baxaa?",
+      "note": "Literally 'when does one leave the room?'."
+    },
+    "map": {
+      "text": "Khariidad"
+    },
+    "bus": {
+      "text": "Bas",
+      "note": "The bus: baska."
+    },
+    "next_train": {
+      "text": "Tareenka xiga goorma buu baxayaa?",
+      "note": "For a bus: baska xiga goorma buu baxayaa?"
+    },
+    "is_this_seat_free": {
+      "text": "Halkan qof ma fadhiyaa?",
+      "note": "Literally 'is anyone sitting here?'. Kursi is a seat or chair."
+    },
+    "what_do_you_do": {
+      "text": "Maxaad ka shaqaysaa?",
+      "note": "Also: shaqadaadu waa maxay? (what is your job?)"
+    },
+    "i_work_in": {
+      "text": "Waxaan ka shaqeeyaa …",
+      "note": "e.g. waxaan ka shaqeeyaa bangi (I work in a bank)."
+    },
+    "im_student": {
+      "text": "Arday baan ahay",
+      "note": "A woman can say the same, or ardayad baan ahay."
+    },
+    "office": {
+      "text": "Xafiis",
+      "note": "The office: xafiiska."
+    },
+    "meeting": {
+      "text": "Shir",
+      "note": "I'm in a meeting: shir baan ku jiraa."
+    },
+    "im_busy": {
+      "text": "Waan mashquulsanahay",
+      "note": "Also: waan hawlanahay."
+    },
+    "day_off": {
+      "text": "Maalin fasax ah",
+      "note": "Fasax on its own means leave or a holiday."
+    },
+    "colleague": {
+      "text": "Saaxiib shaqo",
+      "note": "Literally 'work friend'. A female colleague: saaxiibad shaqo."
+    },
+    "lets_start": {
+      "text": "Aan bilowno"
+    },
+    "good_job": {
+      "text": "Si fiican baad u samaysay!",
+      "note": "Somalis also praise good work with mashaallah!"
+    },
+    "table_for_two": {
+      "text": "Miis laba qof ah, fadlan"
+    },
+    "what_recommend": {
+      "text": "Maxaad igula talinaysaa?",
+      "note": "In a small eatery just ask: maxaa ugu fiican? (what's best?)"
+    },
+    "not_spicy": {
+      "text": "Basbaas la'aan, fadlan",
+      "note": "Basbaas is chilli; it is often served as a sauce on the side."
+    },
+    "vegetarian_food": {
+      "text": "Cunto khudaar ah",
+      "note": "Make it clear with: hilib ma cuno (I don't eat meat)."
+    },
+    "more_water": {
+      "text": "Biyo kale, fadlan",
+      "note": "Cold water: biyo qabow."
+    },
+    "no_sugar": {
+      "text": "Sonkor la'aan, fadlan",
+      "note": "Somali tea comes very sweet; for just a little say sonkor yar."
+    },
+    "im_full": {
+      "text": "Waan dhergay",
+      "note": "Hosts will insist; a polite firm answer: alxamdulillaah, waan dhergay."
+    },
+    "takeaway": {
+      "text": "Ii duub, fadlan",
+      "note": "Literally 'wrap it for me'. Also: waan qaadanayaa (I'm taking it with me)."
+    },
+    "it_was_delicious": {
+      "text": "Cuntadu aad bay u macaanayd"
+    },
+    "keep_change": {
+      "text": "Baaqiga iska hayso",
+      "note": "Baaqi is the change left over."
+    },
+    "head": {
+      "text": "Madax",
+      "note": "The head: madaxa."
+    },
+    "stomach": {
+      "text": "Calool",
+      "note": "Stomach ache: calool xanuun."
+    },
+    "head_hurts": {
+      "text": "Madaxa baa i xanuunaya",
+      "note": "For the stomach: caloosha baa i xanuunaysa."
+    },
+    "have_fever": {
+      "text": "Qandho baan qabaa",
+      "note": "Qab is used for illnesses: hargab baan qabaa (I have a cold)."
+    },
+    "medicine": {
+      "text": "Daawo"
+    },
+    "call_ambulance": {
+      "text": "Ambalaas u yeer!",
+      "note": "To several people: ambalaas u yeera!"
+    },
+    "dentist": {
+      "text": "Dhakhtarka ilkaha",
+      "note": "Ilko are teeth; a toothache: ilig xanuun."
+    },
+    "need_rest": {
+      "text": "Nasasho baan u baahanahay"
+    },
+    "feel_better": {
+      "text": "Waan soo fiicnaaday",
+      "note": "Also: waan bogsaday (I've recovered)."
+    },
+    "get_well": {
+      "text": "Allaha ku caafiyo!",
+      "note": "Literally 'may God heal you'."
+    },
+    "lets_meet": {
+      "text": "Aan is aragno",
+      "note": "Literally 'let's see each other'. More formal: aan kulanno."
+    },
+    "are_you_free": {
+      "text": "Berri waqti ma haysaa?",
+      "note": "Literally 'do you have time tomorrow?'."
+    },
+    "call_me": {
+      "text": "Fadlan, i soo wac"
+    },
+    "your_number": {
+      "text": "Lambarkaagu waa maxay?",
+      "note": "Also: lambarkaaga i sii (give me your number)."
+    },
+    "see_you_soon": {
+      "text": "Dhawaan ayaan ku arki doonaa",
+      "note": "Also: ilaa aan is aragno (until we meet again)."
+    },
+    "have_nice_day": {
+      "text": "Maalin wanaagsan!",
+      "note": "Reply: adiguna sidoo kale (you too)."
+    },
+    "good_luck": {
+      "text": "Nasiib wacan!",
+      "note": "Before an exam or a task Somalis often say: Allaha kuu fududeeyo (may God make it easy)."
+    },
+    "happy_birthday": {
+      "text": "Dhalasho wacan!"
+    },
+    "thanks_a_lot": {
+      "text": "Aad baad u mahadsan tahay",
+      "note": "To several people: aad baad u mahadsan tihiin."
+    },
+    "miss_you": {
+      "text": "Waan ku xiisay",
+      "note": "Past tense, as Somalis say it. To several people: waan idin xiisay."
     }
   }
 }

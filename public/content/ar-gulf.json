@@ -480,6 +480,505 @@
       "text": "مبروك!",
       "roman": "mabrook!",
       "note": "Reply: الله يبارك فيك (allah ybaarik feek)."
+    },
+    "my_family": {
+      "text": "أهلي",
+      "roman": "ahli",
+      "note": "Also: عايلتي ('aayilti)."
+    },
+    "mother": {
+      "text": "أم",
+      "roman": "umm",
+      "note": "My mother: أمي (ummi). Calling her: يمه (yumma). Respectful: الوالدة (il-waalda)."
+    },
+    "father": {
+      "text": "أب",
+      "roman": "ab",
+      "note": "My father: أبوي (abooy). Calling him: يبه (yuba). Respectful: الوالد (il-waalid)."
+    },
+    "brother": {
+      "text": "أخ",
+      "roman": "akh",
+      "note": "My brother: أخوي (akhooy)."
+    },
+    "sister": {
+      "text": "أخت",
+      "roman": "ukht",
+      "note": "My sister: أختي (ukhti)."
+    },
+    "child": {
+      "text": "ولد",
+      "roman": "walad",
+      "note": "Means son (or boy). A daughter: بنت (bint). My children: عيالي ('iyaali)."
+    },
+    "friend": {
+      "text": "ربيع",
+      "roman": "rbee'",
+      "note": "The Gulf word. A female friend: ربيعة (rbee'a). Also: صديق (sadeeg)."
+    },
+    "this_is_my_friend": {
+      "text": "هذا ربيعي",
+      "roman": "hadha rbee'i",
+      "note": "For a female friend: هذي ربيعتي (hadhi rbee'ti)."
+    },
+    "are_you_married": {
+      "text": "إنت متزوج؟",
+      "roman": "inta mitzawwij?",
+      "note": "To a woman: إنتي متزوجة؟ (inti mitzawwja?)"
+    },
+    "have_children": {
+      "text": "عندك عيال؟",
+      "roman": "'indak 'iyaal?",
+      "note": "To a woman: عندج عيال؟ ('indich 'iyaal?)"
+    },
+    "monday": {
+      "text": "الاثنين",
+      "roman": "il-ithnain",
+      "note": "From اثنين (ithnain), 'two': the second day of the Arab week."
+    },
+    "tuesday": {
+      "text": "الثلاثاء",
+      "roman": "ith-thalaatha",
+      "note": "From ثلاثة (thalaatha), 'three'."
+    },
+    "wednesday": {
+      "text": "الأربعاء",
+      "roman": "il-arba'a",
+      "note": "From أربعة (arba'a), 'four'."
+    },
+    "thursday": {
+      "text": "الخميس",
+      "roman": "il-khamees",
+      "note": "From خمسة (khamsa), 'five'."
+    },
+    "friday": {
+      "text": "الجمعة",
+      "roman": "il-jum'a",
+      "note": "The day of the main weekly prayer, at midday. Many Emiratis say اليمعة (il-yim'a)."
+    },
+    "saturday": {
+      "text": "السبت",
+      "roman": "is-sabt"
+    },
+    "sunday": {
+      "text": "الأحد",
+      "roman": "il-ahad",
+      "note": "From أحد (ahad), 'one': traditionally the first day of the week."
+    },
+    "weekend": {
+      "text": "الويكند",
+      "roman": "il-weekend",
+      "note": "The everyday word. Also: العطلة (il-'utla). In the UAE the weekend is Saturday and Sunday."
+    },
+    "what_day": {
+      "text": "اليوم شو؟",
+      "roman": "il-yoom shu?",
+      "note": "Also: أي يوم اليوم؟ (ay yoom il-yoom?)"
+    },
+    "next_week": {
+      "text": "الأسبوع الجاي",
+      "roman": "il-usboo' il-jaay",
+      "note": "Many Emiratis say الياي (il-yaay)."
+    },
+    "eleven": {
+      "text": "إحدعش",
+      "roman": "ihda'ash",
+      "note": "Arabic digits: ١١"
+    },
+    "twelve": {
+      "text": "اثنعش",
+      "roman": "ithna'ash",
+      "note": "Arabic digits: ١٢"
+    },
+    "fifteen": {
+      "text": "خمستعش",
+      "roman": "khamsta'ash",
+      "note": "Arabic digits: ١٥"
+    },
+    "twenty": {
+      "text": "عشرين",
+      "roman": "'ishreen",
+      "note": "Arabic digits: ٢٠"
+    },
+    "thirty": {
+      "text": "ثلاثين",
+      "roman": "thalaatheen",
+      "note": "Arabic digits: ٣٠"
+    },
+    "fifty": {
+      "text": "خمسين",
+      "roman": "khamseen",
+      "note": "Arabic digits: ٥٠"
+    },
+    "hundred": {
+      "text": "مية",
+      "roman": "miya",
+      "note": "Arabic digits: ١٠٠. Two hundred: ميتين (meetain). Written formally: مئة."
+    },
+    "thousand": {
+      "text": "ألف",
+      "roman": "alf",
+      "note": "Arabic digits: ١٠٠٠. Two thousand: ألفين (alfain)."
+    },
+    "how_old": {
+      "text": "كم عمرك؟",
+      "roman": "kam 'umrak?",
+      "note": "To a woman: كم عمرج؟ (kam 'umrich?)"
+    },
+    "years_old": {
+      "text": "عمري … سنة",
+      "roman": "'umri … sana",
+      "note": "For 11 and up. From 3 to 10 use سنين (sneen): عمري عشر سنين ('umri 'ashar sneen)."
+    },
+    "red": {
+      "text": "أحمر",
+      "roman": "ahmar",
+      "note": "With a feminine noun: حمرا (hamra)."
+    },
+    "blue": {
+      "text": "أزرق",
+      "roman": "azrag",
+      "note": "With a feminine noun: زرقا (zarga)."
+    },
+    "green": {
+      "text": "أخضر",
+      "roman": "akhdhar",
+      "note": "With a feminine noun: خضرا (khadhra)."
+    },
+    "yellow": {
+      "text": "أصفر",
+      "roman": "asfar",
+      "note": "With a feminine noun: صفرا (safra)."
+    },
+    "black": {
+      "text": "أسود",
+      "roman": "aswad",
+      "note": "With a feminine noun: سودا (sooda)."
+    },
+    "white": {
+      "text": "أبيض",
+      "roman": "abyadh",
+      "note": "With a feminine noun: بيضا (baidha)."
+    },
+    "what_colour": {
+      "text": "شو لونه؟",
+      "roman": "shu loona?",
+      "note": "For a feminine noun: شو لونها؟ (shu loonha?)"
+    },
+    "this_one": {
+      "text": "هذا",
+      "roman": "hadha",
+      "note": "For a feminine noun: هذي (hadhi)."
+    },
+    "that_one": {
+      "text": "هذاك",
+      "roman": "hadhaak",
+      "note": "For a feminine noun: هذيك (hadheek)."
+    },
+    "another_one": {
+      "text": "واحد بعد لو سمحت",
+      "roman": "waahid ba'ad law samaht",
+      "note": "Gulf بعد (ba'ad) here means 'more'. To a woman: لو سمحتي (law samahti)."
+    },
+    "its_hot": {
+      "text": "الدنيا حر",
+      "roman": "id-dinya harr",
+      "note": "Lit. 'the world is heat', the Gulf way to say it. Also: الجو حار (il-jaw haar)."
+    },
+    "its_cold": {
+      "text": "الدنيا برد",
+      "roman": "id-dinya bard",
+      "note": "Also: الجو بارد (il-jaw baarid)."
+    },
+    "its_raining": {
+      "text": "الدنيا تمطر",
+      "roman": "id-dinya timtir",
+      "note": "Rain: مطر (matar). Rare in the Gulf, and usually welcomed."
+    },
+    "its_sunny": {
+      "text": "الشمس طالعة",
+      "roman": "ish-shams taal'a",
+      "note": "Lit. 'the sun is out'. Also: الجو مشمس (il-jaw mushmis)."
+    },
+    "its_windy": {
+      "text": "الدنيا هوا",
+      "roman": "id-dinya hawa",
+      "note": "Wind often brings dust: الدنيا غبار (id-dinya ghbaar), 'it's dusty'."
+    },
+    "weather_today": {
+      "text": "كيف الجو اليوم؟",
+      "roman": "kaif il-jaw il-yoom?",
+      "note": "Elsewhere in the Gulf: شلون الجو اليوم؟ (shlon il-jaw il-yoom?)"
+    },
+    "beautiful_day": {
+      "text": "الجو اليوم حلو",
+      "roman": "il-jaw il-yoom hilu",
+      "note": "Stronger: الجو اليوم روعة (il-jaw il-yoom raw'a), 'the weather's wonderful today'."
+    },
+    "umbrella": {
+      "text": "شمسية",
+      "roman": "shamsiyya",
+      "note": "From شمس (shams), 'sun': in the Gulf it's used more for shade than for rain."
+    },
+    "summer": {
+      "text": "الصيف",
+      "roman": "is-saif",
+      "note": "The fierce peak of summer: القيظ (il-gaidh)."
+    },
+    "winter": {
+      "text": "الشتا",
+      "roman": "ish-shita",
+      "note": "Written formally: الشتاء."
+    },
+    "have_reservation": {
+      "text": "عندي حجز",
+      "roman": "'indi hajz",
+      "note": "Also: أنا حاجز (ana haajiz), 'I've booked'; a woman says حاجزة (haajza)."
+    },
+    "room": {
+      "text": "غرفة",
+      "roman": "ghurfa",
+      "note": "At home Gulf speakers also say حجرة (hijra), but for a hotel room it's غرفة."
+    },
+    "passport": {
+      "text": "جواز",
+      "roman": "jawaaz",
+      "note": "In full: جواز السفر (jawaaz is-safar)."
+    },
+    "luggage": {
+      "text": "شنط",
+      "roman": "shinat",
+      "note": "Lit. 'bags'. One bag: شنطة (shanta)."
+    },
+    "wifi_password": {
+      "text": "شو الباسوورد حق الواي فاي؟",
+      "roman": "shu il-baasword hagg il-waay faay?",
+      "note": "حق (hagg) is the Gulf 'of, belonging to'. Formal: كلمة السر (kilmat is-sirr)."
+    },
+    "check_out_time": {
+      "text": "التشيك أوت الساعة كم؟",
+      "roman": "it-chek awt is-saa'a kam?",
+      "note": "Hotels use the English term. Also: متى لازم أطلع؟ (mita laazim atla'?), 'when must I leave?'"
+    },
+    "map": {
+      "text": "خريطة",
+      "roman": "khareeta",
+      "note": "On the phone: طرش لي اللوكيشن (tarrish li il-lokeshan), 'send me the location'."
+    },
+    "bus": {
+      "text": "باص",
+      "roman": "baas",
+      "note": "Formal, on signs: حافلة (haafila)."
+    },
+    "next_train": {
+      "text": "متى القطار الجاي؟",
+      "roman": "mita il-gitaar il-jaay?",
+      "note": "In Dubai you'll more often ask about المترو (il-metro)."
+    },
+    "is_this_seat_free": {
+      "text": "هالكرسي فاضي؟",
+      "roman": "hal-kirsi faadhi?",
+      "note": "Also: في أحد قاعد هني؟ (fee ahad gaa'id hni?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "شو تشتغل؟",
+      "roman": "shu tishtaghil?",
+      "note": "To a woman: شو تشتغلين؟ (shu tishtaghleen?)"
+    },
+    "i_work_in": {
+      "text": "أشتغل في …",
+      "roman": "ashtaghil fi …",
+      "note": "E.g. أشتغل في بنك (ashtaghil fi bank), 'I work in a bank'."
+    },
+    "im_student": {
+      "text": "أنا طالب",
+      "roman": "ana taalib",
+      "note": "A woman says: أنا طالبة (ana taalba)."
+    },
+    "office": {
+      "text": "مكتب",
+      "roman": "maktab",
+      "note": "Also means 'desk'."
+    },
+    "meeting": {
+      "text": "اجتماع",
+      "roman": "ijtimaa'",
+      "note": "I have a meeting: عندي اجتماع ('indi ijtimaa'). Office talk often uses ميتنج (meeting)."
+    },
+    "im_busy": {
+      "text": "أنا مشغول",
+      "roman": "ana mashghool",
+      "note": "A woman says: أنا مشغولة (ana mashghoola)."
+    },
+    "day_off": {
+      "text": "يوم إجازة",
+      "roman": "yoom ijaaza",
+      "note": "Also common: أوف (off), as in اليوم أوف (il-yoom off), 'I'm off today'."
+    },
+    "colleague": {
+      "text": "زميل",
+      "roman": "zameel",
+      "note": "A female colleague: زميلة (zameela)."
+    },
+    "lets_start": {
+      "text": "يلا نبدأ",
+      "roman": "yalla nibda",
+      "note": "Also: خلنا نبدأ (khallna nibda)."
+    },
+    "good_job": {
+      "text": "عفية عليك!",
+      "roman": "'afya 'alaik!",
+      "note": "To a woman: عفية عليج! ('afya 'alaich!). Also very Gulf: كفو! (kafu!)"
+    },
+    "table_for_two": {
+      "text": "طاولة حق اثنين لو سمحت",
+      "roman": "taawla hagg ithnain law samaht",
+      "note": "To a woman: لو سمحتي (law samahti)."
+    },
+    "what_recommend": {
+      "text": "شو تنصحني؟",
+      "roman": "shu tinsahni?",
+      "note": "To a woman: شو تنصحيني؟ (shu tinsaheeni?). Also: شو أحسن شي عندكم؟ (shu ahsan shay 'indkum?)"
+    },
+    "not_spicy": {
+      "text": "بدون حار لو سمحت",
+      "roman": "bidoon haar law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Mildly spicy: شوي حار (shwai haar)."
+    },
+    "vegetarian_food": {
+      "text": "أكل نباتي",
+      "roman": "akil nabaati",
+      "note": "Asking: عندكم أكل نباتي؟ ('indkum akil nabaati?)"
+    },
+    "more_water": {
+      "text": "ماي بعد لو سمحت",
+      "roman": "maay ba'ad law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Also: زيدنا ماي (zeedna maay)."
+    },
+    "no_sugar": {
+      "text": "بدون شكر لو سمحت",
+      "roman": "bidoon shakar law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). Gulf شكر (shakar) is sugar. A little: شكر خفيف (shakar khafeef)."
+    },
+    "im_full": {
+      "text": "شبعت",
+      "roman": "shiba't",
+      "note": "Usually with الحمد لله (il-hamdu lillah), 'thank God'."
+    },
+    "takeaway": {
+      "text": "سفري لو سمحت",
+      "roman": "safari law samaht",
+      "note": "To a woman: لو سمحتي (law samahti). You'll be asked: سفري ولا هني؟ (safari walla hni?), 'takeaway or here?'"
+    },
+    "it_was_delicious": {
+      "text": "كان لذيذ وايد",
+      "roman": "kaan ladheedh waayed",
+      "note": "To the cook: تسلم إيدك (tislam eedak); to a woman: تسلم إيدج (tislam eedich)."
+    },
+    "keep_change": {
+      "text": "خل الباقي لك",
+      "roman": "khall il-baagi lak",
+      "note": "To a woman: خلي الباقي لج (khalli il-baagi lich)."
+    },
+    "head": {
+      "text": "راس",
+      "roman": "raas",
+      "note": "Written formally: رأس."
+    },
+    "stomach": {
+      "text": "بطن",
+      "roman": "batn",
+      "note": "My stomach hurts: بطني يعورني (batni y'awwirni)."
+    },
+    "head_hurts": {
+      "text": "راسي يعورني",
+      "roman": "raasi y'awwirni",
+      "note": "Also: عندي صداع ('indi sudaa'), 'I have a headache'."
+    },
+    "have_fever": {
+      "text": "عندي حرارة",
+      "roman": "'indi haraara",
+      "note": "Lit. 'I have heat'. Also very Gulf: عندي صخونة ('indi skhoona)."
+    },
+    "medicine": {
+      "text": "دوا",
+      "roman": "dawa",
+      "note": "Pills: حبوب (hboob). Written formally: دواء."
+    },
+    "call_ambulance": {
+      "text": "اتصل بالإسعاف!",
+      "roman": "ittasil bil-is'aaf!",
+      "note": "To a woman: اتصلي بالإسعاف! (ittasli bil-is'aaf!). UAE ambulance: 998."
+    },
+    "dentist": {
+      "text": "دكتور أسنان",
+      "roman": "diktoor asnaan",
+      "note": "A woman dentist: دكتورة أسنان (diktoora asnaan)."
+    },
+    "need_rest": {
+      "text": "محتاج أرتاح",
+      "roman": "mihtaaj artaah",
+      "note": "A woman says: محتاجة أرتاح (mihtaaja artaah). Also: لازم أرتاح (laazim artaah)."
+    },
+    "feel_better": {
+      "text": "صرت أحسن",
+      "roman": "sirt ahsan",
+      "note": "Lit. 'I've got better'. Often with الحمد لله (il-hamdu lillah), 'thank God'."
+    },
+    "get_well": {
+      "text": "سلامات!",
+      "roman": "salaamaat!",
+      "note": "Also: الله يشفيك (allah yishfeek). Reply: الله يسلمك (allah ysalmak)."
+    },
+    "lets_meet": {
+      "text": "خلنا نتلاقى",
+      "roman": "khallna nitlaaga",
+      "note": "Also: خلنا نشوف بعض (khallna nshoof ba'adh), 'let's see each other'."
+    },
+    "are_you_free": {
+      "text": "إنت فاضي باكر؟",
+      "roman": "inta faadhi baachir?",
+      "note": "To a woman: إنتي فاضية باكر؟ (inti faadhya baachir?)"
+    },
+    "call_me": {
+      "text": "اتصل علي",
+      "roman": "ittasil 'alay",
+      "note": "To a woman: اتصلي علي (ittasli 'alay). Casual: دق علي (dugg 'alay)."
+    },
+    "your_number": {
+      "text": "شو رقم تلفونك؟",
+      "roman": "shu ragam tilifoonak?",
+      "note": "To a woman: شو رقم تلفونج؟ (shu ragam tilifoonich?)"
+    },
+    "see_you_soon": {
+      "text": "أشوفك قريب",
+      "roman": "ashoofak gareeb",
+      "note": "To a woman: أشوفج قريب (ashoofich gareeb). Very Gulf: نشوفك على خير (nshoofak 'ala khair)."
+    },
+    "have_nice_day": {
+      "text": "يومك سعيد!",
+      "roman": "yoomak sa'eed!",
+      "note": "To a woman: يومج سعيد! (yoomich sa'eed!)"
+    },
+    "good_luck": {
+      "text": "بالتوفيق!",
+      "roman": "bit-tawfeeg!",
+      "note": "Also: الله يوفقك (allah ywaffgak); to a woman: الله يوفقج (allah ywaffgich)."
+    },
+    "happy_birthday": {
+      "text": "عيد ميلاد سعيد!",
+      "roman": "'eed meelaad sa'eed!",
+      "note": "Also: كل عام وإنت بخير (kil 'aam w inta bkhair), said for Eid too."
+    },
+    "thanks_a_lot": {
+      "text": "مشكور، ما قصرت",
+      "roman": "mashkoor, ma gassart",
+      "note": "Lit. 'you didn't fall short'. To a woman: مشكورة، ما قصرتي (mashkoora, ma gassarti)."
+    },
+    "miss_you": {
+      "text": "اشتقت لك",
+      "roman": "ishtagt lak",
+      "note": "To a woman: اشتقت لج (ishtagt lich). Very Gulf: فقدتك (fagadtak)."
     }
   }
 }

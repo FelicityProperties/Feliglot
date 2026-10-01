@@ -9,7 +9,7 @@ export async function PUT(req: Request) {
   if (!accountsEnabled) return Response.json({ error: "Accounts are not switched on." }, { status: 503 });
   if (!sameSite(req)) return Response.json({ error: "Not allowed." }, { status: 403 });
   const text = await req.text();
-  if (text.length > 100_000) return Response.json({ error: "Too large." }, { status: 413 });
+  if (text.length > 2_000_000) return Response.json({ error: "Too large." }, { status: 413 });
   let body: { progress?: unknown; speak?: unknown };
   try {
     body = JSON.parse(text);

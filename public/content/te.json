@@ -467,6 +467,491 @@
     "congratulations": {
       "text": "అభినందనలు!",
       "roman": "abhinandanalu!"
+    },
+    "my_family": {
+      "text": "మా కుటుంబం",
+      "roman": "maa kutumbam",
+      "note": "Telugu says మా (maa) 'our' for family, e.g. మా అమ్మ (maa amma). Also: నా కుటుంబం (naa kutumbam)."
+    },
+    "mother": {
+      "text": "అమ్మ",
+      "roman": "amma",
+      "note": "Formal: తల్లి (talli). Someone else's mother, politely: మీ అమ్మగారు (mee ammagaaru)."
+    },
+    "father": {
+      "text": "నాన్న",
+      "roman": "naanna",
+      "note": "Formal: తండ్రి (tandri). Someone else's father, politely: మీ నాన్నగారు (mee naannagaaru)."
+    },
+    "brother": {
+      "text": "అన్నయ్య",
+      "roman": "annayya",
+      "note": "Elder brother; also అన్న (anna). Younger brother: తమ్ముడు (tammudu). Formal, either: సోదరుడు (sodarudu)."
+    },
+    "sister": {
+      "text": "అక్క",
+      "roman": "akka",
+      "note": "Elder sister. Younger sister: చెల్లెలు (chellelu), often చెల్లి (chelli)."
+    },
+    "child": {
+      "text": "బిడ్డ",
+      "roman": "bidda",
+      "note": "Son: కొడుకు (koduku); daughter: కూతురు (kooturu). In Telangana బిడ్డ often means daughter."
+    },
+    "friend": {
+      "text": "స్నేహితుడు",
+      "roman": "snehitudu",
+      "note": "A female friend: స్నేహితురాలు (snehituraalu). Everyday speech often uses ఫ్రెండ్ (frend)."
+    },
+    "this_is_my_friend": {
+      "text": "ఇతను నా స్నేహితుడు",
+      "roman": "itanu naa snehitudu",
+      "note": "For a female friend: ఈమె నా స్నేహితురాలు (eeme naa snehituraalu)."
+    },
+    "are_you_married": {
+      "text": "మీకు పెళ్ళైందా?",
+      "roman": "meeku pellaindaa?",
+      "note": "Literally 'Has your wedding happened?', the usual way to ask."
+    },
+    "have_children": {
+      "text": "మీకు పిల్లలు ఉన్నారా?",
+      "roman": "meeku pillalu unnaaraa?",
+      "note": "Answer: ఉన్నారు (unnaaru) 'yes, there are' or లేరు (leru) 'no'."
+    },
+    "monday": {
+      "text": "సోమవారం",
+      "roman": "somavaaram",
+      "note": "All day names end in -వారం (-vaaram). The same form also means 'on Monday'."
+    },
+    "tuesday": {
+      "text": "మంగళవారం",
+      "roman": "mangalavaaram"
+    },
+    "wednesday": {
+      "text": "బుధవారం",
+      "roman": "budhavaaram"
+    },
+    "thursday": {
+      "text": "గురువారం",
+      "roman": "guruvaaram",
+      "note": "Formal, on some calendars: బృహస్పతివారం (bruhaspativaaram)."
+    },
+    "friday": {
+      "text": "శుక్రవారం",
+      "roman": "shukravaaram"
+    },
+    "saturday": {
+      "text": "శనివారం",
+      "roman": "shanivaaram"
+    },
+    "sunday": {
+      "text": "ఆదివారం",
+      "roman": "aadivaaram"
+    },
+    "weekend": {
+      "text": "వీకెండ్",
+      "roman": "veekend",
+      "note": "What people say. Formal and in the news: వారాంతం (vaaraantam)."
+    },
+    "what_day": {
+      "text": "ఈరోజు ఏ వారం?",
+      "roman": "eeroju e vaaram?",
+      "note": "వారం (vaaram) means both 'week' and 'day of the week'."
+    },
+    "next_week": {
+      "text": "వచ్చే వారం",
+      "roman": "vachche vaaram",
+      "note": "Last week: పోయిన వారం (poyina vaaram)."
+    },
+    "eleven": {
+      "text": "పదకొండు",
+      "roman": "padakondu",
+      "note": "Telugu digits: ౧౧"
+    },
+    "twelve": {
+      "text": "పన్నెండు",
+      "roman": "pannendu",
+      "note": "Telugu digits: ౧౨"
+    },
+    "fifteen": {
+      "text": "పదిహేను",
+      "roman": "padihenu",
+      "note": "Telugu digits: ౧౫"
+    },
+    "twenty": {
+      "text": "ఇరవై",
+      "roman": "iravai",
+      "note": "Telugu digits: ౨౦"
+    },
+    "thirty": {
+      "text": "ముప్పై",
+      "roman": "muppai",
+      "note": "Telugu digits: ౩౦"
+    },
+    "fifty": {
+      "text": "యాభై",
+      "roman": "yaabhai",
+      "note": "Telugu digits: ౫౦"
+    },
+    "hundred": {
+      "text": "వంద",
+      "roman": "vanda",
+      "note": "Telugu digits: ౧౦౦. Two hundred: రెండు వందలు (rendu vandalu)."
+    },
+    "thousand": {
+      "text": "వెయ్యి",
+      "roman": "veyyi",
+      "note": "Telugu digits: ౧౦౦౦. Two thousand: రెండు వేలు (rendu velu)."
+    },
+    "how_old": {
+      "text": "మీ వయసు ఎంత?",
+      "roman": "mee vayasu enta?",
+      "note": "Also: మీకు ఎన్నేళ్ళు? (meeku ennellu?) 'How many years do you have?'"
+    },
+    "years_old": {
+      "text": "నాకు … ఏళ్ళు",
+      "roman": "naaku … ellu",
+      "note": "Also: నా వయసు … సంవత్సరాలు (naa vayasu … samvatsaraalu)."
+    },
+    "red": {
+      "text": "ఎరుపు",
+      "roman": "erupu",
+      "note": "Before a noun: ఎర్ర (erra). 'It's red': ఎర్రగా ఉంది (erragaa undi)."
+    },
+    "blue": {
+      "text": "నీలం",
+      "roman": "neelam",
+      "note": "Before a noun: నీలి (neeli), e.g. నీలి చొక్కా (neeli chokkaa) 'blue shirt'."
+    },
+    "green": {
+      "text": "ఆకుపచ్చ",
+      "roman": "aakupachcha",
+      "note": "ఆకు (aaku) is 'leaf'; on its own పచ్చ (pachcha) can mean green or yellow."
+    },
+    "yellow": {
+      "text": "పసుపు",
+      "roman": "pasupu",
+      "note": "Also the word for turmeric. Yellow colour: పసుపు రంగు (pasupu rangu)."
+    },
+    "black": {
+      "text": "నలుపు",
+      "roman": "nalupu",
+      "note": "Before a noun: నల్ల (nalla), e.g. నల్ల కారు (nalla kaaru) 'black car'."
+    },
+    "white": {
+      "text": "తెలుపు",
+      "roman": "telupu",
+      "note": "Before a noun: తెల్ల (tella), e.g. తెల్ల చొక్కా (tella chokkaa) 'white shirt'."
+    },
+    "what_colour": {
+      "text": "ఇది ఏ రంగు?",
+      "roman": "idi e rangu?"
+    },
+    "this_one": {
+      "text": "ఇది",
+      "roman": "idi",
+      "note": "To ask for it: ఇది ఇవ్వండి (idi ivvandi). 'This very one': ఇదే (ide)."
+    },
+    "that_one": {
+      "text": "అది",
+      "roman": "adi",
+      "note": "To ask for it: అది ఇవ్వండి (adi ivvandi). 'That very one': అదే (ade)."
+    },
+    "another_one": {
+      "text": "ఇంకొకటి ఇవ్వండి",
+      "roman": "inkokati ivvandi",
+      "note": "Colloquial: ఇంకోటి (inkoti)."
+    },
+    "its_hot": {
+      "text": "వేడిగా ఉంది",
+      "roman": "vedigaa undi",
+      "note": "Hot and sticky: ఉక్కపోతగా ఉంది (ukkapotagaa undi)."
+    },
+    "its_cold": {
+      "text": "చలిగా ఉంది",
+      "roman": "chaligaa undi",
+      "note": "For cold things, like water: చల్లగా ఉంది (challagaa undi)."
+    },
+    "its_raining": {
+      "text": "వర్షం పడుతోంది",
+      "roman": "varsham padutondi",
+      "note": "Also: వాన పడుతోంది (vaana padutondi), with the everyday word for rain."
+    },
+    "its_sunny": {
+      "text": "ఎండగా ఉంది",
+      "roman": "endagaa undi",
+      "note": "Also: ఎండ కాస్తోంది (enda kaastondi). ఎండ (enda) is sunshine, and in summer the heat."
+    },
+    "its_windy": {
+      "text": "గాలి బాగా వీస్తోంది",
+      "roman": "gaali baagaa veestondi"
+    },
+    "weather_today": {
+      "text": "ఈరోజు వాతావరణం ఎలా ఉంది?",
+      "roman": "eeroju vaataavaranam elaa undi?"
+    },
+    "beautiful_day": {
+      "text": "ఈరోజు వాతావరణం చాలా బాగుంది",
+      "roman": "eeroju vaataavaranam chaalaa baagundi",
+      "note": "Also: వాతావరణం హాయిగా ఉంది (vaataavaranam haayigaa undi) 'the weather is pleasant'."
+    },
+    "umbrella": {
+      "text": "గొడుగు",
+      "roman": "godugu"
+    },
+    "summer": {
+      "text": "ఎండాకాలం",
+      "roman": "endaakaalam",
+      "note": "Formal: వేసవి కాలం (vesavi kaalam)."
+    },
+    "winter": {
+      "text": "చలికాలం",
+      "roman": "chalikaalam",
+      "note": "Formal: శీతాకాలం (sheetaakaalam)."
+    },
+    "have_reservation": {
+      "text": "నా పేరు మీద బుకింగ్ ఉంది",
+      "roman": "naa peru meeda buking undi",
+      "note": "Literally 'There's a booking in my name'. Also: నేను రూమ్ బుక్ చేశాను (nenu room buk cheshaanu)."
+    },
+    "room": {
+      "text": "రూమ్",
+      "roman": "room",
+      "note": "The Telugu word గది (gadi) is used for rooms in a house."
+    },
+    "passport": {
+      "text": "పాస్‌పోర్ట్",
+      "roman": "paasport"
+    },
+    "luggage": {
+      "text": "సామాను",
+      "roman": "saamaanu",
+      "note": "Also common: లగేజీ (lagejee)."
+    },
+    "wifi_password": {
+      "text": "వైఫై పాస్‌వర్డ్ ఏమిటి?",
+      "roman": "vaifai paasvard emiti?"
+    },
+    "check_out_time": {
+      "text": "చెక్ అవుట్ ఎన్ని గంటలకు?",
+      "roman": "chek avut enni gantalaku?",
+      "note": "Also: రూమ్ ఎన్ని గంటలకు ఖాళీ చేయాలి? (room enni gantalaku khaalee cheyaali?)"
+    },
+    "map": {
+      "text": "మ్యాప్",
+      "roman": "myaap",
+      "note": "Formal: పటం (patam), as in school atlases."
+    },
+    "bus": {
+      "text": "బస్సు",
+      "roman": "bassu",
+      "note": "Bus station: బస్టాండ్ (bastaand)."
+    },
+    "next_train": {
+      "text": "తర్వాతి రైలు ఎప్పుడు?",
+      "roman": "tarvaati railu eppudu?",
+      "note": "Many people say ట్రైన్ (train) instead of రైలు (railu)."
+    },
+    "is_this_seat_free": {
+      "text": "ఈ సీటు ఖాళీగా ఉందా?",
+      "roman": "ee seetu khaaleegaa undaa?",
+      "note": "Also: ఇక్కడ ఎవరైనా ఉన్నారా? (ikkada evarainaa unnaaraa?) 'Is someone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "మీరు ఏం చేస్తుంటారు?",
+      "roman": "meeru em chestuntaaru?",
+      "note": "Also: మీరు ఏం పని చేస్తారు? (meeru em pani chestaaru?) 'What work do you do?'"
+    },
+    "i_work_in": {
+      "text": "నేను …లో పని చేస్తున్నాను",
+      "roman": "nenu …lo pani chestunnaanu",
+      "note": "-లో (-lo) 'in' joins the word, e.g. బ్యాంకులో (byaankulo) 'in a bank'."
+    },
+    "im_student": {
+      "text": "నేను విద్యార్థిని",
+      "roman": "nenu vidyaarthini",
+      "note": "A woman may say విద్యార్థినిని (vidyaarthinini). Common too: చదువుకుంటున్నాను (chaduvukuntunnaanu) 'I'm studying'."
+    },
+    "office": {
+      "text": "ఆఫీసు",
+      "roman": "aafeesu",
+      "note": "Formal and on signs: కార్యాలయం (kaaryaalayam)."
+    },
+    "meeting": {
+      "text": "మీటింగ్",
+      "roman": "meeting",
+      "note": "Formal: సమావేశం (samaavesham)."
+    },
+    "im_busy": {
+      "text": "నేను బిజీగా ఉన్నాను",
+      "roman": "nenu bijeegaa unnaanu",
+      "note": "Also: నాకు ఖాళీ లేదు (naaku khaalee ledu) 'I'm not free'."
+    },
+    "day_off": {
+      "text": "సెలవు",
+      "roman": "selavu",
+      "note": "Also means leave or a holiday. 'Today is my day off': ఈరోజు నాకు సెలవు (eeroju naaku selavu)."
+    },
+    "colleague": {
+      "text": "సహోద్యోగి",
+      "roman": "sahodyogi",
+      "note": "A female colleague: సహోద్యోగిని (sahodyogini). Everyday: కొలీగ్ (koleeg)."
+    },
+    "lets_start": {
+      "text": "మొదలుపెడదాం",
+      "roman": "modalupedadaam",
+      "note": "Formal: ప్రారంభిద్దాం (praarambhiddaam). Casual: స్టార్ట్ చేద్దాం (staart cheddaam)."
+    },
+    "good_job": {
+      "text": "చాలా బాగా చేశారు!",
+      "roman": "chaalaa baagaa cheshaaru!",
+      "note": "To a friend or junior: బాగా చేశావు! (baagaa cheshaavu!) Also: శభాష్! (shabhaash!) 'Bravo!'"
+    },
+    "table_for_two": {
+      "text": "ఇద్దరికి ఒక టేబుల్ కావాలి",
+      "roman": "iddariki oka tebul kaavaali",
+      "note": "ఇద్దరు (iddaru) is 'two people', not రెండు (rendu). Politer ending: కావాలండి (kaavaalandi)."
+    },
+    "what_recommend": {
+      "text": "ఇక్కడ ఏది బాగుంటుంది?",
+      "roman": "ikkada edi baaguntundi?",
+      "note": "Literally 'What's good here?', the usual way to ask. Also: స్పెషల్ ఏంటి? (speshal enti?)"
+    },
+    "not_spicy": {
+      "text": "కారం లేకుండా ఇవ్వండి",
+      "roman": "kaaram lekundaa ivvandi",
+      "note": "Less spicy: కారం తక్కువగా వేయండి (kaaram takkuvagaa veyandi)."
+    },
+    "vegetarian_food": {
+      "text": "శాకాహారం",
+      "roman": "shaakaahaaram",
+      "note": "In restaurants: వెజ్ (vej); meat dishes are నాన్‌వెజ్ (naanvej)."
+    },
+    "more_water": {
+      "text": "ఇంకొంచెం నీళ్ళు ఇవ్వండి",
+      "roman": "inkonchem neellu ivvandi"
+    },
+    "no_sugar": {
+      "text": "చక్కెర వేయకండి",
+      "roman": "chakkera veyakandi",
+      "note": "Also: పంచదార (panchadaara) 'sugar'. At tea stalls: షుగర్ లేకుండా (shugar lekundaa)."
+    },
+    "im_full": {
+      "text": "కడుపు నిండిపోయింది",
+      "roman": "kadupu nindipoyindi",
+      "note": "To refuse more food: చాలండి (chaalandi) 'that's enough'."
+    },
+    "takeaway": {
+      "text": "పార్సెల్ ఇవ్వండి",
+      "roman": "paarsel ivvandi",
+      "note": "In India takeaway food is called a 'parcel'."
+    },
+    "it_was_delicious": {
+      "text": "భోజనం చాలా రుచిగా ఉంది",
+      "roman": "bhojanam chaalaa ruchigaa undi",
+      "note": "Praising a host's cooking: వంట చాలా బాగుంది (vanta chaalaa baagundi)."
+    },
+    "keep_change": {
+      "text": "చిల్లర ఉంచుకోండి",
+      "roman": "chillara unchukondi",
+      "note": "Also: మిగతాది ఉంచుకోండి (migataadi unchukondi) 'keep the rest'."
+    },
+    "head": {
+      "text": "తల",
+      "roman": "tala"
+    },
+    "stomach": {
+      "text": "కడుపు",
+      "roman": "kadupu",
+      "note": "Stomach ache: కడుపు నొప్పి (kadupu noppi)."
+    },
+    "head_hurts": {
+      "text": "నాకు తలనొప్పిగా ఉంది",
+      "roman": "naaku talanoppigaa undi"
+    },
+    "have_fever": {
+      "text": "నాకు జ్వరం వచ్చింది",
+      "roman": "naaku jvaram vachchindi",
+      "note": "Literally 'fever has come to me'. Also: జ్వరంగా ఉంది (jvarangaa undi)."
+    },
+    "medicine": {
+      "text": "మందు",
+      "roman": "mandu",
+      "note": "The plural మందులు (mandulu) is common. In slang మందు also means alcohol!"
+    },
+    "call_ambulance": {
+      "text": "అంబులెన్స్‌కి ఫోన్ చేయండి!",
+      "roman": "ambulenski fon cheyandi!",
+      "note": "Ambulance number in India: 108 (or 112 for all emergencies)."
+    },
+    "dentist": {
+      "text": "పళ్ళ డాక్టర్",
+      "roman": "palla daaktar",
+      "note": "Literally 'teeth doctor'. Formal: దంత వైద్యుడు (danta vaidyudu). Also: డెంటిస్ట్ (dentist)."
+    },
+    "need_rest": {
+      "text": "నాకు విశ్రాంతి కావాలి",
+      "roman": "naaku vishraanti kaavaali",
+      "note": "Everyday: కాసేపు రెస్ట్ తీసుకోవాలి (kaasepu rest teesukovaali)."
+    },
+    "feel_better": {
+      "text": "ఇప్పుడు కొంచెం నయంగా ఉంది",
+      "roman": "ippudu konchem nayangaa undi",
+      "note": "Also: ఇప్పుడు బాగుంది (ippudu baagundi) 'I'm fine now'."
+    },
+    "get_well": {
+      "text": "త్వరగా కోలుకోండి!",
+      "roman": "tvaragaa kolukondi!",
+      "note": "To a friend: త్వరగా కోలుకో! (tvaragaa koluko!)"
+    },
+    "lets_meet": {
+      "text": "ఒకసారి కలుద్దాం",
+      "roman": "okasaari kaluddaam",
+      "note": "Also: ఎప్పుడైనా కలుద్దాం (eppudainaa kaluddaam) 'let's meet sometime'."
+    },
+    "are_you_free": {
+      "text": "రేపు మీకు ఖాళీ ఉందా?",
+      "roman": "repu meeku khaalee undaa?",
+      "note": "Also common: రేపు మీరు ఫ్రీగా ఉంటారా? (repu meeru freegaa untaaraa?)"
+    },
+    "call_me": {
+      "text": "నాకు ఫోన్ చేయండి",
+      "roman": "naaku fon cheyandi",
+      "note": "Casual: ఫోన్ చెయ్యి (fon cheyyi)."
+    },
+    "your_number": {
+      "text": "మీ ఫోన్ నంబర్ ఎంత?",
+      "roman": "mee fon nambar enta?",
+      "note": "Telugu asks a number with ఎంత (enta). Also: మీ నంబర్ ఇస్తారా? (mee nambar istaaraa?)"
+    },
+    "see_you_soon": {
+      "text": "త్వరలో కలుద్దాం",
+      "roman": "tvaralo kaluddaam"
+    },
+    "have_nice_day": {
+      "text": "మీ రోజు బాగా గడవాలి!",
+      "roman": "mee roju baagaa gadavaali!",
+      "note": "No set phrase in Telugu; this is understood, but many just say English 'have a nice day'."
+    },
+    "good_luck": {
+      "text": "శుభం కలగాలి!",
+      "roman": "shubham kalagaali!",
+      "note": "Most people simply say ఆల్ ది బెస్ట్ (aal di best), 'all the best'."
+    },
+    "happy_birthday": {
+      "text": "పుట్టినరోజు శుభాకాంక్షలు!",
+      "roman": "puttinaroju shubhaakaankshalu!",
+      "note": "In everyday speech English 'happy birthday' is very common."
+    },
+    "thanks_a_lot": {
+      "text": "చాలా ధన్యవాదాలు",
+      "roman": "chaalaa dhanyavaadaalu",
+      "note": "Everyday: చాలా థ్యాంక్స్ (chaalaa thyaanks)."
+    },
+    "miss_you": {
+      "text": "నువ్వు చాలా గుర్తొస్తున్నావు",
+      "roman": "nuvvu chaalaa gurtostunnaavu",
+      "note": "Literally 'you come to mind a lot'. To an elder: మీరు చాలా గుర్తొస్తున్నారు (meeru chaalaa gurtostunnaaru)."
     }
   }
 }

@@ -475,6 +475,497 @@
       "text": "恭喜！",
       "roman": "Gōngxǐ!",
       "note": "Also 祝贺你 (zhùhè nǐ). At Chinese New Year: 恭喜发财 (gōngxǐ fācái)."
+    },
+    "my_family": {
+      "text": "我的家人",
+      "roman": "Wǒ de jiārén",
+      "note": "Often just 我家 (wǒ jiā), which also means \"my home\"."
+    },
+    "mother": {
+      "text": "妈妈",
+      "roman": "Māma",
+      "note": "Formal or written: 母亲 (mǔqīn)."
+    },
+    "father": {
+      "text": "爸爸",
+      "roman": "Bàba",
+      "note": "Formal or written: 父亲 (fùqīn)."
+    },
+    "brother": {
+      "text": "哥哥",
+      "roman": "Gēge",
+      "note": "Older brother. Younger: 弟弟 (dìdi). Brothers in general: 兄弟 (xiōngdì)."
+    },
+    "sister": {
+      "text": "姐姐",
+      "roman": "Jiějie",
+      "note": "Older sister. Younger: 妹妹 (mèimei). Sisters in general: 姐妹 (jiěmèi)."
+    },
+    "child": {
+      "text": "孩子",
+      "roman": "Háizi",
+      "note": "Son: 儿子 (érzi); daughter: 女儿 (nǚ'ér)."
+    },
+    "friend": {
+      "text": "朋友",
+      "roman": "Péngyou",
+      "note": "Same for men and women. But 男朋友 (nán péngyou) and 女朋友 (nǚ péngyou) mean boyfriend and girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "这是我的朋友",
+      "roman": "Zhè shì wǒ de péngyou",
+      "note": "Same for a female friend. In speech the 的 is often dropped: 这是我朋友 (zhè shì wǒ péngyou)."
+    },
+    "are_you_married": {
+      "text": "您结婚了吗？",
+      "roman": "Nín jiéhūn le ma?",
+      "note": "Asked quite freely in China, especially by older people. Casual: 你结婚了吗？ (nǐ jiéhūn le ma?)"
+    },
+    "have_children": {
+      "text": "您有孩子吗？",
+      "roman": "Nín yǒu háizi ma?",
+      "note": "Also 您有小孩吗？ (nín yǒu xiǎohái ma?)"
+    },
+    "monday": {
+      "text": "星期一",
+      "roman": "Xīngqīyī",
+      "note": "Literally \"week one\": the days are numbered from Monday. Also 周一 (zhōuyī)."
+    },
+    "tuesday": {
+      "text": "星期二",
+      "roman": "Xīngqī'èr",
+      "note": "Also 周二 (zhōu'èr), common in writing and timetables."
+    },
+    "wednesday": {
+      "text": "星期三",
+      "roman": "Xīngqīsān",
+      "note": "Also 周三 (zhōusān). In the south 礼拜三 (lǐbàisān) is common too."
+    },
+    "thursday": {
+      "text": "星期四",
+      "roman": "Xīngqīsì",
+      "note": "Also 周四 (zhōusì)."
+    },
+    "friday": {
+      "text": "星期五",
+      "roman": "Xīngqīwǔ",
+      "note": "Also 周五 (zhōuwǔ)."
+    },
+    "saturday": {
+      "text": "星期六",
+      "roman": "Xīngqīliù",
+      "note": "Also 周六 (zhōuliù)."
+    },
+    "sunday": {
+      "text": "星期天",
+      "roman": "Xīngqītiān",
+      "note": "The one day without a number. Also 星期日 (xīngqīrì) and 周日 (zhōurì)."
+    },
+    "weekend": {
+      "text": "周末",
+      "roman": "Zhōumò"
+    },
+    "what_day": {
+      "text": "今天星期几？",
+      "roman": "Jīntiān xīngqī jǐ?",
+      "note": "Answer: 今天星期五 (jīntiān xīngqīwǔ). For the date: 今天几号？ (jīntiān jǐ hào?)"
+    },
+    "next_week": {
+      "text": "下个星期",
+      "roman": "Xià ge xīngqī",
+      "note": "Also 下周 (xiàzhōu). Last week: 上个星期 (shàng ge xīngqī)."
+    },
+    "eleven": {
+      "text": "十一",
+      "roman": "Shíyī",
+      "note": "Simply 10 + 1. 十一 is also the name of the National Day holiday on 1 October."
+    },
+    "twelve": {
+      "text": "十二",
+      "roman": "Shí'èr",
+      "note": "Months are numbered too: 十二月 (shí'èr yuè), December."
+    },
+    "fifteen": {
+      "text": "十五",
+      "roman": "Shíwǔ"
+    },
+    "twenty": {
+      "text": "二十",
+      "roman": "Èrshí",
+      "note": "Literally \"two tens\". 25 is 二十五 (èrshíwǔ)."
+    },
+    "thirty": {
+      "text": "三十",
+      "roman": "Sānshí"
+    },
+    "fifty": {
+      "text": "五十",
+      "roman": "Wǔshí",
+      "note": "On sale signs, 五折 (wǔ zhé) means you pay half price."
+    },
+    "hundred": {
+      "text": "一百",
+      "roman": "Yìbǎi",
+      "note": "Unlike 十, the 一 is always said. 200 is 两百 (liǎngbǎi) or 二百 (èrbǎi)."
+    },
+    "thousand": {
+      "text": "一千",
+      "roman": "Yìqiān",
+      "note": "Big numbers count in ten-thousands: 一万 (yíwàn), 10,000; 两万 (liǎngwàn), 20,000."
+    },
+    "how_old": {
+      "text": "您今年多大了？",
+      "roman": "Nín jīnnián duō dà le?",
+      "note": "To a child: 你几岁了？ (nǐ jǐ suì le?) To an older person: 您多大年纪了？ (nín duō dà niánjì le?)"
+    },
+    "years_old": {
+      "text": "我…岁",
+      "roman": "Wǒ … suì",
+      "note": "Often with 今年 (jīnnián), \"this year\": 我今年二十岁 (wǒ jīnnián èrshí suì)."
+    },
+    "red": {
+      "text": "红色",
+      "roman": "Hóngsè",
+      "note": "Lucky and festive, seen at weddings and New Year. 红包 (hóngbāo) is a red money envelope."
+    },
+    "blue": {
+      "text": "蓝色",
+      "roman": "Lánsè"
+    },
+    "green": {
+      "text": "绿色",
+      "roman": "Lǜsè",
+      "note": "A 绿帽子 (lǜ màozi), green hat, implies a man's partner is cheating, so never give one."
+    },
+    "yellow": {
+      "text": "黄色",
+      "roman": "Huángsè",
+      "note": "Can also mean \"pornographic\": 黄色网站 (huángsè wǎngzhàn) are adult websites."
+    },
+    "black": {
+      "text": "黑色",
+      "roman": "Hēisè",
+      "note": "黑 can also mean shady or illegal: 黑车 (hēichē) is an unlicensed taxi."
+    },
+    "white": {
+      "text": "白色",
+      "roman": "Báisè",
+      "note": "Traditionally the colour of mourning, worn at funerals."
+    },
+    "what_colour": {
+      "text": "这是什么颜色？",
+      "roman": "Zhè shì shénme yánsè?",
+      "note": "Shopping: 有别的颜色吗？ (yǒu bié de yánsè ma?), \"do you have other colours?\""
+    },
+    "this_one": {
+      "text": "这个",
+      "roman": "Zhège",
+      "note": "Often pronounced zhèige."
+    },
+    "that_one": {
+      "text": "那个",
+      "roman": "Nàge",
+      "note": "Often pronounced nèige."
+    },
+    "another_one": {
+      "text": "再来一个，谢谢",
+      "roman": "Zài lái yí ge, xièxie",
+      "note": "Use the right measure word: 再来一瓶 (zài lái yì píng), one more bottle; 再来一杯 (zài lái yì bēi), cup."
+    },
+    "its_hot": {
+      "text": "天气很热",
+      "roman": "Tiānqì hěn rè",
+      "note": "As an exclamation: 好热啊！ (hǎo rè a!) Hot and muggy: 很闷热 (hěn mēnrè)."
+    },
+    "its_cold": {
+      "text": "天气很冷",
+      "roman": "Tiānqì hěn lěng",
+      "note": "As an exclamation: 好冷啊！ (hǎo lěng a!) Pleasantly cool: 凉快 (liángkuai)."
+    },
+    "its_raining": {
+      "text": "下雨了",
+      "roman": "Xià yǔ le",
+      "note": "Literally \"rain is falling\". Snowing: 下雪了 (xià xuě le)."
+    },
+    "its_sunny": {
+      "text": "今天是晴天",
+      "roman": "Jīntiān shì qíngtiān",
+      "note": "When the sun comes out: 出太阳了 (chū tàiyáng le)."
+    },
+    "its_windy": {
+      "text": "风很大",
+      "roman": "Fēng hěn dà",
+      "note": "Literally \"the wind is big\". Also 刮风了 (guā fēng le), \"the wind's picking up\"."
+    },
+    "weather_today": {
+      "text": "今天天气怎么样？",
+      "roman": "Jīntiān tiānqì zěnmeyàng?"
+    },
+    "beautiful_day": {
+      "text": "今天天气真好！",
+      "roman": "Jīntiān tiānqì zhēn hǎo!",
+      "note": "Also 今天天气真不错 (jīntiān tiānqì zhēn búcuò)."
+    },
+    "umbrella": {
+      "text": "雨伞",
+      "roman": "Yǔsǎn",
+      "note": "Often just 伞 (sǎn). Not a good gift: 伞 sounds like 散 (sàn), \"to split up\"."
+    },
+    "summer": {
+      "text": "夏天",
+      "roman": "Xiàtiān"
+    },
+    "winter": {
+      "text": "冬天",
+      "roman": "Dōngtiān",
+      "note": "Spring: 春天 (chūntiān); autumn: 秋天 (qiūtiān)."
+    },
+    "have_reservation": {
+      "text": "我订了房间",
+      "roman": "Wǒ dìng le fángjiān",
+      "note": "Also 我有预订 (wǒ yǒu yùdìng). Then give the name it's under: 我姓… (wǒ xìng …)."
+    },
+    "room": {
+      "text": "房间",
+      "roman": "Fángjiān",
+      "note": "Twin room: 双人间 (shuāngrénjiān); room with a double bed: 大床房 (dàchuángfáng)."
+    },
+    "passport": {
+      "text": "护照",
+      "roman": "Hùzhào",
+      "note": "Needed for hotels and train tickets in China, so keep it with you."
+    },
+    "luggage": {
+      "text": "行李",
+      "roman": "Xíngli",
+      "note": "Suitcase: 行李箱 (xínglixiāng)."
+    },
+    "wifi_password": {
+      "text": "WiFi密码是多少？",
+      "roman": "WiFi mìmǎ shì duōshao?",
+      "note": "WiFi is written in Latin letters and said \"wai-fai\". Also 无线网 (wúxiànwǎng), \"wireless network\"."
+    },
+    "check_out_time": {
+      "text": "请问几点退房？",
+      "roman": "Qǐngwèn jǐ diǎn tuìfáng?",
+      "note": "退房 (tuìfáng), literally \"return the room\", is check-out. Check-in: 入住 (rùzhù)."
+    },
+    "map": {
+      "text": "地图",
+      "roman": "Dìtú",
+      "note": "In China people use 高德地图 (Gāodé Dìtú) or 百度地图 (Bǎidù Dìtú) on their phones."
+    },
+    "bus": {
+      "text": "公交车",
+      "roman": "Gōngjiāochē",
+      "note": "Also 公共汽车 (gōnggòng qìchē); 巴士 (bāshì) in the south. Long-distance coach: 大巴 (dàbā)."
+    },
+    "next_train": {
+      "text": "下一班火车几点开？",
+      "roman": "Xià yì bān huǒchē jǐ diǎn kāi?",
+      "note": "Literally \"what time does the next train leave?\" For the metro: 下一班地铁 (xià yì bān dìtiě)."
+    },
+    "is_this_seat_free": {
+      "text": "请问，这里有人吗？",
+      "roman": "Qǐngwèn, zhèli yǒu rén ma?",
+      "note": "Literally \"is anyone here?\" If it's free, you'll hear 没人 (méi rén)."
+    },
+    "what_do_you_do": {
+      "text": "您是做什么工作的？",
+      "roman": "Nín shì zuò shénme gōngzuò de?",
+      "note": "Shorter: 您做什么工作？ (nín zuò shénme gōngzuò?)"
+    },
+    "i_work_in": {
+      "text": "我在…工作",
+      "roman": "Wǒ zài … gōngzuò",
+      "note": "For a place: 我在银行工作 (wǒ zài yínháng gōngzuò). For a field: 我做销售 (wǒ zuò xiāoshòu), \"I do sales\"."
+    },
+    "im_student": {
+      "text": "我是学生",
+      "roman": "Wǒ shì xuésheng",
+      "note": "Same for men and women. University student: 大学生 (dàxuéshēng)."
+    },
+    "office": {
+      "text": "办公室",
+      "roman": "Bàngōngshì"
+    },
+    "meeting": {
+      "text": "会议",
+      "roman": "Huìyì",
+      "note": "To have a meeting is 开会 (kāihuì): 我在开会 (wǒ zài kāihuì), \"I'm in a meeting\"."
+    },
+    "im_busy": {
+      "text": "我很忙",
+      "roman": "Wǒ hěn máng",
+      "note": "Softer, to turn something down: 我最近有点忙 (wǒ zuìjìn yǒudiǎn máng)."
+    },
+    "day_off": {
+      "text": "休息日",
+      "roman": "Xiūxirì",
+      "note": "\"I'm off today\": 我今天休息 (wǒ jīntiān xiūxi). To ask for time off: 请假 (qǐngjià)."
+    },
+    "colleague": {
+      "text": "同事",
+      "roman": "Tóngshì",
+      "note": "Same for men and women."
+    },
+    "lets_start": {
+      "text": "我们开始吧",
+      "roman": "Wǒmen kāishǐ ba",
+      "note": "吧 (ba) at the end turns it into a suggestion, like \"let's\"."
+    },
+    "good_job": {
+      "text": "干得好！",
+      "roman": "Gàn de hǎo!",
+      "note": "Also 做得很好！ (zuò de hěn hǎo!) After hard work people also say 辛苦了 (xīnkǔ le)."
+    },
+    "table_for_two": {
+      "text": "两位，谢谢",
+      "roman": "Liǎng wèi, xièxie",
+      "note": "The usual answer when staff ask 几位？ (jǐ wèi?), \"how many?\" Also 两个人 (liǎng ge rén)."
+    },
+    "what_recommend": {
+      "text": "有什么推荐的吗？",
+      "roman": "Yǒu shénme tuījiàn de ma?",
+      "note": "Or ask for the house special: 你们的招牌菜是什么？ (nǐmen de zhāopáicài shì shénme?)"
+    },
+    "not_spicy": {
+      "text": "不要辣，谢谢",
+      "roman": "Bú yào là, xièxie",
+      "note": "If you can take a little heat: 微辣 (wēi là), \"mildly spicy\"."
+    },
+    "vegetarian_food": {
+      "text": "素食",
+      "roman": "Sùshí",
+      "note": "Vegetable dishes on a menu: 素菜 (sùcài), but they may still be cooked with meat stock or lard."
+    },
+    "more_water": {
+      "text": "麻烦再加点水",
+      "roman": "Máfan zài jiā diǎn shuǐ",
+      "note": "Water is often served hot. Cold: 冰水 (bīngshuǐ); room temperature: 常温的 (chángwēn de)."
+    },
+    "no_sugar": {
+      "text": "不加糖，谢谢",
+      "roman": "Bù jiā táng, xièxie",
+      "note": "Bubble tea shops ask about sweetness: 无糖 (wú táng) is no sugar, 半糖 (bàn táng) half."
+    },
+    "im_full": {
+      "text": "我吃饱了",
+      "roman": "Wǒ chī bǎo le",
+      "note": "The polite way to refuse more food. Hosts often insist, so expect to say it more than once."
+    },
+    "takeaway": {
+      "text": "带走，谢谢",
+      "roman": "Dàizǒu, xièxie",
+      "note": "Staff ask 堂食还是带走？ (tángshí háishi dàizǒu?), \"eat in or take away?\" Also 打包 (dǎbāo), used for leftovers too."
+    },
+    "it_was_delicious": {
+      "text": "菜都很好吃",
+      "roman": "Cài dōu hěn hǎochī",
+      "note": "Chinese has no past tense; context does the work. To a host: 您做的菜太好吃了 (nín zuò de cài tài hǎochī le)."
+    },
+    "keep_change": {
+      "text": "不用找了",
+      "roman": "Bú yòng zhǎo le",
+      "note": "Literally \"no need to give change\". Tipping isn't customary in China; mostly heard in taxis."
+    },
+    "head": {
+      "text": "头",
+      "roman": "Tóu"
+    },
+    "stomach": {
+      "text": "肚子",
+      "roman": "Dùzi",
+      "note": "The everyday word for belly. The organ itself: 胃 (wèi). Stomach ache: 肚子疼 (dùzi téng)."
+    },
+    "head_hurts": {
+      "text": "我头疼",
+      "roman": "Wǒ tóuténg",
+      "note": "Also 我头痛 (wǒ tóutòng). 疼 and 痛 both mean \"hurt\"; 疼 is more colloquial."
+    },
+    "have_fever": {
+      "text": "我发烧了",
+      "roman": "Wǒ fāshāo le",
+      "note": "A cold is 感冒 (gǎnmào): 我感冒了 (wǒ gǎnmào le), \"I've caught a cold\"."
+    },
+    "medicine": {
+      "text": "药",
+      "roman": "Yào",
+      "note": "To take medicine is 吃药 (chī yào), literally \"eat medicine\"."
+    },
+    "call_ambulance": {
+      "text": "快叫救护车！",
+      "roman": "Kuài jiào jiùhùchē!",
+      "note": "The ambulance number in mainland China is 120."
+    },
+    "dentist": {
+      "text": "牙医",
+      "roman": "Yáyī",
+      "note": "In a hospital, the dental department is 口腔科 (kǒuqiāngkē)."
+    },
+    "need_rest": {
+      "text": "我需要休息",
+      "roman": "Wǒ xūyào xiūxi",
+      "note": "More casual: 我想休息一下 (wǒ xiǎng xiūxi yíxià), \"I'd like a little rest\"."
+    },
+    "feel_better": {
+      "text": "我好多了",
+      "roman": "Wǒ hǎo duō le",
+      "note": "Also 我感觉好多了 (wǒ gǎnjué hǎo duō le)."
+    },
+    "get_well": {
+      "text": "祝你早日康复！",
+      "roman": "Zhù nǐ zǎorì kāngfù!",
+      "note": "To an elder: 祝您早日康复 (zhù nín zǎorì kāngfù). Casual: 快点好起来！ (kuài diǎn hǎo qǐlai!)"
+    },
+    "lets_meet": {
+      "text": "我们见个面吧",
+      "roman": "Wǒmen jiàn ge miàn ba",
+      "note": "Often heard but vague: 改天聚聚吧 (gǎitiān jùju ba), \"let's get together sometime\"."
+    },
+    "are_you_free": {
+      "text": "您明天有空吗？",
+      "roman": "Nín míngtiān yǒu kòng ma?",
+      "note": "空 here is kòng, \"free time\" (kōng means \"empty\"). To a friend use 你 (nǐ)."
+    },
+    "call_me": {
+      "text": "请给我打电话",
+      "roman": "Qǐng gěi wǒ dǎ diànhuà",
+      "note": "Friendlier: 给我打个电话吧 (gěi wǒ dǎ ge diànhuà ba). Many people prefer a WeChat message."
+    },
+    "your_number": {
+      "text": "您的电话号码是多少？",
+      "roman": "Nín de diànhuà hàomǎ shì duōshao?",
+      "note": "Numbers are read digit by digit, 1 as yāo. Often people swap WeChat: 加个微信吧 (jiā ge Wēixìn ba)."
+    },
+    "see_you_soon": {
+      "text": "下次见",
+      "roman": "Xià cì jiàn",
+      "note": "Literally \"see you next time\". Also 改天见 (gǎitiān jiàn). Later today: 一会儿见 (yíhuìr jiàn)."
+    },
+    "have_nice_day": {
+      "text": "祝您一天愉快！",
+      "roman": "Zhù nín yì tiān yúkuài!",
+      "note": "Mostly heard from service staff. Before a weekend: 周末愉快！ (zhōumò yúkuài!)"
+    },
+    "good_luck": {
+      "text": "祝你好运！",
+      "roman": "Zhù nǐ hǎoyùn!",
+      "note": "Before an exam or a big task, say 加油！ (jiāyóu!), literally \"add fuel\"."
+    },
+    "happy_birthday": {
+      "text": "生日快乐！",
+      "roman": "Shēngrì kuàilè!"
+    },
+    "thanks_a_lot": {
+      "text": "非常感谢",
+      "roman": "Fēicháng gǎnxiè",
+      "note": "Warmer in speech: 太谢谢你了！ (tài xièxie nǐ le!) Also 多谢 (duōxiè)."
+    },
+    "miss_you": {
+      "text": "我想你了",
+      "roman": "Wǒ xiǎng nǐ le",
+      "note": "Warm and casual: 好想你！ (hǎo xiǎng nǐ!) 想 also means \"to think\" and \"to want\"."
     }
   }
 }

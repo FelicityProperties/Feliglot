@@ -379,6 +379,403 @@
     "congratulations": {
       "text": "Ẹ kú oríire!",
       "note": "Casual: oríire o!"
+    },
+    "my_family": {
+      "text": "Ẹbí mi",
+      "note": "Also: ìdílé mi (my household). Mi follows the noun: ìyá mi (my mother)."
+    },
+    "mother": {
+      "text": "Ìyá",
+      "note": "Also màmá. Ìyá is also a respectful way to address an older woman."
+    },
+    "father": {
+      "text": "Bàbá",
+      "note": "Also a respectful way to address an older man."
+    },
+    "brother": {
+      "text": "Arákùnrin",
+      "note": "Siblings are usually named by age: ẹ̀gbọ́n (older), àbúrò (younger), e.g. ẹ̀gbọ́n mi ọkùnrin."
+    },
+    "sister": {
+      "text": "Arábìnrin",
+      "note": "Everyday: ẹ̀gbọ́n mi obìnrin (my older sister), àbúrò mi obìnrin (my younger sister)."
+    },
+    "child": {
+      "text": "Ọmọ",
+      "note": "My child: ọmọ mi. Son: ọmọkùnrin; daughter: ọmọbìnrin."
+    },
+    "friend": {
+      "text": "Ọ̀rẹ́",
+      "note": "Same word for a man or a woman. Close friend: ọ̀rẹ́ tímọ́tímọ́."
+    },
+    "this_is_my_friend": {
+      "text": "Ọ̀rẹ́ mi nìyí",
+      "note": "Same for a male or female friend. Also: èyí ni ọ̀rẹ́ mi."
+    },
+    "are_you_married": {
+      "text": "Ṣé ẹ ti ṣègbéyàwó?",
+      "note": "Also, to a man: ṣé ẹ ti níyàwó? (have you a wife?) To a woman: ṣé ẹ ti lọ́kọ? (have you a husband?)"
+    },
+    "have_children": {
+      "text": "Ṣé ẹ ti bímọ?",
+      "note": "Bímọ (have a child) is said of men and women alike. Also: ṣé ẹ lọ́mọ?"
+    },
+    "monday": {
+      "text": "Ọjọ́ Ajé",
+      "note": "On Monday: lọ́jọ́ Ajé. English day names are also common in everyday speech."
+    },
+    "tuesday": {
+      "text": "Ọjọ́ Ìṣẹ́gun",
+      "note": "Ìṣẹ́gun means victory."
+    },
+    "wednesday": {
+      "text": "Ọjọ́rú",
+      "note": "Written as one word. On Wednesday: lọ́jọ́rú."
+    },
+    "thursday": {
+      "text": "Ọjọ́bọ̀",
+      "note": "Written as one word. On Thursday: lọ́jọ́bọ̀."
+    },
+    "friday": {
+      "text": "Ọjọ́ Ẹtì",
+      "note": "Also common, especially among Muslims: Ọjọ́ Jímọ̀."
+    },
+    "saturday": {
+      "text": "Ọjọ́ Àbámẹ́ta"
+    },
+    "sunday": {
+      "text": "Ọjọ́ Àìkú",
+      "note": "Also very common: Ọjọ́ Ìsinmi (day of rest)."
+    },
+    "weekend": {
+      "text": "Òpin ọ̀sẹ̀",
+      "note": "Also: ìparí ọ̀sẹ̀. Many people simply say weekend, from English."
+    },
+    "what_day": {
+      "text": "Ọjọ́ wo ni òní?",
+      "note": "In speech often ọjọ́ wo lòní? Answer, e.g.: Ọjọ́ Ajé lòní (today is Monday)."
+    },
+    "next_week": {
+      "text": "Ọ̀sẹ̀ tó ń bọ̀",
+      "note": "Inside a sentence: lọ́sẹ̀ tó ń bọ̀. Last week: ọ̀sẹ̀ tó kọjá."
+    },
+    "eleven": {
+      "text": "Ọ̀kanlá",
+      "note": "After a noun: mọ́kànlá (ìwé mọ́kànlá, eleven books)."
+    },
+    "twelve": {
+      "text": "Èjìlá",
+      "note": "After a noun: méjìlá (ìwé méjìlá, twelve books)."
+    },
+    "fifteen": {
+      "text": "Ẹ̀ẹ́dógún",
+      "note": "Literally five short of twenty. After a noun: mẹ́ẹ̀ẹ́dógún (ìwé mẹ́ẹ̀ẹ́dógún, fifteen books)."
+    },
+    "twenty": {
+      "text": "Ogún",
+      "note": "Twenty years: ogún ọdún. Yoruba counts in twenties: forty is ogójì (two twenties)."
+    },
+    "thirty": {
+      "text": "Ọgbọ̀n",
+      "note": "Twenty-five is ẹ̀ẹ́dọ́gbọ̀n, literally five short of thirty."
+    },
+    "fifty": {
+      "text": "Àádọ́ta",
+      "note": "Literally ten short of sixty (ọgọ́ta)."
+    },
+    "hundred": {
+      "text": "Ọgọ́rùn-ún",
+      "note": "Literally five twenties. A hundred naira: ọgọ́rùn-ún náírà."
+    },
+    "thousand": {
+      "text": "Ẹgbẹ̀rún",
+      "note": "A thousand naira: ẹgbẹ̀rún náírà. Two thousand: ẹgbàá."
+    },
+    "how_old": {
+      "text": "Ọmọ ọdún mélòó lẹ jẹ́?",
+      "note": "To a friend or child: ọmọ ọdún mélòó lo jẹ́? Asking an elder's age directly can seem rude."
+    },
+    "years_old": {
+      "text": "Ọmọ ọdún … ni mí",
+      "note": "E.g. ọmọ ọdún méjìlá ni mí (I'm 12). From twenty, round numbers go first: ọmọ ogún ọdún ni mí (I'm 20)."
+    },
+    "red": {
+      "text": "Pupa",
+      "note": "It's red: ó pupa. Traditionally pupa also covers orange and pink shades."
+    },
+    "blue": {
+      "text": "Aró",
+      "note": "The indigo of traditional dyed cloth. Many people simply say blue, from English."
+    },
+    "green": {
+      "text": "Àwọ̀ ewé",
+      "note": "Literally 'leaf colour'. Many people simply say green, from English."
+    },
+    "yellow": {
+      "text": "Àwọ̀ ìyeyè",
+      "note": "Named after the yellow hog-plum fruit; also òféfèé. Many people simply say yellow, from English."
+    },
+    "black": {
+      "text": "Dúdú",
+      "note": "It's black: ó dúdú. Also used for any dark colour."
+    },
+    "white": {
+      "text": "Funfun",
+      "note": "It's white: ó funfun."
+    },
+    "what_colour": {
+      "text": "Kí ni àwọ̀ rẹ̀?",
+      "note": "Also common: àwọ̀ wo ló jẹ́?"
+    },
+    "this_one": {
+      "text": "Èyí",
+      "note": "Also common: eléyìí. I want this one: mo fẹ́ èyí."
+    },
+    "that_one": {
+      "text": "Ìyẹn",
+      "note": "I want that one: mo fẹ́ ìyẹn."
+    },
+    "another_one": {
+      "text": "Ẹ jọ̀ọ́, ẹ fún mi ní ọ̀kan sí i",
+      "note": "Sí i means 'more'. A different one: òmíràn."
+    },
+    "its_hot": {
+      "text": "Ooru mú",
+      "note": "Very hot: ooru mú gan-an. I'm hot: ooru ń mú mi."
+    },
+    "its_cold": {
+      "text": "Òtútù mú",
+      "note": "I'm cold: òtútù ń mú mi."
+    },
+    "its_raining": {
+      "text": "Òjò ń rọ̀",
+      "note": "It's about to rain: òjò fẹ́ rọ̀."
+    },
+    "its_sunny": {
+      "text": "Oòrùn ń ràn",
+      "note": "Careful with tones: oòrùn is sun, oorun is sleep."
+    },
+    "its_windy": {
+      "text": "Afẹ́fẹ́ ń fẹ́",
+      "note": "Very windy: afẹ́fẹ́ ń fẹ́ gan-an. A storm: ìjì."
+    },
+    "weather_today": {
+      "text": "Báwo ni ojú ọjọ́ ṣe rí lónìí?",
+      "note": "Ojú ọjọ́ (weather) is literally 'the face of the day'."
+    },
+    "beautiful_day": {
+      "text": "Ojú ọjọ́ dára gan-an lónìí"
+    },
+    "umbrella": {
+      "text": "Agbòjò",
+      "note": "Literally 'rain-catcher'."
+    },
+    "summer": {
+      "text": "Ẹ̀ẹ̀rùn",
+      "note": "The hot dry season. Nigeria's other season is the rainy season, ìgbà òjò."
+    },
+    "winter": {
+      "text": "Ìgbà òtútù",
+      "note": "Literally 'cold season'. The cool, dusty harmattan in Nigeria is ọyẹ́."
+    },
+    "have_reservation": {
+      "text": "Mo ti gba yàrá síbí tẹ́lẹ̀",
+      "note": "Literally 'I already took a room here'. Hotel staff usually use the English word booking."
+    },
+    "room": {
+      "text": "Yàrá",
+      "note": "Also any room in a house. Bedroom: yàrá ìbùsùn."
+    },
+    "passport": {
+      "text": "Ìwé ìrìnnà",
+      "note": "Literally 'travel document'. Most people simply say passport, from English."
+    },
+    "luggage": {
+      "text": "Ẹrù",
+      "note": "Also means any load or goods. My luggage: ẹrù mi."
+    },
+    "wifi_password": {
+      "text": "Ẹ jọ̀ọ́, kí ni pásíwọ̀ọ̀dù Wi-Fi yín?",
+      "note": "Both words come from English and are said much as in English."
+    },
+    "check_out_time": {
+      "text": "Aago mélòó ni mo gbọ́dọ̀ fi yàrá sílẹ̀?",
+      "note": "Literally 'what time must I leave the room?' Staff often use the English check-out."
+    },
+    "map": {
+      "text": "Àwòrán ilẹ̀",
+      "note": "Literally 'picture of the land'. Many people simply say map, from English."
+    },
+    "bus": {
+      "text": "Bọ́ọ̀sì",
+      "note": "In Lagos the yellow minibuses are called dáńfó."
+    },
+    "next_train": {
+      "text": "Ìgbà wo ni ọkọ̀ ojú irin tó kàn máa gbéra?",
+      "note": "Tó kàn means 'the next one'; gbéra means 'set off'."
+    },
+    "is_this_seat_free": {
+      "text": "Ẹ jọ̀ọ́, ṣé ẹnìkan ti gba àyè yìí?",
+      "note": "Literally 'has someone taken this place?' Can I sit here?: ṣé mo lè jókòó síbí?"
+    },
+    "what_do_you_do": {
+      "text": "Iṣẹ́ wo lẹ ń ṣe?",
+      "note": "To a friend or someone younger: iṣẹ́ wo lò ń ṣe?"
+    },
+    "i_work_in": {
+      "text": "Mo ń ṣiṣẹ́ ní …",
+      "note": "E.g. mo ń ṣiṣẹ́ ní ilé ìwòsàn (I work at a hospital)."
+    },
+    "im_student": {
+      "text": "Akẹ́kọ̀ọ́ ni mí",
+      "note": "Same for a man or a woman."
+    },
+    "office": {
+      "text": "Ọ́fíìsì",
+      "note": "Workplace in general: ibi iṣẹ́. I'm going to work: mo ń lọ síbi iṣẹ́."
+    },
+    "meeting": {
+      "text": "Ìpàdé",
+      "note": "I have a meeting: mo ní ìpàdé. Pàdé means 'to meet'."
+    },
+    "im_busy": {
+      "text": "Ọwọ́ mi dí",
+      "note": "Literally 'my hands are occupied'. Very busy: ọwọ́ mi dí gan-an."
+    },
+    "day_off": {
+      "text": "Ọjọ́ ìsinmi",
+      "note": "Literally 'day of rest'. I'm off today: mi ò ṣiṣẹ́ lónìí."
+    },
+    "colleague": {
+      "text": "Alábàáṣiṣẹ́pọ̀",
+      "note": "Same for a man or a woman. Literally 'one I work together with'."
+    },
+    "lets_start": {
+      "text": "Ẹ jẹ́ ká bẹ̀rẹ̀",
+      "note": "To one friend: jẹ́ ká bẹ̀rẹ̀."
+    },
+    "good_job": {
+      "text": "Ẹ ṣe dáadáa!",
+      "note": "To a friend or someone younger: o ṣe dáadáa! Also common: ẹ káre o!"
+    },
+    "table_for_two": {
+      "text": "Ẹ jọ̀ọ́, a fẹ́ tábìlì fún ènìyàn méjì",
+      "note": "At a local bùkà you simply sit wherever there is space."
+    },
+    "what_recommend": {
+      "text": "Ẹ jọ̀ọ́, kí ló dára jù níbí?",
+      "note": "Literally 'what's best here?'. Also: kí lẹ rò pé kí n jẹ? (what do you think I should eat?)"
+    },
+    "not_spicy": {
+      "text": "Ẹ jọ̀ọ́, ẹ má fi ata sí i",
+      "note": "Ó ta means 'it's spicy'. Just a little pepper: ata díẹ̀."
+    },
+    "vegetarian_food": {
+      "text": "Oúnjẹ tí kò ní ẹran",
+      "note": "Literally 'food without meat'. Soups often contain fish (ẹja) or crayfish (edé)."
+    },
+    "more_water": {
+      "text": "Ẹ jọ̀ọ́, ẹ fún mi ní omi sí i"
+    },
+    "no_sugar": {
+      "text": "Ẹ jọ̀ọ́, ẹ má fi ṣúgà sí i",
+      "note": "Just a little sugar: ṣúgà díẹ̀."
+    },
+    "im_full": {
+      "text": "Mo ti yó",
+      "note": "Very full: mo ti yó bámúbámú."
+    },
+    "takeaway": {
+      "text": "Ẹ jọ̀ọ́, ẹ dì í kí n mú un lọ",
+      "note": "Literally 'wrap it so I can take it away'."
+    },
+    "it_was_delicious": {
+      "text": "Oúnjẹ náà dùn gan-an",
+      "note": "No past tense needed: the same sentence also means 'the food is delicious'."
+    },
+    "keep_change": {
+      "text": "Ẹ fi ṣéńjì náà sílẹ̀",
+      "note": "Literally 'leave the change'. Many Nigerians call change balance."
+    },
+    "head": {
+      "text": "Orí",
+      "note": "In Yoruba thought orí also means one's destiny."
+    },
+    "stomach": {
+      "text": "Ikùn",
+      "note": "For aches Yoruba uses inú (inside): inú ń run mí (I have a stomach ache)."
+    },
+    "head_hurts": {
+      "text": "Orí ń fọ́ mi",
+      "note": "Literally 'my head is splitting me'."
+    },
+    "have_fever": {
+      "text": "Ibà ń ṣe mí",
+      "note": "Ibà also means malaria, the usual suspect in Nigeria."
+    },
+    "medicine": {
+      "text": "Oògùn",
+      "note": "Also covers traditional herbal remedies. To take medicine: lo oògùn."
+    },
+    "call_ambulance": {
+      "text": "Ẹ pe ọkọ̀ aláìsàn!",
+      "note": "Literally 'vehicle for the sick'. Many people simply say ambulance."
+    },
+    "dentist": {
+      "text": "Dókítà eyín",
+      "note": "Literally 'tooth doctor'. Toothache: eyín ń dùn mí."
+    },
+    "need_rest": {
+      "text": "Mo ní láti sinmi",
+      "note": "Also: mo fẹ́ sinmi díẹ̀ (I'd like to rest a bit)."
+    },
+    "feel_better": {
+      "text": "Ara mi ti ń yá",
+      "note": "Fully recovered: ara mi ti yá."
+    },
+    "get_well": {
+      "text": "Ara á yá o!",
+      "note": "Often after ẹ pẹ̀lẹ́ o (sorry you're unwell). The reply: àmín."
+    },
+    "lets_meet": {
+      "text": "Ẹ jẹ́ ká pàdé",
+      "note": "To one friend: jẹ́ ká pàdé. Where shall we meet?: ibo la ti máa pàdé?"
+    },
+    "are_you_free": {
+      "text": "Ṣé ẹ máa ráyè lọ́la?",
+      "note": "Literally 'will you find time tomorrow?' To a friend: ṣé o máa ráyè lọ́la?"
+    },
+    "call_me": {
+      "text": "Ẹ pè mí",
+      "note": "To a friend: pè mí. To make clear it's a phone call: ẹ pè mí lórí fóònù."
+    },
+    "your_number": {
+      "text": "Kí ni nọ́ńbà fóònù yín?",
+      "note": "To a friend: kí ni nọ́ńbà fóònù rẹ? Numbers are usually read out in English."
+    },
+    "see_you_soon": {
+      "text": "A ó ríra láìpẹ́",
+      "note": "Láìpẹ́ means 'soon', literally 'before long'."
+    },
+    "have_nice_day": {
+      "text": "Ọjọ́ òní á dára fún yín o!",
+      "note": "Wishes are often said as blessings. The reply: àmín (amen) or àṣẹ."
+    },
+    "good_luck": {
+      "text": "Á dára o!",
+      "note": "Literally 'it will be good'. Also: Ọlọ́run á ṣe é o! (God will see it through)"
+    },
+    "happy_birthday": {
+      "text": "Ẹ kú ọjọ́ ìbí!",
+      "note": "To a friend: o kú ọjọ́ ìbí! Many people simply say happy birthday in English."
+    },
+    "thanks_a_lot": {
+      "text": "Ẹ ṣé gan-an",
+      "note": "To a friend or someone younger: o ṣé gan-an. Also: ẹ ṣeun púpọ̀."
+    },
+    "miss_you": {
+      "text": "Àárò rẹ ń sọ mí",
+      "note": "To an elder or several people: àárò yín ń sọ mí."
     }
   }
 }

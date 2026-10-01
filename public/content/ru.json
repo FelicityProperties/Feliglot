@@ -472,6 +472,499 @@
       "text": "Поздравляю!",
       "roman": "Pozdravlyayu!",
       "note": "From several people: Поздравляем! (pozdravlyayem!)"
+    },
+    "my_family": {
+      "text": "Моя семья",
+      "roman": "Moya semya"
+    },
+    "mother": {
+      "text": "Мама",
+      "roman": "Mama",
+      "note": "The everyday word, even among adults. More formal: мать (mat)."
+    },
+    "father": {
+      "text": "Папа",
+      "roman": "Papa",
+      "note": "The everyday word, even among adults. More formal: отец (otets)."
+    },
+    "brother": {
+      "text": "Брат",
+      "roman": "Brat",
+      "note": "Older brother: старший брат (starshiy brat); younger: младший (mladshiy)."
+    },
+    "sister": {
+      "text": "Сестра",
+      "roman": "Sestra"
+    },
+    "child": {
+      "text": "Ребёнок",
+      "roman": "Rebyonok",
+      "note": "Plural: дети (deti). Son: сын (syn); daughter: дочь (doch)."
+    },
+    "friend": {
+      "text": "Друг",
+      "roman": "Drug",
+      "note": "A female friend: подруга (podruga). The final г sounds like k: druk."
+    },
+    "this_is_my_friend": {
+      "text": "Это мой друг",
+      "roman": "Eto moy drug",
+      "note": "For a female friend: Это моя подруга (eto moya podruga)."
+    },
+    "are_you_married": {
+      "text": "Вы женаты?",
+      "roman": "Vy zhenaty?",
+      "note": "To a woman: Вы замужем? (vy zamuzhem?)"
+    },
+    "have_children": {
+      "text": "У вас есть дети?",
+      "roman": "U vas yest deti?",
+      "note": "Casual: У тебя есть дети? (u tebya yest deti?)"
+    },
+    "monday": {
+      "text": "понедельник",
+      "roman": "ponedelnik",
+      "note": "Days are not capitalised in Russian. On Monday: в понедельник (v ponedelnik)."
+    },
+    "tuesday": {
+      "text": "вторник",
+      "roman": "vtornik",
+      "note": "From второй (vtoroy), 'second'. On Tuesday: во вторник (vo vtornik), with во, not в."
+    },
+    "wednesday": {
+      "text": "среда",
+      "roman": "sreda",
+      "note": "Literally 'middle', the middle of the week. On Wednesday: в среду (v sredu)."
+    },
+    "thursday": {
+      "text": "четверг",
+      "roman": "chetverg",
+      "note": "From четвёртый (chetvyortyy), 'fourth'. The final г sounds like k: chetverk."
+    },
+    "friday": {
+      "text": "пятница",
+      "roman": "pyatnitsa",
+      "note": "From пятый (pyatyy), 'fifth'. On Friday: в пятницу (v pyatnitsu)."
+    },
+    "saturday": {
+      "text": "суббота",
+      "roman": "subbota",
+      "note": "On Saturday: в субботу (v subbotu)."
+    },
+    "sunday": {
+      "text": "воскресенье",
+      "roman": "voskresenye",
+      "note": "Literally 'resurrection'. On Sunday: в воскресенье (v voskresenye)."
+    },
+    "weekend": {
+      "text": "Выходные",
+      "roman": "Vykhodnyye",
+      "note": "Literally 'days off'. At the weekend: на выходных (na vykhodnykh)."
+    },
+    "what_day": {
+      "text": "Какой сегодня день?",
+      "roman": "Kakoy segodnya den?",
+      "note": "For the date: Какое сегодня число? (kakoye segodnya chislo?)"
+    },
+    "next_week": {
+      "text": "На следующей неделе",
+      "roman": "Na sleduyushchey nedele",
+      "note": "Last week: на прошлой неделе (na proshloy nedele)."
+    },
+    "eleven": {
+      "text": "Одиннадцать",
+      "roman": "Odinnadtsat",
+      "note": "The д is silent: odinatsat. All the teens end in -надцать (-nadtsat), 'on ten'."
+    },
+    "twelve": {
+      "text": "Двенадцать",
+      "roman": "Dvenadtsat",
+      "note": "Built on две (dve), not два: 'two on ten'."
+    },
+    "fifteen": {
+      "text": "Пятнадцать",
+      "roman": "Pyatnadtsat",
+      "note": "No ь here, unlike пять (pyat)."
+    },
+    "twenty": {
+      "text": "Двадцать",
+      "roman": "Dvadtsat",
+      "note": "Literally 'two tens'. The д before ц is silent: dvatsat."
+    },
+    "thirty": {
+      "text": "Тридцать",
+      "roman": "Tridtsat",
+      "note": "Literally 'three tens'. Forty is irregular: сорок (sorok)."
+    },
+    "fifty": {
+      "text": "Пятьдесят",
+      "roman": "Pyatdesyat",
+      "note": "Literally 'five tens', stressed at the end. 60–80 are built the same way; 70 and 80 stress the start."
+    },
+    "hundred": {
+      "text": "Сто",
+      "roman": "Sto",
+      "note": "Two hundred: двести (dvesti); five hundred: пятьсот (pyatsot)."
+    },
+    "thousand": {
+      "text": "Тысяча",
+      "roman": "Tysyacha",
+      "note": "Two thousand: две тысячи (dve tysyachi); five thousand: пять тысяч (pyat tysyach)."
+    },
+    "how_old": {
+      "text": "Сколько вам лет?",
+      "roman": "Skolko vam let?",
+      "note": "Casual: Сколько тебе лет? (skolko tebe let?)"
+    },
+    "years_old": {
+      "text": "Мне … лет",
+      "roman": "Mne … let",
+      "note": "Лет (let) after most numbers; год (god) after 1, 21, 31…; года (goda) after 2–4, 22–24…"
+    },
+    "red": {
+      "text": "Красный",
+      "roman": "Krasnyy",
+      "note": "Feminine: красная (krasnaya); neuter: красное (krasnoye)."
+    },
+    "blue": {
+      "text": "Синий",
+      "roman": "Siniy",
+      "note": "Dark blue. Light or sky blue counts as a separate colour: голубой (goluboy)."
+    },
+    "green": {
+      "text": "Зелёный",
+      "roman": "Zelyonyy",
+      "note": "The ё is always stressed and said yo, even when printed as е."
+    },
+    "yellow": {
+      "text": "Жёлтый",
+      "roman": "Zhyoltyy"
+    },
+    "black": {
+      "text": "Чёрный",
+      "roman": "Chyornyy",
+      "note": "Black coffee: чёрный кофе (chyornyy kofe)."
+    },
+    "white": {
+      "text": "Белый",
+      "roman": "Belyy",
+      "note": "White wine: белое вино (beloye vino)."
+    },
+    "what_colour": {
+      "text": "Какого это цвета?",
+      "roman": "Kakogo eto tsveta?",
+      "note": "The г in -ого is said v: kakovo."
+    },
+    "this_one": {
+      "text": "Вот этот",
+      "roman": "Vot etot",
+      "note": "Agrees with the item: эта (eta) for feminine, это (eto) for neuter nouns."
+    },
+    "that_one": {
+      "text": "Вон тот",
+      "roman": "Von tot",
+      "note": "Вон means 'over there'. Feminine: та (ta); neuter: то (to)."
+    },
+    "another_one": {
+      "text": "Ещё один, пожалуйста",
+      "roman": "Yeshchyo odin, pozhaluysta",
+      "note": "For feminine nouns: ещё одну (yeshchyo odnu). For a round of drinks: Повторите! (povtorite!)"
+    },
+    "its_hot": {
+      "text": "Жарко",
+      "roman": "Zharko",
+      "note": "Pleasantly warm: тепло (teplo)."
+    },
+    "its_cold": {
+      "text": "Холодно",
+      "roman": "Kholodno",
+      "note": "Just chilly: прохладно (prokhladno)."
+    },
+    "its_raining": {
+      "text": "Идёт дождь",
+      "roman": "Idyot dozhd",
+      "note": "Literally 'rain is going'. It's snowing: Идёт снег (idyot sneg)."
+    },
+    "its_sunny": {
+      "text": "Солнечно",
+      "roman": "Solnechno",
+      "note": "Also: Светит солнце (svetit solntse), 'the sun is shining'. The л in солнце is silent."
+    },
+    "its_windy": {
+      "text": "Ветрено",
+      "roman": "Vetreno",
+      "note": "Also: Дует ветер (duyet veter), 'the wind is blowing'."
+    },
+    "weather_today": {
+      "text": "Какая сегодня погода?",
+      "roman": "Kakaya segodnya pogoda?",
+      "note": "Casual: Как погода? (kak pogoda?)"
+    },
+    "beautiful_day": {
+      "text": "Какой прекрасный день!",
+      "roman": "Kakoy prekrasnyy den!"
+    },
+    "umbrella": {
+      "text": "Зонт",
+      "roman": "Zont",
+      "note": "The diminutive зонтик (zontik) is just as common."
+    },
+    "summer": {
+      "text": "Лето",
+      "roman": "Leto",
+      "note": "In summer: летом (letom)."
+    },
+    "winter": {
+      "text": "Зима",
+      "roman": "Zima",
+      "note": "In winter: зимой (zimoy)."
+    },
+    "have_reservation": {
+      "text": "У меня забронирован номер",
+      "roman": "U menya zabronirovan nomer",
+      "note": "Shorter and very common: У меня бронь (u menya bron)."
+    },
+    "room": {
+      "text": "Номер",
+      "roman": "Nomer",
+      "note": "A hotel room is номер; a room in a home is комната (komnata)."
+    },
+    "passport": {
+      "text": "Паспорт",
+      "roman": "Pasport",
+      "note": "Russians call their travel passport загранпаспорт (zagranpasport)."
+    },
+    "luggage": {
+      "text": "Багаж",
+      "roman": "Bagazh",
+      "note": "Your bags are often just вещи (veshchi), 'things'. Suitcase: чемодан (chemodan)."
+    },
+    "wifi_password": {
+      "text": "Какой пароль от вай-фая?",
+      "roman": "Kakoy parol ot vay-faya?",
+      "note": "Often written Wi-Fi, but always said vay-fay."
+    },
+    "check_out_time": {
+      "text": "Во сколько нужно освободить номер?",
+      "roman": "Vo skolko nuzhno osvobodit nomer?",
+      "note": "Literally 'when must I free the room?'. Hotels call check-out time расчётный час (raschyotnyy chas)."
+    },
+    "map": {
+      "text": "Карта",
+      "roman": "Karta",
+      "note": "Also means a bank card. City map: карта города (karta goroda)."
+    },
+    "bus": {
+      "text": "Автобус",
+      "roman": "Avtobus",
+      "note": "Bus stop: остановка (ostanovka)."
+    },
+    "next_train": {
+      "text": "Когда следующий поезд?",
+      "roman": "Kogda sleduyushchiy poyezd?",
+      "note": "A suburban commuter train is электричка (elektrichka)."
+    },
+    "is_this_seat_free": {
+      "text": "Здесь свободно?",
+      "roman": "Zdes svobodno?",
+      "note": "Also very common: Здесь не занято? (zdes ne zanyato?), 'Is this taken?'"
+    },
+    "what_do_you_do": {
+      "text": "Кем вы работаете?",
+      "roman": "Kem vy rabotayete?",
+      "note": "Broader, covering studies too: Чем вы занимаетесь? (chem vy zanimayetes?)"
+    },
+    "i_work_in": {
+      "text": "Я работаю в …",
+      "roman": "Ya rabotayu v …",
+      "note": "The ending changes: в банке (v banke), в школе (v shkole). Some places take на: на заводе (na zavode)."
+    },
+    "im_student": {
+      "text": "Я студент",
+      "roman": "Ya student",
+      "note": "A woman says: Я студентка (ya studentka)."
+    },
+    "office": {
+      "text": "Офис",
+      "roman": "Ofis"
+    },
+    "meeting": {
+      "text": "Совещание",
+      "roman": "Soveshchaniye",
+      "note": "A meeting with a client or partner: встреча (vstrecha)."
+    },
+    "im_busy": {
+      "text": "Я занят",
+      "roman": "Ya zanyat",
+      "note": "A woman says: Я занята (ya zanyata)."
+    },
+    "day_off": {
+      "text": "Выходной",
+      "roman": "Vykhodnoy",
+      "note": "I'm off today: У меня сегодня выходной (u menya segodnya vykhodnoy)."
+    },
+    "colleague": {
+      "text": "Коллега",
+      "roman": "Kollega",
+      "note": "Same word for a woman, but it then takes feminine words: моя коллега (moya kollega)."
+    },
+    "lets_start": {
+      "text": "Давайте начнём",
+      "roman": "Davayte nachnyom",
+      "note": "Among friends: Давай начнём (davay nachnyom). Or just: Начнём! (nachnyom!)"
+    },
+    "good_job": {
+      "text": "Отличная работа!",
+      "roman": "Otlichnaya rabota!",
+      "note": "Very common: Молодец! (molodets!), 'well done!', to a man or a woman."
+    },
+    "table_for_two": {
+      "text": "Столик на двоих, пожалуйста",
+      "roman": "Stolik na dvoikh, pozhaluysta",
+      "note": "For three: на троих (na troikh); for four: на четверых (na chetverykh)."
+    },
+    "what_recommend": {
+      "text": "Что вы посоветуете?",
+      "roman": "Chto vy posovetuyete?",
+      "note": "Also: Что вы порекомендуете? (chto vy porekomenduyete?)"
+    },
+    "not_spicy": {
+      "text": "Не острое, пожалуйста",
+      "roman": "Ne ostroye, pozhaluysta",
+      "note": "Agrees with блюдо (blyudo), 'dish'. With a masculine dish like суп (sup): не острый (ne ostryy)."
+    },
+    "vegetarian_food": {
+      "text": "Вегетарианская еда",
+      "roman": "Vegetarianskaya yeda",
+      "note": "Asking for it: У вас есть вегетарианские блюда? (u vas yest vegetarianskiye blyuda?)"
+    },
+    "more_water": {
+      "text": "Ещё воды, пожалуйста",
+      "roman": "Yeshchyo vody, pozhaluysta",
+      "note": "Воды is the 'some water' form of вода (voda)."
+    },
+    "no_sugar": {
+      "text": "Без сахара, пожалуйста",
+      "roman": "Bez sakhara, pozhaluysta",
+      "note": "With milk: с молоком (s molokom)."
+    },
+    "im_full": {
+      "text": "Я наелся",
+      "roman": "Ya nayelsya",
+      "note": "A woman says: Я наелась (ya nayelas)."
+    },
+    "takeaway": {
+      "text": "С собой, пожалуйста",
+      "roman": "S soboy, pozhaluysta",
+      "note": "You may be asked: Здесь или с собой? (zdes ili s soboy?), 'for here or to go?'"
+    },
+    "it_was_delicious": {
+      "text": "Было очень вкусно!",
+      "roman": "Bylo ochen vkusno!",
+      "note": "To thank a host: Спасибо, всё было очень вкусно! (spasibo, vsyo bylo ochen vkusno!)"
+    },
+    "keep_change": {
+      "text": "Сдачи не надо",
+      "roman": "Sdachi ne nado",
+      "note": "Literally 'no change needed'. The change itself is сдача (sdacha)."
+    },
+    "head": {
+      "text": "Голова",
+      "roman": "Golova"
+    },
+    "stomach": {
+      "text": "Живот",
+      "roman": "Zhivot",
+      "note": "The belly, where it hurts. The organ itself is желудок (zheludok)."
+    },
+    "head_hurts": {
+      "text": "У меня болит голова",
+      "roman": "U menya bolit golova",
+      "note": "Same pattern for any body part: У меня болит живот (u menya bolit zhivot)."
+    },
+    "have_fever": {
+      "text": "У меня температура",
+      "roman": "U menya temperatura",
+      "note": "Literally 'I have a temperature'. High fever: высокая температура (vysokaya temperatura)."
+    },
+    "medicine": {
+      "text": "Лекарство",
+      "roman": "Lekarstvo",
+      "note": "Medicine for a cough: лекарство от кашля (lekarstvo ot kashlya)."
+    },
+    "call_ambulance": {
+      "text": "Вызовите скорую!",
+      "roman": "Vyzovite skoruyu!",
+      "note": "Short for скорая помощь (skoraya pomoshch). In Russia, 103 calls an ambulance; 112 also works."
+    },
+    "dentist": {
+      "text": "Стоматолог",
+      "roman": "Stomatolog",
+      "note": "Everyday alternative: зубной врач (zubnoy vrach), 'tooth doctor'."
+    },
+    "need_rest": {
+      "text": "Мне нужно отдохнуть",
+      "roman": "Mne nuzhno otdokhnut"
+    },
+    "feel_better": {
+      "text": "Мне лучше",
+      "roman": "Mne luchshe",
+      "note": "Often with уже, 'already': Мне уже лучше (mne uzhe luchshe). Лучше is said lutshe."
+    },
+    "get_well": {
+      "text": "Поправляйтесь скорее!",
+      "roman": "Popravlyaytes skoreye!",
+      "note": "To a friend: Поправляйся! (popravlyaysya!) In writing: Скорейшего выздоровления! (skoreyshego vyzdorovleniya!)"
+    },
+    "lets_meet": {
+      "text": "Давайте встретимся",
+      "roman": "Davayte vstretimsya",
+      "note": "To a friend: Давай встретимся (davay vstretimsya)."
+    },
+    "are_you_free": {
+      "text": "Вы завтра свободны?",
+      "roman": "Vy zavtra svobodny?",
+      "note": "Casual: Ты завтра свободен? (ty zavtra svoboden?); to a woman: свободна (svobodna)."
+    },
+    "call_me": {
+      "text": "Позвоните мне",
+      "roman": "Pozvonite mne",
+      "note": "Casual: Позвони мне (pozvoni mne). Text me: Напишите мне (napishite mne)."
+    },
+    "your_number": {
+      "text": "Какой у вас номер телефона?",
+      "roman": "Kakoy u vas nomer telefona?",
+      "note": "Casual: Какой у тебя номер? (kakoy u tebya nomer?)"
+    },
+    "see_you_soon": {
+      "text": "До скорого!",
+      "roman": "Do skorogo!",
+      "note": "The г is said v: do skorovo. Also: Скоро увидимся! (skoro uvidimsya!)"
+    },
+    "have_nice_day": {
+      "text": "Хорошего дня!",
+      "roman": "Khoroshego dnya!",
+      "note": "The г is said v: khoroshevo. In the evening: Хорошего вечера! (khoroshego vechera!)"
+    },
+    "good_luck": {
+      "text": "Удачи!",
+      "roman": "Udachi!",
+      "note": "Before an exam: Ни пуха ни пера! (ni pukha ni pera!), answered with К чёрту! (k chyortu!)"
+    },
+    "happy_birthday": {
+      "text": "С днём рождения!",
+      "roman": "S dnyom rozhdeniya!",
+      "note": "Never say it early: wishing it before the day is thought to bring bad luck."
+    },
+    "thanks_a_lot": {
+      "text": "Большое спасибо",
+      "roman": "Bolshoye spasibo",
+      "note": "Just as common the other way round: Спасибо большое (spasibo bolshoye)."
+    },
+    "miss_you": {
+      "text": "Я скучаю по тебе",
+      "roman": "Ya skuchayu po tebe",
+      "note": "Short and common: Скучаю! (skuchayu!) To several people: по вам (po vam)."
     }
   }
 }

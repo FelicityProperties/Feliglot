@@ -489,6 +489,492 @@
       "text": "അഭിനന്ദനങ്ങൾ!",
       "roman": "abhinandanangal!",
       "note": "Casual: 'congrats!' or kalakki! ('you nailed it!')"
+    },
+    "my_family": {
+      "text": "എന്റെ കുടുംബം",
+      "roman": "ente kudumbam",
+      "note": "Warmer and very common: ente veettukar (എന്റെ വീട്ടുകാർ, 'my people at home')."
+    },
+    "mother": {
+      "text": "അമ്മ",
+      "roman": "amma",
+      "note": "Many Muslim families say umma (ഉമ്മ). Formal: mathavu (മാതാവ്)."
+    },
+    "father": {
+      "text": "അച്ഛൻ",
+      "roman": "achan",
+      "note": "Many Christian families say appan or pappa; many Muslim families say uppa or vappa."
+    },
+    "brother": {
+      "text": "സഹോദരൻ",
+      "roman": "sahodaran",
+      "note": "Formal. In speech people say which: chettan (ചേട്ടൻ, elder) or aniyan (അനിയൻ, younger)."
+    },
+    "sister": {
+      "text": "സഹോദരി",
+      "roman": "sahodari",
+      "note": "Formal. In speech people say which: chechi (ചേച്ചി, elder) or aniyatthi (അനിയത്തി, younger)."
+    },
+    "child": {
+      "text": "മകൻ",
+      "roman": "makan",
+      "note": "This is 'son'; daughter: മകൾ (makal). Children (plural): makkal (മക്കൾ)."
+    },
+    "friend": {
+      "text": "കൂട്ടുകാരൻ",
+      "roman": "koottukaran",
+      "note": "Female friend: കൂട്ടുകാരി (koottukari). Suhrutthu (സുഹൃത്ത്) fits both but is formal."
+    },
+    "this_is_my_friend": {
+      "text": "ഇത് എന്റെ കൂട്ടുകാരനാണ്",
+      "roman": "ithu ente koottukarananu",
+      "note": "For a woman friend: ഇത് എന്റെ കൂട്ടുകാരിയാണ് (ithu ente koottukariyanu)."
+    },
+    "are_you_married": {
+      "text": "നിങ്ങളുടെ കല്യാണം കഴിഞ്ഞോ?",
+      "roman": "ningalude kalyanam kazhinjo?",
+      "note": "Lit. 'Has your wedding happened?' Formal: vivahithanano? (to a man), vivahithayano? (to a woman)."
+    },
+    "have_children": {
+      "text": "നിങ്ങൾക്ക് മക്കളുണ്ടോ?",
+      "roman": "ningalkku makkalundo?",
+      "note": "Kuttikal undo? ('Any kids?') is just as common."
+    },
+    "monday": {
+      "text": "തിങ്കളാഴ്ച",
+      "roman": "thinkalazhcha",
+      "note": "Every day name ends in -azhcha. No word for 'on' is needed: thinkalazhcha kanam (see you Monday)."
+    },
+    "tuesday": {
+      "text": "ചൊവ്വാഴ്ച",
+      "roman": "chovvazhcha"
+    },
+    "wednesday": {
+      "text": "ബുധനാഴ്ച",
+      "roman": "budhanazhcha"
+    },
+    "thursday": {
+      "text": "വ്യാഴാഴ്ച",
+      "roman": "vyazhazhcha",
+      "note": "Two zh sounds (ഴ): curl the tongue back for both."
+    },
+    "friday": {
+      "text": "വെള്ളിയാഴ്ച",
+      "roman": "velliyazhcha"
+    },
+    "saturday": {
+      "text": "ശനിയാഴ്ച",
+      "roman": "shaniyazhcha"
+    },
+    "sunday": {
+      "text": "ഞായറാഴ്ച",
+      "roman": "njayarazhcha",
+      "note": "Starts with nj (ഞ), like the ny in 'canyon'."
+    },
+    "weekend": {
+      "text": "വാരാന്ത്യം",
+      "roman": "varanthyam",
+      "note": "Formal. In speech: 'weekend' (വീക്കെൻഡ്) or shaniyum njayarum ('Saturday and Sunday')."
+    },
+    "what_day": {
+      "text": "ഇന്ന് ഏത് ദിവസമാണ്?",
+      "roman": "innu ethu divasamanu?",
+      "note": "For the date ask: innu ethram theeyathiyanu? (ഇന്ന് എത്രാം തീയതിയാണ്?)"
+    },
+    "next_week": {
+      "text": "അടുത്ത ആഴ്ച",
+      "roman": "aduttha azhcha",
+      "note": "Last week: kazhinja azhcha (കഴിഞ്ഞ ആഴ്ച)."
+    },
+    "eleven": {
+      "text": "പതിനൊന്ന്",
+      "roman": "pathinonnu",
+      "note": "Most of 11–18 are pathi(n)- ('ten') + the unit, but 12 is panthrandu and 19 patthombathu. Digits: ൧൧"
+    },
+    "twelve": {
+      "text": "പന്ത്രണ്ട്",
+      "roman": "panthrandu",
+      "note": "Malayalam digits: ൧൨"
+    },
+    "fifteen": {
+      "text": "പതിനഞ്ച്",
+      "roman": "pathinanchu",
+      "note": "Malayalam digits: ൧൫"
+    },
+    "twenty": {
+      "text": "ഇരുപത്",
+      "roman": "irupathu",
+      "note": "Add units with -tth-: irupatthonnu (ഇരുപത്തൊന്ന്, 21). Malayalam digits: ൨൦"
+    },
+    "thirty": {
+      "text": "മുപ്പത്",
+      "roman": "muppathu",
+      "note": "Malayalam digits: ൩൦"
+    },
+    "fifty": {
+      "text": "അമ്പത്",
+      "roman": "ambathu",
+      "note": "Also spelled അൻപത്. Malayalam digits: ൫൦"
+    },
+    "hundred": {
+      "text": "നൂറ്",
+      "roman": "nooru",
+      "note": "No 'one' needed. The old sign for 100 is ൱; today it is written 100."
+    },
+    "thousand": {
+      "text": "ആയിരം",
+      "roman": "ayiram",
+      "note": "No 'one' needed: ayiram roopa (1,000 rupees). The old sign for 1000 is ൲."
+    },
+    "how_old": {
+      "text": "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "roman": "ningalkku ethra vayassayi?",
+      "note": "More formal: ningalude prayam ethrayanu? (നിങ്ങളുടെ പ്രായം എത്രയാണ്?)"
+    },
+    "years_old": {
+      "text": "എനിക്ക് … വയസ്സായി",
+      "roman": "enikku … vayassayi",
+      "note": "The number goes in unchanged, e.g. enikku muppathu vayassayi. Also: enikku … vayassundu."
+    },
+    "red": {
+      "text": "ചുവപ്പ്",
+      "roman": "chuvappu",
+      "note": "Before a noun: chuvanna (ചുവന്ന), e.g. chuvanna kuda (a red umbrella)."
+    },
+    "blue": {
+      "text": "നീല",
+      "roman": "neela"
+    },
+    "green": {
+      "text": "പച്ച",
+      "roman": "pacha",
+      "note": "Also means raw or unripe: pacha manga (raw mango)."
+    },
+    "yellow": {
+      "text": "മഞ്ഞ",
+      "roman": "manja"
+    },
+    "black": {
+      "text": "കറുപ്പ്",
+      "roman": "karuppu",
+      "note": "Before a noun: karuttha (കറുത്ത)."
+    },
+    "white": {
+      "text": "വെള്ള",
+      "roman": "vella",
+      "note": "Before a noun: veluttha (വെളുത്ത). Don't mix it up with vellam (water)."
+    },
+    "what_colour": {
+      "text": "ഇത് ഏത് നിറമാണ്?",
+      "roman": "ithu ethu niramanu?",
+      "note": "Niram (നിറം) = colour. Casual: entha niram?"
+    },
+    "this_one": {
+      "text": "ഇത്",
+      "roman": "ithu",
+      "note": "To ask for it: ithu tharamo? ('Could you give me this?')"
+    },
+    "that_one": {
+      "text": "അത്",
+      "roman": "athu",
+      "note": "Further off: avideyullathu (അവിടെയുള്ളത്, 'the one over there')."
+    },
+    "another_one": {
+      "text": "ഒരെണ്ണം കൂടി തരാമോ?",
+      "roman": "orennam koodi tharamo?",
+      "note": "For drinks or dishes, name it: oru chaya koodi (one more tea)."
+    },
+    "its_hot": {
+      "text": "നല്ല ചൂടുണ്ട്",
+      "roman": "nalla choodundu",
+      "note": "Nalla … undu ('there's a good deal of …') is the usual weather pattern. Casual: enthoru choodu!"
+    },
+    "its_cold": {
+      "text": "നല്ല തണുപ്പുണ്ട്",
+      "roman": "nalla thanuppundu"
+    },
+    "its_raining": {
+      "text": "മഴ പെയ്യുന്നുണ്ട്",
+      "roman": "mazha peyyunnundu",
+      "note": "Heavy rain: nalla mazha. The monsoon season: mazhakkalam (മഴക്കാലം)."
+    },
+    "its_sunny": {
+      "text": "നല്ല വെയിലുണ്ട്",
+      "roman": "nalla veyilundu"
+    },
+    "its_windy": {
+      "text": "നല്ല കാറ്റുണ്ട്",
+      "roman": "nalla kattundu"
+    },
+    "weather_today": {
+      "text": "ഇന്ന് കാലാവസ്ഥ എങ്ങനെയുണ്ട്?",
+      "roman": "innu kalavastha enganeyundu?",
+      "note": "Small talk usually goes straight to rain: innu mazha peyyumo? ('Will it rain today?')"
+    },
+    "beautiful_day": {
+      "text": "ഇന്ന് നല്ല തെളിഞ്ഞ ദിവസമാണ്",
+      "roman": "innu nalla thelinja divasamanu",
+      "note": "Thelinja = clear, bright. Nalla divasam alone can mean an auspicious day."
+    },
+    "umbrella": {
+      "text": "കുട",
+      "roman": "kuda"
+    },
+    "summer": {
+      "text": "വേനൽക്കാലം",
+      "roman": "venalkkalam",
+      "note": "Often just venal (വേനൽ). Kalam means season."
+    },
+    "winter": {
+      "text": "മഞ്ഞുകാലം",
+      "roman": "manjukalam",
+      "note": "Lit. 'mist season', Kerala's cool months. Formal: shaithyakalam (ശൈത്യകാലം)."
+    },
+    "have_reservation": {
+      "text": "ഞാൻ റൂം ബുക്ക് ചെയ്തിട്ടുണ്ട്",
+      "roman": "njan room bukku cheythittundu",
+      "note": "Lit. 'I have booked a room.' Then give the name: … enna perilanu ('under the name …')."
+    },
+    "room": {
+      "text": "മുറി",
+      "roman": "muri",
+      "note": "At hotels people mostly say 'room' (റൂം)."
+    },
+    "passport": {
+      "text": "പാസ്പോർട്ട്",
+      "roman": "pasporttu"
+    },
+    "luggage": {
+      "text": "ലഗേജ്",
+      "roman": "lageju",
+      "note": "Also just 'bags': bagukal (ബാഗുകൾ)."
+    },
+    "wifi_password": {
+      "text": "വൈഫൈ പാസ്‌വേഡ് എന്താണ്?",
+      "roman": "vaifai pasvedu enthanu?",
+      "note": "Wi-Fi is said vaifai. Shorter: pasvedu entha?"
+    },
+    "check_out_time": {
+      "text": "ചെക്കൗട്ട് എത്ര മണിക്കാണ്?",
+      "roman": "chekkauttu ethra manikkanu?",
+      "note": "Ethra manikku = 'at what o'clock'. A reply: pathinonnu manikku (at eleven)."
+    },
+    "map": {
+      "text": "മാപ്പ്",
+      "roman": "mappu",
+      "note": "Formal: bhoopadam (ഭൂപടം). Mappu also means 'pardon'; context makes it clear."
+    },
+    "bus": {
+      "text": "ബസ്",
+      "roman": "basu",
+      "note": "The main bus station is called the 'bus stand' (ബസ് സ്റ്റാൻഡ്)."
+    },
+    "next_train": {
+      "text": "അടുത്ത ട്രെയിൻ എപ്പോഴാണ്?",
+      "roman": "aduttha treyin eppozhanu?"
+    },
+    "is_this_seat_free": {
+      "text": "ഈ സീറ്റിൽ ആളുണ്ടോ?",
+      "roman": "ee seettil alundo?",
+      "note": "Lit. 'Is anyone on this seat?' Usual reply: illa, irunnoloo ('No, have a seat')."
+    },
+    "what_do_you_do": {
+      "text": "നിങ്ങൾക്ക് എന്താണ് ജോലി?",
+      "roman": "ningalkku enthanu joli?",
+      "note": "Also common: ningal enthu cheyyunnu?"
+    },
+    "i_work_in": {
+      "text": "ഞാൻ … ജോലി ചെയ്യുന്നു",
+      "roman": "njan … joli cheyyunnu",
+      "note": "Add -il ('in') to the place: njan bankil joli cheyyunnu (in a bank)."
+    },
+    "im_student": {
+      "text": "ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്",
+      "roman": "njan oru vidyarthiyanu",
+      "note": "A woman says: ഞാൻ ഒരു വിദ്യാർത്ഥിനിയാണ് (njan oru vidyarthiniyanu). Casual: njan padikkuvanu."
+    },
+    "office": {
+      "text": "ഓഫീസ്",
+      "roman": "ofeesu",
+      "note": "Formal, on signboards: karyalayam (കാര്യാലയം)."
+    },
+    "meeting": {
+      "text": "മീറ്റിംഗ്",
+      "roman": "meettingu",
+      "note": "Formal: yogam (യോഗം), for official or public meetings."
+    },
+    "im_busy": {
+      "text": "ഞാൻ തിരക്കിലാണ്",
+      "roman": "njan thirakkilanu",
+      "note": "Thirakku also means a crowd or rush."
+    },
+    "day_off": {
+      "text": "അവധി ദിവസം",
+      "roman": "avadhi divasam",
+      "note": "Today's my day off: innu enikku avadhiyanu. 'Leave' (ലീവ്) is common too."
+    },
+    "colleague": {
+      "text": "സഹപ്രവർത്തകൻ",
+      "roman": "sahapravartthakan",
+      "note": "Female: സഹപ്രവർത്തക (sahapravartthaka). In speech 'colleague' (കൊളീഗ്) is common."
+    },
+    "lets_start": {
+      "text": "നമുക്ക് തുടങ്ങാം",
+      "roman": "namukku thudangam",
+      "note": "Namukku is 'we' including the listener. Casual: thudangiyalo? ('Shall we start?')"
+    },
+    "good_job": {
+      "text": "നന്നായിട്ടുണ്ട്!",
+      "roman": "nannayittundu!",
+      "note": "Casual: kollam! ('nice!') or kalakki! ('you nailed it!')"
+    },
+    "table_for_two": {
+      "text": "രണ്ടു പേർക്ക് ഒരു ടേബിൾ കിട്ടുമോ?",
+      "roman": "randu perkku oru tebil kittumo?",
+      "note": "Kittumo? ('can I get?') is a handy polite way to ask for anything."
+    },
+    "what_recommend": {
+      "text": "ഇവിടെ എന്താണ് സ്പെഷ്യൽ?",
+      "roman": "ivide enthanu speshyal?",
+      "note": "Lit. 'What's special here?' Or: ethanu nallathu? ('Which is good?')"
+    },
+    "not_spicy": {
+      "text": "എരിവ് വേണ്ട",
+      "roman": "erivu venda",
+      "note": "Just a little: erivu kurachu mathi. Chilli heat is erivu; choodu is temperature."
+    },
+    "vegetarian_food": {
+      "text": "വെജിറ്റേറിയൻ ഭക്ഷണം",
+      "roman": "vejitteriyan bhakshanam",
+      "note": "Usually just 'veg': veg undo? Formal: sasyaharam (സസ്യാഹാരം)."
+    },
+    "more_water": {
+      "text": "കുറച്ച് കൂടി വെള്ളം തരാമോ?",
+      "roman": "kurachu koodi vellam tharamo?"
+    },
+    "no_sugar": {
+      "text": "പഞ്ചസാര വേണ്ട",
+      "roman": "panchasara venda",
+      "note": "At tea shops just say 'without': oru chaya without (ഒരു ചായ വിത്തൗട്ട്)."
+    },
+    "im_full": {
+      "text": "വയറ് നിറഞ്ഞു",
+      "roman": "vayaru niranju",
+      "note": "To stop a host serving more: mathi! ('enough!')"
+    },
+    "takeaway": {
+      "text": "പാർസൽ ആക്കി തരാമോ?",
+      "roman": "parsal akki tharamo?",
+      "note": "In Kerala 'parcel' is the word for takeaway. To ask if they do it: parsal undo?"
+    },
+    "it_was_delicious": {
+      "text": "നല്ല രുചിയുണ്ടായിരുന്നു",
+      "roman": "nalla ruchiyundayirunnu",
+      "note": "Casual: adipoli ayirunnu! ('It was awesome!')"
+    },
+    "keep_change": {
+      "text": "ബാക്കി വെച്ചോളൂ",
+      "roman": "bakki vecholoo",
+      "note": "Bakki (ബാക്കി) is the change, lit. 'the rest'."
+    },
+    "head": {
+      "text": "തല",
+      "roman": "thala"
+    },
+    "stomach": {
+      "text": "വയറ്",
+      "roman": "vayaru",
+      "note": "Stomach ache: vayaruvedana (വയറുവേദന)."
+    },
+    "head_hurts": {
+      "text": "എനിക്ക് തലവേദനയുണ്ട്",
+      "roman": "enikku thalavedanayundu",
+      "note": "Lit. 'I have head-pain.' Vedana (pain) works with any body part."
+    },
+    "have_fever": {
+      "text": "എനിക്ക് പനിയുണ്ട്",
+      "roman": "enikku paniyundu",
+      "note": "A cold: jaladosham (ജലദോഷം). A cough: chuma (ചുമ)."
+    },
+    "medicine": {
+      "text": "മരുന്ന്",
+      "roman": "marunnu",
+      "note": "You 'eat' medicine: marunnu kazhikkuka (to take medicine)."
+    },
+    "call_ambulance": {
+      "text": "ആംബുലൻസ് വിളിക്കൂ!",
+      "roman": "ambulansu vilikkoo!",
+      "note": "Emergency number in India: 112. In Kerala the ambulance line is 108."
+    },
+    "dentist": {
+      "text": "ദന്തഡോക്ടർ",
+      "roman": "danthadoktar",
+      "note": "Everyday: pallinte doktar ('tooth doctor') or 'dentist' (ഡെന്റിസ്റ്റ്)."
+    },
+    "need_rest": {
+      "text": "എനിക്ക് വിശ്രമിക്കണം",
+      "roman": "enikku vishramikkanam",
+      "note": "Casual: kurachu rest edukkanam ('I need to take some rest')."
+    },
+    "feel_better": {
+      "text": "എനിക്ക് ഇപ്പോൾ ഭേദമുണ്ട്",
+      "roman": "enikku ippol bhedamundu",
+      "note": "Also very common: ippo kuravundu ('it has eased now')."
+    },
+    "get_well": {
+      "text": "വേഗം സുഖമാകട്ടെ!",
+      "roman": "vegam sukhamakatte!",
+      "note": "Also common: vegam bhedamakatte! (വേഗം ഭേദമാകട്ടെ!)"
+    },
+    "lets_meet": {
+      "text": "നമുക്ക് ഒന്നു കാണാം",
+      "roman": "namukku onnu kanam",
+      "note": "Among friends: namukku onnu koodam ('let's get together')."
+    },
+    "are_you_free": {
+      "text": "നിങ്ങൾക്ക് നാളെ സമയമുണ്ടോ?",
+      "roman": "ningalkku nale samayamundo?",
+      "note": "Lit. 'Do you have time tomorrow?' Casual: nale free ano?"
+    },
+    "call_me": {
+      "text": "എന്നെ ഒന്നു വിളിക്കണേ",
+      "roman": "enne onnu vilikkane",
+      "note": "Vilikkuka means both 'call out to' and 'phone'. Onnu and the -e ending make it a gentle request."
+    },
+    "your_number": {
+      "text": "നിങ്ങളുടെ ഫോൺ നമ്പർ എന്താണ്?",
+      "roman": "ningalude fon nambar enthanu?",
+      "note": "Often: nambar onnu tharamo? ('Could you give me your number?')"
+    },
+    "see_you_soon": {
+      "text": "ഉടനെ കാണാം",
+      "roman": "udane kanam",
+      "note": "The everyday goodbye is pinne kanam ('see you later')."
+    },
+    "have_nice_day": {
+      "text": "ശുഭദിനം!",
+      "roman": "shubhadinam!",
+      "note": "Formal, mostly in messages. In person people say 'have a nice day' in English."
+    },
+    "good_luck": {
+      "text": "എല്ലാ ആശംസകളും!",
+      "roman": "ella ashamsakalum!",
+      "note": "Lit. 'All good wishes!' In speech, 'all the best!' in English is the usual wish."
+    },
+    "happy_birthday": {
+      "text": "പിറന്നാൾ ആശംസകൾ!",
+      "roman": "pirannal ashamsakal!",
+      "note": "Formal: janmadinashamsakal (ജന്മദിനാശംസകൾ). Many just say 'happy birthday'."
+    },
+    "thanks_a_lot": {
+      "text": "വളരെ നന്ദി",
+      "roman": "valare nanni",
+      "note": "Warmer: orupadu nanni (ഒരുപാട് നന്ദി)."
+    },
+    "miss_you": {
+      "text": "നിന്നെ മിസ്സ് ചെയ്യുന്നു",
+      "roman": "ninne missu cheyyunnu",
+      "note": "Ninne (you) is for friends and younger family. More native: ninne kanan thonnunnu ('I long to see you')."
     }
   }
 }

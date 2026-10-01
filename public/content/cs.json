@@ -376,6 +376,404 @@
     "congratulations": {
       "text": "Gratuluji!",
       "note": "Everyday speech: Gratuluju! For a birthday: Všechno nejlepší!"
+    },
+    "my_family": {
+      "text": "Moje rodina",
+      "note": "Moje (my) changes with the noun: můj bratr, moje sestra, moje dítě."
+    },
+    "mother": {
+      "text": "Matka",
+      "note": "Everyday speech: máma, affectionately maminka. Calling her: Mami!"
+    },
+    "father": {
+      "text": "Otec",
+      "note": "Everyday speech: táta, affectionately tatínek. Calling him: Tati!"
+    },
+    "brother": {
+      "text": "Bratr",
+      "note": "Casual: brácha. Older brother: starší bratr; younger: mladší bratr."
+    },
+    "sister": {
+      "text": "Sestra",
+      "note": "Casual: ségra. Older sister: starší sestra; younger: mladší sestra."
+    },
+    "child": {
+      "text": "Dítě",
+      "note": "Plural: děti. Son: syn. Daughter: dcera."
+    },
+    "friend": {
+      "text": "Kamarád",
+      "note": "A female friend: kamarádka. Careful: přítel / přítelkyně usually means boyfriend / girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "To je můj kamarád",
+      "note": "For a female friend: To je moje kamarádka."
+    },
+    "are_you_married": {
+      "text": "Jste ženatý?",
+      "note": "To a woman: Jste vdaná? Ženatý is only used of men, vdaná only of women."
+    },
+    "have_children": {
+      "text": "Máte děti?",
+      "note": "To a friend: Máš děti?"
+    },
+    "monday": {
+      "text": "pondělí",
+      "note": "Days are not capitalised in Czech. On Monday: v pondělí."
+    },
+    "tuesday": {
+      "text": "úterý",
+      "note": "From an old word for 'second': the second day of the week. On Tuesday: v úterý."
+    },
+    "wednesday": {
+      "text": "středa",
+      "note": "From střed (middle): the middle of the week. On Wednesday: ve středu."
+    },
+    "thursday": {
+      "text": "čtvrtek",
+      "note": "From čtvrtý (fourth). On Thursday: ve čtvrtek."
+    },
+    "friday": {
+      "text": "pátek",
+      "note": "From pátý (fifth). On Friday: v pátek."
+    },
+    "saturday": {
+      "text": "sobota",
+      "note": "On Saturday: v sobotu."
+    },
+    "sunday": {
+      "text": "neděle",
+      "note": "Literally 'no work' (ne + dělat). On Sunday: v neděli."
+    },
+    "weekend": {
+      "text": "Víkend",
+      "note": "At the weekend: o víkendu. Have a nice weekend: Hezký víkend!"
+    },
+    "what_day": {
+      "text": "Co je dnes za den?",
+      "note": "Everyday speech: Co je dneska za den? For the date: Kolikátého je dnes?"
+    },
+    "next_week": {
+      "text": "Příští týden",
+      "note": "Also: za týden (in a week's time). Last week: minulý týden."
+    },
+    "eleven": {
+      "text": "Jedenáct",
+      "note": "The teens all end in -náct: jedenáct, dvanáct, třináct…"
+    },
+    "twelve": {
+      "text": "Dvanáct"
+    },
+    "fifteen": {
+      "text": "Patnáct",
+      "note": "Careful: pat-, not pět-. Čtrnáct (14) and devatenáct (19) also change their stems."
+    },
+    "twenty": {
+      "text": "Dvacet",
+      "note": "21 is dvacet jedna, or the older-style jednadvacet. Both are common."
+    },
+    "thirty": {
+      "text": "Třicet",
+      "note": "Dvacet, třicet, čtyřicet end in -cet; from 50 on the tens end in -desát."
+    },
+    "fifty": {
+      "text": "Padesát",
+      "note": "Like patnáct, it starts with pa-. Then šedesát, sedmdesát, osmdesát, devadesát."
+    },
+    "hundred": {
+      "text": "Sto",
+      "note": "Two hundred: dvě stě. Three hundred: tři sta. Five hundred: pět set."
+    },
+    "thousand": {
+      "text": "Tisíc",
+      "note": "Two thousand: dva tisíce. Five thousand: pět tisíc. Digits are grouped with a space, not a comma: 10 000."
+    },
+    "how_old": {
+      "text": "Kolik je vám let?",
+      "note": "To a friend or a child: Kolik je ti let?"
+    },
+    "years_old": {
+      "text": "Je mi … let",
+      "note": "Literally 'to me is … years'. With 2–4 the verb is plural: Jsou mi dva roky. One year: Je mi jeden rok."
+    },
+    "red": {
+      "text": "Červený",
+      "note": "Changes with the noun: červená (f), červené (n). Red wine: červené víno."
+    },
+    "blue": {
+      "text": "Modrý",
+      "note": "Feminine modrá, neuter modré. Light blue: světle modrý; dark blue: tmavě modrý."
+    },
+    "green": {
+      "text": "Zelený",
+      "note": "Feminine zelená, neuter zelené."
+    },
+    "yellow": {
+      "text": "Žlutý",
+      "note": "Feminine žlutá, neuter žluté. The ž sounds like the s in 'pleasure'."
+    },
+    "black": {
+      "text": "Černý",
+      "note": "Feminine černá, neuter černé. Black coffee: černá káva."
+    },
+    "white": {
+      "text": "Bílý",
+      "note": "Feminine bílá, neuter bílé. White wine: bílé víno."
+    },
+    "what_colour": {
+      "text": "Jakou to má barvu?",
+      "note": "Also: Jaká je to barva? Named on their own, colours take the feminine (barva): červená, modrá…"
+    },
+    "this_one": {
+      "text": "Tenhle",
+      "note": "Changes with the item: tuhle (f), tohle (n). Tohle works for anything."
+    },
+    "that_one": {
+      "text": "Tamten",
+      "note": "Changes with the item: tamtu (f), tamto (n)."
+    },
+    "another_one": {
+      "text": "Ještě jeden, prosím",
+      "note": "Changes with the item: ještě jednu (f), ještě jedno (n), as in Ještě jedno pivo, prosím."
+    },
+    "its_hot": {
+      "text": "Je horko",
+      "note": "Pleasantly warm: Je teplo. I'm hot: Je mi horko."
+    },
+    "its_cold": {
+      "text": "Je zima",
+      "note": "Zima also means winter. I'm cold: Je mi zima."
+    },
+    "its_raining": {
+      "text": "Prší",
+      "note": "Pouring: Leje. It's snowing: Sněží."
+    },
+    "its_sunny": {
+      "text": "Svítí slunce",
+      "note": "Weather-forecast style: Je slunečno. Affectionately: Svítí sluníčko."
+    },
+    "its_windy": {
+      "text": "Fouká vítr",
+      "note": "Also: Je větrno. Often just: Fouká."
+    },
+    "weather_today": {
+      "text": "Jaké je dnes počasí?",
+      "note": "Everyday speech: Jaké je dneska počasí?"
+    },
+    "beautiful_day": {
+      "text": "Je krásný den",
+      "note": "In small talk, very common: Je krásně! (it's lovely out)."
+    },
+    "umbrella": {
+      "text": "Deštník",
+      "note": "A sunshade on a terrace or beach: slunečník."
+    },
+    "summer": {
+      "text": "Léto",
+      "note": "In summer: v létě."
+    },
+    "winter": {
+      "text": "Zima",
+      "note": "In winter: v zimě. Zima also means cold: Je zima."
+    },
+    "have_reservation": {
+      "text": "Mám rezervaci",
+      "note": "Add your name: Mám rezervaci na jméno …"
+    },
+    "room": {
+      "text": "Pokoj",
+      "note": "Single room: jednolůžkový pokoj. Double room: dvoulůžkový pokoj."
+    },
+    "passport": {
+      "text": "Pas",
+      "note": "Full form: cestovní pas. ID card: občanský průkaz, casually občanka."
+    },
+    "luggage": {
+      "text": "Zavazadla",
+      "note": "One piece of luggage: zavazadlo. Everyday speech often just says kufry (suitcases)."
+    },
+    "wifi_password": {
+      "text": "Jaké je heslo k Wi-Fi?",
+      "note": "Wi-Fi is said vaj-faj. You'll also hear: heslo na wifi."
+    },
+    "check_out_time": {
+      "text": "Do kolika musím uvolnit pokoj?",
+      "note": "Literally 'until when must I vacate the room?' Hotels also say check-out."
+    },
+    "map": {
+      "text": "Mapa",
+      "note": "A city map: plán města."
+    },
+    "bus": {
+      "text": "Autobus",
+      "note": "Bus stop: zastávka. In Prague and Brno, trams (tramvaj) are just as common."
+    },
+    "next_train": {
+      "text": "Kdy jede další vlak?",
+      "note": "Add the place: Kdy jede další vlak do Brna? Vehicles take jet, not jít: vlak jede, autobus jede."
+    },
+    "is_this_seat_free": {
+      "text": "Je tu volno?",
+      "note": "Also: Je to místo volné? The reply may be: Je obsazeno (it's taken)."
+    },
+    "what_do_you_do": {
+      "text": "Čím se živíte?",
+      "note": "Also common: Co děláte za práci? To a friend: Čím se živíš?"
+    },
+    "i_work_in": {
+      "text": "Pracuji v …",
+      "note": "Everyday speech: Pracuju v … The place takes an ending: v bance (in a bank), ve škole."
+    },
+    "im_student": {
+      "text": "Jsem student",
+      "note": "A woman says: Jsem studentka."
+    },
+    "office": {
+      "text": "Kancelář",
+      "note": "At the office: v kanceláři."
+    },
+    "meeting": {
+      "text": "Schůzka",
+      "note": "An internal team meeting is porada. I'm in a meeting: Jsem na schůzce / na poradě."
+    },
+    "im_busy": {
+      "text": "Nemám čas",
+      "note": "Literally 'I have no time'. Formal: Jsem zaneprázdněný (a woman: zaneprázdněná)."
+    },
+    "day_off": {
+      "text": "Volný den",
+      "note": "Usually: Mám volno (I'm off). Paid holiday from work is dovolená."
+    },
+    "colleague": {
+      "text": "Kolega",
+      "note": "A female colleague: kolegyně."
+    },
+    "lets_start": {
+      "text": "Tak začneme",
+      "note": "Also: Můžeme začít? More formal: Začněme."
+    },
+    "good_job": {
+      "text": "Dobrá práce!",
+      "note": "Also very common: Výborně! or Skvělá práce!"
+    },
+    "table_for_two": {
+      "text": "Stůl pro dva, prosím",
+      "note": "Often asked as: Máte volný stůl pro dva?"
+    },
+    "what_recommend": {
+      "text": "Co byste mi doporučil?",
+      "note": "To a waitress: Co byste mi doporučila? Simpler, for anyone: Co doporučujete?"
+    },
+    "not_spicy": {
+      "text": "Nepálivé, prosím",
+      "note": "Both pálivý and ostrý mean spicy. Also: Můžu to mít nepálivé?"
+    },
+    "vegetarian_food": {
+      "text": "Vegetariánské jídlo",
+      "note": "On Czech menus, look for bezmasá jídla (meatless dishes)."
+    },
+    "more_water": {
+      "text": "Ještě vodu, prosím",
+      "note": "Politer: Můžu poprosit ještě vodu?"
+    },
+    "no_sugar": {
+      "text": "Bez cukru, prosím",
+      "note": "Without milk: bez mléka. With milk: s mlékem."
+    },
+    "im_full": {
+      "text": "Jsem najedený",
+      "note": "A woman says: Jsem najedená. Casual: Už nemůžu (I can't eat any more)."
+    },
+    "takeaway": {
+      "text": "S sebou, prosím",
+      "note": "You'll be asked: Tady, nebo s sebou? (eat in or take away)"
+    },
+    "it_was_delicious": {
+      "text": "Bylo to výborné",
+      "note": "Also: Moc nám chutnalo (we really enjoyed it)."
+    },
+    "keep_change": {
+      "text": "To je v pořádku",
+      "note": "Said as you hand over the money. Also: To je dobré, or Drobné si nechte (keep the coins)."
+    },
+    "head": {
+      "text": "Hlava"
+    },
+    "stomach": {
+      "text": "Břicho",
+      "note": "Literally belly; a stomach ache is Bolí mě břicho. The organ itself is žaludek."
+    },
+    "head_hurts": {
+      "text": "Bolí mě hlava",
+      "note": "Same pattern for any body part: Bolí mě břicho, Bolí mě zub."
+    },
+    "have_fever": {
+      "text": "Mám horečku",
+      "note": "A slight temperature: Mám zvýšenou teplotu."
+    },
+    "medicine": {
+      "text": "Lék",
+      "note": "Plural: léky. Pills are prášky, e.g. prášek na bolest hlavy (a headache pill)."
+    },
+    "call_ambulance": {
+      "text": "Zavolejte záchranku!",
+      "note": "Ambulance number: 155, or 112. The full name is záchranná služba."
+    },
+    "dentist": {
+      "text": "Zubař",
+      "note": "A woman: zubařka. Formal: zubní lékař."
+    },
+    "need_rest": {
+      "text": "Potřebuji si odpočinout",
+      "note": "Everyday speech: Potřebuju si odpočinout."
+    },
+    "feel_better": {
+      "text": "Už je mi lépe",
+      "note": "Everyday speech: Už je mi líp."
+    },
+    "get_well": {
+      "text": "Brzké uzdravení!",
+      "note": "To a friend: Brzy se uzdrav! Polite: Brzy se uzdravte!"
+    },
+    "lets_meet": {
+      "text": "Pojďme se sejít",
+      "note": "With a time: Sejdeme se zítra v pět? Between friends: Musíme se někdy vidět!"
+    },
+    "are_you_free": {
+      "text": "Máte zítra čas?",
+      "note": "Literally 'Do you have time tomorrow?' To a friend: Máš zítra čas?"
+    },
+    "call_me": {
+      "text": "Zavolejte mi",
+      "note": "To a friend: Zavolej mi, or casually Brnkni mi."
+    },
+    "your_number": {
+      "text": "Jaké máte telefonní číslo?",
+      "note": "To a friend: Jaké máš číslo? or Dáš mi své číslo?"
+    },
+    "see_you_soon": {
+      "text": "Uvidíme se brzy",
+      "note": "More formal: Brzy na viděnou. Casual: Tak zatím!"
+    },
+    "have_nice_day": {
+      "text": "Hezký den!",
+      "note": "Fuller: Přeji vám hezký den! The usual reply: Vám taky, or Nápodobně."
+    },
+    "good_luck": {
+      "text": "Hodně štěstí!",
+      "note": "Before an exam or a performance, friends also say Zlom vaz! (break your neck)."
+    },
+    "happy_birthday": {
+      "text": "Všechno nejlepší k narozeninám!",
+      "note": "Often just: Všechno nejlepší! Czechs also celebrate name days (svátek)."
+    },
+    "thanks_a_lot": {
+      "text": "Moc děkuji",
+      "note": "Also: Děkuji mnohokrát. Casual: Díky moc!"
+    },
+    "miss_you": {
+      "text": "Chybíš mi",
+      "note": "Literally 'you are missing to me'. Also: Stýská se mi po tobě."
     }
   }
 }
