@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 export default function TranslatePage() {
   return (
-    <div className="mx-auto max-w-3xl">
+    <div className="mx-auto max-w-5xl">
       <p className="eyebrow">
         <T k="account.translate.eyebrow" />
       </p>
