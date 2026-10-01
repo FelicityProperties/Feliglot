@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { Download } from "lucide-react";
+import { useT } from "@/lib/i18n";
 import { track } from "@/lib/track";
 
 type InstallEvent = Event & { prompt: () => Promise<void>; userChoice: Promise<{ outcome: string }> };
@@ -10,6 +11,7 @@ type InstallEvent = Event & { prompt: () => Promise<void>; userChoice: Promise<{
 // an "Install app" button when the browser supports installing the site.
 export default function AppShell() {
   const [installEvent, setInstallEvent] = useState<InstallEvent | null>(null);
+  const { t } = useT();
 
   useEffect(() => {
     if (process.env.NODE_ENV === "production" && "serviceWorker" in navigator) {
@@ -41,7 +43,7 @@ export default function AppShell() {
       }}
       className="chip text-primary"
     >
-      <Download size={16} aria-hidden /> Install app
+      <Download size={16} aria-hidden /> {t("app.install")}
     </button>
   );
 }

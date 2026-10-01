@@ -74,9 +74,9 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Course phrases can be corrected later: serve the saved copy instantly, and
+  // Course phrases and site text can be corrected later: serve the saved copy instantly, and
   // refresh it in the background for next time.
-  if (url.pathname.startsWith("/content/")) {
+  if (url.pathname.startsWith("/content/") || url.pathname.startsWith("/ui/")) {
     event.respondWith(
       caches.open(ASSETS).then(async (c) => {
         const hit = await c.match(req);

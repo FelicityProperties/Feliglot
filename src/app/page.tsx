@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight, BookOpen, Brain, Flame, Headphones, Languages, Mic } from "lucide-react";
 import Feli from "@/components/Feli";
 import LanguagePicker from "@/components/LanguagePicker";
+import T from "@/components/T";
 import { CONCEPTS, UNITS } from "@/lib/curriculum";
 import { LANGUAGES } from "@/lib/languages";
 
@@ -21,33 +22,40 @@ export default function Home() {
     <div>
       <section className="-mx-4 -mt-6 grid items-center gap-8 overflow-hidden bg-gradient-to-br from-background to-sand-100 px-5 py-10 sm:-mt-10 sm:px-8 sm:py-16 lg:grid-cols-[1.05fr_.95fr]">
         <div>
-          <p className="eyebrow">Five minutes. A whole new world.</p>
+          <p className="eyebrow">
+            <T k="app.home.eyebrow" />
+          </p>
           <h1 className="mt-4 text-[2.9rem] leading-[0.95] font-black tracking-tight text-ink-900 sm:text-7xl">
-            Learn any language.
+            <T k="app.home.title1" />
             <br />
-            <span className="text-primary">From the one you speak.</span>
+            <span className="text-primary">
+              <T k="app.home.title2" />
+            </span>
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-600">
-            Short, joyful lessons that start from your language — not someone else&apos;s. Hear every phrase, say it out loud,
-            and review it just before you&apos;d forget.
+            <T k="app.home.intro" />
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <a href="#pick" className="btn-primary">
-              Choose a language <ArrowRight size={19} aria-hidden />
+              <T k="app.home.choose" /> <ArrowRight size={19} aria-hidden className="rtl:-scale-x-100" />
             </a>
             <Link href="/translate" className="btn-secondary">
-              Translate something
+              <T k="app.home.translate" />
             </Link>
           </div>
           <dl className="mt-10 flex justify-between gap-6 sm:justify-start sm:gap-12">
-            {[
-              [String(n), "languages"],
-              [(n * (n - 1)).toLocaleString("en-US"), "language pairs"],
-              ["Free", "for everyone"],
-            ].map(([v, l]) => (
+            {(
+              [
+                [String(n), "app.home.stat.languages"],
+                [(n * (n - 1)).toLocaleString("en-US"), "app.home.stat.pairs"],
+                ["app.home.stat.free", "app.home.stat.everyone"],
+              ] as const
+            ).map(([v, l]) => (
               <div key={l} className="flex flex-col-reverse">
-                <dt className="text-xs tracking-widest text-ink-500 uppercase">{l}</dt>
-                <dd className="font-display text-2xl font-black text-ink-900 sm:text-3xl">{v}</dd>
+                <dt className="text-xs tracking-widest text-ink-500 uppercase">
+                  <T k={l} />
+                </dt>
+                <dd className="font-display text-2xl font-black text-ink-900 sm:text-3xl">{v === "app.home.stat.free" ? <T k={v} /> : v}</dd>
               </div>
             ))}
           </dl>
@@ -70,71 +78,93 @@ export default function Home() {
       </section>
 
       <section id="pick" className="scroll-mt-32 py-14">
-        <p className="eyebrow">Start here</p>
-        <h2 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">What do you want to learn?</h2>
+        <p className="eyebrow">
+          <T k="app.home.pick.eyebrow" />
+        </p>
+        <h2 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">
+          <T k="app.home.pick.title" />
+        </h2>
         <p className="mt-2 mb-6 text-ink-600">
-          Set &ldquo;I speak&rdquo; at the top and every meaning appears in your language. Switch courses any time.
+          <T k="app.home.pick.body" />
         </p>
         <LanguagePicker limit={12} />
       </section>
 
       <section className="-mx-4 bg-sand-100 px-5 py-14 sm:px-8">
-        <p className="eyebrow">Built for momentum</p>
-        <h2 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">A little every day goes far.</h2>
+        <p className="eyebrow">
+          <T k="app.home.how.eyebrow" />
+        </p>
+        <h2 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">
+          <T k="app.home.how.title" />
+        </h2>
         <div className="mt-8 grid gap-4 sm:grid-cols-3">
-          {[
-            [Headphones, "Hear it", "Every phrase spoken aloud, as often as you like."],
-            [BookOpen, "Practise it", "Flashcards, then a quiz: pick, type and say the answer."],
-            [Flame, "Keep it", "Points, a daily goal and a streak that fits your life."],
-          ].map(([Icon, title, body], i) => {
-            const I = Icon as typeof Headphones;
-            return (
-              <div key={title as string} className="relative border-t border-sand-300 pt-6">
-                <span className="absolute top-4 right-2 font-display text-3xl font-black text-sand-200">0{i + 1}</span>
-                <I size={36} className="text-primary" aria-hidden />
-                <h3 className="mt-4 text-2xl font-extrabold">{title as string}</h3>
-                <p className="mt-1 text-ink-600">{body as string}</p>
-              </div>
-            );
-          })}
+          {(
+            [
+              [Headphones, "hear"],
+              [BookOpen, "practise"],
+              [Flame, "keep"],
+            ] as const
+          ).map(([I, key], i) => (
+            <div key={key} className="relative border-t border-sand-300 pt-6">
+              <span className="absolute top-4 right-2 font-display text-3xl font-black text-sand-200 rtl:right-auto rtl:left-2">0{i + 1}</span>
+              <I size={36} className="text-primary" aria-hidden />
+              <h3 className="mt-4 text-2xl font-extrabold">
+                <T k={`app.home.how.${key}.title`} />
+              </h3>
+              <p className="mt-1 text-ink-600">
+                <T k={`app.home.how.${key}.body`} />
+              </p>
+            </div>
+          ))}
         </div>
       </section>
 
       <section className="py-14">
-        <p className="eyebrow">Why Feliglot</p>
-        <h2 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">Rarely found anywhere else.</h2>
+        <p className="eyebrow">
+          <T k="app.home.why.eyebrow" />
+        </p>
+        <h2 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">
+          <T k="app.home.why.title" />
+        </h2>
         <div className="mt-8 grid gap-4 sm:grid-cols-2">
-          {[
-            [Languages, "Learn from your own language", `Not just English: meanings appear in any of the ${n} languages, so a Hindi speaker can learn Japanese in Hindi.`],
-            [Mic, "Speak, don't just tap", "Say the phrase out loud and Feliglot listens — real pronunciation practice, right in your browser."],
-            [Brain, "Remember for good", "Phrases come back for review on a schedule, just before you'd forget them."],
-            [BookOpen, `${CONCEPTS.length} phrases, ${UNITS.length} lessons`, "From hello and thank you to hotels, restaurants, health and making plans."],
-          ].map(([Icon, title, body]) => {
-            const I = Icon as typeof Mic;
-            return (
-              <div key={title as string} className="panel flex gap-4">
-                <span className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-primary-soft text-primary">
-                  <I size={24} aria-hidden />
-                </span>
-                <div>
-                  <h3 className="text-lg font-extrabold">{title as string}</h3>
-                  <p className="mt-1 text-ink-600">{body as string}</p>
-                </div>
+          {(
+            [
+              [Languages, "own"],
+              [Mic, "speak"],
+              [Brain, "remember"],
+              [BookOpen, "content"],
+            ] as const
+          ).map(([I, key]) => (
+            <div key={key} className="panel flex gap-4">
+              <span className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-primary-soft text-primary">
+                <I size={24} aria-hidden />
+              </span>
+              <div>
+                <h3 className="text-lg font-extrabold">
+                  <T k={`app.home.why.${key}.title`} vars={{ phrases: CONCEPTS.length, lessons: UNITS.length }} />
+                </h3>
+                <p className="mt-1 text-ink-600">
+                  <T k={`app.home.why.${key}.body`} vars={{ n }} />
+                </p>
               </div>
-            );
-          })}
+            </div>
+          ))}
         </div>
       </section>
 
       <section className="relative overflow-hidden rounded-3xl bg-primary px-6 py-10 text-on-primary sm:px-10">
         <div className="max-w-lg">
-          <h2 className="text-3xl font-black">Your first five minutes start now.</h2>
-          <p className="mt-2 opacity-90">Free, no sign-up needed. Create an account later to keep your progress on every device.</p>
+          <h2 className="text-3xl font-black">
+            <T k="app.home.cta.title" />
+          </h2>
+          <p className="mt-2 opacity-90">
+            <T k="app.home.cta.body" />
+          </p>
           <Link href="/learn" className="mt-6 inline-flex min-h-12 items-center gap-2 rounded-2xl bg-card px-5 font-display font-extrabold text-primary">
-            Start learning <ArrowRight size={18} aria-hidden />
+            <T k="app.home.cta.button" /> <ArrowRight size={18} aria-hidden className="rtl:-scale-x-100" />
           </Link>
         </div>
-        <Feli mood="cheer" size={150} className="absolute -right-4 -bottom-6 hidden sm:block" decorative />
+        <Feli mood="cheer" size={150} className="absolute -right-4 -bottom-6 hidden sm:block rtl:right-auto rtl:-left-4" decorative />
       </section>
     </div>
   );

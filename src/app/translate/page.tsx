@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import T from "@/components/T";
 import Translator from "@/components/Translator";
 import { LANGUAGES } from "@/lib/languages";
 
@@ -10,9 +11,15 @@ export const metadata: Metadata = {
 export default function TranslatePage() {
   return (
     <div className="mx-auto max-w-3xl">
-      <p className="eyebrow">Feliglot Translate</p>
-      <h1 className="mt-1 text-4xl font-black tracking-tight">Translate with context, not guesswork.</h1>
-      <p className="mt-2 mb-6 text-ink-600">Don&apos;t just get the translation — learn how to say it, word by word.</p>
+      <p className="eyebrow">
+        <T k="account.translate.eyebrow" />
+      </p>
+      <h1 className="mt-1 text-4xl font-black tracking-tight">
+        <T k="account.translate.title" />
+      </h1>
+      <p className="mt-2 mb-6 text-ink-600">
+        <T k="account.translate.intro" />
+      </p>
       <Translator />
     </div>
   );

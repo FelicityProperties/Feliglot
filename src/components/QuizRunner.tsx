@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { Fragment, useEffect, useRef, useState, type ReactNode } from "react";
+import { languageName, useT, type T } from "@/lib/i18n";
 import type { LangInfo } from "@/lib/types";
 import { UNITS } from "@/lib/curriculum";
 import { fold } from "@/lib/fold";
@@ -39,12 +40,22 @@ function Target({ lang, p, size = "lg" }: { lang: LangInfo; p: Shown; size?: "md
   );
 }
 
-const PROMPTS: Record<Kind, (lang: LangInfo) => string> = {
-  read: () => "What does this mean?",
-  recall: (l) => `How do you say this in ${l.name}?`,
-  type: (l) => `Type this in ${l.name}`,
-  speak: () => "Say it out loud",
+const PROMPTS: Record<Kind, (t: T, language: string) => string> = {
+  read: (t) => t("lesson.quiz.prompt.read"),
+  recall: (t, language) => t("lesson.quiz.prompt.recall", { language }),
+  type: (t, language) => t("lesson.quiz.prompt.type", { language }),
+  speak: (t) => t("lesson.quiz.prompt.speak"),
 };
+
+// Puts an element where "{name}" sits in a translated sentence, so word order follows the language.
+function fill(text: string, name: string, node: ReactNode) {
+  return text.split(`{${name}}`).map((part, j) => (
+    <Fragment key={j}>
+      {j > 0 && node}
+      {part}
+    </Fragment>
+  ));
+}
 
 export default function QuizRunner({
   lang,
@@ -59,6 +70,8 @@ export default function QuizRunner({
   meaning: Meaning;
   onFinish: (results: Result[]) => void;
 }) {
+  const { t, lang: ui } = useT();
+  const language = languageName(lang.code, ui, false);
   const [questions, setQuestions] = useState<Question[]>(() =>
     buildQuiz(items, pool ?? items, recognitionSupported() && !speakingPaused()),
   );
@@ -120,7 +133,7 @@ export default function QuizRunner({
         <div
           className="h-3 flex-1 overflow-hidden rounded-full bg-sand-200"
           role="progressbar"
-          aria-label="Quiz progress"
+          aria-label={t("lesson.quiz.progress")}
           aria-valuemin={0}
           aria-valuemax={questions.length}
           aria-valuenow={i + (answered ? 1 : 0)}
@@ -133,7 +146,7 @@ export default function QuizRunner({
       </div>
 
       <p ref={headingRef} tabIndex={-1} className="font-display text-xl font-bold text-ink-900 outline-none">
-        {PROMPTS[q.kind](lang)}
+        {PROMPTS[q.kind](t, language)}
       </p>
 
       <div className="mt-5 rounded-3xl border border-sand-200 bg-card p-6 text-center text-ink-900 shadow-soft">
@@ -145,7 +158,7 @@ export default function QuizRunner({
                 {phrase.meaning}
               </p>
             )}
-            <SpeakButton text={phrase.text} tag={lang.speech} languageName={lang.name} />
+            <SpeakButton text={phrase.text} tag={lang.speech} languageName={lang.name} code={lang.code} />
           </div>
         ) : (
           <p dir={meaning.dir} lang={meaning.lang} className="font-display text-3xl font-bold">
@@ -180,8 +193,8 @@ export default function QuizRunner({
                 ) : (
                   <Target lang={lang} p={o} size="md" />
                 )}
-                {answered && isRight && <span className="sr-only"> — correct answer</span>}
-                {answered && !isRight && id === answered.picked && <span className="sr-only"> — your answer</span>}
+                {answered && isRight && <span className="sr-only"> {t("lesson.quiz.correctAnswer")}</span>}
+                {answered && !isRight && id === answered.picked && <span className="sr-only"> {t("lesson.quiz.yourAnswer")}</span>}
               </button>
             );
           })}
@@ -211,20 +224,27 @@ export default function QuizRunner({
             {answered && (
               <>
                 <p className={`font-display text-lg font-bold ${answered.skipped ? "text-ink-700" : answered.correct ? "text-success" : "text-danger"}`}>
-                  {answered.skipped ? "Skipped" : answered.correct ? `Great! +${XP_PER_ANSWER}` : "Not quite"}
+                  {answered.skipped
+                    ? t("lesson.quiz.skipped")
+                    : answered.correct
+                      ? t("lesson.quiz.great", { xp: XP_PER_ANSWER })
+                      : t("lesson.quiz.notQuite")}
                 </p>
                 {!answered.correct && !answered.skipped && (
                   <p className="text-ink-700">
-                    Answer:{" "}
-                    <bdi lang={q.kind === "read" ? meaning.lang : lang.speech} className="font-semibold">
-                      {answerText}
-                    </bdi>
+                    {fill(
+                      t("lesson.quiz.answer"),
+                      "answer",
+                      <bdi lang={q.kind === "read" ? meaning.lang : lang.speech} className="font-semibold">
+                        {answerText}
+                      </bdi>,
+                    )}
                     {q.kind !== "read" && phrase.roman && <span className="text-primary"> · {phrase.roman}</span>}
                   </p>
                 )}
                 {answered.heard !== undefined && (
                   <p className="text-sm text-ink-600">
-                    We heard: “<bdi lang={lang.speech}>{answered.heard || "…"}</bdi>”
+                    {fill(t("lesson.quiz.heard"), "heard", <bdi lang={lang.speech}>{answered.heard || "…"}</bdi>)}
                   </p>
                 )}
               </>
@@ -232,7 +252,7 @@ export default function QuizRunner({
           </div>
           {answered && (
             <button ref={continueRef} onClick={next} className="btn-primary w-full sm:w-auto">
-              {i === questions.length - 1 ? "See results" : "Continue"}
+              {i === questions.length - 1 ? t("lesson.quiz.seeResults") : t("lesson.quiz.continue")}
             </button>
           )}
         </div>
@@ -255,6 +275,7 @@ function TypeIt({
   locked: boolean;
   onAnswer: (correct: boolean) => void;
 }) {
+  const { t, lang: ui } = useT();
   const [value, setValue] = useState("");
   return (
     <form
@@ -266,7 +287,7 @@ function TypeIt({
       }}
     >
       <label htmlFor="type-answer" className="mb-2 block text-sm font-medium text-ink-600">
-        {latin ? "Type it in Latin letters (as it sounds)" : `Type it in ${lang.name}`}
+        {latin ? t("lesson.quiz.typeLatin") : t("lesson.quiz.typeIn", { language: languageName(lang.code, ui, false) })}
       </label>
       <input
         id="type-answer"
@@ -283,7 +304,7 @@ function TypeIt({
       />
       {!locked && (
         <button type="submit" disabled={!value.trim()} className="btn-primary mt-4 w-full disabled:opacity-50">
-          Check
+          {t("lesson.quiz.check")}
         </button>
       )}
     </form>
@@ -303,6 +324,7 @@ function SayIt({
   onAnswer: (correct: boolean, extra?: { heard?: string }) => void;
   onSkip: () => void;
 }) {
+  const { t } = useT();
   const [state, setState] = useState<"idle" | "listening" | "blocked" | "failed">("idle");
   const session = useRef<Listening | null>(null);
   // Set once the learner skips or moves on: a late result must not grade anything.
@@ -351,16 +373,16 @@ function SayIt({
         }`}
       >
         <span aria-hidden>🎙️</span>
-        <span className="sr-only">{state === "listening" ? "Stop listening" : "Start speaking"}</span>
+        <span className="sr-only">{state === "listening" ? t("lesson.quiz.mic.stop") : t("lesson.quiz.mic.start")}</span>
       </button>
       <p className="text-sm text-ink-600" aria-live="polite">
         {state === "listening"
-          ? "Listening… say the phrase"
+          ? t("lesson.quiz.mic.listening")
           : state === "blocked"
-            ? "The microphone is blocked. Allow it in your browser settings, or skip."
+            ? t("lesson.quiz.mic.blocked")
             : state === "failed"
-              ? "That didn't work. Checking speech needs an internet connection. Try again, or skip."
-              : "Tap the microphone and say the phrase"}
+              ? t("lesson.quiz.mic.failed")
+              : t("lesson.quiz.mic.idle")}
       </p>
       {!locked && (
         <button
@@ -371,7 +393,7 @@ function SayIt({
           }}
           className="text-sm font-medium text-ink-500 underline"
         >
-          I can&apos;t speak right now
+          {t("lesson.quiz.mic.skip")}
         </button>
       )}
     </div>

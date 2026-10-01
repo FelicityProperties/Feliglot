@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import Link from "next/link";
+import { useT } from "@/lib/i18n";
 import type { Result } from "@/lib/quiz";
 import { streak, useProgress } from "@/lib/store";
 import Confetti from "./Confetti";
@@ -31,6 +32,7 @@ export default function LessonComplete({
   next?: { href: string; label: string };
   back: { label: string } & ({ href: string } | { onClick: () => void });
 }) {
+  const { t } = useT();
   const { right, total, passed } = scoreOf(results);
   const progress = useProgress();
   const days = streak(progress.days);
@@ -49,16 +51,16 @@ export default function LessonComplete({
         <Feli mood={passed ? "cheer" : "think"} size={120} />
       </div>
       <h2 ref={heading} tabIndex={-1} className="mt-4 font-display text-3xl font-extrabold text-ink-900 outline-none">
-        {passed ? title : "Almost there!"}
+        {passed ? title : t("lesson.complete.almost")}
       </h2>
       <p className="mt-2 text-ink-600">
-        {passed ? "Lesson passed — these phrases will come back for review so they stick." : `Get ${Math.round(PASS * 100)}% to pass. Try once more!`}
+        {passed ? t("lesson.complete.passed") : t("lesson.complete.failed", { percent: Math.round(PASS * 100) })}
       </p>
       <dl className="mt-6 grid grid-cols-3 gap-3">
         {[
-          ["⭐", `+${right * XP_PER_ANSWER}`, "points"],
-          ["🎯", `${accuracy}%`, "accuracy"],
-          ["🔥", String(days), days === 1 ? "day streak" : "day streak"],
+          ["⭐", `+${right * XP_PER_ANSWER}`, t("lesson.complete.points")],
+          ["🎯", t("lesson.complete.percent", { n: accuracy }), t("lesson.complete.accuracy")],
+          ["🔥", String(days), t("lesson.complete.streak", { n: days })],
         ].map(([icon, value, label]) => (
           <div key={label} className="rounded-2xl bg-sand-100 p-3">
             <dt className="text-xs text-ink-500">
@@ -71,11 +73,11 @@ export default function LessonComplete({
       {passed && <SavePrompt />}
       <div className="mt-6 flex flex-wrap justify-center gap-3">
         <button onClick={onRetry} className={passed ? "btn-secondary" : "btn-primary"}>
-          {passed ? "Practise again" : "Try again"}
+          {passed ? t("lesson.complete.practiseAgain") : t("lesson.tryAgain")}
         </button>
         {passed && next ? (
           <Link href={next.href} className="btn-primary">
-            {next.label} →
+            {next.label}
           </Link>
         ) : "href" in back ? (
           <Link href={back.href} className={backClass}>

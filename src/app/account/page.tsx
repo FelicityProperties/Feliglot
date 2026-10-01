@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
 import AccountPanel from "@/components/AccountPanel";
+import T from "@/components/T";
 
 export const metadata: Metadata = {
   title: "Your account",
@@ -11,7 +12,13 @@ export const metadata: Metadata = {
 export default function AccountPage() {
   return (
     <div className="mx-auto max-w-5xl">
-      <Suspense fallback={<p className="text-ink-600">Loading…</p>}>
+      <Suspense
+        fallback={
+          <p className="text-ink-600">
+            <T k="account.loading" />
+          </p>
+        }
+      >
         <AccountPanel />
       </Suspense>
     </div>
