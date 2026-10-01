@@ -370,6 +370,395 @@
     "congratulations": {
       "text": "Binabati ko po kayo!",
       "note": "To a friend: binabati kita! Casual and very common: congrats!"
+    },
+    "my_family": {
+      "text": "Ang pamilya ko",
+      "note": "More formal: ang aking pamilya."
+    },
+    "mother": {
+      "text": "Nanay",
+      "note": "Formal: ina. Many families say mama or mommy."
+    },
+    "father": {
+      "text": "Tatay",
+      "note": "Formal: ama. Many families say papa or daddy."
+    },
+    "brother": {
+      "text": "Kapatid na lalaki",
+      "note": "Kapatid alone means sibling. An older brother is called kuya."
+    },
+    "sister": {
+      "text": "Kapatid na babae",
+      "note": "An older sister is called ate. A younger sibling: nakababatang kapatid."
+    },
+    "child": {
+      "text": "Anak",
+      "note": "Son or daughter: anak na lalaki / anak na babae. A kid in general is bata."
+    },
+    "friend": {
+      "text": "Kaibigan",
+      "note": "Same for men and women. Your close group of friends is your barkada."
+    },
+    "this_is_my_friend": {
+      "text": "Ito po ang kaibigan ko",
+      "note": "Same for a male or female friend. With a name: ito po si Ana, kaibigan ko."
+    },
+    "are_you_married": {
+      "text": "May asawa na po ba kayo?",
+      "note": "Literally 'do you have a spouse yet?'. Also: kasal na po ba kayo?"
+    },
+    "have_children": {
+      "text": "May anak na po ba kayo?",
+      "note": "Casual: may anak ka na ba?"
+    },
+    "monday": {
+      "text": "Lunes",
+      "note": "Day names come from Spanish. On Monday: sa Lunes."
+    },
+    "tuesday": {
+      "text": "Martes"
+    },
+    "wednesday": {
+      "text": "Miyerkules",
+      "note": "Also spelled Miyerkoles."
+    },
+    "thursday": {
+      "text": "Huwebes"
+    },
+    "friday": {
+      "text": "Biyernes"
+    },
+    "saturday": {
+      "text": "Sabado"
+    },
+    "sunday": {
+      "text": "Linggo",
+      "note": "Written lower-case, linggo means 'week'."
+    },
+    "weekend": {
+      "text": "Katapusan ng linggo",
+      "note": "Heard in the news; in everyday speech most people just say weekend: sa weekend."
+    },
+    "what_day": {
+      "text": "Anong araw po ngayon?",
+      "note": "For the date: anong petsa po ngayon?"
+    },
+    "next_week": {
+      "text": "Sa susunod na linggo",
+      "note": "This week: ngayong linggo. Last week: noong isang linggo."
+    },
+    "eleven": {
+      "text": "Labing-isa",
+      "note": "Teens are labing- plus the number. For prices many use Spanish (onse) or English."
+    },
+    "twelve": {
+      "text": "Labindalawa",
+      "note": "Labing- shortens before some sounds: labindalawa, labintatlo, labinlima."
+    },
+    "fifteen": {
+      "text": "Labinlima",
+      "note": "Spanish kinse is just as common for money: kinse pesos."
+    },
+    "twenty": {
+      "text": "Dalawampu",
+      "note": "21 is dalawampu't isa ('t = at, and). For prices Spanish bente is everyday."
+    },
+    "thirty": {
+      "text": "Tatlumpu",
+      "note": "Spanish trenta is everyday for prices and ages: trenta pesos."
+    },
+    "fifty": {
+      "text": "Limampu",
+      "note": "Spanish singkwenta is very common: singkwenta pesos."
+    },
+    "hundred": {
+      "text": "Isang daan",
+      "note": "Also sandaan. 200: dalawang daan. For prices English (one hundred pesos) is very common."
+    },
+    "thousand": {
+      "text": "Isang libo",
+      "note": "Also sanlibo. 2,000: dalawang libo. 10,000: sampung libo."
+    },
+    "how_old": {
+      "text": "Ilang taon na po kayo?",
+      "note": "Casual: ilang taon ka na?"
+    },
+    "years_old": {
+      "text": "… taon na po ako",
+      "note": "The number takes -ng (na after a consonant): dalawampung taon, apat na taon. Casual: bente na ako."
+    },
+    "red": {
+      "text": "Pula",
+      "note": "Before a noun it takes -ng: pulang kotse (red car)."
+    },
+    "blue": {
+      "text": "Asul",
+      "note": "Bughaw is the native word, heard mostly in songs and poetry."
+    },
+    "green": {
+      "text": "Berde",
+      "note": "Luntian is the native word, used in formal writing."
+    },
+    "yellow": {
+      "text": "Dilaw"
+    },
+    "black": {
+      "text": "Itim",
+      "note": "After a consonant the link is na: itim na sapatos (black shoes)."
+    },
+    "white": {
+      "text": "Puti"
+    },
+    "what_colour": {
+      "text": "Anong kulay po nito?",
+      "note": "In a shop, to ask for other colours: may iba pa po bang kulay?"
+    },
+    "this_one": {
+      "text": "Ito po",
+      "note": "To settle on it: ito na lang po (I'll just take this one)."
+    },
+    "that_one": {
+      "text": "Iyon po",
+      "note": "For something near the person you're talking to, say iyan po. Often shortened: 'yon po, 'yan po."
+    },
+    "another_one": {
+      "text": "Isa pa po",
+      "note": "Nga softens it: isa pa nga po. For a different one: iba naman po."
+    },
+    "its_hot": {
+      "text": "Ang init!",
+      "note": "A calmer statement: mainit ngayon. Very hot: ang init-init!"
+    },
+    "its_cold": {
+      "text": "Ang lamig!",
+      "note": "A calmer statement: malamig ngayon. Often said about strong air-con, too."
+    },
+    "its_raining": {
+      "text": "Umuulan",
+      "note": "Looks like rain: mukhang uulan. Heavy rain: malakas ang ulan."
+    },
+    "its_sunny": {
+      "text": "Maaraw",
+      "note": "Maaraw ngayon = it's sunny today. Harsh midday sun: tirik na tirik ang araw."
+    },
+    "its_windy": {
+      "text": "Mahangin",
+      "note": "Strong wind: malakas ang hangin. A storm or typhoon is bagyo."
+    },
+    "weather_today": {
+      "text": "Kumusta po ang panahon ngayon?",
+      "note": "Panahon means weather, but also time or season."
+    },
+    "beautiful_day": {
+      "text": "Ang ganda ng araw ngayon!",
+      "note": "Magandang araw is a greeting (good day), not a comment on the weather."
+    },
+    "umbrella": {
+      "text": "Payong"
+    },
+    "summer": {
+      "text": "Tag-init",
+      "note": "Also tag-araw. The Philippines has a hot dry season (tag-init) and a rainy season (tag-ulan)."
+    },
+    "winter": {
+      "text": "Taglamig",
+      "note": "There is no winter in the Philippines; the word is used for colder countries."
+    },
+    "have_reservation": {
+      "text": "May reserbasyon po ako",
+      "note": "Many use the English word: may reservation po ako. Under a name: nakapangalan po kay Santos."
+    },
+    "room": {
+      "text": "Kuwarto",
+      "note": "Also spelled kwarto. Formal: silid."
+    },
+    "passport": {
+      "text": "Pasaporte",
+      "note": "Passport in English is just as common."
+    },
+    "luggage": {
+      "text": "Bagahe",
+      "note": "A suitcase is maleta. Your things in general: gamit."
+    },
+    "wifi_password": {
+      "text": "Ano po ang password ng Wi-Fi?",
+      "note": "Casual: anong password ng Wi-Fi?"
+    },
+    "check_out_time": {
+      "text": "Anong oras po ang check-out?",
+      "note": "Check-in and check-out are used just as in English."
+    },
+    "map": {
+      "text": "Mapa"
+    },
+    "bus": {
+      "text": "Bus",
+      "note": "Same word as in English. Other everyday rides: jeepney (dyip), tricycle and the MRT/LRT trains."
+    },
+    "next_train": {
+      "text": "Anong oras po ang susunod na tren?",
+      "note": "For any transport: anong oras po ang susunod na biyahe? (next trip)"
+    },
+    "is_this_seat_free": {
+      "text": "May nakaupo po ba rito?",
+      "note": "Literally 'is someone sitting here?'. Also: bakante po ba ito? Rito is dito after a vowel."
+    },
+    "what_do_you_do": {
+      "text": "Ano po ang trabaho ninyo?",
+      "note": "Casual: anong trabaho mo?"
+    },
+    "i_work_in": {
+      "text": "Nagtatrabaho po ako sa …",
+      "note": "Sa covers places and fields: sa bangko (a bank), sa ospital, sa sales."
+    },
+    "im_student": {
+      "text": "Estudyante po ako",
+      "note": "Same for men and women. Formal: mag-aaral."
+    },
+    "office": {
+      "text": "Opisina"
+    },
+    "meeting": {
+      "text": "Pulong",
+      "note": "Formal. At work most people simply say meeting (also spelled miting)."
+    },
+    "im_busy": {
+      "text": "Abala ako",
+      "note": "Very common: busy ako. To an elder: abala po ako."
+    },
+    "day_off": {
+      "text": "Araw ng pahinga",
+      "note": "Most people just say day off. No work or school that day: walang pasok."
+    },
+    "colleague": {
+      "text": "Katrabaho",
+      "note": "Same for men and women. Formal: kasamahan sa trabaho."
+    },
+    "lets_start": {
+      "text": "Simulan na natin",
+      "note": "Also very common: umpisahan na natin. Natin is 'we' including the listener."
+    },
+    "good_job": {
+      "text": "Magaling!",
+      "note": "Also very common: ang galing mo! (you're so good), or good job! in English."
+    },
+    "table_for_two": {
+      "text": "Mesa po para sa dalawa",
+      "note": "Staff often ask ilan po kayo? (how many?); just answer dalawa po."
+    },
+    "what_recommend": {
+      "text": "Ano pong masarap dito?",
+      "note": "Literally 'what's good here?'. Also common: ano po ang best seller ninyo?"
+    },
+    "not_spicy": {
+      "text": "Huwag pong maanghang",
+      "note": "Also: walang sili po (no chili). Most Filipino dishes are mild anyway."
+    },
+    "vegetarian_food": {
+      "text": "Vegetarian na pagkain",
+      "note": "Walang karne (no meat) can still mean fish or chicken; say puro gulay (only vegetables)."
+    },
+    "more_water": {
+      "text": "Pahingi pa po ng tubig",
+      "note": "Pa adds 'more': pahingi pa po ng kanin (more rice, please)."
+    },
+    "no_sugar": {
+      "text": "Walang asukal po",
+      "note": "Less sugar: kaunting asukal lang po."
+    },
+    "im_full": {
+      "text": "Busog na ako",
+      "note": "To an elder: busog na po ako. Very full: busog na busog na ako."
+    },
+    "takeaway": {
+      "text": "Take out po",
+      "note": "This is what everyone says. For leftovers: pakibalot po (please wrap it)."
+    },
+    "it_was_delicious": {
+      "text": "Masarap po ang pagkain",
+      "note": "Adjectives have no tense: masarap = is or was tasty. To the cook: ang sarap po ng luto ninyo!"
+    },
+    "keep_change": {
+      "text": "Sa inyo na po ang sukli",
+      "note": "Shorter: sa inyo na po. To a friend or someone younger: sa iyo na."
+    },
+    "head": {
+      "text": "Ulo"
+    },
+    "stomach": {
+      "text": "Tiyan",
+      "note": "In quick speech it often sounds like 'tyan'."
+    },
+    "head_hurts": {
+      "text": "Masakit po ang ulo ko",
+      "note": "Swap the body part: tiyan (stomach), lalamunan (throat), likod (back)."
+    },
+    "have_fever": {
+      "text": "May lagnat po ako",
+      "note": "A slight fever is sinat: sinisinat po ako."
+    },
+    "medicine": {
+      "text": "Gamot",
+      "note": "At a pharmacy: may gamot po ba kayo para sa lagnat? (for a fever)"
+    },
+    "call_ambulance": {
+      "text": "Tumawag kayo ng ambulansya!",
+      "note": "Kayo addresses everyone around you. Also spelled ambulansiya."
+    },
+    "dentist": {
+      "text": "Dentista"
+    },
+    "need_rest": {
+      "text": "Kailangan ko pong magpahinga",
+      "note": "With friends: kailangan kong magpahinga."
+    },
+    "feel_better": {
+      "text": "Mabuti na po ang pakiramdam ko",
+      "note": "Casual: okay na ako. Also: gumaan na po ang pakiramdam ko (I feel lighter)."
+    },
+    "get_well": {
+      "text": "Sana gumaling po kayo agad!",
+      "note": "Sana = I hope. To a friend: sana gumaling ka agad! Short and casual: pagaling ka!"
+    },
+    "lets_meet": {
+      "text": "Magkita tayo",
+      "note": "Casual: kita tayo! Add a day: magkita tayo sa Sabado."
+    },
+    "are_you_free": {
+      "text": "Libre po ba kayo bukas?",
+      "note": "Casual: libre ka ba bukas? Also: may gagawin ka ba bukas? (any plans?)"
+    },
+    "call_me": {
+      "text": "Tawagan po ninyo ako",
+      "note": "Casual: tawagan mo ako. Text me: i-text mo ako."
+    },
+    "your_number": {
+      "text": "Ano po ang numero ninyo?",
+      "note": "Most people say number and mean the cellphone. Casual: anong number mo?"
+    },
+    "see_you_soon": {
+      "text": "Magkita ulit tayo",
+      "note": "Playful: kita-kits! Slightly formal: hanggang sa muli (until next time)."
+    },
+    "have_nice_day": {
+      "text": "Magandang araw po sa inyo!",
+      "note": "When parting, many Filipinos simply say ingat po! (take care)."
+    },
+    "good_luck": {
+      "text": "Galingan mo!",
+      "note": "Literally 'do it well!'. To wish luck itself: sana suwertehin ka. Good luck! in English is common too."
+    },
+    "happy_birthday": {
+      "text": "Maligayang kaarawan!",
+      "note": "In speech, happy birthday! is far more common. The birthday song is Maligayang Bati."
+    },
+    "thanks_a_lot": {
+      "text": "Maraming salamat po",
+      "note": "Even warmer: maraming-maraming salamat po!"
+    },
+    "miss_you": {
+      "text": "Miss na kita",
+      "note": "This is how most people say it. Also: nami-miss kita. Deep longing: nangungulila ako sa iyo."
     }
   }
 }

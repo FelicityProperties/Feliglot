@@ -468,6 +468,486 @@
     "congratulations": {
       "text": "बधाई छ!",
       "roman": "badhaai chha!"
+    },
+    "my_family": {
+      "text": "मेरो परिवार",
+      "roman": "mero pariwaar",
+      "note": "In everyday speech also घरका मान्छे (gharkaa maanchhe), 'the folks at home'."
+    },
+    "mother": {
+      "text": "आमा",
+      "roman": "aamaa",
+      "note": "Many city children say मम्मी (mammi). Also a respectful way to address an older woman."
+    },
+    "father": {
+      "text": "बुबा",
+      "roman": "bubaa",
+      "note": "Also बा (baa) or बाबा (baabaa); in cities many say ड्याडी (dyaadi). Formal: पिता (pitaa)."
+    },
+    "brother": {
+      "text": "दाइ",
+      "roman": "daai",
+      "note": "An older brother; a younger brother is भाइ (bhaai). Brothers: दाजुभाइ (daajubhaai)."
+    },
+    "sister": {
+      "text": "दिदी",
+      "roman": "didi",
+      "note": "An older sister; a younger sister is बहिनी (bahini). Sisters: दिदीबहिनी (didibahini)."
+    },
+    "child": {
+      "text": "छोराछोरी",
+      "roman": "chhoraachhori",
+      "note": "'Sons and daughters', the usual word for one's children. Son: छोरा (chhoraa), daughter: छोरी (chhori)."
+    },
+    "friend": {
+      "text": "साथी",
+      "roman": "saathi",
+      "note": "Same word for a woman. A close friend is मिल्ने साथी (milne saathi)."
+    },
+    "this_is_my_friend": {
+      "text": "यो मेरो साथी हो",
+      "roman": "yo mero saathi ho",
+      "note": "Same for a female friend. More respectful: उहाँ मेरो साथी हुनुहुन्छ (uhaan mero saathi hunuhunchha)."
+    },
+    "are_you_married": {
+      "text": "तपाईंको बिहे भएको छ?",
+      "roman": "tapaainko bihe bhaeko chha?",
+      "note": "A common, friendly question in Nepal. Formal: तपाईं विवाहित हुनुहुन्छ? (tapaain bibaahit hunuhunchha?)"
+    },
+    "have_children": {
+      "text": "तपाईंका छोराछोरी छन्?",
+      "roman": "tapaainkaa chhoraachhori chhan?",
+      "note": "To ask how many: कति जना छन्? (kati janaa chhan?)"
+    },
+    "monday": {
+      "text": "सोमबार",
+      "roman": "sombaar",
+      "note": "Every day name ends in -बार (baar), 'day of the week'."
+    },
+    "tuesday": {
+      "text": "मङ्गलबार",
+      "roman": "mangalbaar"
+    },
+    "wednesday": {
+      "text": "बुधबार",
+      "roman": "budhabaar"
+    },
+    "thursday": {
+      "text": "बिहीबार",
+      "roman": "bihibaar",
+      "note": "Formal: बृहस्पतिबार (brihaspatibaar)."
+    },
+    "friday": {
+      "text": "शुक्रबार",
+      "roman": "shukrabaar"
+    },
+    "saturday": {
+      "text": "शनिबार",
+      "roman": "shanibaar",
+      "note": "Nepal's weekly day off; most offices and schools are closed."
+    },
+    "sunday": {
+      "text": "आइतबार",
+      "roman": "aaitabaar"
+    },
+    "weekend": {
+      "text": "सप्ताहान्त",
+      "roman": "saptaahaanta",
+      "note": "Mostly written. People say शनिबार (shanibaar), Nepal's day off, or विकेन्ड (wikend)."
+    },
+    "what_day": {
+      "text": "आज के बार हो?",
+      "roman": "aaja ke baar ho?",
+      "note": "For the date: आज कति गते? (aaja kati gate?) — Nepal uses its own calendar, Bikram Sambat."
+    },
+    "next_week": {
+      "text": "अर्को हप्ता",
+      "roman": "arko haptaa",
+      "note": "Last week: गएको हप्ता (gaeko haptaa)."
+    },
+    "eleven": {
+      "text": "एघार",
+      "roman": "eghaara",
+      "note": "Devanagari digits: ११"
+    },
+    "twelve": {
+      "text": "बाह्र",
+      "roman": "baahra",
+      "note": "Devanagari digits: १२"
+    },
+    "fifteen": {
+      "text": "पन्ध्र",
+      "roman": "pandhra",
+      "note": "Devanagari digits: १५"
+    },
+    "twenty": {
+      "text": "बीस",
+      "roman": "bis",
+      "note": "Devanagari digits: २०"
+    },
+    "thirty": {
+      "text": "तीस",
+      "roman": "tis",
+      "note": "Devanagari digits: ३०"
+    },
+    "fifty": {
+      "text": "पचास",
+      "roman": "pachaas",
+      "note": "Devanagari digits: ५०"
+    },
+    "hundred": {
+      "text": "एक सय",
+      "roman": "ek saya",
+      "note": "Devanagari digits: १००. सय (saya) on its own also means 'a hundred'."
+    },
+    "thousand": {
+      "text": "एक हजार",
+      "roman": "ek hajaar",
+      "note": "Devanagari digits: १०००. 100,000 is एक लाख (ek laakh)."
+    },
+    "how_old": {
+      "text": "तपाईंको उमेर कति भयो?",
+      "roman": "tapaainko umer kati bhayo?",
+      "note": "Also: तपाईं कति वर्षको हुनुभयो? (tapaain kati barshako hunubhayo?)"
+    },
+    "years_old": {
+      "text": "म … वर्षको भएँ",
+      "roman": "ma … barshako bhaen",
+      "note": "A woman says: म … वर्षकी भएँ (ma … barshaki bhaen)."
+    },
+    "red": {
+      "text": "रातो",
+      "roman": "raato",
+      "note": "Like most adjectives in -o, it becomes -aa with plural nouns: राता फूल (raataa phul), 'red flowers'."
+    },
+    "blue": {
+      "text": "निलो",
+      "roman": "nilo"
+    },
+    "green": {
+      "text": "हरियो",
+      "roman": "hariyo"
+    },
+    "yellow": {
+      "text": "पहेँलो",
+      "roman": "pahenlo"
+    },
+    "black": {
+      "text": "कालो",
+      "roman": "kaalo"
+    },
+    "white": {
+      "text": "सेतो",
+      "roman": "seto"
+    },
+    "what_colour": {
+      "text": "यो कुन रङको हो?",
+      "roman": "yo kun rangko ho?"
+    },
+    "this_one": {
+      "text": "यो वाला",
+      "roman": "yo waalaa",
+      "note": "Also just यो (yo), 'this'. वाला (waalaa) works like the English 'one'."
+    },
+    "that_one": {
+      "text": "त्यो वाला",
+      "roman": "tyo waalaa",
+      "note": "For something far off: ऊ त्यो (u tyo), 'that one over there'."
+    },
+    "another_one": {
+      "text": "अर्को एउटा दिनुहोस् न",
+      "roman": "arko eutaa dinuhos na",
+      "note": "अर्को (arko) can also mean 'a different one'; 'one more' is also अझै एउटा (ajhai eutaa)."
+    },
+    "its_hot": {
+      "text": "गर्मी छ",
+      "roman": "garmi chha",
+      "note": "Feeling hot yourself: मलाई गर्मी भयो (malaai garmi bhayo)."
+    },
+    "its_cold": {
+      "text": "जाडो छ",
+      "roman": "jaado chha",
+      "note": "For cold things like water, use चिसो (chiso): पानी चिसो छ (paani chiso chha)."
+    },
+    "its_raining": {
+      "text": "पानी परिरहेको छ",
+      "roman": "paani pariraheko chha",
+      "note": "Literally 'water is falling'. Also: पानी पर्दै छ (paani pardai chha)."
+    },
+    "its_sunny": {
+      "text": "घाम लागेको छ",
+      "roman": "ghaam laageko chha"
+    },
+    "its_windy": {
+      "text": "हावा चलेको छ",
+      "roman": "haawaa chaleko chha",
+      "note": "हावा (haawaa) means both 'air' and 'wind'."
+    },
+    "weather_today": {
+      "text": "आज मौसम कस्तो छ?",
+      "roman": "aaja mausam kasto chha?"
+    },
+    "beautiful_day": {
+      "text": "आज मौसम कति राम्रो छ!",
+      "roman": "aaja mausam kati raamro chha!",
+      "note": "Literally 'how nice the weather is today!' — the natural way to say it."
+    },
+    "umbrella": {
+      "text": "छाता",
+      "roman": "chhaataa"
+    },
+    "summer": {
+      "text": "गर्मी",
+      "roman": "garmi",
+      "note": "In summer: गर्मीमा (garmimaa). The monsoon that follows is बर्खा (barkhaa)."
+    },
+    "winter": {
+      "text": "जाडो",
+      "roman": "jaado",
+      "note": "Same word as for cold weather. In winter: जाडोमा (jaadomaa)."
+    },
+    "have_reservation": {
+      "text": "मैले कोठा बुक गरेको छु",
+      "roman": "maile kothaa buk gareko chhu",
+      "note": "A woman says: मैले कोठा बुक गरेकी छु (maile kothaa buk gareki chhu). Also: मेरो बुकिङ छ (mero buking chha)."
+    },
+    "room": {
+      "text": "कोठा",
+      "roman": "kothaa",
+      "note": "Any room, at home too. Hotel staff also say रुम (rum)."
+    },
+    "passport": {
+      "text": "पासपोर्ट",
+      "roman": "paasport",
+      "note": "The official word, printed on it, is राहदानी (raahadaani)."
+    },
+    "luggage": {
+      "text": "सामान",
+      "roman": "saamaan",
+      "note": "Also means 'things' in general. A bag is झोला (jholaa) or ब्याग (byaag)."
+    },
+    "wifi_password": {
+      "text": "वाइफाइको पासवर्ड के हो?",
+      "roman": "waaifaaiko paasward ke ho?"
+    },
+    "check_out_time": {
+      "text": "चेकआउट कति बजे हो?",
+      "roman": "chekaaut kati baje ho?",
+      "note": "Without English: कति बजेसम्म कोठा छोड्नुपर्छ? (kati bajesamma kothaa chhodnuparchha?)"
+    },
+    "map": {
+      "text": "नक्सा",
+      "roman": "naksaa"
+    },
+    "bus": {
+      "text": "बस",
+      "roman": "bas",
+      "note": "A shared minivan is a माइक्रो (maaikro). Any vehicle, bus included, is often just गाडी (gaadi)."
+    },
+    "next_train": {
+      "text": "अर्को रेल कति बजे छ?",
+      "roman": "arko rel kati baje chha?",
+      "note": "Nepal has few trains; for buses: अर्को बस कति बजे छ? (arko bas kati baje chha?)"
+    },
+    "is_this_seat_free": {
+      "text": "यो सिट खाली छ?",
+      "roman": "yo sit khaali chha?",
+      "note": "Also: यहाँ कोही बस्नुहुन्छ? (yahaan kohi basnuhunchha?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "तपाईं के काम गर्नुहुन्छ?",
+      "roman": "tapaain ke kaam garnuhunchha?"
+    },
+    "i_work_in": {
+      "text": "म …मा काम गर्छु",
+      "roman": "ma …maa kaam garchhu",
+      "note": "मा (maa), 'in', joins the word: म बैंकमा काम गर्छु (ma bainkmaa kaam garchhu)."
+    },
+    "im_student": {
+      "text": "म विद्यार्थी हुँ",
+      "roman": "ma bidyaarthi hun",
+      "note": "Same for a woman. Also: म पढ्दै छु (ma padhdai chhu), 'I'm studying'."
+    },
+    "office": {
+      "text": "अफिस",
+      "roman": "afis",
+      "note": "On signs and for government offices: कार्यालय (kaaryaalaya)."
+    },
+    "meeting": {
+      "text": "बैठक",
+      "roman": "baithak",
+      "note": "In offices people often say मिटिङ (miting)."
+    },
+    "im_busy": {
+      "text": "म व्यस्त छु",
+      "roman": "ma byasta chhu",
+      "note": "Also very common: मलाई फुर्सद छैन (malaai phursad chhaina), 'I've no free time'."
+    },
+    "day_off": {
+      "text": "बिदाको दिन",
+      "roman": "bidaako din",
+      "note": "Often just बिदा (bidaa): भोलि मेरो बिदा हो (bholi mero bidaa ho), 'I'm off tomorrow'."
+    },
+    "colleague": {
+      "text": "सहकर्मी",
+      "roman": "sahakarmi",
+      "note": "Same for a woman. In speech often अफिसको साथी (afisko saathi), 'office friend'."
+    },
+    "lets_start": {
+      "text": "सुरु गरौँ",
+      "roman": "suru garaun",
+      "note": "Often with ल (la), 'right then': ल, सुरु गरौँ (la, suru garaun)."
+    },
+    "good_job": {
+      "text": "स्याबास!",
+      "roman": "syaabaas!",
+      "note": "Mostly to juniors or kids. To anyone: धेरै राम्रो गर्नुभयो! (dherai raamro garnubhayo!)"
+    },
+    "table_for_two": {
+      "text": "दुई जनाका लागि टेबल पाइन्छ?",
+      "roman": "dui janaakaa laagi tebal paainchha?",
+      "note": "जना (janaa) counts people: तीन जना (tin janaa), 'three people'."
+    },
+    "what_recommend": {
+      "text": "यहाँ के मिठो छ?",
+      "roman": "yahaan ke mitho chha?",
+      "note": "Literally 'what's tasty here?'. Also: के खाँदा राम्रो होला? (ke khaandaa raamro holaa?)"
+    },
+    "not_spicy": {
+      "text": "पिरो नहाल्नुहोस् है",
+      "roman": "piro nahaalnuhos hai",
+      "note": "A little spicy: अलिकति पिरो (alikati piro). Chilli is खुर्सानी (khursaani)."
+    },
+    "vegetarian_food": {
+      "text": "शाकाहारी खाना",
+      "roman": "shaakaahaari khaanaa",
+      "note": "On menus and in speech also भेज (bhej), as in भेज मोमो (bhej momo)."
+    },
+    "more_water": {
+      "text": "पानी थपिदिनुहोस् न",
+      "roman": "paani thapidinuhos na",
+      "note": "थप्नु (thapnu) means 'top up'; it works for rice and dal refills too."
+    },
+    "no_sugar": {
+      "text": "चिनी नहाल्नुहोस् है",
+      "roman": "chini nahaalnuhos hai",
+      "note": "Ordering it: चिनी नहालेको चिया (chini nahaaleko chiyaa), 'tea without sugar'."
+    },
+    "im_full": {
+      "text": "मेरो पेट भरियो",
+      "roman": "mero pet bhariyo",
+      "note": "To refuse more food, say पुग्यो, पुग्यो! (pugyo, pugyo!), 'that's enough!'"
+    },
+    "takeaway": {
+      "text": "प्याक गरिदिनुहोस् न",
+      "roman": "pyaak garidinuhos na",
+      "note": "To ask first: प्याक गर्न मिल्छ? (pyaak garna milchha?)"
+    },
+    "it_was_delicious": {
+      "text": "खाना एकदम मिठो भयो",
+      "roman": "khaanaa ekdam mitho bhayo",
+      "note": "भयो (bhayo), 'turned out', is the usual past here; थियो (thiyo), 'was', also works."
+    },
+    "keep_change": {
+      "text": "बाँकी पैसा राख्नुहोस्",
+      "roman": "baanki paisaa raakhnuhos",
+      "note": "Casual: भइगो, राख्नुहोस् (bhaigo, raakhnuhos), 'that's fine, keep it'."
+    },
+    "head": {
+      "text": "टाउको",
+      "roman": "taauko"
+    },
+    "stomach": {
+      "text": "पेट",
+      "roman": "pet",
+      "note": "Upset stomach: पेट खराब (pet kharaab)."
+    },
+    "head_hurts": {
+      "text": "मेरो टाउको दुख्यो",
+      "roman": "mero taauko dukhyo",
+      "note": "Works for any body part: पेट दुख्यो (pet dukhyo), 'my stomach hurts'."
+    },
+    "have_fever": {
+      "text": "मलाई ज्वरो आयो",
+      "roman": "malaai jwaro aayo",
+      "note": "Literally 'fever came to me'."
+    },
+    "medicine": {
+      "text": "औषधि",
+      "roman": "aushadhi",
+      "note": "In speech also दबाइ (dabaai)."
+    },
+    "call_ambulance": {
+      "text": "एम्बुलेन्स बोलाउनुहोस्!",
+      "roman": "embulens bolaaunuhos!",
+      "note": "Ambulance number in Nepal: 102."
+    },
+    "dentist": {
+      "text": "दाँतको डाक्टर",
+      "roman": "daantko daaktar",
+      "note": "Formal: दन्त चिकित्सक (danta chikitsak)."
+    },
+    "need_rest": {
+      "text": "मलाई आराम चाहियो",
+      "roman": "malaai aaraam chaahiyo",
+      "note": "Also: मलाई आराम गर्नुपर्छ (malaai aaraam garnuparchha), 'I have to rest'."
+    },
+    "feel_better": {
+      "text": "मलाई अलि सन्चो भयो",
+      "roman": "malaai ali sancho bhayo",
+      "note": "Without अलि (ali), 'a bit', it means you've fully recovered."
+    },
+    "get_well": {
+      "text": "छिट्टै निको हुनुहोस्!",
+      "roman": "chhittai niko hunuhos!",
+      "note": "Also: चाँडै सन्चो होस् (chaandai sancho hos)."
+    },
+    "lets_meet": {
+      "text": "भेटौँ न",
+      "roman": "bhetaun na",
+      "note": "Often with a time: भोलि भेटौँ न (bholi bhetaun na), 'let's meet tomorrow'."
+    },
+    "are_you_free": {
+      "text": "भोलि तपाईंलाई फुर्सद छ?",
+      "roman": "bholi tapaainlaai phursad chha?"
+    },
+    "call_me": {
+      "text": "मलाई फोन गर्नुहोस् है",
+      "roman": "malaai fon garnuhos hai",
+      "note": "Casual, to a friend: मलाई फोन गर है (malaai fon gara hai)."
+    },
+    "your_number": {
+      "text": "तपाईंको फोन नम्बर कति हो?",
+      "roman": "tapaainko fon nambar kati ho?",
+      "note": "Nepalis ask a number with कति (kati), 'how much', rather than के (ke), 'what'."
+    },
+    "see_you_soon": {
+      "text": "छिट्टै भेटौँला",
+      "roman": "chhittai bhetaunlaa"
+    },
+    "have_nice_day": {
+      "text": "तपाईंको दिन शुभ रहोस्!",
+      "roman": "tapaainko din shubha rahos!",
+      "note": "Mostly in messages; face to face, a warm नमस्ते (namaste) is usual."
+    },
+    "good_luck": {
+      "text": "शुभकामना!",
+      "roman": "shubhakaamanaa!",
+      "note": "Used for any good wishes: exams, journeys, festivals."
+    },
+    "happy_birthday": {
+      "text": "जन्मदिनको शुभकामना!",
+      "roman": "janmadinko shubhakaamanaa!"
+    },
+    "thanks_a_lot": {
+      "text": "धेरै धन्यवाद",
+      "roman": "dherai dhanyabaad",
+      "note": "Warmer still: धेरै धेरै धन्यवाद (dherai dherai dhanyabaad)."
+    },
+    "miss_you": {
+      "text": "मलाई तिम्रो याद आयो",
+      "roman": "malaai timro yaad aayo",
+      "note": "To an elder, say तपाईंको (tapaainko) instead of तिम्रो (timro)."
     }
   }
 }

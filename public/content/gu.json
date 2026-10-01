@@ -467,6 +467,494 @@
     "congratulations": {
       "text": "અભિનંદન!",
       "roman": "abhinandan!"
+    },
+    "my_family": {
+      "text": "મારો પરિવાર",
+      "roman": "maaro parivaar",
+      "note": "Also: મારું કુટુંબ (maarun kutumb)."
+    },
+    "mother": {
+      "text": "મા",
+      "roman": "maa",
+      "note": "Many say મમ્મી (mammi); traditionally બા (baa). Formal: માતા (maataa)."
+    },
+    "father": {
+      "text": "પિતા",
+      "roman": "pitaa",
+      "note": "Usually called પપ્પા (pappaa); traditionally બાપુજી (baapuji)."
+    },
+    "brother": {
+      "text": "ભાઈ",
+      "roman": "bhaai",
+      "note": "Older brother: મોટા ભાઈ (motaa bhaai). Added to men's names as respect: રમેશભાઈ (rameshbhaai)."
+    },
+    "sister": {
+      "text": "બહેન",
+      "roman": "ben",
+      "note": "Older sister: મોટી બહેન (moti ben). Added to women's names as respect: ગીતાબહેન (gitaaben)."
+    },
+    "child": {
+      "text": "બાળક",
+      "roman": "baalak",
+      "note": "Son: દીકરો (dikro), daughter: દીકરી (dikri). Plural: બાળકો (baalko)."
+    },
+    "friend": {
+      "text": "મિત્ર",
+      "roman": "mitra",
+      "note": "Casual: દોસ્ત (dost) or ભાઈબંધ (bhaaibandh). A woman's female friend: બહેનપણી (benpani)."
+    },
+    "this_is_my_friend": {
+      "text": "આ મારો મિત્ર છે",
+      "roman": "aa maaro mitra chhe",
+      "note": "For a female friend: આ મારી મિત્ર છે (aa maari mitra chhe)."
+    },
+    "are_you_married": {
+      "text": "તમારાં લગ્ન થઈ ગયાં છે?",
+      "roman": "tamaaraan lagna thai gayaan chhe?",
+      "note": "Also: તમે પરણેલા છો? (tame parnelaa chho?)"
+    },
+    "have_children": {
+      "text": "તમારે બાળકો છે?",
+      "roman": "tamaare baalko chhe?",
+      "note": "Colloquial: તમારે છોકરાં છે? (tamaare chhokraan chhe?)"
+    },
+    "monday": {
+      "text": "સોમવાર",
+      "roman": "somvaar",
+      "note": "On Monday: સોમવારે (somvaare). Every day name ends in -વાર (vaar), 'day'."
+    },
+    "tuesday": {
+      "text": "મંગળવાર",
+      "roman": "mangalvaar"
+    },
+    "wednesday": {
+      "text": "બુધવાર",
+      "roman": "budhvaar"
+    },
+    "thursday": {
+      "text": "ગુરુવાર",
+      "roman": "guruvaar"
+    },
+    "friday": {
+      "text": "શુક્રવાર",
+      "roman": "shukravaar"
+    },
+    "saturday": {
+      "text": "શનિવાર",
+      "roman": "shanivaar"
+    },
+    "sunday": {
+      "text": "રવિવાર",
+      "roman": "ravivaar"
+    },
+    "weekend": {
+      "text": "વીકએન્ડ",
+      "roman": "vikend",
+      "note": "Just as common: શનિ-રવિ (shani-ravi), 'Sat–Sun'."
+    },
+    "what_day": {
+      "text": "આજે કયો વાર છે?",
+      "roman": "aaje kayo vaar chhe?",
+      "note": "For the date: આજે કઈ તારીખ છે? (aaje kai taarikh chhe?)"
+    },
+    "next_week": {
+      "text": "આવતા અઠવાડિયે",
+      "roman": "aavtaa athvaadiye",
+      "note": "As a noun: આવતું અઠવાડિયું (aavtun athvaadiyun)."
+    },
+    "eleven": {
+      "text": "અગિયાર",
+      "roman": "agiyaar",
+      "note": "Written ૧૧. Numbers 11–99 are irregular, so each one is learned on its own."
+    },
+    "twelve": {
+      "text": "બાર",
+      "roman": "baar",
+      "note": "Written ૧૨."
+    },
+    "fifteen": {
+      "text": "પંદર",
+      "roman": "pandar",
+      "note": "Written ૧૫."
+    },
+    "twenty": {
+      "text": "વીસ",
+      "roman": "vis",
+      "note": "Written ૨૦."
+    },
+    "thirty": {
+      "text": "ત્રીસ",
+      "roman": "tris",
+      "note": "Written ૩૦."
+    },
+    "fifty": {
+      "text": "પચાસ",
+      "roman": "pachaas",
+      "note": "Written ૫૦."
+    },
+    "hundred": {
+      "text": "સો",
+      "roman": "so",
+      "note": "Written ૧૦૦. Also એકસો (ekso)."
+    },
+    "thousand": {
+      "text": "હજાર",
+      "roman": "hajaar",
+      "note": "Written ૧૦૦૦. Also એક હજાર (ek hajaar). 1,00,000 is એક લાખ (ek laakh)."
+    },
+    "how_old": {
+      "text": "તમારી ઉંમર કેટલી છે?",
+      "roman": "tamaari ummar ketli chhe?",
+      "note": "Also: તમે કેટલા વર્ષના છો? (tame ketlaa varshnaa chho?)"
+    },
+    "years_old": {
+      "text": "હું … વર્ષનો છું",
+      "roman": "hun … varshno chhun",
+      "note": "A woman says: હું … વર્ષની છું (hun … varshni chhun)."
+    },
+    "red": {
+      "text": "લાલ",
+      "roman": "laal",
+      "note": "Never changes its ending, whatever the noun."
+    },
+    "blue": {
+      "text": "વાદળી",
+      "roman": "vaadli",
+      "note": "Never changes its ending. Also common: ભૂરો (bhuro), which agrees: ભૂરી (bhuri), ભૂરું (bhurun)."
+    },
+    "green": {
+      "text": "લીલો",
+      "roman": "lilo",
+      "note": "Agrees with the noun: લીલી (lili) fem., લીલું (lilun) neuter."
+    },
+    "yellow": {
+      "text": "પીળો",
+      "roman": "pilo",
+      "note": "Agrees with the noun: પીળી (pili) fem., પીળું (pilun) neuter."
+    },
+    "black": {
+      "text": "કાળો",
+      "roman": "kaalo",
+      "note": "Agrees with the noun: કાળી (kaali) fem., કાળું (kaalun) neuter."
+    },
+    "white": {
+      "text": "સફેદ",
+      "roman": "safed",
+      "note": "Like લાલ (laal), it never changes its ending. Also ધોળો (dholo), which does."
+    },
+    "what_colour": {
+      "text": "આનો રંગ કયો છે?",
+      "roman": "aano rang kayo chhe?",
+      "note": "Colloquially: આ કયા કલરનું છે? (aa kayaa kalarnun chhe?)"
+    },
+    "this_one": {
+      "text": "આ વાળું",
+      "roman": "aa vaalun",
+      "note": "Agrees with the item: આ વાળો (aa vaalo) masc., આ વાળી (aa vaali) fem. Or simply આ (aa)."
+    },
+    "that_one": {
+      "text": "પેલું",
+      "roman": "pelun",
+      "note": "Agrees with the item: પેલો (pelo) masc., પેલી (peli) fem. Colloquial: પેલા વાળું (pelaa vaalun)."
+    },
+    "another_one": {
+      "text": "હજી એક આપજો",
+      "roman": "haji ek aapjo",
+      "note": "Short: હજી એક (haji ek). બીજું (bijun) also works but can mean 'a different one'."
+    },
+    "its_hot": {
+      "text": "બહુ ગરમી છે",
+      "roman": "bahu garmi chhe",
+      "note": "Also just ગરમી છે (garmi chhe). Hot food or water is ગરમ (garam)."
+    },
+    "its_cold": {
+      "text": "બહુ ઠંડી છે",
+      "roman": "bahu thandi chhe",
+      "note": "Also just ઠંડી છે (thandi chhe). Cold food or water is ઠંડું (thandun)."
+    },
+    "its_raining": {
+      "text": "વરસાદ પડે છે",
+      "roman": "varsaad pade chhe",
+      "note": "In speech also: વરસાદ આવે છે (varsaad aave chhe)."
+    },
+    "its_sunny": {
+      "text": "તડકો નીકળ્યો છે",
+      "roman": "tadko nikalyo chhe",
+      "note": "Literally 'the sunshine has come out'. Strong sun: બહુ તડકો છે (bahu tadko chhe)."
+    },
+    "its_windy": {
+      "text": "બહુ પવન છે",
+      "roman": "bahu pavan chhe",
+      "note": "Also: પવન ફૂંકાય છે (pavan funkaay chhe), 'the wind is blowing'."
+    },
+    "weather_today": {
+      "text": "આજે હવામાન કેવું છે?",
+      "roman": "aaje havaamaan kevun chhe?",
+      "note": "In speech often: આજે વાતાવરણ કેવું છે? (aaje vaataavaran kevun chhe?)"
+    },
+    "beautiful_day": {
+      "text": "આજે વાતાવરણ બહુ સરસ છે",
+      "roman": "aaje vaataavaran bahu saras chhe",
+      "note": "Casual: આજે તો વાતાવરણ મસ્ત છે! (aaje to vaataavaran mast chhe!)"
+    },
+    "umbrella": {
+      "text": "છત્રી",
+      "roman": "chhatri"
+    },
+    "summer": {
+      "text": "ઉનાળો",
+      "roman": "unaalo",
+      "note": "In summer: ઉનાળામાં (unaalaamaan)."
+    },
+    "winter": {
+      "text": "શિયાળો",
+      "roman": "shiyaalo",
+      "note": "In winter: શિયાળામાં (shiyaalaamaan). The rainy season is ચોમાસું (chomaasun)."
+    },
+    "have_reservation": {
+      "text": "મારા નામે બુકિંગ છે",
+      "roman": "maaraa naame buking chhe",
+      "note": "Literally 'there's a booking in my name'."
+    },
+    "room": {
+      "text": "રૂમ",
+      "roman": "rum",
+      "note": "The native ઓરડો (ordo) is used more for a room at home. Any rooms free? રૂમ મળશે? (rum malshe?)"
+    },
+    "passport": {
+      "text": "પાસપોર્ટ",
+      "roman": "paasport"
+    },
+    "luggage": {
+      "text": "સામાન",
+      "roman": "saamaan",
+      "note": "Also means 'things, stuff' in general."
+    },
+    "wifi_password": {
+      "text": "વાઇ-ફાઇનો પાસવર્ડ શું છે?",
+      "roman": "vaai-faaino paasvard shun chhe?"
+    },
+    "check_out_time": {
+      "text": "ચેક-આઉટ કેટલા વાગ્યે છે?",
+      "roman": "chek-aaut ketlaa vaagye chhe?",
+      "note": "Also: ચેક-આઉટનો ટાઇમ શું છે? (chek-aautno taaim shun chhe?)"
+    },
+    "map": {
+      "text": "નકશો",
+      "roman": "naksho",
+      "note": "On phones people say મૅપ (mep): મૅપમાં બતાવો (mepmaan bataavo), 'show me on the map'."
+    },
+    "bus": {
+      "text": "બસ",
+      "roman": "bas",
+      "note": "Bus station: બસ સ્ટેન્ડ (bas stend). Same word as બસ (bas), 'enough, that's all'."
+    },
+    "next_train": {
+      "text": "હવે પછીની ટ્રેન ક્યારે છે?",
+      "roman": "have pachhini tren kyaare chhe?",
+      "note": "Also: પછીની ટ્રેન કેટલા વાગ્યે છે? (pachhini tren ketlaa vaagye chhe?)"
+    },
+    "is_this_seat_free": {
+      "text": "આ સીટ ખાલી છે?",
+      "roman": "aa sit khaali chhe?",
+      "note": "Also: અહીં કોઈ બેઠું છે? (ahin koi bethun chhe?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "તમે શું કરો છો?",
+      "roman": "tame shun karo chho?",
+      "note": "Also: તમે શું કામ કરો છો? (tame shun kaam karo chho?)"
+    },
+    "i_work_in": {
+      "text": "હું …માં કામ કરું છું",
+      "roman": "hun …maan kaam karun chhun",
+      "note": "…માં (maan) means 'in': હું બેંકમાં કામ કરું છું (hun benkmaan kaam karun chhun)."
+    },
+    "im_student": {
+      "text": "હું વિદ્યાર્થી છું",
+      "roman": "hun vidyaarthi chhun",
+      "note": "A woman says: હું વિદ્યાર્થિની છું (hun vidyaarthini chhun). Casual: હું સ્ટુડન્ટ છું (hun studant chhun)."
+    },
+    "office": {
+      "text": "ઑફિસ",
+      "roman": "ofis",
+      "note": "A government office: કચેરી (kacheri)."
+    },
+    "meeting": {
+      "text": "મીટિંગ",
+      "roman": "miting",
+      "note": "Formal: બેઠક (bethak). I'm in a meeting: હું મીટિંગમાં છું (hun mitingmaan chhun)."
+    },
+    "im_busy": {
+      "text": "હું વ્યસ્ત છું",
+      "roman": "hun vyast chhun",
+      "note": "In speech: હું કામમાં છું (hun kaammaan chhun) or હું બિઝી છું (hun bizi chhun)."
+    },
+    "day_off": {
+      "text": "રજા",
+      "roman": "rajaa",
+      "note": "Also a holiday or leave. To take a day off: રજા લેવી (rajaa levi)."
+    },
+    "colleague": {
+      "text": "સહકર્મચારી",
+      "roman": "sahkarmachaari",
+      "note": "Same word for a woman. In speech, કલીગ (kalig) is common."
+    },
+    "lets_start": {
+      "text": "ચાલો, શરૂ કરીએ",
+      "roman": "chaalo, sharu kariye",
+      "note": "ચાલો (chaalo) on its own means 'let's go' or 'come on'."
+    },
+    "good_job": {
+      "text": "બહુ સરસ!",
+      "roman": "bahu saras!",
+      "note": "To a child or junior: શાબાશ! (shaabaash!)"
+    },
+    "table_for_two": {
+      "text": "બે જણ માટે ટેબલ મળશે?",
+      "roman": "be jan maate tebal malshe?",
+      "note": "Literally 'will we get a table for two?'. જણ (jan) is used for counting people."
+    },
+    "what_recommend": {
+      "text": "અહીં શું સારું મળે છે?",
+      "roman": "ahin shun saarun male chhe?",
+      "note": "Also: તમે શું લેવાનું કહેશો? (tame shun levaanun kahesho?), 'what would you suggest?'"
+    },
+    "not_spicy": {
+      "text": "તીખું ના બનાવજો",
+      "roman": "tikhun naa banaavjo",
+      "note": "Or: મરચું ઓછું નાખજો (marchun ochhun naakhjo), 'go easy on the chilli'."
+    },
+    "vegetarian_food": {
+      "text": "શાકાહારી ખાવાનું",
+      "roman": "shaakaahaari khaavaanun",
+      "note": "Menus say વેજ (vej). No onion or garlic: ask for જૈન (jain) food."
+    },
+    "more_water": {
+      "text": "હજી થોડું પાણી આપજો",
+      "roman": "haji thodun paani aapjo"
+    },
+    "no_sugar": {
+      "text": "ખાંડ ના નાખજો",
+      "roman": "khaand naa naakhjo",
+      "note": "Less sugar: ખાંડ ઓછી નાખજો (khaand ochhi naakhjo), or ask for મોળી ચા (moli chaa), 'less-sweet tea'."
+    },
+    "im_full": {
+      "text": "મારું પેટ ભરાઈ ગયું",
+      "roman": "maarun pet bharaai gayun",
+      "note": "To a host who keeps serving: બસ, હવે નહીં! (bas, have nahin!)"
+    },
+    "takeaway": {
+      "text": "પાર્સલ કરી આપજો",
+      "roman": "paarsal kari aapjo",
+      "note": "Also: પેક કરી આપજો (pek kari aapjo)."
+    },
+    "it_was_delicious": {
+      "text": "જમવાનું બહુ સરસ હતું",
+      "roman": "jamvaanun bahu saras hatun",
+      "note": "Warm and very common: બહુ મજા આવી! (bahu majaa aavi!)"
+    },
+    "keep_change": {
+      "text": "બાકીના પૈસા રાખી લો",
+      "roman": "baakinaa paisaa raakhi lo",
+      "note": "Also: છુટ્ટા રહેવા દો (chhuttaa rahevaa do), 'let the change stay'."
+    },
+    "head": {
+      "text": "માથું",
+      "roman": "maathun"
+    },
+    "stomach": {
+      "text": "પેટ",
+      "roman": "pet",
+      "note": "Stomach ache: પેટમાં દુખાવો (petmaan dukhaavo)."
+    },
+    "head_hurts": {
+      "text": "મારું માથું દુખે છે",
+      "roman": "maarun maathun dukhe chhe",
+      "note": "A headache: માથાનો દુખાવો (maathaano dukhaavo)."
+    },
+    "have_fever": {
+      "text": "મને તાવ આવ્યો છે",
+      "roman": "mane taav aavyo chhe",
+      "note": "Literally 'fever has come to me'. Also: મને તાવ છે (mane taav chhe)."
+    },
+    "medicine": {
+      "text": "દવા",
+      "roman": "davaa",
+      "note": "A tablet is ગોળી (goli)."
+    },
+    "call_ambulance": {
+      "text": "એમ્બ્યુલન્સ બોલાવો!",
+      "roman": "embyulans bolaavo!",
+      "note": "In India dial 108 (ambulance) or 112 (all emergencies)."
+    },
+    "dentist": {
+      "text": "દાંતના ડૉક્ટર",
+      "roman": "daantnaa doktar",
+      "note": "In cities also ડેન્ટિસ્ટ (dentist). Toothache: દાંતનો દુખાવો (daantno dukhaavo)."
+    },
+    "need_rest": {
+      "text": "મારે આરામ કરવો છે",
+      "roman": "maare aaraam karvo chhe",
+      "note": "Also: મારે આરામની જરૂર છે (maare aaraamni jarur chhe)."
+    },
+    "feel_better": {
+      "text": "હવે મને સારું છે",
+      "roman": "have mane saarun chhe",
+      "note": "Also: હવે મારી તબિયત સારી છે (have maari tabiyat saari chhe)."
+    },
+    "get_well": {
+      "text": "જલદી સાજા થઈ જાઓ!",
+      "roman": "jaldi saajaa thai jaao!",
+      "note": "To a woman: જલદી સાજાં થઈ જાઓ! (jaldi saajaan thai jaao!)"
+    },
+    "lets_meet": {
+      "text": "ક્યારેક મળીએ",
+      "roman": "kyaarek maliye",
+      "note": "To fix a time: ક્યારે મળીશું? (kyaare malishun?), 'when shall we meet?'"
+    },
+    "are_you_free": {
+      "text": "તમે કાલે ફ્રી છો?",
+      "roman": "tame kaale fri chho?",
+      "note": "Also: કાલે તમારી પાસે સમય છે? (kaale tamaari paase samay chhe?)"
+    },
+    "call_me": {
+      "text": "મને ફોન કરજો",
+      "roman": "mane fon karjo",
+      "note": "Also common: મને કૉલ કરજો (mane kol karjo)."
+    },
+    "your_number": {
+      "text": "તમારો ફોન નંબર શું છે?",
+      "roman": "tamaaro fon nambar shun chhe?",
+      "note": "Often: તમારો નંબર આપો ને (tamaaro nambar aapo ne); the ને (ne) softens it."
+    },
+    "see_you_soon": {
+      "text": "જલદી મળીશું",
+      "roman": "jaldi malishun"
+    },
+    "have_nice_day": {
+      "text": "તમારો દિવસ સારો જાય!",
+      "roman": "tamaaro divas saaro jaay!",
+      "note": "Formal or written: તમારો દિવસ શુભ રહે! (tamaaro divas shubh rahe!)"
+    },
+    "good_luck": {
+      "text": "શુભેચ્છાઓ!",
+      "roman": "shubhechchhaao!",
+      "note": "Before an exam or interview people usually say ઑલ ધ બેસ્ટ! (ol dha best!)"
+    },
+    "happy_birthday": {
+      "text": "જન્મદિવસની શુભેચ્છાઓ!",
+      "roman": "janmadivasni shubhechchhaao!",
+      "note": "Often with હાર્દિક (haardik, 'heartfelt'). Very common: હેપ્પી બર્થડે! (heppi barthde!)"
+    },
+    "thanks_a_lot": {
+      "text": "ખૂબ ખૂબ આભાર",
+      "roman": "khub khub aabhaar",
+      "note": "Also: તમારો ખૂબ આભાર (tamaaro khub aabhaar)."
+    },
+    "miss_you": {
+      "text": "મને તારી યાદ આવે છે",
+      "roman": "mane taari yaad aave chhe",
+      "note": "To an elder or politely: તમારી (tamaari) instead of તારી (taari)."
     }
   }
 }

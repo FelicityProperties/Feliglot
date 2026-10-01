@@ -364,6 +364,382 @@
     },
     "congratulations": {
       "text": "Félicitations !"
+    },
+    "my_family": {
+      "text": "Ma famille"
+    },
+    "mother": {
+      "text": "La mère",
+      "note": "Casual: maman (mum)."
+    },
+    "father": {
+      "text": "Le père",
+      "note": "Casual: papa (dad)."
+    },
+    "brother": {
+      "text": "Le frère"
+    },
+    "sister": {
+      "text": "La sœur"
+    },
+    "child": {
+      "text": "L’enfant",
+      "note": "Son: le fils (said 'feess'); daughter: la fille."
+    },
+    "friend": {
+      "text": "L’ami",
+      "note": "Female: l’amie (same pronunciation). Casual: le pote."
+    },
+    "this_is_my_friend": {
+      "text": "C’est mon ami",
+      "note": "For a female friend: c’est mon amie — mon stays before a vowel."
+    },
+    "are_you_married": {
+      "text": "Êtes-vous marié ?",
+      "note": "To a woman: mariée (same pronunciation). In everyday speech: vous êtes marié ?"
+    },
+    "have_children": {
+      "text": "Avez-vous des enfants ?",
+      "note": "In everyday speech: vous avez des enfants ?"
+    },
+    "monday": {
+      "text": "lundi",
+      "note": "No capital in French. On its own, lundi means this coming Monday or last Monday; le lundi means on Mondays."
+    },
+    "tuesday": {
+      "text": "mardi"
+    },
+    "wednesday": {
+      "text": "mercredi"
+    },
+    "thursday": {
+      "text": "jeudi"
+    },
+    "friday": {
+      "text": "vendredi"
+    },
+    "saturday": {
+      "text": "samedi"
+    },
+    "sunday": {
+      "text": "dimanche"
+    },
+    "weekend": {
+      "text": "Le week-end",
+      "note": "In Quebec: la fin de semaine."
+    },
+    "what_day": {
+      "text": "Quel jour sommes-nous aujourd’hui ?",
+      "note": "Casual: on est quel jour aujourd’hui ?"
+    },
+    "next_week": {
+      "text": "La semaine prochaine"
+    },
+    "eleven": {
+      "text": "Onze",
+      "note": "11 to 16 have their own words; 17–19 are built on ten: dix-sept, dix-huit, dix-neuf."
+    },
+    "twelve": {
+      "text": "Douze"
+    },
+    "fifteen": {
+      "text": "Quinze",
+      "note": "Quinze jours means two weeks; une quinzaine, about fifteen."
+    },
+    "twenty": {
+      "text": "Vingt",
+      "note": "Said 'van' (nasal); the t is sounded in 21–29: vingt-deux."
+    },
+    "thirty": {
+      "text": "Trente"
+    },
+    "fifty": {
+      "text": "Cinquante",
+      "note": "70 is soixante-dix (60+10), 80 quatre-vingts (4×20), 90 quatre-vingt-dix. Belgium and Switzerland: septante, nonante."
+    },
+    "hundred": {
+      "text": "Cent",
+      "note": "No un in front: cent euros. Plural s only when no number follows: deux cents (euros), but deux cent dix."
+    },
+    "thousand": {
+      "text": "Mille",
+      "note": "No un in front, and it never takes an s: deux mille."
+    },
+    "how_old": {
+      "text": "Quel âge avez-vous ?",
+      "note": "Casual: tu as quel âge ?"
+    },
+    "years_old": {
+      "text": "J’ai … ans",
+      "note": "French uses avoir (to have) here, and ans can’t be dropped: j’ai vingt ans."
+    },
+    "red": {
+      "text": "Rouge"
+    },
+    "blue": {
+      "text": "Bleu",
+      "note": "Feminine: bleue (same pronunciation)."
+    },
+    "green": {
+      "text": "Vert",
+      "note": "Feminine: verte (the t is pronounced)."
+    },
+    "yellow": {
+      "text": "Jaune"
+    },
+    "black": {
+      "text": "Noir",
+      "note": "Feminine: noire (same pronunciation)."
+    },
+    "white": {
+      "text": "Blanc",
+      "note": "Feminine: blanche. The c of blanc is silent."
+    },
+    "what_colour": {
+      "text": "C’est de quelle couleur ?"
+    },
+    "this_one": {
+      "text": "Celui-ci",
+      "note": "For a feminine noun: celle-ci."
+    },
+    "that_one": {
+      "text": "Celui-là",
+      "note": "For a feminine noun: celle-là. In speech, celui-là often covers 'this one' too."
+    },
+    "another_one": {
+      "text": "Un autre, s’il vous plaît",
+      "note": "For a feminine noun: une autre. Also: encore un, s’il vous plaît."
+    },
+    "its_hot": {
+      "text": "Il fait chaud",
+      "note": "Weather uses il fait. To say you feel hot: j’ai chaud."
+    },
+    "its_cold": {
+      "text": "Il fait froid",
+      "note": "To say you feel cold: j’ai froid."
+    },
+    "its_raining": {
+      "text": "Il pleut"
+    },
+    "its_sunny": {
+      "text": "Il y a du soleil",
+      "note": "Also: il fait beau (the weather’s nice)."
+    },
+    "its_windy": {
+      "text": "Il y a du vent"
+    },
+    "weather_today": {
+      "text": "Quel temps fait-il aujourd’hui ?",
+      "note": "Casual: il fait quel temps aujourd’hui ?"
+    },
+    "beautiful_day": {
+      "text": "Quelle belle journée !",
+      "note": "Also: il fait super beau aujourd’hui !"
+    },
+    "umbrella": {
+      "text": "Le parapluie"
+    },
+    "summer": {
+      "text": "L’été",
+      "note": "In summer: en été."
+    },
+    "winter": {
+      "text": "L’hiver",
+      "note": "The h is silent. In winter: en hiver."
+    },
+    "have_reservation": {
+      "text": "J’ai une réservation",
+      "note": "Add au nom de + your name: au nom de Martin."
+    },
+    "room": {
+      "text": "La chambre",
+      "note": "A bedroom, at home or in a hotel. The general word for a room in a home is une pièce."
+    },
+    "passport": {
+      "text": "Le passeport"
+    },
+    "luggage": {
+      "text": "Les bagages",
+      "note": "Usually plural. A suitcase: une valise."
+    },
+    "wifi_password": {
+      "text": "Quel est le mot de passe du Wi-Fi ?",
+      "note": "Wi-Fi is said 'wee-fee'. Casual: c’est quoi, le code wifi ?"
+    },
+    "check_out_time": {
+      "text": "À quelle heure faut-il libérer la chambre ?",
+      "note": "Many hotels also just say check-out: le check-out est à quelle heure ?"
+    },
+    "map": {
+      "text": "La carte",
+      "note": "A town or metro map is un plan: un plan de la ville."
+    },
+    "bus": {
+      "text": "Le bus",
+      "note": "A long-distance coach is un car."
+    },
+    "next_train": {
+      "text": "À quelle heure part le prochain train ?",
+      "note": "Add pour + place: le prochain train pour Lyon."
+    },
+    "is_this_seat_free": {
+      "text": "Cette place est libre ?",
+      "note": "Start with excusez-moi. Shorter: c’est libre ?"
+    },
+    "what_do_you_do": {
+      "text": "Que faites-vous dans la vie ?",
+      "note": "Casual: tu fais quoi dans la vie ?"
+    },
+    "i_work_in": {
+      "text": "Je travaille dans …",
+      "note": "Dans for a field or place (dans la vente, dans une banque); chez for a company (chez Renault)."
+    },
+    "im_student": {
+      "text": "Je suis étudiant",
+      "note": "A woman says: étudiante (the t is pronounced). No un after je suis: not je suis un étudiant."
+    },
+    "office": {
+      "text": "Le bureau",
+      "note": "Also means a desk."
+    },
+    "meeting": {
+      "text": "La réunion",
+      "note": "Un rendez-vous is an appointment, e.g. with a client or a doctor."
+    },
+    "im_busy": {
+      "text": "Je suis occupé",
+      "note": "A woman writes: occupée (same pronunciation)."
+    },
+    "day_off": {
+      "text": "Le jour de congé",
+      "note": "To say you’re off: je suis en congé aujourd’hui."
+    },
+    "colleague": {
+      "text": "Le collègue",
+      "note": "Same word for a woman: la collègue."
+    },
+    "lets_start": {
+      "text": "Commençons",
+      "note": "In everyday speech: on commence ? or allez, on y va !"
+    },
+    "good_job": {
+      "text": "Beau travail !",
+      "note": "Also very common: bravo ! or bien joué !"
+    },
+    "table_for_two": {
+      "text": "Une table pour deux, s’il vous plaît",
+      "note": "Also: nous sommes deux."
+    },
+    "what_recommend": {
+      "text": "Qu’est-ce que vous me conseillez ?",
+      "note": "To ask for the day’s special: quel est le plat du jour ?"
+    },
+    "not_spicy": {
+      "text": "Pas épicé, s’il vous plaît",
+      "note": "For chilli heat, also: pas piquant or sans piment."
+    },
+    "vegetarian_food": {
+      "text": "La cuisine végétarienne",
+      "note": "To ask: vous avez des plats végétariens ?"
+    },
+    "more_water": {
+      "text": "Encore de l’eau, s’il vous plaît",
+      "note": "For another jug of free tap water: une autre carafe, s’il vous plaît."
+    },
+    "no_sugar": {
+      "text": "Sans sucre, s’il vous plaît"
+    },
+    "im_full": {
+      "text": "Je n’ai plus faim",
+      "note": "Avoid je suis plein: it can mean 'drunk'. Also: j’ai bien mangé, merci."
+    },
+    "takeaway": {
+      "text": "À emporter, s’il vous plaît",
+      "note": "Eating in is sur place; staff often ask: sur place ou à emporter ?"
+    },
+    "it_was_delicious": {
+      "text": "C’était délicieux",
+      "note": "Also very common: c’était très bon."
+    },
+    "keep_change": {
+      "text": "Gardez la monnaie",
+      "note": "Monnaie here means the change, not the currency."
+    },
+    "head": {
+      "text": "La tête"
+    },
+    "stomach": {
+      "text": "Le ventre",
+      "note": "The organ itself is l’estomac. Stomach ache: j’ai mal au ventre."
+    },
+    "head_hurts": {
+      "text": "J’ai mal à la tête",
+      "note": "Same pattern for other parts: j’ai mal au dos, j’ai mal au ventre."
+    },
+    "have_fever": {
+      "text": "J’ai de la fièvre"
+    },
+    "medicine": {
+      "text": "Le médicament",
+      "note": "La médecine is the science, not the pills."
+    },
+    "call_ambulance": {
+      "text": "Appelez une ambulance !",
+      "note": "In France the medical emergency number is 15; 112 works across Europe."
+    },
+    "dentist": {
+      "text": "Le dentiste"
+    },
+    "need_rest": {
+      "text": "J’ai besoin de me reposer"
+    },
+    "feel_better": {
+      "text": "Je me sens mieux",
+      "note": "Also: ça va mieux."
+    },
+    "get_well": {
+      "text": "Bon rétablissement !",
+      "note": "To a friend: remets-toi vite !"
+    },
+    "lets_meet": {
+      "text": "On se voit ?",
+      "note": "Also: et si on se voyait ? To pick a place: on se retrouve où ?"
+    },
+    "are_you_free": {
+      "text": "Êtes-vous libre demain ?",
+      "note": "In everyday speech: vous êtes libre demain ? To a friend: tu es libre demain ?"
+    },
+    "call_me": {
+      "text": "Appelez-moi",
+      "note": "To a friend: appelle-moi."
+    },
+    "your_number": {
+      "text": "Quel est votre numéro de téléphone ?",
+      "note": "Casual: tu me donnes ton numéro ?"
+    },
+    "see_you_soon": {
+      "text": "À bientôt",
+      "note": "Also common: à la prochaine !"
+    },
+    "have_nice_day": {
+      "text": "Bonne journée !",
+      "note": "Said when leaving shops too. In the evening: bonne soirée !"
+    },
+    "good_luck": {
+      "text": "Bonne chance !",
+      "note": "Before something hard, like work or exams, people say bon courage !"
+    },
+    "happy_birthday": {
+      "text": "Joyeux anniversaire !",
+      "note": "Also very common: bon anniversaire !"
+    },
+    "thanks_a_lot": {
+      "text": "Merci beaucoup",
+      "note": "Even warmer: merci mille fois."
+    },
+    "miss_you": {
+      "text": "Tu me manques",
+      "note": "The person missed is the subject (lit. 'you are lacking to me'). To several people: vous me manquez."
     }
   }
 }

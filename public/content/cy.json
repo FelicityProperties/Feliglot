@@ -383,6 +383,404 @@
     "congratulations": {
       "text": "Llongyfarchiadau!",
       "note": "Stress: llon-guh-var-KHYAH-dye (kh as in 'loch'). For ll, place your tongue for 'l' and blow."
+    },
+    "my_family": {
+      "text": "Fy nheulu",
+      "note": "Fy (my) changes teulu to nheulu. In speech people add i: fy nheulu i."
+    },
+    "mother": {
+      "text": "Mam",
+      "note": "Also the word for 'Mum'. Grandma: mam-gu (South), nain (North)."
+    },
+    "father": {
+      "text": "Tad",
+      "note": "'Dad': dad. 'My father': fy nhad. Grandad: tad-cu (South), taid (North)."
+    },
+    "brother": {
+      "text": "Brawd",
+      "note": "'My brother': fy mrawd. Brothers: brodyr."
+    },
+    "sister": {
+      "text": "Chwaer",
+      "note": "Chw is ch (as in 'loch') + w; in the South often 'hwaer'. 'My sister': fy chwaer."
+    },
+    "child": {
+      "text": "Plentyn",
+      "note": "Son: mab. Daughter: merch. Children: plant."
+    },
+    "friend": {
+      "text": "Ffrind",
+      "note": "Used for men and women alike. More formal: cyfaill (a female friend: cyfeilles)."
+    },
+    "this_is_my_friend": {
+      "text": "Dyma fy ffrind i",
+      "note": "Same words for a female friend. In speech often: dyma'n ffrind i."
+    },
+    "are_you_married": {
+      "text": "Dych chi'n briod?",
+      "note": "Fuller: ydych chi'n briod? Priod (married) softens to briod after 'n."
+    },
+    "have_children": {
+      "text": "Oes gennych chi blant?",
+      "note": "South Wales: oes plant 'da chi? Answers: oes (yes) / nac oes (no)."
+    },
+    "monday": {
+      "text": "Dydd Llun",
+      "note": "Named after the moon (Latin luna); llun alone means 'picture'. 'On Monday': ddydd Llun. 'Monday night': nos Lun."
+    },
+    "tuesday": {
+      "text": "Dydd Mawrth",
+      "note": "Mawrth is Mars (and March). 'Tuesday night': nos Fawrth."
+    },
+    "wednesday": {
+      "text": "Dydd Mercher",
+      "note": "Mercher is Mercury. 'Wednesday night': nos Fercher."
+    },
+    "thursday": {
+      "text": "Dydd Iau",
+      "note": "Iau (Jupiter) sounds like the 'yi' in 'yikes'. 'Thursday night': nos Iau."
+    },
+    "friday": {
+      "text": "Dydd Gwener",
+      "note": "Gwener is Venus. 'Friday night': nos Wener."
+    },
+    "saturday": {
+      "text": "Dydd Sadwrn",
+      "note": "Sadwrn is Saturn. 'Saturday night': nos Sadwrn."
+    },
+    "sunday": {
+      "text": "Dydd Sul",
+      "note": "Named after the sun (Latin sol); the sun itself is yr haul. 'Sunday night': nos Sul."
+    },
+    "weekend": {
+      "text": "Penwythnos",
+      "note": "From pen (end) + wythnos (week). 'Have a good weekend!': penwythnos da!"
+    },
+    "what_day": {
+      "text": "Pa ddiwrnod yw hi heddiw?",
+      "note": "North Wales: pa ddiwrnod ydy hi heddiw? Answer: dydd Llun yw hi."
+    },
+    "next_week": {
+      "text": "Wythnos nesaf",
+      "note": "In speech: wythnos nesa. 'Last week': wythnos ddiwethaf (spoken: wythnos ddwetha)."
+    },
+    "eleven": {
+      "text": "Un ar ddeg",
+      "note": "Literally 'one on ten'. Modern counting: un deg un. Times use un ar ddeg: un ar ddeg o'r gloch."
+    },
+    "twelve": {
+      "text": "Deuddeg",
+      "note": "Literally 'two-ten'. Modern counting: un deg dau."
+    },
+    "fifteen": {
+      "text": "Pymtheg",
+      "note": "Literally 'five-ten'. Modern counting: un deg pump."
+    },
+    "twenty": {
+      "text": "Ugain",
+      "note": "Modern counting: dau ddeg. Ugain is usual for ages, money and minutes: ugain munud."
+    },
+    "thirty": {
+      "text": "Tri deg",
+      "note": "Traditional: deg ar hugain ('ten on twenty'), still heard from older speakers."
+    },
+    "fifty": {
+      "text": "Hanner cant",
+      "note": "Literally 'half a hundred'. Modern counting: pum deg."
+    },
+    "hundred": {
+      "text": "Cant",
+      "note": "Two hundred: dau gant (c softens to g after dau)."
+    },
+    "thousand": {
+      "text": "Mil",
+      "note": "Mil is feminine: two thousand is dwy fil, three thousand tair mil."
+    },
+    "how_old": {
+      "text": "Faint yw'ch oed chi?",
+      "note": "North Wales: faint ydy'ch oed chi? To a friend: faint yw dy oed di?"
+    },
+    "years_old": {
+      "text": "Dw i'n … oed",
+      "note": "The number softens after 'n: tri deg → dw i'n dri deg oed. Ugain stays: dw i'n ugain oed."
+    },
+    "red": {
+      "text": "Coch",
+      "note": "The dragon on the flag is y Ddraig Goch (coch softens to goch)."
+    },
+    "blue": {
+      "text": "Glas",
+      "note": "Dark blue: glas tywyll. Light blue: glas golau."
+    },
+    "green": {
+      "text": "Gwyrdd",
+      "note": "Softens after yn: mae'n wyrdd (it's green)."
+    },
+    "yellow": {
+      "text": "Melyn",
+      "note": "Softens after yn: mae'n felyn (it's yellow)."
+    },
+    "black": {
+      "text": "Du",
+      "note": "Sounds like 'dee'. Softens after yn: mae'n ddu (it's black)."
+    },
+    "white": {
+      "text": "Gwyn",
+      "note": "With a feminine noun: gwen (cath wen, a white cat)."
+    },
+    "what_colour": {
+      "text": "Pa liw yw e?",
+      "note": "North Wales: pa liw ydy o? Lliw (colour) softens to liw after pa."
+    },
+    "this_one": {
+      "text": "Hwn",
+      "note": "With a feminine noun: hon. Also common: yr un yma (spoken: yr un 'ma)."
+    },
+    "that_one": {
+      "text": "Hwnna",
+      "note": "With a feminine noun: honna. Further off: yr un acw (that one over there)."
+    },
+    "another_one": {
+      "text": "Un arall, os gwelwch yn dda",
+      "note": "As a question: ga i un arall? Casually: un arall, plîs."
+    },
+    "its_hot": {
+      "text": "Mae hi'n boeth",
+      "note": "Weather is hi (she) in Welsh. South Wales also: mae hi'n dwym."
+    },
+    "its_cold": {
+      "text": "Mae hi'n oer",
+      "note": "Freezing: mae hi'n rhewi."
+    },
+    "its_raining": {
+      "text": "Mae hi'n bwrw glaw",
+      "note": "North Wales also: mae hi'n glawio. Pouring: mae hi'n bwrw hen wragedd a ffyn ('old women and sticks')!"
+    },
+    "its_sunny": {
+      "text": "Mae hi'n heulog",
+      "note": "Also: mae'r haul yn tywynnu (the sun is shining)."
+    },
+    "its_windy": {
+      "text": "Mae hi'n wyntog",
+      "note": "Gwyntog softens to wyntog after 'n. Stormy: mae hi'n stormus."
+    },
+    "weather_today": {
+      "text": "Sut mae'r tywydd heddiw?",
+      "note": "Also: sut dywydd yw hi heddiw?"
+    },
+    "beautiful_day": {
+      "text": "Mae'n ddiwrnod braf",
+      "note": "Diwrnod softens to ddiwrnod after 'n. Often just: mae'n braf! (it's lovely out)."
+    },
+    "umbrella": {
+      "text": "Ymbarél",
+      "note": "Stress the end: um-ba-REL. Often said ambarél."
+    },
+    "summer": {
+      "text": "Haf",
+      "note": "f is said like English v: 'hav'. 'In the summer': yn yr haf."
+    },
+    "winter": {
+      "text": "Gaeaf",
+      "note": "Sounds like 'GUY-av'. 'In the winter': yn y gaeaf."
+    },
+    "have_reservation": {
+      "text": "Mae gen i archeb",
+      "note": "South Wales: mae archeb 'da fi. Also common: dw i wedi bwcio stafell (I've booked a room)."
+    },
+    "room": {
+      "text": "Ystafell",
+      "note": "In speech: stafell. Double room: ystafell ddwbl. Single room: ystafell sengl."
+    },
+    "passport": {
+      "text": "Pasbort"
+    },
+    "luggage": {
+      "text": "Bagiau",
+      "note": "Literally 'bags'. A suitcase: cês."
+    },
+    "wifi_password": {
+      "text": "Beth yw cyfrinair y Wi-Fi?",
+      "note": "North Wales: beth ydy cyfrinair y Wi-Fi? Cyfrinair literally means 'secret word'."
+    },
+    "check_out_time": {
+      "text": "Faint o'r gloch mae'n rhaid gadael yr ystafell?",
+      "note": "Many people just say: faint o'r gloch yw check-out?"
+    },
+    "map": {
+      "text": "Map",
+      "note": "Same word in Welsh. Plural: mapiau."
+    },
+    "bus": {
+      "text": "Bws",
+      "note": "Rhymes with 'puss' — w is a vowel here. Bus stop: safle bws."
+    },
+    "next_train": {
+      "text": "Pryd mae'r trên nesaf?",
+      "note": "In speech: pryd mae'r trên nesa? 'The last train': y trên olaf."
+    },
+    "is_this_seat_free": {
+      "text": "Ydy'r sedd yma'n rhydd?",
+      "note": "Just as natural: oes rhywun yn eistedd yma? (is anyone sitting here?)"
+    },
+    "what_do_you_do": {
+      "text": "Beth yw'ch gwaith chi?",
+      "note": "North Wales: beth ydy'ch gwaith chi? To a friend: beth yw dy waith di?"
+    },
+    "i_work_in": {
+      "text": "Dw i'n gweithio mewn …",
+      "note": "Mewn means 'in a': mewn banc, mewn siop. With 'the' or a town use yn: yn y swyddfa, yng Nghaerdydd."
+    },
+    "im_student": {
+      "text": "Dw i'n fyfyriwr",
+      "note": "A woman says: dw i'n fyfyrwraig. Myfyriwr (student) softens to fyfyriwr after 'n."
+    },
+    "office": {
+      "text": "Swyddfa",
+      "note": "From swydd (job) + -fa (place). Post office: swyddfa'r post."
+    },
+    "meeting": {
+      "text": "Cyfarfod",
+      "note": "'In a meeting': mewn cyfarfod. In North Wales it also means 'to meet'."
+    },
+    "im_busy": {
+      "text": "Dw i'n brysur",
+      "note": "Prysur softens to brysur after 'n. Very busy: dw i'n brysur iawn."
+    },
+    "day_off": {
+      "text": "Diwrnod i ffwrdd",
+      "note": "Also: diwrnod rhydd ('free day'). On holiday: ar wyliau."
+    },
+    "colleague": {
+      "text": "Cydweithiwr",
+      "note": "A female colleague: cydweithwraig. Plural: cydweithwyr."
+    },
+    "lets_start": {
+      "text": "Dewch i ni ddechrau",
+      "note": "Also: dechreuwn ni! Dechrau softens to ddechrau after i ni."
+    },
+    "good_job": {
+      "text": "Da iawn!",
+      "note": "Literally 'very good'. Warmer: da iawn chi! (to a friend: da iawn ti!). Also: gwych! (brilliant)."
+    },
+    "table_for_two": {
+      "text": "Bwrdd i ddau, os gwelwch yn dda",
+      "note": "Dau softens to ddau after i (for). For four: bwrdd i bedwar."
+    },
+    "what_recommend": {
+      "text": "Beth fyddech chi'n ei argymell?",
+      "note": "North Wales: beth fasech chi'n ei argymell? Simpler: beth sy'n dda yma? (what's good here?)"
+    },
+    "not_spicy": {
+      "text": "Ddim yn sbeislyd, os gwelwch yn dda",
+      "note": "Also: ddim yn rhy boeth (not too hot)."
+    },
+    "vegetarian_food": {
+      "text": "Bwyd llysieuol",
+      "note": "Vegan food: bwyd fegan. Asking: oes gennych chi fwyd llysieuol?"
+    },
+    "more_water": {
+      "text": "Mwy o ddŵr, os gwelwch yn dda",
+      "note": "Mwy o (more) softens the next word: dŵr → ddŵr, bara → fara."
+    },
+    "no_sugar": {
+      "text": "Dim siwgr, os gwelwch yn dda",
+      "note": "With milk: gyda llaeth (South), efo llefrith (North)."
+    },
+    "im_full": {
+      "text": "Dw i'n llawn",
+      "note": "Stuffed: dw i'n llawn dop. Politely: dw i wedi cael digon, diolch."
+    },
+    "takeaway": {
+      "text": "I fynd, os gwelwch yn dda",
+      "note": "Eating in instead: i fwyta yma."
+    },
+    "it_was_delicious": {
+      "text": "Roedd e'n flasus",
+      "note": "North Wales: roedd o'n flasus. Blasus softens to flasus after 'n."
+    },
+    "keep_change": {
+      "text": "Cadwch y newid"
+    },
+    "head": {
+      "text": "Pen",
+      "note": "'My head': fy mhen. Pen also means 'end', as in penwythnos (weekend)."
+    },
+    "stomach": {
+      "text": "Stumog",
+      "note": "Tummy or belly: bol (bola in the North)."
+    },
+    "head_hurts": {
+      "text": "Mae fy mhen i'n brifo",
+      "note": "'I've got a headache': mae pen tost 'da fi (South), mae gen i gur pen (North)."
+    },
+    "have_fever": {
+      "text": "Mae gwres arna i",
+      "note": "Gwres means 'heat'. Illnesses go with ar (on): mae annwyd arna i (I've got a cold)."
+    },
+    "medicine": {
+      "text": "Moddion",
+      "note": "On labels and in pharmacies: meddyginiaeth. North Wales also: ffisig."
+    },
+    "call_ambulance": {
+      "text": "Ffoniwch ambiwlans!",
+      "note": "To a friend: ffonia ambiwlans!"
+    },
+    "dentist": {
+      "text": "Deintydd",
+      "note": "From dant (tooth). Toothache: mae'r ddannoedd arna i."
+    },
+    "need_rest": {
+      "text": "Mae angen i fi orffwys",
+      "note": "North Wales: mae angen i mi orffwys. Colloquially: dw i angen gorffwys."
+    },
+    "feel_better": {
+      "text": "Dw i'n teimlo'n well",
+      "note": "Much better: dw i'n teimlo'n llawer gwell."
+    },
+    "get_well": {
+      "text": "Gwellhad buan!",
+      "note": "Used in speech and on cards. To a friend also: brysia wella! ('hurry and get better')."
+    },
+    "lets_meet": {
+      "text": "Beth am gwrdd?",
+      "note": "Literally 'what about meeting'. North Wales: beth am gyfarfod? Over a cuppa: beth am baned?"
+    },
+    "are_you_free": {
+      "text": "Dych chi'n rhydd yfory?",
+      "note": "Fuller: ydych chi'n rhydd yfory? To a friend: wyt ti'n rhydd fory?"
+    },
+    "call_me": {
+      "text": "Ffoniwch fi",
+      "note": "To a friend: ffonia fi! 'Text me': tecstiwch fi."
+    },
+    "your_number": {
+      "text": "Beth yw'ch rhif ffôn chi?",
+      "note": "North Wales: beth ydy'ch rhif ffôn chi? To a friend: beth yw dy rif ffôn di?"
+    },
+    "see_you_soon": {
+      "text": "Wela i chi cyn bo hir",
+      "note": "To a friend: wela i di cyn bo hir. Also: wela i chi'n fuan."
+    },
+    "have_nice_day": {
+      "text": "Mwynhewch eich diwrnod!",
+      "note": "To a friend: mwynha dy ddiwrnod!"
+    },
+    "good_luck": {
+      "text": "Pob lwc!",
+      "note": "Also very common: pob hwyl! (all the best)."
+    },
+    "happy_birthday": {
+      "text": "Pen-blwydd hapus!",
+      "note": "Adding 'to you': pen-blwydd hapus i chi (to a friend: i ti). Often written penblwydd."
+    },
+    "thanks_a_lot": {
+      "text": "Diolch yn fawr",
+      "note": "Warmer still: diolch yn fawr iawn, or diolch o galon ('from the heart')."
+    },
+    "miss_you": {
+      "text": "Dw i'n gweld dy eisiau di",
+      "note": "North Wales: dw i'n dy golli di. To more than one person: dw i'n gweld eich eisiau chi."
     }
   }
 }

@@ -1,5 +1,6 @@
 import { hashPassword, startSession } from "@/lib/server/auth";
 import { accountsEnabled, query } from "@/lib/server/db";
+import { country } from "@/lib/server/events";
 import { clientIp, makeLimiter, sameSite } from "@/lib/server/http";
 import { readCredentials } from "../credentials";
 
@@ -16,8 +17,9 @@ export async function POST(req: Request) {
   try {
     const hash = await hashPassword(creds.password);
     const rows = await query<{ id: string }>(
-      "INSERT INTO fg_users (email, password_hash) VALUES ($1, $2) ON CONFLICT (email) DO NOTHING RETURNING id",
-      [creds.email, hash],
+      `INSERT INTO fg_users (email, password_hash, name, signup_method, country, last_seen_at)
+       VALUES ($1, $2, $3, 'email', $4, now()) ON CONFLICT (email) DO NOTHING RETURNING id`,
+      [creds.email, hash, creds.name, country(req)],
     );
     if (!rows[0]) {
       return Response.json({ error: "There's already an account with that email — log in instead." }, { status: 409 });

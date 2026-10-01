@@ -464,6 +464,485 @@
     "congratulations": {
       "text": "مبارک مو شه!",
       "roman": "Mubarak mo sha!"
+    },
+    "my_family": {
+      "text": "زما کورنۍ",
+      "roman": "Zama kornai",
+      "note": "Also common: zama kahol (زما کهول)."
+    },
+    "mother": {
+      "text": "مور",
+      "roman": "Mor",
+      "note": "Calling her: more (مورې). Mum: ade (ادې)."
+    },
+    "father": {
+      "text": "پلار",
+      "roman": "Plar",
+      "note": "Dad: aba (ابا) or baba (بابا)."
+    },
+    "brother": {
+      "text": "ورور",
+      "roman": "Wror",
+      "note": "Plural: wruna (وروڼه). An elder brother is often called lala (لالا)."
+    },
+    "sister": {
+      "text": "خور",
+      "roman": "Khor",
+      "note": "Plural: khwainde (خویندې)."
+    },
+    "child": {
+      "text": "بچی",
+      "roman": "Bachay",
+      "note": "A girl: bachai (بچۍ). Also: zoy (زوی), 'son', and lur (لور), 'daughter'."
+    },
+    "friend": {
+      "text": "ملګری",
+      "roman": "Malgaray",
+      "note": "A female friend: malgare (ملګرې). Also very common: dost (دوست)."
+    },
+    "this_is_my_friend": {
+      "text": "دا زما ملګری دی",
+      "roman": "Da zama malgaray dey",
+      "note": "For a female friend: da zama malgare da (دا زما ملګرې ده)."
+    },
+    "are_you_married": {
+      "text": "تاسو واده کړی دی؟",
+      "roman": "Taso wada karay dey?",
+      "note": "Reply: ho, wada me karay dey (هو، واده مې کړی دی), 'yes, I'm married'."
+    },
+    "have_children": {
+      "text": "تاسو بچي لرئ؟",
+      "roman": "Taso bachi larai?",
+      "note": "Often asked as: tso bachi larai? (څو بچي لرئ؟), 'how many children do you have?'"
+    },
+    "monday": {
+      "text": "دوشنبه",
+      "roman": "Doshanba",
+      "note": "In Pakistan: pir (پیر)."
+    },
+    "tuesday": {
+      "text": "سه‌شنبه",
+      "roman": "Seshanba"
+    },
+    "wednesday": {
+      "text": "چهارشنبه",
+      "roman": "Charshanba",
+      "note": "Spelled with چهار but usually said charshanba."
+    },
+    "thursday": {
+      "text": "پنجشنبه",
+      "roman": "Panjshanba"
+    },
+    "friday": {
+      "text": "جمعه",
+      "roman": "Juma"
+    },
+    "saturday": {
+      "text": "شنبه",
+      "roman": "Shanba"
+    },
+    "sunday": {
+      "text": "یکشنبه",
+      "roman": "Yakshanba",
+      "note": "In Pakistan: itwar (اتوار)."
+    },
+    "weekend": {
+      "text": "د اونۍ پای",
+      "roman": "Da onai pay",
+      "note": "Literally 'the end of the week'. Also: da onai rukhsati (د اونۍ رخصتي)."
+    },
+    "what_day": {
+      "text": "نن څه ورځ ده؟",
+      "roman": "Nan tsa wradz da?",
+      "note": "Also: nan koma wradz da? (نن کومه ورځ ده؟)"
+    },
+    "next_week": {
+      "text": "بله اونۍ",
+      "roman": "Bala onai",
+      "note": "More formal: ratlunke onai (راتلونکې اونۍ)."
+    },
+    "eleven": {
+      "text": "یوولس",
+      "roman": "Yawolas",
+      "note": "Digits: ۱۱"
+    },
+    "twelve": {
+      "text": "دولس",
+      "roman": "Dolas",
+      "note": "Digits: ۱۲"
+    },
+    "fifteen": {
+      "text": "پنځلس",
+      "roman": "Pindzalas",
+      "note": "Digits: ۱۵"
+    },
+    "twenty": {
+      "text": "شل",
+      "roman": "Shal",
+      "note": "In 21–29 it becomes wisht: yawwisht (یوویشت), 21. Digits: ۲۰"
+    },
+    "thirty": {
+      "text": "دېرش",
+      "roman": "Dersh",
+      "note": "Digits: ۳۰"
+    },
+    "fifty": {
+      "text": "پنځوس",
+      "roman": "Pandzos",
+      "note": "Digits: ۵۰"
+    },
+    "hundred": {
+      "text": "سل",
+      "roman": "Sal",
+      "note": "Two hundred: dwa sawa (دوه سوه). Digits: ۱۰۰"
+    },
+    "thousand": {
+      "text": "زر",
+      "roman": "Zar",
+      "note": "Two thousand: dwa zara (دوه زره). Digits: ۱۰۰۰"
+    },
+    "how_old": {
+      "text": "ستاسو عمر څو کاله دی؟",
+      "roman": "Staso umar tso kala dey?",
+      "note": "To a friend or child: ta tso kalan ye? (ته څو کلن یې؟)"
+    },
+    "years_old": {
+      "text": "زه … کلن یم",
+      "roman": "Za … kalan yam",
+      "note": "A woman says: za … kalana yam (زه … کلنه یم)."
+    },
+    "red": {
+      "text": "سور",
+      "roman": "Sur",
+      "note": "Feminine: sra (سره)."
+    },
+    "blue": {
+      "text": "آبي",
+      "roman": "Abi",
+      "note": "Same for both genders. Shin (شین) can mean blue or green; abi is clearly blue."
+    },
+    "green": {
+      "text": "شین",
+      "roman": "Shin",
+      "note": "Feminine: shna (شنه). Also: zarghun (زرغون)."
+    },
+    "yellow": {
+      "text": "ژېړ",
+      "roman": "Zher",
+      "note": "Feminine: zhera (ژېړه)."
+    },
+    "black": {
+      "text": "تور",
+      "roman": "Tor",
+      "note": "Feminine: tora (توره)."
+    },
+    "white": {
+      "text": "سپین",
+      "roman": "Spin",
+      "note": "Feminine: spina (سپینه)."
+    },
+    "what_colour": {
+      "text": "رنګ یې څه دی؟",
+      "roman": "Rang ye tsa dey?",
+      "note": "Literally 'what is its colour?'"
+    },
+    "this_one": {
+      "text": "دا یو",
+      "roman": "Da yaw",
+      "note": "Also: hamda (همدا), 'this very one'."
+    },
+    "that_one": {
+      "text": "هغه یو",
+      "roman": "Hagha yaw",
+      "note": "Also: hamagha (همغه), 'that very one'."
+    },
+    "another_one": {
+      "text": "مهرباني وکړئ، یو بل هم راکړئ",
+      "roman": "Mehrabani wukrai, yaw bal ham rakrai",
+      "note": "For a feminine item: yawa bala (یوه بله)."
+    },
+    "its_hot": {
+      "text": "ګرمي ده",
+      "roman": "Garmi da",
+      "note": "Also: hawa garma da (هوا ګرمه ده), 'the weather is hot'."
+    },
+    "its_cold": {
+      "text": "یخ دی",
+      "roman": "Yakh dey",
+      "note": "Also: hawa sara da (هوا سړه ده), 'the weather is cold'."
+    },
+    "its_raining": {
+      "text": "باران اوري",
+      "roman": "Baran ori"
+    },
+    "its_sunny": {
+      "text": "لمر ختلی دی",
+      "roman": "Lmar khatalay dey",
+      "note": "Literally 'the sun is out'. Also: hawa safa da (هوا صافه ده), 'the sky is clear'."
+    },
+    "its_windy": {
+      "text": "باد چلېږي",
+      "roman": "Bad chalezhi",
+      "note": "Literally 'wind is blowing'. Casual: der bad dey (ډېر باد دی), 'it's very windy'."
+    },
+    "weather_today": {
+      "text": "نن هوا څنګه ده؟",
+      "roman": "Nan hawa tsanga da?"
+    },
+    "beautiful_day": {
+      "text": "ډېره ښکلې ورځ ده",
+      "roman": "Dera shkule wradz da",
+      "note": "Also: nan hawa dera sha da (نن هوا ډېره ښه ده), 'the weather is lovely today'."
+    },
+    "umbrella": {
+      "text": "چترۍ",
+      "roman": "Chatrai"
+    },
+    "summer": {
+      "text": "اوړی",
+      "roman": "Oray"
+    },
+    "winter": {
+      "text": "ژمی",
+      "roman": "Zhamay"
+    },
+    "have_reservation": {
+      "text": "ما کوټه ریزرف کړې ده",
+      "roman": "Ma kota rezarf kare da",
+      "note": "Literally 'I have reserved a room'. Also: ma makhke kota niwale da (ما مخکې کوټه نیولې ده)."
+    },
+    "room": {
+      "text": "کوټه",
+      "roman": "Kota"
+    },
+    "passport": {
+      "text": "پاسپورټ",
+      "roman": "Pasport"
+    },
+    "luggage": {
+      "text": "سامان",
+      "roman": "Saman",
+      "note": "A suitcase or bag: bakas (بکس)."
+    },
+    "wifi_password": {
+      "text": "د وای فای پاسورډ څه دی؟",
+      "roman": "Da wai fai pasward tsa dey?"
+    },
+    "check_out_time": {
+      "text": "کوټه باید څو بجې خالي کړم؟",
+      "roman": "Kota bayad tso baje khali kram?",
+      "note": "Literally 'what time must I vacate the room?'"
+    },
+    "map": {
+      "text": "نقشه",
+      "roman": "Naqsha"
+    },
+    "bus": {
+      "text": "بس",
+      "roman": "Bas"
+    },
+    "next_train": {
+      "text": "بل اورګاډی کله ځي؟",
+      "roman": "Bal orgaday kala dzi?"
+    },
+    "is_this_seat_free": {
+      "text": "دا ځای خالي دی؟",
+      "roman": "Da dzay khali dey?",
+      "note": "Also: dalta tsok nast dey? (دلته څوک ناست دی؟), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "تاسو څه کار کوئ؟",
+      "roman": "Taso tsa kar kawai?",
+      "note": "Also: staso danda tsa da? (ستاسو دنده څه ده؟), 'what's your job?'"
+    },
+    "i_work_in": {
+      "text": "زه په … کې کار کوم",
+      "roman": "Za pa … ke kar kawam",
+      "note": "E.g. za pa bank ke kar kawam (زه په بانک کې کار کوم)."
+    },
+    "im_student": {
+      "text": "زه محصل یم",
+      "roman": "Za muhassil yam",
+      "note": "A woman says: za muhassila yam (زه محصله یم). A school pupil: zda kawunkay (زده کوونکی)."
+    },
+    "office": {
+      "text": "دفتر",
+      "roman": "Daftar"
+    },
+    "meeting": {
+      "text": "غونډه",
+      "roman": "Ghonda",
+      "note": "Colloquially also miting (میټنګ)."
+    },
+    "im_busy": {
+      "text": "زه بوخت یم",
+      "roman": "Za bukht yam",
+      "note": "A woman says: za bukhta yam (زه بوخته یم)."
+    },
+    "day_off": {
+      "text": "د رخصتۍ ورځ",
+      "roman": "Da rukhsatai wradz",
+      "note": "'I'm off today': nan rukhsat yam (نن رخصت یم)."
+    },
+    "colleague": {
+      "text": "همکار",
+      "roman": "Hamkar",
+      "note": "A female colleague: hamkara (همکاره)."
+    },
+    "lets_start": {
+      "text": "راځئ چې پیل وکړو",
+      "roman": "Radzai che pil wukro",
+      "note": "Casual: shuru ye kro (شروع یې کړو)."
+    },
+    "good_job": {
+      "text": "شاباس!",
+      "roman": "Shabas!",
+      "note": "Also: der sha kar mo karay dey (ډېر ښه کار مو کړی دی), 'you've done great work'."
+    },
+    "table_for_two": {
+      "text": "مهرباني وکړئ، د دوو کسانو لپاره مېز",
+      "roman": "Mehrabani wukrai, da dwo kasano lpara mez"
+    },
+    "what_recommend": {
+      "text": "ستاسو په نظر څه ښه دي؟",
+      "roman": "Staso pa nazar tsa sha di?",
+      "note": "Literally 'in your view, what's good?' Also: staso khas khwarak tsa dey? (ستاسو خاص خوراک څه دی؟)"
+    },
+    "not_spicy": {
+      "text": "مهرباني وکړئ، مرچ پکې مه اچوئ",
+      "roman": "Mehrabani wukrai, mrach pake ma achawai",
+      "note": "Literally 'please don't put chilli in it'."
+    },
+    "vegetarian_food": {
+      "text": "بې غوښې خواړه",
+      "roman": "Be ghwashe khwara",
+      "note": "Literally 'food without meat'. Vegetables: sabzi (سبزي)."
+    },
+    "more_water": {
+      "text": "مهرباني وکړئ، نورې اوبه راوړئ",
+      "roman": "Mehrabani wukrai, nore oba rawrai"
+    },
+    "no_sugar": {
+      "text": "مهرباني وکړئ، بوره پکې مه اچوئ",
+      "roman": "Mehrabani wukrai, bura pake ma achawai",
+      "note": "Literally 'please don't put sugar in it'. Sugar lumps: qand (قند)."
+    },
+    "im_full": {
+      "text": "موړ شوم",
+      "roman": "Mor shwam",
+      "note": "A woman says: mara shwam (مړه شوم). To decline more politely: bas dey, manana (بس دی، مننه)."
+    },
+    "takeaway": {
+      "text": "مهرباني وکړئ، دا راته بسته کړئ",
+      "roman": "Mehrabani wukrai, da rata basta krai",
+      "note": "Literally 'please pack this for me'. In Pakistan people say parsal (پارسل)."
+    },
+    "it_was_delicious": {
+      "text": "ډېر خوندور و",
+      "roman": "Der khwandawar wo",
+      "note": "For a feminine noun like dodai: dera khwandawara wa (ډېره خوندوره وه)."
+    },
+    "keep_change": {
+      "text": "پاتې پیسې تاسو وساتئ",
+      "roman": "Pate paise taso wusatai",
+      "note": "Shorter: pate ye staso (پاتې یې ستاسو), 'the rest is yours'."
+    },
+    "head": {
+      "text": "سر",
+      "roman": "Sar"
+    },
+    "stomach": {
+      "text": "ګېډه",
+      "roman": "Geda",
+      "note": "Also: kheta (خېټه)."
+    },
+    "head_hurts": {
+      "text": "سر مې درد کوي",
+      "roman": "Sar me dard kawi",
+      "note": "Also: sar me khwazhezhi (سر مې خوږېږي)."
+    },
+    "have_fever": {
+      "text": "تبه لرم",
+      "roman": "Taba laram",
+      "note": "Also: taba me da (تبه مې ده)."
+    },
+    "medicine": {
+      "text": "درمل",
+      "roman": "Darmal",
+      "note": "Also: dawa (دوا)."
+    },
+    "call_ambulance": {
+      "text": "امبولانس ته زنګ ووهئ!",
+      "roman": "Ambulans ta zang wuwahai!"
+    },
+    "dentist": {
+      "text": "د غاښونو ډاکټر",
+      "roman": "Da ghashuno daktar",
+      "note": "Literally 'teeth doctor'."
+    },
+    "need_rest": {
+      "text": "باید دمه وکړم",
+      "roman": "Bayad dama wukram",
+      "note": "Also: istirahat ta artya laram (استراحت ته اړتیا لرم)."
+    },
+    "feel_better": {
+      "text": "حال مې ښه شوی دی",
+      "roman": "Hal me sha shaway dey",
+      "note": "Also: os sha yam (اوس ښه یم), 'I'm fine now'."
+    },
+    "get_well": {
+      "text": "خدای دې شفا درکړي!",
+      "roman": "Khuday de shifa darkri!",
+      "note": "Literally 'may God heal you'. Also: zhar jor shai! (ژر جوړ شئ!)"
+    },
+    "lets_meet": {
+      "text": "راځئ چې سره ووینو",
+      "roman": "Radzai che sara wuwino",
+      "note": "To one friend: radza (راځه) instead of radzai."
+    },
+    "are_you_free": {
+      "text": "تاسو سبا وزګار یاست؟",
+      "roman": "Taso saba wazgar yast?",
+      "note": "To a woman: taso saba wazgare yast? (تاسو سبا وزګارې یاست؟)"
+    },
+    "call_me": {
+      "text": "راته زنګ ووهئ",
+      "roman": "Rata zang wuwahai",
+      "note": "To a friend: rata zang wuwaha (راته زنګ ووهه)."
+    },
+    "your_number": {
+      "text": "ستاسو د تلیفون شمېره څه ده؟",
+      "roman": "Staso da telefoon shmera tsa da?",
+      "note": "Casual: nambar mo tsa dey? (نمبر مو څه دی؟)"
+    },
+    "see_you_soon": {
+      "text": "ژر به سره ووینو",
+      "roman": "Zhar ba sara wuwino"
+    },
+    "have_nice_day": {
+      "text": "ورځ مو ښه تېره شي!",
+      "roman": "Wradz mo sha tera shi!",
+      "note": "To a friend: wradz de sha tera shi! (ورځ دې ښه تېره شي!)"
+    },
+    "good_luck": {
+      "text": "بریالي اوسئ!",
+      "roman": "Baryali osai!",
+      "note": "To a woman: baryalai osai (بریالۍ اوسئ). Also: khuday de mal sha (خدای دې مل شه)."
+    },
+    "happy_birthday": {
+      "text": "د زوکړې ورځ مو مبارک شه!",
+      "roman": "Da zokre wradz mo mubarak sha!",
+      "note": "To a friend: de (دې) instead of mo (مو)."
+    },
+    "thanks_a_lot": {
+      "text": "ډېره مننه",
+      "roman": "Dera manana",
+      "note": "Also: der tashakor (ډېر تشکر)."
+    },
+    "miss_you": {
+      "text": "زړه مې درپسې تنګ شوی دی",
+      "roman": "Zra me darpase tang shaway dey",
+      "note": "Literally 'my heart has grown tight for you'. Also: der rayadezhe (ډېر رایادېږې)."
     }
   }
 }

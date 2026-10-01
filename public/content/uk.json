@@ -480,6 +480,503 @@
       "text": "Вітаю!",
       "roman": "Vitayu!",
       "note": "Also a formal hello. On a birthday: з днем народження! (z dnem narodzhennya!)"
+    },
+    "my_family": {
+      "text": "Моя сім'я",
+      "roman": "Moya simya",
+      "note": "Also very common: моя родина (moya rodyna). The apostrophe keeps м hard: sim + ya."
+    },
+    "mother": {
+      "text": "Мама",
+      "roman": "Mama",
+      "note": "The everyday word, even among adults. More formal: мати (maty)."
+    },
+    "father": {
+      "text": "Тато",
+      "roman": "Tato",
+      "note": "The everyday word, even among adults. More formal: батько (batko)."
+    },
+    "brother": {
+      "text": "Брат",
+      "roman": "Brat",
+      "note": "Older brother: старший брат (starshyi brat); younger: молодший (molodshyi)."
+    },
+    "sister": {
+      "text": "Сестра",
+      "roman": "Sestra",
+      "note": "Older sister: старша сестра (starsha sestra); younger: молодша (molodsha)."
+    },
+    "child": {
+      "text": "Дитина",
+      "roman": "Dytyna",
+      "note": "Plural: діти (dity). Son: син (syn); daughter: донька (donka)."
+    },
+    "friend": {
+      "text": "Друг",
+      "roman": "Druh",
+      "note": "A female friend: подруга (podruha)."
+    },
+    "this_is_my_friend": {
+      "text": "Це мій друг",
+      "roman": "Tse miy druh",
+      "note": "For a female friend: це моя подруга (tse moya podruha)."
+    },
+    "are_you_married": {
+      "text": "Ви одружені?",
+      "roman": "Vy odruzheni?",
+      "note": "For both men and women. Answer: я одружений (ya odruzhenyi); a woman: одружена (odruzhena)."
+    },
+    "have_children": {
+      "text": "У вас є діти?",
+      "roman": "U vas ye dity?",
+      "note": "Casual: у тебе є діти? (u tebe ye dity?)"
+    },
+    "monday": {
+      "text": "понеділок",
+      "roman": "ponedilok",
+      "note": "Days are not capitalised in Ukrainian. On Monday: у понеділок (u ponedilok)."
+    },
+    "tuesday": {
+      "text": "вівторок",
+      "roman": "vivtorok",
+      "note": "From an old word for 'second': the second day of the week. On Tuesday: у вівторок (u vivtorok)."
+    },
+    "wednesday": {
+      "text": "середа",
+      "roman": "sereda",
+      "note": "Literally 'middle', the middle of the week. On Wednesday: у середу (u seredu)."
+    },
+    "thursday": {
+      "text": "четвер",
+      "roman": "chetver",
+      "note": "From четвертий (chetvertyi), 'fourth'. On Thursday: у четвер (u chetver)."
+    },
+    "friday": {
+      "text": "п'ятниця",
+      "roman": "pyatnytsya",
+      "note": "From п'ять (pyat), five. On Friday: у п'ятницю (u pyatnytsyu)."
+    },
+    "saturday": {
+      "text": "субота",
+      "roman": "subota",
+      "note": "On Saturday: у суботу (u subotu)."
+    },
+    "sunday": {
+      "text": "неділя",
+      "roman": "nedilya",
+      "note": "Originally 'the day of no work'. On Sunday: у неділю (u nedilyu)."
+    },
+    "weekend": {
+      "text": "Вихідні",
+      "roman": "Vykhidni",
+      "note": "Literally 'days off'. At the weekend: на вихідних (na vykhidnykh)."
+    },
+    "what_day": {
+      "text": "Який сьогодні день?",
+      "roman": "Yakyi syohodni den?",
+      "note": "For the date: яке сьогодні число? (yake syohodni chyslo?)"
+    },
+    "next_week": {
+      "text": "Наступного тижня",
+      "roman": "Nastupnoho tyzhnya",
+      "note": "Last week: минулого тижня (mynuloho tyzhnya). The word for week: тиждень (tyzhden)."
+    },
+    "eleven": {
+      "text": "Одинадцять",
+      "roman": "Odynadtsyat",
+      "note": "Stress: o-dy-NAD-tsyat. All the teens end in -надцять (-nadtsyat), 'on ten'."
+    },
+    "twelve": {
+      "text": "Дванадцять",
+      "roman": "Dvanadtsyat",
+      "note": "Literally 'two on ten'. Stress: dva-NAD-tsyat."
+    },
+    "fifteen": {
+      "text": "П'ятнадцять",
+      "roman": "Pyatnadtsyat",
+      "note": "Built on п'ять (pyat), five. Stress: pyat-NAD-tsyat."
+    },
+    "twenty": {
+      "text": "Двадцять",
+      "roman": "Dvadtsyat",
+      "note": "Literally 'two tens'. Twenty-one: двадцять один (dvadtsyat odyn)."
+    },
+    "thirty": {
+      "text": "Тридцять",
+      "roman": "Trydtsyat",
+      "note": "Literally 'three tens'. Forty is irregular: сорок (sorok)."
+    },
+    "fifty": {
+      "text": "П'ятдесят",
+      "roman": "Pyatdesyat",
+      "note": "Literally 'five tens', stressed at the end: pyat-de-SYAT. Sixty: шістдесят (shistdesyat)."
+    },
+    "hundred": {
+      "text": "Сто",
+      "roman": "Sto",
+      "note": "Two hundred: двісті (dvisti); five hundred: п'ятсот (pyatsot)."
+    },
+    "thousand": {
+      "text": "Тисяча",
+      "roman": "Tysyacha",
+      "note": "Two thousand: дві тисячі (dvi tysyachi); five thousand: п'ять тисяч (pyat tysyach)."
+    },
+    "how_old": {
+      "text": "Скільки вам років?",
+      "roman": "Skilky vam rokiv?",
+      "note": "Casual: скільки тобі років? (skilky tobi rokiv?)"
+    },
+    "years_old": {
+      "text": "Мені … років",
+      "roman": "Meni … rokiv",
+      "note": "Років (rokiv) after most numbers; рік (rik) after 1, 21, 31…; роки (roky) after 2–4, 22–24…"
+    },
+    "red": {
+      "text": "Червоний",
+      "roman": "Chervonyi",
+      "note": "Feminine: червона (chervona); neuter: червоне (chervone)."
+    },
+    "blue": {
+      "text": "Синій",
+      "roman": "Syniy",
+      "note": "Ordinary to deep blue. Light or sky blue counts as its own colour: блакитний (blakytnyi)."
+    },
+    "green": {
+      "text": "Зелений",
+      "roman": "Zelenyi",
+      "note": "Green tea: зелений чай (zelenyi chay)."
+    },
+    "yellow": {
+      "text": "Жовтий",
+      "roman": "Zhovtyi",
+      "note": "The Ukrainian flag is синьо-жовтий (synyo-zhovtyi), blue and yellow."
+    },
+    "black": {
+      "text": "Чорний",
+      "roman": "Chornyi",
+      "note": "Black coffee: чорна кава (chorna kava)."
+    },
+    "white": {
+      "text": "Білий",
+      "roman": "Bilyi",
+      "note": "White wine: біле вино (bile vyno)."
+    },
+    "what_colour": {
+      "text": "Якого це кольору?",
+      "roman": "Yakoho tse kolyoru?",
+      "note": "The word for colour: колір (kolir)."
+    },
+    "this_one": {
+      "text": "Ось цей",
+      "roman": "Os tsey",
+      "note": "Agrees with the item: ця (tsya) for feminine, це (tse) for neuter nouns."
+    },
+    "that_one": {
+      "text": "Отой",
+      "roman": "Otoy",
+      "note": "A stronger той (toy), 'that'. Feminine: ота (ota); neuter: оте (ote)."
+    },
+    "another_one": {
+      "text": "Ще один, будь ласка",
+      "roman": "Shche odyn, bud laska",
+      "note": "For feminine nouns: ще одну (shche odnu), e.g. ще одну каву (shche odnu kavu)."
+    },
+    "its_hot": {
+      "text": "Спекотно",
+      "roman": "Spekotno",
+      "note": "Also: жарко (zharko). Pleasantly warm: тепло (teplo)."
+    },
+    "its_cold": {
+      "text": "Холодно",
+      "roman": "Kholodno",
+      "note": "Just chilly: прохолодно (prokholodno)."
+    },
+    "its_raining": {
+      "text": "Іде дощ",
+      "roman": "Ide doshch",
+      "note": "Literally 'rain is going'. It's snowing: іде сніг (ide snih)."
+    },
+    "its_sunny": {
+      "text": "Сонячно",
+      "roman": "Sonyachno",
+      "note": "Also: світить сонце (svityt sontse), 'the sun is shining'."
+    },
+    "its_windy": {
+      "text": "Вітряно",
+      "roman": "Vitryano",
+      "note": "Also: дме вітер (dme viter), 'the wind is blowing'."
+    },
+    "weather_today": {
+      "text": "Яка сьогодні погода?",
+      "roman": "Yaka syohodni pohoda?",
+      "note": "Casual: як погода? (yak pohoda?)"
+    },
+    "beautiful_day": {
+      "text": "Який чудовий день!",
+      "roman": "Yakyi chudovyi den!",
+      "note": "Also common: яка гарна погода! (yaka harna pohoda!), 'what lovely weather!'"
+    },
+    "umbrella": {
+      "text": "Парасолька",
+      "roman": "Parasolka"
+    },
+    "summer": {
+      "text": "Літо",
+      "roman": "Lito",
+      "note": "In summer: влітку (vlitku)."
+    },
+    "winter": {
+      "text": "Зима",
+      "roman": "Zyma",
+      "note": "In winter: взимку (vzymku)."
+    },
+    "have_reservation": {
+      "text": "У мене заброньовано номер",
+      "roman": "U mene zabronyovano nomer",
+      "note": "Shorter: у мене бронювання (u mene bronyuvannya), 'I have a booking'."
+    },
+    "room": {
+      "text": "Номер",
+      "roman": "Nomer",
+      "note": "A hotel room is номер; a room in a home is кімната (kimnata)."
+    },
+    "passport": {
+      "text": "Паспорт",
+      "roman": "Pasport",
+      "note": "The one for travel abroad: закордонний паспорт (zakordonnyi pasport)."
+    },
+    "luggage": {
+      "text": "Багаж",
+      "roman": "Bahazh",
+      "note": "Your bags are often just речі (rechi), 'things'. Suitcase: валіза (valiza)."
+    },
+    "wifi_password": {
+      "text": "Який пароль від вайфаю?",
+      "roman": "Yakyi parol vid vayfayu?",
+      "note": "Often written Wi-Fi, but always said vayfay."
+    },
+    "check_out_time": {
+      "text": "О котрій треба звільнити номер?",
+      "roman": "O kotriy treba zvilnyty nomer?",
+      "note": "Literally 'at what time must I free the room?'. Hotels list it as час виїзду (chas vyyizdu)."
+    },
+    "map": {
+      "text": "Карта",
+      "roman": "Karta",
+      "note": "Also common: мапа (mapa). City map: карта міста (karta mista)."
+    },
+    "bus": {
+      "text": "Автобус",
+      "roman": "Avtobus",
+      "note": "Bus stop: зупинка (zupynka). Minibus: маршрутка (marshrutka)."
+    },
+    "next_train": {
+      "text": "Коли наступний поїзд?",
+      "roman": "Koly nastupnyi poyizd?",
+      "note": "Train is also потяг (potyah). Commuter train: електричка (elektrychka)."
+    },
+    "is_this_seat_free": {
+      "text": "Тут вільно?",
+      "roman": "Tut vilno?",
+      "note": "Also: це місце вільне? (tse mistse vilne?) or тут не зайнято? (tut ne zaynyato?)"
+    },
+    "what_do_you_do": {
+      "text": "Ким ви працюєте?",
+      "roman": "Kym vy pratsyuyete?",
+      "note": "Broader, covering studies too: чим ви займаєтеся? (chym vy zaymayetesya?)"
+    },
+    "i_work_in": {
+      "text": "Я працюю в …",
+      "roman": "Ya pratsyuyu v …",
+      "note": "The place changes form: в банку (v banku), в школі (v shkoli). Some take на: на заводі (na zavodi)."
+    },
+    "im_student": {
+      "text": "Я студент",
+      "roman": "Ya student",
+      "note": "A woman says: я студентка (ya studentka)."
+    },
+    "office": {
+      "text": "Офіс",
+      "roman": "Ofis",
+      "note": "At the office: в офісі (v ofisi)."
+    },
+    "meeting": {
+      "text": "Нарада",
+      "roman": "Narada",
+      "note": "A meeting with a client or partner, or online: зустріч (zustrich)."
+    },
+    "im_busy": {
+      "text": "Я зайнятий",
+      "roman": "Ya zaynyatyi",
+      "note": "A woman says: я зайнята (ya zaynyata)."
+    },
+    "day_off": {
+      "text": "Вихідний",
+      "roman": "Vykhidnyi",
+      "note": "I'm off today: у мене сьогодні вихідний (u mene syohodni vykhidnyi)."
+    },
+    "colleague": {
+      "text": "Колега",
+      "roman": "Koleha",
+      "note": "Same word for a woman: моя колега (moya koleha). Also heard: колежанка (kolezhanka)."
+    },
+    "lets_start": {
+      "text": "Почнімо",
+      "roman": "Pochnimo",
+      "note": "Also common in speech: давайте почнемо (davayte pochnemo)."
+    },
+    "good_job": {
+      "text": "Чудова робота!",
+      "roman": "Chudova robota!",
+      "note": "Very common: молодець! (molodets!), 'well done!', to a man or a woman."
+    },
+    "table_for_two": {
+      "text": "Столик на двох, будь ласка",
+      "roman": "Stolyk na dvokh, bud laska",
+      "note": "For three: на трьох (na tryokh); for four: на чотирьох (na chotyryokh)."
+    },
+    "what_recommend": {
+      "text": "Що ви порадите?",
+      "roman": "Shcho vy poradyte?",
+      "note": "Also: що ви рекомендуєте? (shcho vy rekomenduyete?)"
+    },
+    "not_spicy": {
+      "text": "Не гостре, будь ласка",
+      "roman": "Ne hostre, bud laska",
+      "note": "To ask first: це гостре? (tse hostre?)"
+    },
+    "vegetarian_food": {
+      "text": "Вегетаріанська їжа",
+      "roman": "Vehetarianska yizha",
+      "note": "Asking for it: у вас є вегетаріанські страви? (u vas ye vehetarianski stravy?)"
+    },
+    "more_water": {
+      "text": "Ще води, будь ласка",
+      "roman": "Shche vody, bud laska",
+      "note": "Води is the 'some water' form of вода (voda)."
+    },
+    "no_sugar": {
+      "text": "Без цукру, будь ласка",
+      "roman": "Bez tsukru, bud laska",
+      "note": "With milk: з молоком (z molokom)."
+    },
+    "im_full": {
+      "text": "Я наївся",
+      "roman": "Ya nayivsya",
+      "note": "A woman says: я наїлася (ya nayilasya)."
+    },
+    "takeaway": {
+      "text": "З собою, будь ласка",
+      "roman": "Z soboyu, bud laska",
+      "note": "You may be asked: тут чи з собою? (tut chy z soboyu?), 'here or to go?'"
+    },
+    "it_was_delicious": {
+      "text": "Було дуже смачно!",
+      "roman": "Bulo duzhe smachno!",
+      "note": "To thank a host: дякую, все було дуже смачно! (dyakuyu, vse bulo duzhe smachno!)"
+    },
+    "keep_change": {
+      "text": "Решти не треба",
+      "roman": "Reshty ne treba",
+      "note": "Literally 'no change needed'. The change itself is решта (reshta)."
+    },
+    "head": {
+      "text": "Голова",
+      "roman": "Holova"
+    },
+    "stomach": {
+      "text": "Живіт",
+      "roman": "Zhyvit",
+      "note": "The belly, where it hurts. The organ itself is шлунок (shlunok)."
+    },
+    "head_hurts": {
+      "text": "У мене болить голова",
+      "roman": "U mene bolyt holova",
+      "note": "Same pattern for any body part: у мене болить живіт (u mene bolyt zhyvit)."
+    },
+    "have_fever": {
+      "text": "У мене температура",
+      "roman": "U mene temperatura",
+      "note": "Literally 'I have a temperature'. Also: у мене жар (u mene zhar)."
+    },
+    "medicine": {
+      "text": "Ліки",
+      "roman": "Liky",
+      "note": "Always plural. Cough medicine: ліки від кашлю (liky vid kashlyu)."
+    },
+    "call_ambulance": {
+      "text": "Викличте швидку!",
+      "roman": "Vyklychte shvydku!",
+      "note": "Short for швидка допомога (shvydka dopomoha). In Ukraine, dial 103 or 112."
+    },
+    "dentist": {
+      "text": "Стоматолог",
+      "roman": "Stomatoloh",
+      "note": "Everyday alternative: зубний лікар (zubnyi likar), 'tooth doctor'."
+    },
+    "need_rest": {
+      "text": "Мені треба відпочити",
+      "roman": "Meni treba vidpochyty"
+    },
+    "feel_better": {
+      "text": "Мені краще",
+      "roman": "Meni krashche",
+      "note": "Often with вже, 'already': мені вже краще (meni vzhe krashche)."
+    },
+    "get_well": {
+      "text": "Швидкого одужання!",
+      "roman": "Shvydkoho oduzhannya!",
+      "note": "Also, politely: одужуйте! (oduzhuyte!), 'get well!'; to a friend: одужуй! (oduzhuy!)"
+    },
+    "lets_meet": {
+      "text": "Зустріньмося",
+      "roman": "Zustrinmosya",
+      "note": "Very common in speech: давай зустрінемося (davay zustrinemosya); politely: давайте (davayte)."
+    },
+    "are_you_free": {
+      "text": "Ви завтра вільні?",
+      "roman": "Vy zavtra vilni?",
+      "note": "Casual: ти завтра вільний? (ty zavtra vilnyi?); to a woman: вільна (vilna)."
+    },
+    "call_me": {
+      "text": "Подзвоніть мені",
+      "roman": "Podzvonit meni",
+      "note": "Also: зателефонуйте мені (zatelefonuyte meni). Casual: подзвони мені (podzvony meni)."
+    },
+    "your_number": {
+      "text": "Який у вас номер телефону?",
+      "roman": "Yakyi u vas nomer telefonu?",
+      "note": "Casual: який у тебе номер? (yakyi u tebe nomer?)"
+    },
+    "see_you_soon": {
+      "text": "До скорої зустрічі!",
+      "roman": "Do skoroyi zustrichi!",
+      "note": "Casual: скоро побачимося! (skoro pobachymosya!)"
+    },
+    "have_nice_day": {
+      "text": "Гарного дня!",
+      "roman": "Harnoho dnya!",
+      "note": "In the evening: гарного вечора! (harnoho vechora!)"
+    },
+    "good_luck": {
+      "text": "Удачі!",
+      "roman": "Udachi!",
+      "note": "Also very common: щасти! (shchasty!) Before an exam: успіхів! (uspikhiv!), 'success!'"
+    },
+    "happy_birthday": {
+      "text": "З днем народження!",
+      "roman": "Z dnem narodzhennya!",
+      "note": "Often followed by: всього найкращого! (vsyoho naykrashchoho!), 'all the best!'"
+    },
+    "thanks_a_lot": {
+      "text": "Дуже дякую",
+      "roman": "Duzhe dyakuyu",
+      "note": "Warmer: щиро дякую (shchyro dyakuyu). In western Ukraine: красно дякую (krasno dyakuyu)."
+    },
+    "miss_you": {
+      "text": "Я сумую за тобою",
+      "roman": "Ya sumuyu za toboyu",
+      "note": "Short and common: сумую! (sumuyu!) To several people: за вами (za vamy)."
     }
   }
 }

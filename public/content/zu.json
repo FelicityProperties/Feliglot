@@ -370,6 +370,405 @@
     "congratulations": {
       "text": "Halala!",
       "note": "Fuller: ngiyakuhalalisela! (I congratulate you)."
+    },
+    "my_family": {
+      "text": "Umndeni wami",
+      "note": "Possessives follow the noun and agree with it: umama wami (my mother), ubaba wami (my father)."
+    },
+    "mother": {
+      "text": "Umama",
+      "note": "Also how you respectfully address any older woman: mama."
+    },
+    "father": {
+      "text": "Ubaba",
+      "note": "Also how you respectfully address any older man: baba."
+    },
+    "brother": {
+      "text": "Umfowethu",
+      "note": "Literally 'our brother', the usual way to say 'my brother'. An older brother is often called ubhuti."
+    },
+    "sister": {
+      "text": "Udadewethu",
+      "note": "Literally 'our sister', the usual way to say 'my sister'. An older sister is often called usisi."
+    },
+    "child": {
+      "text": "Ingane",
+      "note": "Plural: izingane. Son: indodana; daughter: indodakazi."
+    },
+    "friend": {
+      "text": "Umngane",
+      "note": "Same word for a man or a woman. Plural: abangane. My friend: umngane wami."
+    },
+    "this_is_my_friend": {
+      "text": "Lo ngumngane wami",
+      "note": "Same for a male or female friend. Lo means 'this person'."
+    },
+    "are_you_married": {
+      "text": "Ushadile?",
+      "note": "Same for a man or a woman. Answers: ngishadile (I'm married), angishadile (I'm not)."
+    },
+    "have_children": {
+      "text": "Unezingane?",
+      "note": "Answers: nginezingane ezimbili (I have two), anginazo (I have none)."
+    },
+    "monday": {
+      "text": "uMsombuluko",
+      "note": "Days take a capital after the u-. On Monday: ngoMsombuluko."
+    },
+    "tuesday": {
+      "text": "uLwesibili",
+      "note": "Literally 'the second (day)'. On Tuesday: ngoLwesibili."
+    },
+    "wednesday": {
+      "text": "uLwesithathu",
+      "note": "Literally 'the third (day)'."
+    },
+    "thursday": {
+      "text": "uLwesine",
+      "note": "Literally 'the fourth (day)'."
+    },
+    "friday": {
+      "text": "uLwesihlanu",
+      "note": "Literally 'the fifth (day)'."
+    },
+    "saturday": {
+      "text": "uMgqibelo",
+      "note": "Gq is the q click made deeper, with voice. On Saturday: ngoMgqibelo."
+    },
+    "sunday": {
+      "text": "iSonto",
+      "note": "Isonto also means 'week' and 'church'. On Sunday: ngeSonto."
+    },
+    "weekend": {
+      "text": "Impelasonto",
+      "note": "Literally 'end of the week'. At the weekend: ngempelasonto. Many simply say i-weekend."
+    },
+    "what_day": {
+      "text": "Namuhla wusuku luni?",
+      "note": "Answer: namuhla nguLwesihlanu (today is Friday)."
+    },
+    "next_week": {
+      "text": "Ngesonto elizayo",
+      "note": "Elizayo: 'that is coming'. Last week: ngesonto eledlule."
+    },
+    "eleven": {
+      "text": "Ishumi nanye",
+      "note": "Literally 'ten and one'. Prices, ages and times are often said in English."
+    },
+    "twelve": {
+      "text": "Ishumi nambili",
+      "note": "Literally 'ten and two'."
+    },
+    "fifteen": {
+      "text": "Ishumi nanhlanu",
+      "note": "Literally 'ten and five'."
+    },
+    "twenty": {
+      "text": "Amashumi amabili",
+      "note": "Literally 'two tens': amashumi is the plural of ishumi."
+    },
+    "thirty": {
+      "text": "Amashumi amathathu",
+      "note": "Literally 'three tens'. Thirty-five: amashumi amathathu nanhlanu."
+    },
+    "fifty": {
+      "text": "Amashumi amahlanu",
+      "note": "Literally 'five tens'."
+    },
+    "hundred": {
+      "text": "Ikhulu",
+      "note": "Two hundred: amakhulu amabili."
+    },
+    "thousand": {
+      "text": "Inkulungwane",
+      "note": "Two thousand: izinkulungwane ezimbili."
+    },
+    "how_old": {
+      "text": "Uneminyaka emingaki?",
+      "note": "Literally 'you have how many years?'"
+    },
+    "years_old": {
+      "text": "Ngineminyaka engu…",
+      "note": "With English numbers: ngineminyaka engu-25. Before amashumi: engamashumi amabili (20)."
+    },
+    "red": {
+      "text": "Bomvu",
+      "note": "Colours agree with the noun: imoto ebomvu (a red car)."
+    },
+    "blue": {
+      "text": "Luhlaza okwesibhakabhaka",
+      "note": "Literally 'green-blue like the sky'. Luhlaza alone covers both colours."
+    },
+    "green": {
+      "text": "Luhlaza okotshani",
+      "note": "Literally 'green-blue like grass'. In context luhlaza alone is enough."
+    },
+    "yellow": {
+      "text": "Phuzi",
+      "note": "Agrees like the other colours: imbali ephuzi (a yellow flower)."
+    },
+    "black": {
+      "text": "Mnyama",
+      "note": "Mnyama also means dark: kumnyama (it's dark)."
+    },
+    "white": {
+      "text": "Mhlophe",
+      "note": "The hl is breathed out past the side of the tongue, as in kuhlanu (five)."
+    },
+    "what_colour": {
+      "text": "Ngumbala muni?",
+      "note": "Answer with the colour: imoto ibomvu (the car is red)."
+    },
+    "this_one": {
+      "text": "Lena",
+      "note": "Changes with the noun: lesi for isinkwa (bread), leli for ihembe (shirt)."
+    },
+    "that_one": {
+      "text": "Leyo",
+      "note": "Further off, over there: leya. Changes with the noun like lena: leso, lelo."
+    },
+    "another_one": {
+      "text": "Ngicela enye",
+      "note": "Enye agrees with the noun: ngicela esinye for isinkwa (bread)."
+    },
+    "its_hot": {
+      "text": "Kuyashisa",
+      "note": "Also: kufudumele (it's warm)."
+    },
+    "its_cold": {
+      "text": "Kuyabanda",
+      "note": "I'm cold: ngiyagodola."
+    },
+    "its_raining": {
+      "text": "Liyana",
+      "note": "Fuller: izulu liyana. Izulu means sky, weather and heaven."
+    },
+    "its_sunny": {
+      "text": "Ilanga liyakhanya",
+      "note": "Ilanga also means 'day'. Also: libalele (the sun is blazing hot)."
+    },
+    "its_windy": {
+      "text": "Kunomoya",
+      "note": "Literally 'there is wind'. Umoya also means air and spirit."
+    },
+    "weather_today": {
+      "text": "Linjani izulu namuhla?",
+      "note": "On the news the weather is isimo sezulu."
+    },
+    "beautiful_day": {
+      "text": "Lihle izulu namuhla",
+      "note": "Literally 'the weather is beautiful today'. Usuku oluhle: a beautiful day."
+    },
+    "umbrella": {
+      "text": "Isambulela",
+      "note": "Plural: izambulela."
+    },
+    "summer": {
+      "text": "Ihlobo",
+      "note": "In summer: ehlobo."
+    },
+    "winter": {
+      "text": "Ubusika",
+      "note": "In winter: ebusika."
+    },
+    "have_reservation": {
+      "text": "Ngibhukile",
+      "note": "Literally 'I have booked'. Then give your name: igama lami nguThabo."
+    },
+    "room": {
+      "text": "Ikamelo",
+      "note": "Any room of a house too. Bedroom: ikamelo lokulala."
+    },
+    "passport": {
+      "text": "Iphasiphothi"
+    },
+    "luggage": {
+      "text": "Imithwalo",
+      "note": "Singular: umthwalo (a load, one piece of luggage). A bag: isikhwama."
+    },
+    "wifi_password": {
+      "text": "Ithini iphasiwedi ye-Wi-Fi?",
+      "note": "Ithini: 'what does it say?', as in sithini isikhathi?"
+    },
+    "check_out_time": {
+      "text": "Kufanele ngiphume ngasiphi isikhathi?",
+      "note": "Literally 'at what time must I leave?'. For a group: kufanele siphume."
+    },
+    "map": {
+      "text": "Imephu",
+      "note": "The formal, school word is ibalazwe."
+    },
+    "bus": {
+      "text": "Ibhasi",
+      "note": "Plural: amabhasi. By bus: ngebhasi."
+    },
+    "next_train": {
+      "text": "Isitimela esilandelayo sihamba nini?",
+      "note": "Sihamba: it leaves. To ask when it arrives: sifika nini?"
+    },
+    "is_this_seat_free": {
+      "text": "Kukhona ohlala lapha?",
+      "note": "Literally 'is someone sitting here?', so cha (no) means it's free."
+    },
+    "what_do_you_do": {
+      "text": "Wenza msebenzi muni?",
+      "note": "Also common: usebenzaphi? (where do you work?)"
+    },
+    "i_work_in": {
+      "text": "Ngisebenza e…",
+      "note": "A place joins the e-: ngisebenza ebhange (at a bank). A field takes kwe-: kwezempilo (in health)."
+    },
+    "im_student": {
+      "text": "Ngingumfundi",
+      "note": "Same for a man or a woman. At university: ngifunda enyuvesi."
+    },
+    "office": {
+      "text": "Ihhovisi",
+      "note": "The hh is a breathy, voiced h. At the office: ehhovisi."
+    },
+    "meeting": {
+      "text": "Umhlangano",
+      "note": "In a meeting: emhlanganweni."
+    },
+    "im_busy": {
+      "text": "Ngimatasa",
+      "note": "Also: angikhululekile (I'm not free)."
+    },
+    "day_off": {
+      "text": "Usuku lokuphumula",
+      "note": "Literally 'day of rest'. I'm off today: angisebenzi namuhla."
+    },
+    "colleague": {
+      "text": "Uzakwethu",
+      "note": "Literally 'our peer'; same for a man or a woman. Plural: ozakwethu."
+    },
+    "lets_start": {
+      "text": "Asiqale",
+      "note": "Also very common: masiqale."
+    },
+    "good_job": {
+      "text": "Wenze kahle!",
+      "note": "To several people: nenze kahle! Also: halala!"
+    },
+    "table_for_two": {
+      "text": "Ngicela itafula labantu ababili",
+      "note": "As a couple, sicela (we ask) is just as natural."
+    },
+    "what_recommend": {
+      "text": "Yini ongayincoma?",
+      "note": "Casual: yini emnandi lapha? (what's good here?)"
+    },
+    "not_spicy": {
+      "text": "Ngicela ungafaki upelepele",
+      "note": "Literally 'please don't add chilli'. Spicy food 'burns': kuyashisa."
+    },
+    "vegetarian_food": {
+      "text": "Ukudla okungenanyama",
+      "note": "Literally 'food without meat'. I'm vegetarian: angiyidli inyama."
+    },
+    "more_water": {
+      "text": "Ngicela amanye amanzi",
+      "note": "Amanye agrees with amanzi. More bread: ngicela esinye isinkwa."
+    },
+    "no_sugar": {
+      "text": "Ngicela ungafaki ushukela",
+      "note": "With milk: nobisi. Without milk: ngaphandle kobisi."
+    },
+    "im_full": {
+      "text": "Ngisuthi",
+      "note": "Ngisuthi, ngiyabonga is the polite way to turn down more food."
+    },
+    "takeaway": {
+      "text": "Ngicela ukuhamba nakho",
+      "note": "Literally 'I'd like to go with it'. Many simply say: ngicela i-takeaway."
+    },
+    "it_was_delicious": {
+      "text": "Bekumnandi",
+      "note": "Be- puts it in the past: kumnandi, bekumnandi."
+    },
+    "keep_change": {
+      "text": "Zigcinele ushintshi",
+      "note": "Zigcinele: 'keep it for yourself'. Also very common: ushintshi ngowakho (the change is yours)."
+    },
+    "head": {
+      "text": "Ikhanda",
+      "note": "Plural: amakhanda."
+    },
+    "stomach": {
+      "text": "Isisu",
+      "note": "Also the belly. My stomach hurts: ngiphethwe yisisu."
+    },
+    "head_hurts": {
+      "text": "Ngiphethwe yikhanda",
+      "note": "Literally 'the head has hold of me'. Also: ikhanda lami libuhlungu."
+    },
+    "have_fever": {
+      "text": "Nginomkhuhlane",
+      "note": "Umkhuhlane also covers flu. Also: umzimba wami uyashisa (my body is hot)."
+    },
+    "medicine": {
+      "text": "Umuthi",
+      "note": "Also means tree and traditional medicine. Pills: amaphilisi."
+    },
+    "call_ambulance": {
+      "text": "Shayela i-ambulensi!",
+      "note": "In South Africa dial 10177, or 112 from a cellphone."
+    },
+    "dentist": {
+      "text": "Udokotela wamazinyo",
+      "note": "Literally 'doctor of teeth'."
+    },
+    "need_rest": {
+      "text": "Ngidinga ukuphumula",
+      "note": "Also: kufanele ngiphumule (I must rest)."
+    },
+    "feel_better": {
+      "text": "Sengizizwa ngcono",
+      "note": "Se- adds 'now, already': ngizizwa (I feel), sengizizwa. Also: sengiphilile (I'm well now)."
+    },
+    "get_well": {
+      "text": "Ululame ngokushesha!",
+      "note": "Literally 'recover quickly'. To several people: nilulame ngokushesha!"
+    },
+    "lets_meet": {
+      "text": "Asihlangane",
+      "note": "Also: masihlangane. Asibonane (let's see each other) is common too."
+    },
+    "are_you_free": {
+      "text": "Ukhululekile kusasa?",
+      "note": "Also: uzotholakala kusasa? (will you be available?)"
+    },
+    "call_me": {
+      "text": "Ngicela ungishayele",
+      "note": "Fuller: ngicela ungishayele ucingo. Among friends: ngishayele."
+    },
+    "your_number": {
+      "text": "Ithini inombolo yakho yefoni?",
+      "note": "Or simply: ngicela inombolo yakho."
+    },
+    "see_you_soon": {
+      "text": "Sizobonana maduze",
+      "note": "Casually shortened: sobonana maduze."
+    },
+    "have_nice_day": {
+      "text": "Ube nosuku oluhle!",
+      "note": "To several people: nibe nosuku oluhle!"
+    },
+    "good_luck": {
+      "text": "Ngikufisela inhlanhla!",
+      "note": "Literally 'I wish you luck'. Shorter, casual: inhlanhla enhle!"
+    },
+    "happy_birthday": {
+      "text": "Usuku lokuzalwa oluhle!",
+      "note": "Also: halala ngosuku lwakho lokuzalwa!"
+    },
+    "thanks_a_lot": {
+      "text": "Ngiyabonga kakhulu",
+      "note": "Siyabonga kakhulu (we thank you) is just as common and sounds warm."
+    },
+    "miss_you": {
+      "text": "Ngiyakukhumbula",
+      "note": "Literally 'I remember you'. To several people: ngiyanikhumbula."
     }
   }
 }

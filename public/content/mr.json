@@ -489,6 +489,503 @@
     "congratulations": {
       "text": "अभिनंदन!",
       "roman": "abhinandan!"
+    },
+    "my_family": {
+      "text": "माझं कुटुंब",
+      "roman": "maajha kutumb",
+      "note": "In speech also: घरचे (gharche), 'the folks at home'."
+    },
+    "mother": {
+      "text": "आई",
+      "roman": "aai",
+      "note": "Also how you address her directly. Formal or literary: माता (maata)."
+    },
+    "father": {
+      "text": "वडील",
+      "roman": "vadil",
+      "note": "Takes the respectful plural: माझे वडील (maajhe vadil). Calling him: बाबा (baaba)."
+    },
+    "brother": {
+      "text": "भाऊ",
+      "roman": "bhaau",
+      "note": "An elder brother is also called दादा (daada)."
+    },
+    "sister": {
+      "text": "बहीण",
+      "roman": "bahin",
+      "note": "An elder sister is also called ताई (taai)."
+    },
+    "child": {
+      "text": "मूल",
+      "roman": "mool",
+      "note": "Son: मुलगा (mulga); daughter: मुलगी (mulgi). Plural: मुलं (mula)."
+    },
+    "friend": {
+      "text": "मित्र",
+      "roman": "mitra",
+      "note": "A female friend: मैत्रीण (maitrin). Casual: दोस्त (dost)."
+    },
+    "this_is_my_friend": {
+      "text": "हा माझा मित्र आहे",
+      "roman": "ha maajha mitra aahe",
+      "note": "For a female friend: ही माझी मैत्रीण आहे (hi maajhi maitrin aahe)."
+    },
+    "are_you_married": {
+      "text": "तुमचं लग्न झालं आहे का?",
+      "roman": "tumcha lagna jhaala aahe ka?",
+      "note": "Lit. 'Has your wedding taken place?' In speech often: झालंय का? (jhaalay ka?)"
+    },
+    "have_children": {
+      "text": "तुम्हाला मुलं आहेत का?",
+      "roman": "tumhaala mula aahet ka?",
+      "note": "मुलं (mula) is the plural of मूल (mool), 'child'."
+    },
+    "monday": {
+      "text": "सोमवार",
+      "roman": "somvaar",
+      "note": "-वार (-vaar) means 'day'. सोम (som) is the Moon: Moon-day, like Monday."
+    },
+    "tuesday": {
+      "text": "मंगळवार",
+      "roman": "mangalvaar",
+      "note": "मंगळ (mangal) is Mars. ळ is a retroflex l: curl the tongue back to say it."
+    },
+    "wednesday": {
+      "text": "बुधवार",
+      "roman": "budhvaar",
+      "note": "बुध (budh) is Mercury."
+    },
+    "thursday": {
+      "text": "गुरुवार",
+      "roman": "guruvaar",
+      "note": "गुरु (guru) is Jupiter."
+    },
+    "friday": {
+      "text": "शुक्रवार",
+      "roman": "shukravaar",
+      "note": "शुक्र (shukra) is Venus."
+    },
+    "saturday": {
+      "text": "शनिवार",
+      "roman": "shanivaar",
+      "note": "शनि (shani) is Saturn: Saturn-day, like Saturday."
+    },
+    "sunday": {
+      "text": "रविवार",
+      "roman": "ravivaar",
+      "note": "रवि (ravi) is the Sun: Sun-day, like Sunday."
+    },
+    "weekend": {
+      "text": "वीकेंड",
+      "roman": "weekend",
+      "note": "The usual word today. The Marathi way: शनिवार-रविवार (shanivaar-ravivaar)."
+    },
+    "what_day": {
+      "text": "आज कोणता वार आहे?",
+      "roman": "aaj konta vaar aahe?",
+      "note": "The answer: आज सोमवार आहे (aaj somvaar aahe)."
+    },
+    "next_week": {
+      "text": "पुढच्या आठवड्यात",
+      "roman": "pudhchya aathavdyaat",
+      "note": "As a noun ('next week is busy'): पुढचा आठवडा (pudhcha aathavda)."
+    },
+    "eleven": {
+      "text": "अकरा",
+      "roman": "akra",
+      "note": "Marathi digits: ११"
+    },
+    "twelve": {
+      "text": "बारा",
+      "roman": "baara",
+      "note": "Marathi digits: १२"
+    },
+    "fifteen": {
+      "text": "पंधरा",
+      "roman": "pandhra",
+      "note": "Marathi digits: १५"
+    },
+    "twenty": {
+      "text": "वीस",
+      "roman": "vees",
+      "note": "Marathi digits: २०"
+    },
+    "thirty": {
+      "text": "तीस",
+      "roman": "tees",
+      "note": "Marathi digits: ३०"
+    },
+    "fifty": {
+      "text": "पन्नास",
+      "roman": "pannaas",
+      "note": "Marathi digits: ५०"
+    },
+    "hundred": {
+      "text": "शंभर",
+      "roman": "shambhar",
+      "note": "Marathi digits: १००. In bigger numbers it becomes -शे: एकशे दहा (ekshe daha), 110."
+    },
+    "thousand": {
+      "text": "एक हजार",
+      "roman": "ek hajaar",
+      "note": "Marathi digits: १०००. Here ज sounds like 'dz': hadzaar."
+    },
+    "how_old": {
+      "text": "तुमचं वय किती आहे?",
+      "roman": "tumcha vay kiti aahe?",
+      "note": "वय (vay) means 'age'. Also common: तुमचं वय काय? (tumcha vay kaay?)"
+    },
+    "years_old": {
+      "text": "मी … वर्षांचा आहे",
+      "roman": "mi … varshaancha aahe",
+      "note": "A woman says: मी … वर्षांची आहे (mi … varshaanchi aahe)."
+    },
+    "red": {
+      "text": "लाल",
+      "roman": "laal",
+      "note": "Same form for every gender. Also, more traditional: तांबडा (taambda)."
+    },
+    "blue": {
+      "text": "निळा",
+      "roman": "nila",
+      "note": "With feminine nouns: निळी (nili); with neuter ones: निळं (nila, with a light nasal)."
+    },
+    "green": {
+      "text": "हिरवा",
+      "roman": "hirva",
+      "note": "Feminine: हिरवी (hirvi); neuter: हिरवं (hirva)."
+    },
+    "yellow": {
+      "text": "पिवळा",
+      "roman": "pivla",
+      "note": "Feminine: पिवळी (pivli); neuter: पिवळं (pivla)."
+    },
+    "black": {
+      "text": "काळा",
+      "roman": "kaala",
+      "note": "Feminine: काळी (kaali); neuter: काळं (kaala)."
+    },
+    "white": {
+      "text": "पांढरा",
+      "roman": "paandhra",
+      "note": "Feminine: पांढरी (paandhri); neuter: पांढरं (paandhra)."
+    },
+    "what_colour": {
+      "text": "याचा रंग कोणता आहे?",
+      "roman": "yaacha rang konta aahe?",
+      "note": "Also: हे कोणत्या रंगाचं आहे? (he kontya rangaacha aahe?)"
+    },
+    "this_one": {
+      "text": "हे",
+      "roman": "he",
+      "note": "For things in general. With a masculine noun: हा (ha); feminine: ही (hi). At the counter: हे द्या (he dya)."
+    },
+    "that_one": {
+      "text": "ते",
+      "roman": "te",
+      "note": "For things in general. With a masculine noun: तो (to); feminine: ती (ti)."
+    },
+    "another_one": {
+      "text": "अजून एक द्या",
+      "roman": "ajun ek dya",
+      "note": "Also: आणखी एक (aankhi ek). Add ना (na) to soften it: अजून एक द्या ना (ajun ek dya na)."
+    },
+    "its_hot": {
+      "text": "खूप गरम होतंय",
+      "roman": "khoop garam hotay",
+      "note": "For sticky, humid heat: खूप उकडतंय (khoop ukadtay)."
+    },
+    "its_cold": {
+      "text": "खूप थंडी आहे",
+      "roman": "khoop thandi aahe",
+      "note": "If you feel cold: मला थंडी वाजतेय (mala thandi vaajtey)."
+    },
+    "its_raining": {
+      "text": "पाऊस पडतोय",
+      "roman": "paaus padtoy",
+      "note": "Lit. 'the rain is falling'. The monsoon season is पावसाळा (paavsaala)."
+    },
+    "its_sunny": {
+      "text": "ऊन पडलंय",
+      "roman": "oon padlay",
+      "note": "ऊन (oon) is sunshine and the sun's heat: खूप ऊन आहे (khoop oon aahe), 'the sun is fierce'."
+    },
+    "its_windy": {
+      "text": "खूप वारा आहे",
+      "roman": "khoop vaara aahe",
+      "note": "Also: वारा सुटलाय (vaara sutlaay), 'the wind has picked up'."
+    },
+    "weather_today": {
+      "text": "आज हवा कशी आहे?",
+      "roman": "aaj hava kashi aahe?",
+      "note": "हवा (hava) means both air and weather. Forecasts say हवामान (havaamaan)."
+    },
+    "beautiful_day": {
+      "text": "आज किती छान दिवस आहे!",
+      "roman": "aaj kiti chhaan divas aahe!",
+      "note": "About the weather itself: आज हवा छान आहे (aaj hava chhaan aahe)."
+    },
+    "umbrella": {
+      "text": "छत्री",
+      "roman": "chhatri",
+      "note": "A must in the monsoon, roughly June to September."
+    },
+    "summer": {
+      "text": "उन्हाळा",
+      "roman": "unhaala",
+      "note": "Roughly March to May, before the monsoon."
+    },
+    "winter": {
+      "text": "हिवाळा",
+      "roman": "hivaala",
+      "note": "Roughly November to February. The third season is पावसाळा (paavsaala), the monsoon."
+    },
+    "have_reservation": {
+      "text": "माझं बुकिंग आहे",
+      "roman": "maajha booking aahe",
+      "note": "Formal word, as on train tickets: आरक्षण (aarakshan)."
+    },
+    "room": {
+      "text": "खोली",
+      "roman": "kholi",
+      "note": "In hotels people mostly say रूम (room)."
+    },
+    "passport": {
+      "text": "पासपोर्ट",
+      "roman": "passport"
+    },
+    "luggage": {
+      "text": "सामान",
+      "roman": "saamaan",
+      "note": "Also means 'things, stuff' in general."
+    },
+    "wifi_password": {
+      "text": "वायफायचा पासवर्ड काय आहे?",
+      "roman": "wificha password kaay aahe?"
+    },
+    "check_out_time": {
+      "text": "चेकआउट किती वाजता आहे?",
+      "roman": "checkout kiti vaajta aahe?",
+      "note": "किती वाजता (kiti vaajta) means 'at what time': works for trains, shops, anything."
+    },
+    "map": {
+      "text": "नकाशा",
+      "roman": "nakaasha",
+      "note": "On a phone most people just say मॅप (map)."
+    },
+    "bus": {
+      "text": "बस",
+      "roman": "bus",
+      "note": "The red state-run intercity buses are called एसटी (ST)."
+    },
+    "next_train": {
+      "text": "पुढची ट्रेन कधी आहे?",
+      "roman": "pudhchi train kadhi aahe?",
+      "note": "Many say गाडी (gaadi) for a train. In Mumbai the suburban train is the लोकल (local)."
+    },
+    "is_this_seat_free": {
+      "text": "ही जागा रिकामी आहे का?",
+      "roman": "hi jaaga rikaami aahe ka?",
+      "note": "Also very natural: इथे कोणी बसलंय का? (ithe koni baslay ka?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "तुम्ही काय करता?",
+      "roman": "tumhi kaay karta?",
+      "note": "More specific: तुम्ही काय काम करता? (tumhi kaay kaam karta?)"
+    },
+    "i_work_in": {
+      "text": "मी …मध्ये काम करतो",
+      "roman": "mi …madhye kaam karto",
+      "note": "A woman says: मी …मध्ये काम करते (mi …madhye kaam karte)."
+    },
+    "im_student": {
+      "text": "मी विद्यार्थी आहे",
+      "roman": "mi vidyaarthi aahe",
+      "note": "A woman says: मी विद्यार्थिनी आहे (mi vidyaarthini aahe)."
+    },
+    "office": {
+      "text": "ऑफिस",
+      "roman": "office",
+      "note": "Formal and on signs: कार्यालय (kaaryaalay)."
+    },
+    "meeting": {
+      "text": "मीटिंग",
+      "roman": "meeting",
+      "note": "Formal: बैठक (baithak)."
+    },
+    "im_busy": {
+      "text": "मी कामात आहे",
+      "roman": "mi kaamaat aahe",
+      "note": "Lit. 'I'm in work'. Also common: मी बिझी आहे (mi busy aahe)."
+    },
+    "day_off": {
+      "text": "सुट्टी",
+      "roman": "sutti",
+      "note": "Also a holiday or vacation. 'I'm off today': आज मला सुट्टी आहे (aaj mala sutti aahe)."
+    },
+    "colleague": {
+      "text": "सहकारी",
+      "roman": "sahakaari",
+      "note": "Same word for a woman, but 'my' changes: माझी सहकारी (maajhi sahakaari)."
+    },
+    "lets_start": {
+      "text": "चला, सुरू करूया",
+      "roman": "chala, suru karuya",
+      "note": "चला (chala, said 'tsala'), 'come on', opens many 'let's…' phrases."
+    },
+    "good_job": {
+      "text": "छान काम केलंत!",
+      "roman": "chhaan kaam kelat!",
+      "note": "To a child or a junior: शाब्बास! (shaabbaas!)"
+    },
+    "table_for_two": {
+      "text": "दोघांसाठी टेबल मिळेल का?",
+      "roman": "doghaansaathi table milel ka?",
+      "note": "Lit. 'Can we get a table for two people?' For four: चौघांसाठी (chaughaansaathi)."
+    },
+    "what_recommend": {
+      "text": "इथे काय चांगलं मिळतं?",
+      "roman": "ithe kaay chaangla milta?",
+      "note": "Lit. 'What's good here?' More formal: तुम्ही काय सुचवाल? (tumhi kaay suchvaal?)"
+    },
+    "not_spicy": {
+      "text": "तिखट नको",
+      "roman": "tikhat nako",
+      "note": "Mild rather than none: कमी तिखट करा (kami tikhat kara)."
+    },
+    "vegetarian_food": {
+      "text": "शाकाहारी जेवण",
+      "roman": "shaakaahaari jevan",
+      "note": "Menus and signs say व्हेज (veg); meat dishes are नॉनव्हेज (non-veg)."
+    },
+    "more_water": {
+      "text": "अजून पाणी द्या",
+      "roman": "ajun paani dya",
+      "note": "Softer: जरा अजून पाणी द्या ना (jara ajun paani dya na)."
+    },
+    "no_sugar": {
+      "text": "साखर नको",
+      "roman": "saakhar nako",
+      "note": "Tea comes sweet unless you say so. Less sugar: साखर कमी (saakhar kami)."
+    },
+    "im_full": {
+      "text": "माझं पोट भरलं",
+      "roman": "maajha pot bharla",
+      "note": "To refuse a second helping: नको, पुरे (nako, pure)."
+    },
+    "takeaway": {
+      "text": "पार्सल करून द्या",
+      "roman": "parcel karun dya",
+      "note": "In India takeaway food is called पार्सल (parcel)."
+    },
+    "it_was_delicious": {
+      "text": "जेवण खूप छान होतं",
+      "roman": "jevan khoop chhaan hota",
+      "note": "Praising the cook: तुमच्या हाताला चव आहे (tumchya haataala chav aahe), 'your hand has taste'."
+    },
+    "keep_change": {
+      "text": "बाकीचे पैसे ठेवा",
+      "roman": "baakiche paise theva",
+      "note": "Or wave it off with: राहू द्या (raahu dya), 'let it be'."
+    },
+    "head": {
+      "text": "डोकं",
+      "roman": "doka",
+      "note": "Ends in a light nasal sound, like मोठं (motha)."
+    },
+    "stomach": {
+      "text": "पोट",
+      "roman": "pot",
+      "note": "'My stomach hurts': पोट दुखतंय (pot dukhtay)."
+    },
+    "head_hurts": {
+      "text": "माझं डोकं दुखतंय",
+      "roman": "maajha doka dukhtay",
+      "note": "Works for any body part: माझा पाय दुखतोय (maajha paay dukhtoy), 'my leg hurts'."
+    },
+    "have_fever": {
+      "text": "मला ताप आला आहे",
+      "roman": "mala taap aala aahe",
+      "note": "Lit. 'fever has come to me'. In speech: ताप आलाय (taap aalaay)."
+    },
+    "medicine": {
+      "text": "औषध",
+      "roman": "aushadh",
+      "note": "A pill or tablet: गोळी (goli)."
+    },
+    "call_ambulance": {
+      "text": "ॲम्ब्युलन्स बोलवा!",
+      "roman": "ambulance bolva!",
+      "note": "Formal word: रुग्णवाहिका (rugnavaahika). Ambulance number in Maharashtra: 108."
+    },
+    "dentist": {
+      "text": "दातांचा डॉक्टर",
+      "roman": "daataancha doctor",
+      "note": "Also common: डेंटिस्ट (dentist). Formal: दंतवैद्य (dantavaidya)."
+    },
+    "need_rest": {
+      "text": "मला आराम करायला हवा",
+      "roman": "mala aaraam karaayla hava",
+      "note": "Also: मला आरामाची गरज आहे (mala aaraamaachi garaj aahe)."
+    },
+    "feel_better": {
+      "text": "आता मला बरं वाटतंय",
+      "roman": "aata mala bara vaattay",
+      "note": "बरं (bara) on its own also means 'OK, all right'."
+    },
+    "get_well": {
+      "text": "लवकर बरे व्हा!",
+      "roman": "lavkar bare vha!",
+      "note": "To a woman: लवकर बऱ्या व्हा! (lavkar barya vha!) To a friend: लवकर बरा हो! (lavkar bara ho!)"
+    },
+    "lets_meet": {
+      "text": "आपण भेटूया",
+      "roman": "aapan bhetuya",
+      "note": "Vaguer and very common: कधीतरी भेटूया (kadhitari bhetuya), 'let's meet sometime'."
+    },
+    "are_you_free": {
+      "text": "तुम्हाला उद्या वेळ आहे का?",
+      "roman": "tumhaala udya vel aahe ka?",
+      "note": "Lit. 'Do you have time tomorrow?' Also: उद्या मोकळे आहात का? (udya mokle aahat ka?); to a woman: मोकळ्या (moklya)."
+    },
+    "call_me": {
+      "text": "मला फोन करा",
+      "roman": "mala phone kara",
+      "note": "Casual: मला फोन कर (mala phone kar)."
+    },
+    "your_number": {
+      "text": "तुमचा फोन नंबर काय आहे?",
+      "roman": "tumcha phone number kaay aahe?",
+      "note": "Softer: तुमचा नंबर द्याल का? (tumcha number dyaal ka?), 'could I have your number?'"
+    },
+    "see_you_soon": {
+      "text": "लवकरच भेटू",
+      "roman": "lavkarach bhetu"
+    },
+    "have_nice_day": {
+      "text": "तुमचा दिवस छान जावो!",
+      "roman": "tumcha divas chhaan jaavo!",
+      "note": "Mostly written, e.g. in messages. In person many just say it in English."
+    },
+    "good_luck": {
+      "text": "शुभेच्छा!",
+      "roman": "shubhechchha!",
+      "note": "Lit. 'good wishes'. Before an exam or interview most people say ऑल द बेस्ट (all the best)."
+    },
+    "happy_birthday": {
+      "text": "वाढदिवसाच्या हार्दिक शुभेच्छा!",
+      "roman": "vaadhdivasaachya haardik shubhechchha!",
+      "note": "Lit. 'heartfelt wishes on your birthday'. वाढदिवस (vaadhdivas) means 'growing day'."
+    },
+    "thanks_a_lot": {
+      "text": "खूप खूप धन्यवाद",
+      "roman": "khoop khoop dhanyavaad",
+      "note": "Also: तुमचे खूप आभार (tumche khoop aabhaar)."
+    },
+    "miss_you": {
+      "text": "मला तुझी आठवण येते",
+      "roman": "mala tujhi aathvan yete",
+      "note": "Lit. 'your memory comes to me'. Right now: तुझी खूप आठवण येतेय (tujhi khoop aathvan yetey)."
     }
   }
 }

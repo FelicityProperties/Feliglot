@@ -366,6 +366,392 @@
     "congratulations": {
       "text": "Ina taya ka murna!",
       "note": "To a woman: ina taya ki murna! Also: madalla! (well done!)"
+    },
+    "my_family": {
+      "text": "Iyalina",
+      "note": "Iyali usually means your wife and children; for relatives in general say dangina."
+    },
+    "mother": {
+      "text": "Uwa",
+      "note": "Your mother, politely: mahaifiyarka; uwarka on its own can sound like an insult. Children say Mama or Inna."
+    },
+    "father": {
+      "text": "Uba",
+      "note": "Your father, politely: mahaifinka; ubanka on its own can sound like an insult. Children say Baba."
+    },
+    "brother": {
+      "text": "Ɗan'uwa",
+      "note": "Older brother: yaya; younger brother: ƙane. Ɗan'uwa can also mean any close relative."
+    },
+    "sister": {
+      "text": "'Yar'uwa",
+      "note": "Older sister: yaya; younger sister: ƙanwa."
+    },
+    "child": {
+      "text": "Ɗa",
+      "note": "Daughter: 'ya. Children: 'ya'ya. A kid in general is yaro."
+    },
+    "friend": {
+      "text": "Aboki",
+      "note": "Female friend: abokiya. Between women, a friend is ƙawa."
+    },
+    "this_is_my_friend": {
+      "text": "Wannan abokina ne",
+      "note": "For a female friend: wannan abokiyata ce (between women: wannan ƙawata ce)."
+    },
+    "are_you_married": {
+      "text": "Kana da aure?",
+      "note": "To a woman: kina da aure? Answer: ina da aure (I'm married)."
+    },
+    "have_children": {
+      "text": "Kana da 'ya'ya?",
+      "note": "To a woman: kina da 'ya'ya?"
+    },
+    "monday": {
+      "text": "Litinin",
+      "note": "On Monday: ranar Litinin. The same pattern works for every day."
+    },
+    "tuesday": {
+      "text": "Talata"
+    },
+    "wednesday": {
+      "text": "Laraba"
+    },
+    "thursday": {
+      "text": "Alhamis"
+    },
+    "friday": {
+      "text": "Juma'a",
+      "note": "Also the name of the Friday congregational prayer."
+    },
+    "saturday": {
+      "text": "Asabar"
+    },
+    "sunday": {
+      "text": "Lahadi"
+    },
+    "weekend": {
+      "text": "Ƙarshen mako",
+      "note": "Literally 'end of the week'. Many people also say sati for week."
+    },
+    "what_day": {
+      "text": "Wace rana ce yau?",
+      "note": "Answer like: yau Juma'a ce (today is Friday)."
+    },
+    "next_week": {
+      "text": "Mako mai zuwa",
+      "note": "Also: sati mai zuwa. Last week: makon da ya wuce."
+    },
+    "eleven": {
+      "text": "Goma sha ɗaya",
+      "note": "In 11–19, sha joins ten and the unit: goma sha biyu, goma sha uku…"
+    },
+    "twelve": {
+      "text": "Goma sha biyu"
+    },
+    "fifteen": {
+      "text": "Goma sha biyar"
+    },
+    "twenty": {
+      "text": "Ashirin",
+      "note": "Tens and units are joined by da: ashirin da ɗaya (21)."
+    },
+    "thirty": {
+      "text": "Talatin"
+    },
+    "fifty": {
+      "text": "Hamsin"
+    },
+    "hundred": {
+      "text": "Ɗari",
+      "note": "Two hundred: ɗari biyu."
+    },
+    "thousand": {
+      "text": "Dubu",
+      "note": "Two thousand: dubu biyu."
+    },
+    "how_old": {
+      "text": "Shekarunka nawa?",
+      "note": "To a woman: shekarunki nawa?"
+    },
+    "years_old": {
+      "text": "Ina da shekara …",
+      "note": "Example: ina da shekara talatin (I'm thirty). Also: shekaruna … (my years are …)."
+    },
+    "red": {
+      "text": "Ja",
+      "note": "Same with feminine nouns. Plural: jajaye."
+    },
+    "blue": {
+      "text": "Shuɗi",
+      "note": "Feminine: shuɗiya."
+    },
+    "green": {
+      "text": "Kore",
+      "note": "Feminine: koriya. Plural: koraye."
+    },
+    "yellow": {
+      "text": "Rawaya",
+      "note": "Also: ruwan ɗorawa, named after the yellow pulp of the locust bean."
+    },
+    "black": {
+      "text": "Baƙi",
+      "note": "Feminine: baƙa. Plural: baƙaƙe."
+    },
+    "white": {
+      "text": "Fari",
+      "note": "Feminine: fara. Plural: farare."
+    },
+    "what_colour": {
+      "text": "Wane launi ne?",
+      "note": "Launi means colour; kala is also very common."
+    },
+    "this_one": {
+      "text": "Wannan",
+      "note": "Plural: waɗannan (these ones)."
+    },
+    "that_one": {
+      "text": "Wancan",
+      "note": "With a feminine noun: waccan. Plural: waɗancan."
+    },
+    "another_one": {
+      "text": "Don Allah, ƙara mini ɗaya",
+      "note": "Literally 'add one for me'. Also: wani ɗaya, don Allah."
+    },
+    "its_hot": {
+      "text": "Ana zafi",
+      "note": "Also: akwai zafi. Very hot: ana zafi sosai."
+    },
+    "its_cold": {
+      "text": "Ana sanyi",
+      "note": "Also: akwai sanyi."
+    },
+    "its_raining": {
+      "text": "Ana ruwa",
+      "note": "Also: ana ruwan sama (sama is the sky)."
+    },
+    "its_sunny": {
+      "text": "Rana ta fito",
+      "note": "Literally 'the sun has come out'. Rana means both sun and day."
+    },
+    "its_windy": {
+      "text": "Ana iska",
+      "note": "Iska also means air. Strong wind: iska mai ƙarfi."
+    },
+    "weather_today": {
+      "text": "Yaya yanayi yake yau?",
+      "note": "Yanayi is the weather word used in forecasts."
+    },
+    "beautiful_day": {
+      "text": "Yau gari ya yi kyau",
+      "note": "Gari (town) also means the weather around you: gari ya yi sanyi (it has turned cold)."
+    },
+    "umbrella": {
+      "text": "Laima"
+    },
+    "summer": {
+      "text": "Bazara",
+      "note": "The hot season before the rains, about March to May. Rainy season: damina."
+    },
+    "winter": {
+      "text": "Hunturu",
+      "note": "The cool, dry harmattan season, about December to February."
+    },
+    "have_reservation": {
+      "text": "An ajiye mini ɗaki",
+      "note": "Literally 'a room has been kept for me'. Many people simply say: na yi booking."
+    },
+    "room": {
+      "text": "Ɗaki",
+      "note": "My room: ɗakina. Room number: lambar ɗaki."
+    },
+    "passport": {
+      "text": "Fasfo"
+    },
+    "luggage": {
+      "text": "Kaya",
+      "note": "Means belongings in general. My luggage: kayana."
+    },
+    "wifi_password": {
+      "text": "Mene ne kalmar sirrin Wi-Fi?",
+      "note": "Most people just say password: mene ne password ɗin Wi-Fi?"
+    },
+    "check_out_time": {
+      "text": "Ƙarfe nawa ya kamata in bar ɗakin?",
+      "note": "Literally 'at what time should I leave the room?'. Hotel staff often just say check-out."
+    },
+    "map": {
+      "text": "Taswira"
+    },
+    "bus": {
+      "text": "Bas",
+      "note": "Bus park: tashar mota."
+    },
+    "next_train": {
+      "text": "Yaushe jirgin ƙasa na gaba zai tashi?"
+    },
+    "is_this_seat_free": {
+      "text": "Akwai wani a nan?",
+      "note": "Literally 'is there someone here?'. Also: zan iya zama a nan? (may I sit here?)"
+    },
+    "what_do_you_do": {
+      "text": "Wane aiki kake yi?",
+      "note": "To a woman: wane aiki kike yi?"
+    },
+    "i_work_in": {
+      "text": "Ina aiki a …",
+      "note": "Example: ina aiki a banki (I work in a bank)."
+    },
+    "im_student": {
+      "text": "Ni ɗalibi ne",
+      "note": "A woman says: ni ɗaliba ce."
+    },
+    "office": {
+      "text": "Ofis",
+      "note": "Also: ofishi. My office: ofishina."
+    },
+    "meeting": {
+      "text": "Taro",
+      "note": "At work many people also say mitin."
+    },
+    "im_busy": {
+      "text": "Ina da aiki",
+      "note": "Literally 'I have work'. Also: ba ni da lokaci (I have no time)."
+    },
+    "day_off": {
+      "text": "Ranar hutu",
+      "note": "Hutu means rest or a holiday."
+    },
+    "colleague": {
+      "text": "Abokin aiki",
+      "note": "Female colleague: abokiyar aiki."
+    },
+    "lets_start": {
+      "text": "Mu fara",
+      "note": "Many people add bismillah first: bismillah, mu fara."
+    },
+    "good_job": {
+      "text": "Ka yi ƙoƙari!",
+      "note": "To a woman: kin yi ƙoƙari! Also: madalla! or da kyau!"
+    },
+    "table_for_two": {
+      "text": "Don Allah, tebur na mutum biyu"
+    },
+    "what_recommend": {
+      "text": "Me ya fi daɗi a nan?",
+      "note": "Literally 'what is tastiest here?', the usual way to ask for a tip."
+    },
+    "not_spicy": {
+      "text": "Don Allah, kada a sa yaji",
+      "note": "Yaji is hot pepper spice. Just a little: yaji kaɗan."
+    },
+    "vegetarian_food": {
+      "text": "Abinci maras nama",
+      "note": "Literally 'food without meat'. About yourself: ba na cin nama (I don't eat meat)."
+    },
+    "more_water": {
+      "text": "Don Allah, ƙara mini ruwa",
+      "note": "Ƙara mini works for more of anything: ƙara mini shayi."
+    },
+    "no_sugar": {
+      "text": "Don Allah, kada a sa sukari",
+      "note": "Also simply: ba sukari."
+    },
+    "im_full": {
+      "text": "Na ƙoshi",
+      "note": "People often add alhamdulillah (praise be to God) after a meal."
+    },
+    "takeaway": {
+      "text": "Zan tafi da shi, don Allah",
+      "note": "Literally 'I'll leave with it'. Also: a zuba mini a leda (put it in a bag for me)."
+    },
+    "it_was_delicious": {
+      "text": "Abincin ya yi daɗi",
+      "note": "To stress it: ya yi daɗi sosai (it was really delicious)."
+    },
+    "keep_change": {
+      "text": "Ka riƙe canjin",
+      "note": "To a woman: ki riƙe canjin. Also simply: bar shi (leave it)."
+    },
+    "head": {
+      "text": "Kai",
+      "note": "Kai also means 'you' (to a man) and 'hey!'."
+    },
+    "stomach": {
+      "text": "Ciki",
+      "note": "Ciki also means 'inside'. Stomach ache: ciwon ciki."
+    },
+    "head_hurts": {
+      "text": "Kaina yana ciwo",
+      "note": "Also: ina ciwon kai (I have a headache)."
+    },
+    "have_fever": {
+      "text": "Ina da zazzaɓi",
+      "note": "Malaria is often called zazzaɓin cizon sauro (fever from mosquito bites)."
+    },
+    "medicine": {
+      "text": "Magani",
+      "note": "Also means a cure or remedy, traditional ones included."
+    },
+    "call_ambulance": {
+      "text": "A kira motar asibiti!",
+      "note": "Literally 'call the hospital car'."
+    },
+    "dentist": {
+      "text": "Likitan haƙori",
+      "note": "Haƙori means tooth. Toothache: ciwon haƙori."
+    },
+    "need_rest": {
+      "text": "Ina buƙatar hutu",
+      "note": "Also: ina so in ɗan huta (I'd like to rest a little)."
+    },
+    "feel_better": {
+      "text": "Na ji sauƙi",
+      "note": "Asked ya jiki? (how are you feeling?), people reply da sauƙi (better)."
+    },
+    "get_well": {
+      "text": "Allah ya ƙara sauƙi!",
+      "note": "Said to anyone who is ill. Also: Allah ya ba ka lafiya! (to a woman: ba ki)."
+    },
+    "lets_meet": {
+      "text": "Mu haɗu",
+      "note": "Example: mu haɗu gobe (let's meet tomorrow)."
+    },
+    "are_you_free": {
+      "text": "Kana da lokaci gobe?",
+      "note": "To a woman: kina da lokaci gobe?"
+    },
+    "call_me": {
+      "text": "Don Allah, ka kira ni",
+      "note": "To a woman: don Allah, ki kira ni. Also common: ka buga mini waya."
+    },
+    "your_number": {
+      "text": "Don Allah, mene ne lambar wayarka?",
+      "note": "To a woman: don Allah, mene ne lambar wayarki?"
+    },
+    "see_you_soon": {
+      "text": "Sai nan ba da jimawa ba",
+      "note": "For later the same day, sai anjima is usual."
+    },
+    "have_nice_day": {
+      "text": "A yini lafiya!",
+      "note": "Said when parting during the day. In the evening: a kwana lafiya."
+    },
+    "good_luck": {
+      "text": "Allah ya ba da sa'a!",
+      "note": "Sa'a means luck. Also: Allah ya taimaka!"
+    },
+    "happy_birthday": {
+      "text": "Barka da ranar haihuwa!",
+      "note": "Often followed by: Allah ya ƙara shekaru masu albarka (may God add blessed years)."
+    },
+    "thanks_a_lot": {
+      "text": "Na gode sosai",
+      "note": "Also: na gode ƙwarai. A warm extra: Allah ya saka da alheri (God reward you)."
+    },
+    "miss_you": {
+      "text": "Ina kewarka",
+      "note": "To a woman: ina kewarki. On meeting again: na yi kewarka (I've missed you)."
     }
   }
 }

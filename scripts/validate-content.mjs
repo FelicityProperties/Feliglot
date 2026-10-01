@@ -1,19 +1,25 @@
 // Checks every language file in public/content against the shared course.
-// Usage: node scripts/validate-content.mjs [code ...]   (no codes = all)
+// Usage: node scripts/validate-content.mjs [--l2] [code ...]   (no codes = all)
+//   --l2  check the Level 2 drafts in public/content/l2/<code>.json against
+//         the Level 2 phrases only (they are merged in by scripts/merge-l2.mjs)
 // Exit code 1 on any error. Warnings are printed but do not fail.
 import { readFileSync, existsSync } from "node:fs";
 import { UNITS } from "../src/lib/curriculum.ts";
 import { LANGUAGES } from "../src/lib/languages.ts";
 
-const root = new URL("../public/content/", import.meta.url);
-const wanted = process.argv.slice(2);
-const langs = wanted.length ? LANGUAGES.filter((l) => wanted.includes(l.code)) : LANGUAGES;
+const L2 = process.argv.includes("--l2");
+const root = new URL(L2 ? "../public/content/l2/" : "../public/content/", import.meta.url);
+const wanted = process.argv.slice(2).filter((a) => a !== "--l2");
+// English is generated from the curriculum, so it has no Level 2 draft.
+const pool = L2 ? LANGUAGES.filter((l) => l.code !== "en") : LANGUAGES;
+const langs = wanted.length ? pool.filter((l) => wanted.includes(l.code)) : pool;
 if (wanted.length && langs.length !== wanted.length) {
   console.error("Unknown language code in:", wanted.join(" "));
   process.exit(1);
 }
 
-const concepts = UNITS.flatMap((u) => u.concepts);
+const units = L2 ? UNITS.filter((u) => u.level === 2) : UNITS;
+const concepts = units.flatMap((u) => u.concepts);
 const ids = concepts.map((c) => c.id);
 const en = Object.fromEntries(concepts.map((c) => [c.id, c.en]));
 let errors = 0;
@@ -72,7 +78,7 @@ for (const lang of langs) {
   }
   // Duplicate texts inside one unit: the quiz never offers them as rival
   // options, but flag them so a reviewer can confirm they are really the same.
-  for (const u of UNITS) {
+  for (const u of units) {
     const seen = new Map();
     for (const c of u.concepts) {
       const t = phrases[c.id]?.text?.toLowerCase();

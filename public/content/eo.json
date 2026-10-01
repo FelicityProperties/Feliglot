@@ -381,6 +381,400 @@
     "congratulations": {
       "text": "Gratulon!",
       "note": "Also: Mi gratulas vin! Happy birthday: Feliĉan naskiĝtagon!"
+    },
+    "my_family": {
+      "text": "Mia familio",
+      "note": "The i and o are separate syllables: fa-mi-LI-o."
+    },
+    "mother": {
+      "text": "Patrino",
+      "note": "Patro (father) + -in- (female). Everyday word: panjo (mum)."
+    },
+    "father": {
+      "text": "Patro",
+      "note": "Everyday word: paĉjo (dad). Both parents: gepatroj (ge- = both sexes)."
+    },
+    "brother": {
+      "text": "Frato",
+      "note": "Brothers and sisters together: gefratoj."
+    },
+    "sister": {
+      "text": "Fratino",
+      "note": "Frato (brother) + -in- (female), just like patro → patrino."
+    },
+    "child": {
+      "text": "Infano",
+      "note": "Son: filo. Daughter: filino. Infano also means any young child."
+    },
+    "friend": {
+      "text": "Amiko",
+      "note": "A female friend: amikino. Friends of both sexes: geamikoj."
+    },
+    "this_is_my_friend": {
+      "text": "Jen mia amiko",
+      "note": "For a female friend: Jen mia amikino. Jen means 'here is'."
+    },
+    "are_you_married": {
+      "text": "Ĉu vi estas edziĝinta?",
+      "note": "To a woman: Ĉu vi estas edziniĝinta? Some speakers now use edziĝinta for both."
+    },
+    "have_children": {
+      "text": "Ĉu vi havas infanojn?",
+      "note": "-j makes the plural, -n marks the object: infano → infanojn."
+    },
+    "monday": {
+      "text": "lundo",
+      "note": "Days are not capitalised. On Monday: lundon or lunde."
+    },
+    "tuesday": {
+      "text": "mardo",
+      "note": "Every Tuesday: ĉiun mardon."
+    },
+    "wednesday": {
+      "text": "merkredo",
+      "note": "Stress mer-KRE-do, as always on the second-to-last syllable."
+    },
+    "thursday": {
+      "text": "ĵaŭdo",
+      "note": "Ĵ sounds like s in 'measure'; aŭ like 'ow' in 'now'."
+    },
+    "friday": {
+      "text": "vendredo",
+      "note": "Last Friday: pasintan vendredon. Next Friday: venontan vendredon."
+    },
+    "saturday": {
+      "text": "sabato"
+    },
+    "sunday": {
+      "text": "dimanĉo",
+      "note": "Ĉ sounds like ch in 'church': di-MAN-ĉo."
+    },
+    "weekend": {
+      "text": "Semajnfino",
+      "note": "Semajno (week) + fino (end). At the weekend: dum la semajnfino."
+    },
+    "what_day": {
+      "text": "Kiu tago estas hodiaŭ?",
+      "note": "Answer: Hodiaŭ estas lundo. The date: Kiu dato estas hodiaŭ?"
+    },
+    "next_week": {
+      "text": "Venontsemajne",
+      "note": "Venonta (coming) + semajno, with -e for 'when'. Also: la venontan semajnon."
+    },
+    "eleven": {
+      "text": "Dek unu",
+      "note": "Simply ten + one, as two words. Twelve to nineteen work the same way."
+    },
+    "twelve": {
+      "text": "Dek du"
+    },
+    "fifteen": {
+      "text": "Dek kvin"
+    },
+    "twenty": {
+      "text": "Dudek",
+      "note": "Two tens, written as one word. 21: dudek unu."
+    },
+    "thirty": {
+      "text": "Tridek"
+    },
+    "fifty": {
+      "text": "Kvindek",
+      "note": "Stress the first part: KVIN-dek."
+    },
+    "hundred": {
+      "text": "Cent",
+      "note": "C sounds like ts: TSENT. No 'one' needed. 200: ducent."
+    },
+    "thousand": {
+      "text": "Mil",
+      "note": "No 'one' needed. 2000: du mil (two words, unlike ducent). A million: miliono."
+    },
+    "how_old": {
+      "text": "Kiom aĝa vi estas?",
+      "note": "Also: Kiom da jaroj vi havas?"
+    },
+    "years_old": {
+      "text": "Mi estas … jarojn aĝa",
+      "note": "For example: Mi estas dudek jarojn aĝa. Also very common: Mi havas … jarojn."
+    },
+    "red": {
+      "text": "Ruĝa",
+      "note": "Adjectives end in -a: ruĝa domo (a red house)."
+    },
+    "blue": {
+      "text": "Blua",
+      "note": "Light blue: helblua. Dark blue: malhelblua."
+    },
+    "green": {
+      "text": "Verda",
+      "note": "Esperanto's own colour: its symbol is la verda stelo (the green star)."
+    },
+    "yellow": {
+      "text": "Flava"
+    },
+    "black": {
+      "text": "Nigra"
+    },
+    "white": {
+      "text": "Blanka",
+      "note": "With plural things add -j: blankaj ŝuoj (white shoes)."
+    },
+    "what_colour": {
+      "text": "Kiun koloron ĝi havas?",
+      "note": "Also: Kiukolora ĝi estas?"
+    },
+    "this_one": {
+      "text": "Ĉi tiun",
+      "note": "Ends in -n as the thing you want: Ĉi tiun, mi petas."
+    },
+    "that_one": {
+      "text": "Tiun",
+      "note": "Add ĉi to bring it close: ĉi tiun (this one). To stress the distance: tiun tie."
+    },
+    "another_one": {
+      "text": "Ankoraŭ unu, mi petas",
+      "note": "A different one instead: Alian, mi petas."
+    },
+    "its_hot": {
+      "text": "Estas varme",
+      "note": "No word for 'it', and the -e ending is used. Very hot: Estas varmege."
+    },
+    "its_cold": {
+      "text": "Estas malvarme",
+      "note": "Mal- again: varme (warm) → malvarme (cold)."
+    },
+    "its_raining": {
+      "text": "Pluvas",
+      "note": "Weather verbs need no subject: Pluvas, Neĝas (it's snowing)."
+    },
+    "its_sunny": {
+      "text": "La suno brilas",
+      "note": "Literally 'the sun is shining'. Also heard: Estas sune."
+    },
+    "its_windy": {
+      "text": "Estas vente",
+      "note": "Also: Blovas forta vento (A strong wind is blowing)."
+    },
+    "weather_today": {
+      "text": "Kia estas la vetero hodiaŭ?",
+      "note": "Kia asks 'what kind of': Kia homo? (What kind of person?)"
+    },
+    "beautiful_day": {
+      "text": "Estas bela tago",
+      "note": "Even more: Kia belega tago! (What a gorgeous day!)"
+    },
+    "umbrella": {
+      "text": "Ombrelo",
+      "note": "A sunshade is a sunombrelo."
+    },
+    "summer": {
+      "text": "Somero",
+      "note": "In summer: somere (the -e ending means 'during')."
+    },
+    "winter": {
+      "text": "Vintro",
+      "note": "In winter: vintre. Spring: printempo. Autumn: aŭtuno."
+    },
+    "have_reservation": {
+      "text": "Mi havas rezervon",
+      "note": "Also: Mi rezervis ĉambron (I booked a room)."
+    },
+    "room": {
+      "text": "Ĉambro",
+      "note": "Single room: unulita ĉambro. Double room: dulita ĉambro."
+    },
+    "passport": {
+      "text": "Pasporto",
+      "note": "Handing it over: Jen mia pasporto."
+    },
+    "luggage": {
+      "text": "Bagaĝo",
+      "note": "Also: pakaĵoj (bags). Left-luggage office: bagaĝejo."
+    },
+    "wifi_password": {
+      "text": "Kio estas la pasvorto de la vifio?",
+      "note": "Vifio is a common Esperanto form of Wi-Fi; many just say la reto. Pas- (pass) + vorto (word)."
+    },
+    "check_out_time": {
+      "text": "Je kioma horo mi devas forlasi la ĉambron?",
+      "note": "Literally 'at what time must I leave the room?' Je kioma horo asks the clock time."
+    },
+    "map": {
+      "text": "Mapo",
+      "note": "Also: karto. A city map: urbomapo."
+    },
+    "bus": {
+      "text": "Buso",
+      "note": "Also: aŭtobuso. Bus stop: bushaltejo."
+    },
+    "next_train": {
+      "text": "Kiam estas la sekva trajno?",
+      "note": "When does it leave? Kiam forveturas la sekva trajno?"
+    },
+    "is_this_seat_free": {
+      "text": "Ĉu ĉi tiu loko estas libera?",
+      "note": "Loko means place or seat. Also: Ĉu ĉi tie estas libere?"
+    },
+    "what_do_you_do": {
+      "text": "Kion vi faras profesie?",
+      "note": "Also: Kio estas via profesio? or Kie vi laboras?"
+    },
+    "i_work_in": {
+      "text": "Mi laboras en …",
+      "note": "For places and fields alike: Mi laboras en banko / en vendado."
+    },
+    "im_student": {
+      "text": "Mi estas studento",
+      "note": "Fits anyone; a woman may also say studentino. A school pupil: lernanto."
+    },
+    "office": {
+      "text": "Oficejo",
+      "note": "-ej- marks a place, as in necesejo (toilet) and lernejo (school)."
+    },
+    "meeting": {
+      "text": "Kunveno",
+      "note": "Kun (together) + veno (coming)."
+    },
+    "im_busy": {
+      "text": "Mi estas okupata",
+      "note": "Also: Mi havas multe da laboro (I have a lot of work)."
+    },
+    "day_off": {
+      "text": "Libera tago",
+      "note": "Also as one word: libertago. Holidays: ferioj."
+    },
+    "colleague": {
+      "text": "Kolego",
+      "note": "A female colleague: kolegino."
+    },
+    "lets_start": {
+      "text": "Ni komencu!",
+      "note": "Ni + the -u ending means 'let's': Ni iru! (Let's go!)"
+    },
+    "good_job": {
+      "text": "Bone farite!",
+      "note": "Also: Bonega laboro! or simply Brave!"
+    },
+    "table_for_two": {
+      "text": "Tablon por du, mi petas",
+      "note": "-n because it's what you ask for. Fuller: Tablon por du personoj."
+    },
+    "what_recommend": {
+      "text": "Kion vi rekomendas?",
+      "note": "Softer: Kion vi rekomendus?"
+    },
+    "not_spicy": {
+      "text": "Ne pikanta, mi petas",
+      "note": "Pikanta = chilli-hot; spica just means spiced. Also common: Ne akra, mi petas."
+    },
+    "vegetarian_food": {
+      "text": "Vegetara manĝaĵo",
+      "note": "Asking: Ĉu vi havas vegetarajn manĝaĵojn? Vegan: vegana."
+    },
+    "more_water": {
+      "text": "Pli da akvo, mi petas",
+      "note": "Also: Ankoraŭ iom da akvo, mi petas (a little more water)."
+    },
+    "no_sugar": {
+      "text": "Sen sukero, mi petas",
+      "note": "With sugar: kun sukero."
+    },
+    "im_full": {
+      "text": "Mi estas sata",
+      "note": "Sata (full) is the root of malsata (hungry)."
+    },
+    "takeaway": {
+      "text": "Por kunpreni, mi petas",
+      "note": "Kun (with) + preni (take). To eat here: por manĝi ĉi tie."
+    },
+    "it_was_delicious": {
+      "text": "Ĝi estis bongusta",
+      "note": "Even more: Estis bongustege! (-eg- makes it stronger)"
+    },
+    "keep_change": {
+      "text": "Konservu la restmonon",
+      "note": "Friendlier: La resto estas por vi (The rest is for you)."
+    },
+    "head": {
+      "text": "Kapo",
+      "note": "Headache: kapdoloro."
+    },
+    "stomach": {
+      "text": "Stomako",
+      "note": "The belly in general: ventro. Stomach ache: ventrodoloro."
+    },
+    "head_hurts": {
+      "text": "Mia kapo doloras",
+      "note": "Also: Mi havas kapdoloron."
+    },
+    "have_fever": {
+      "text": "Mi havas febron",
+      "note": "Also, shorter: Mi febras."
+    },
+    "medicine": {
+      "text": "Medikamento",
+      "note": "Also: kuracilo (-il- means a tool: kuraci 'to treat' → kuracilo)."
+    },
+    "call_ambulance": {
+      "text": "Voku ambulancon!",
+      "note": "Urgent: Rapide, voku ambulancon!"
+    },
+    "dentist": {
+      "text": "Dentisto",
+      "note": "-ist- marks a profession: dento (tooth) → dentisto."
+    },
+    "need_rest": {
+      "text": "Mi bezonas ripozi",
+      "note": "Also: Mi devas ripozi (I have to rest)."
+    },
+    "feel_better": {
+      "text": "Mi fartas pli bone",
+      "note": "Also: Mi sentas min pli bone."
+    },
+    "get_well": {
+      "text": "Resaniĝu baldaŭ!",
+      "note": "Re- (again) + sana (healthy) + -iĝ- (become). Also: Rapidan resaniĝon!"
+    },
+    "lets_meet": {
+      "text": "Ni renkontiĝu!",
+      "note": "-iĝ- drops the object: renkonti iun (to meet someone) → renkontiĝi (to meet up)."
+    },
+    "are_you_free": {
+      "text": "Ĉu vi estas libera morgaŭ?",
+      "note": "Also: Ĉu vi havas tempon morgaŭ?"
+    },
+    "call_me": {
+      "text": "Bonvolu telefoni al mi",
+      "note": "Casual: Telefonu al mi!"
+    },
+    "your_number": {
+      "text": "Kio estas via telefonnumero?",
+      "note": "Phone numbers are often read digit by digit: nul, unu, du…"
+    },
+    "see_you_soon": {
+      "text": "Ĝis baldaŭ!",
+      "note": "Ĝis means 'until': Ĝis morgaŭ! (See you tomorrow!)"
+    },
+    "have_nice_day": {
+      "text": "Belan tagon!",
+      "note": "The -n wish pattern of Bonan matenon. Also: Agrablan tagon! or Havu bonan tagon!"
+    },
+    "good_luck": {
+      "text": "Bonŝancon!",
+      "note": "Bon- + ŝanco (chance), like Bonvenon. Also: Sukceson!"
+    },
+    "happy_birthday": {
+      "text": "Feliĉan naskiĝtagon!",
+      "note": "Naskiĝi (to be born) + tago (day)."
+    },
+    "thanks_a_lot": {
+      "text": "Koran dankon!",
+      "note": "Literally 'heartfelt thanks'. Also: Multan dankon!"
+    },
+    "miss_you": {
+      "text": "Vi mankas al mi",
+      "note": "Literally 'you are lacking to me'. Also: Mi sopiras al vi."
     }
   }
 }

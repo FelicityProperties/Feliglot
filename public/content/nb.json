@@ -394,6 +394,404 @@
     "congratulations": {
       "text": "Gratulerer!",
       "note": "On a birthday: Gratulerer med dagen!"
+    },
+    "my_family": {
+      "text": "Familien min",
+      "note": "Also: min familie, which puts more weight on min (my)."
+    },
+    "mother": {
+      "text": "Mor",
+      "note": "In everyday speech: mamma (mum). My mother: moren min or min mor."
+    },
+    "father": {
+      "text": "Far",
+      "note": "In everyday speech: pappa (dad). My father: faren min or min far."
+    },
+    "brother": {
+      "text": "Bror",
+      "note": "Plural: brødre. Big brother: storebror, little brother: lillebror. Siblings: søsken."
+    },
+    "sister": {
+      "text": "Søster",
+      "note": "Plural: søstre. Big sister: storesøster, little sister: lillesøster."
+    },
+    "child": {
+      "text": "Barn",
+      "note": "Same in the plural: ett barn, to barn. Son: sønn. Daughter: datter."
+    },
+    "friend": {
+      "text": "Venn",
+      "note": "A female friend is often venninne, though venn works for both. Boyfriend or girlfriend: kjæreste."
+    },
+    "this_is_my_friend": {
+      "text": "Dette er vennen min",
+      "note": "For a female friend: Dette er venninnen min. Also common: Dette er en venn av meg."
+    },
+    "are_you_married": {
+      "text": "Er du gift?",
+      "note": "Many couples live together unmarried: samboer means live-in partner."
+    },
+    "have_children": {
+      "text": "Har du barn?",
+      "note": "Asking a couple: Har dere barn? (dere = you, plural)"
+    },
+    "monday": {
+      "text": "mandag",
+      "note": "Days take no capital letter. The g in -dag is silent: 'MAN-dah'. On Monday: på mandag."
+    },
+    "tuesday": {
+      "text": "tirsdag",
+      "note": "Rs sounds like 'sh': 'TEESH-dah'."
+    },
+    "wednesday": {
+      "text": "onsdag",
+      "note": "Say 'OONS-dah'."
+    },
+    "thursday": {
+      "text": "torsdag",
+      "note": "Rs sounds like 'sh': 'TOSH-dah'."
+    },
+    "friday": {
+      "text": "fredag",
+      "note": "Say 'FRAY-dah'."
+    },
+    "saturday": {
+      "text": "lørdag",
+      "note": "On Saturdays: på lørdager."
+    },
+    "sunday": {
+      "text": "søndag",
+      "note": "Most shops are closed on Sundays."
+    },
+    "weekend": {
+      "text": "Helg",
+      "note": "Also common in speech: weekend. Have a good weekend: God helg!"
+    },
+    "what_day": {
+      "text": "Hvilken dag er det i dag?",
+      "note": "The h is silent: 'VIL-ken'. The date: Hvilken dato er det i dag?"
+    },
+    "next_week": {
+      "text": "Neste uke",
+      "note": "Last week: forrige uke. This week: denne uka (or denne uken)."
+    },
+    "eleven": {
+      "text": "Elleve",
+      "note": "The middle e is dropped: 'EL-veh'."
+    },
+    "twelve": {
+      "text": "Tolv",
+      "note": "The v is silent: 'tawl'."
+    },
+    "fifteen": {
+      "text": "Femten",
+      "note": "Other teens: tretten (13), fjorten (14), seksten (16), sytten (17), atten (18), nitten (19)."
+    },
+    "twenty": {
+      "text": "Tjue",
+      "note": "Tj is the soft hiss of German ich. The older form tyve is still heard. 21: tjueen."
+    },
+    "thirty": {
+      "text": "Tretti",
+      "note": "Tens and units are written as one word: trettifem (35)."
+    },
+    "fifty": {
+      "text": "Femti",
+      "note": "The other tens: førti (40), seksti (60), sytti (70), åtti (80), nitti (90)."
+    },
+    "hundred": {
+      "text": "Hundre",
+      "note": "Also: ett hundre. Two hundred: to hundre."
+    },
+    "thousand": {
+      "text": "Tusen",
+      "note": "As in tusen takk, 'a thousand thanks'. Written with a space: 1 000."
+    },
+    "how_old": {
+      "text": "Hvor gammel er du?"
+    },
+    "years_old": {
+      "text": "Jeg er … år",
+      "note": "Longer form: Jeg er … år gammel. År sounds like 'awr'."
+    },
+    "red": {
+      "text": "Rød",
+      "note": "The d is silent: 'rø'. With neuter nouns: rødt (et rødt hus)."
+    },
+    "blue": {
+      "text": "Blå",
+      "note": "With neuter nouns: blått (et blått hus)."
+    },
+    "green": {
+      "text": "Grønn",
+      "note": "With neuter nouns: grønt (et grønt hus)."
+    },
+    "yellow": {
+      "text": "Gul",
+      "note": "Say 'gool'. With neuter nouns: gult (et gult hus)."
+    },
+    "black": {
+      "text": "Svart",
+      "note": "Sort is also correct. Same form with neuter nouns: et svart hus."
+    },
+    "white": {
+      "text": "Hvit",
+      "note": "The h is silent: 'veet'. With neuter nouns: hvitt (et hvitt hus)."
+    },
+    "what_colour": {
+      "text": "Hvilken farge er det?",
+      "note": "Also common: Hvilken farge har den?"
+    },
+    "this_one": {
+      "text": "Denne",
+      "note": "When pointing, people often say denne her. For a neuter noun: dette."
+    },
+    "that_one": {
+      "text": "Den der",
+      "note": "For a neuter noun: det der. Further off: den der borte (that one over there)."
+    },
+    "another_one": {
+      "text": "En til, takk",
+      "note": "For a neuter noun: ett til (ett glass til). Also: Kan jeg få en til?"
+    },
+    "its_hot": {
+      "text": "Det er varmt",
+      "note": "Varmt covers both warm and hot. Very hot: Det er kjempevarmt!"
+    },
+    "its_cold": {
+      "text": "Det er kaldt",
+      "note": "The d is silent: 'kalt'. Freezing: Det er iskaldt!"
+    },
+    "its_raining": {
+      "text": "Det regner",
+      "note": "Pouring down: Det pøsregner!"
+    },
+    "its_sunny": {
+      "text": "Det er sol",
+      "note": "Also: Sola skinner (the sun is shining)."
+    },
+    "its_windy": {
+      "text": "Det blåser",
+      "note": "Literally 'it blows'. Also: Det er mye vind."
+    },
+    "weather_today": {
+      "text": "Hvordan er været i dag?",
+      "note": "Also: Hva slags vær er det i dag? The forecast: værmeldingen."
+    },
+    "beautiful_day": {
+      "text": "For en nydelig dag!",
+      "note": "Also: Det er en fin dag. About the weather: Så fint vær!"
+    },
+    "umbrella": {
+      "text": "Paraply",
+      "note": "Stress on the end: pa-ra-PLY."
+    },
+    "summer": {
+      "text": "Sommer",
+      "note": "In summer: om sommeren. This summer: i sommer."
+    },
+    "winter": {
+      "text": "Vinter",
+      "note": "In winter: om vinteren. This winter: i vinter."
+    },
+    "have_reservation": {
+      "text": "Jeg har bestilt et rom",
+      "note": "Also: Jeg har en reservasjon. Then give your name: på navnet Smith."
+    },
+    "room": {
+      "text": "Rom",
+      "note": "Also: værelse. Room number: romnummer."
+    },
+    "passport": {
+      "text": "Pass",
+      "note": "Passport control: passkontroll."
+    },
+    "luggage": {
+      "text": "Bagasje",
+      "note": "Say 'ba-GAH-sheh'. Suitcase: koffert. Hand luggage: håndbagasje."
+    },
+    "wifi_password": {
+      "text": "Hva er passordet til wifien?",
+      "note": "Also common: Hva er passordet til nettet? (the network)"
+    },
+    "check_out_time": {
+      "text": "Når må jeg sjekke ut?",
+      "note": "Hotels call it utsjekking. Check-in: innsjekking."
+    },
+    "map": {
+      "text": "Kart",
+      "note": "City map: bykart."
+    },
+    "bus": {
+      "text": "Buss",
+      "note": "Double s. Bus stop: bussholdeplass, or just holdeplass."
+    },
+    "next_train": {
+      "text": "Når går neste tog?",
+      "note": "Trains and buses 'go' (går) in Norwegian. Tog sounds like 'tawg'."
+    },
+    "is_this_seat_free": {
+      "text": "Er denne plassen ledig?",
+      "note": "Shorter: Er det ledig her? Ledig means available; gratis means free of charge."
+    },
+    "what_do_you_do": {
+      "text": "Hva jobber du med?",
+      "note": "Also: Hva driver du med? Hva gjør du? usually means what are you doing right now."
+    },
+    "i_work_in": {
+      "text": "Jeg jobber i …",
+      "note": "For a place: i en bank. For a field, use med: Jeg jobber med salg."
+    },
+    "im_student": {
+      "text": "Jeg er student",
+      "note": "Same for a woman. Jobs take no article: Jeg er lærer. A school pupil: elev."
+    },
+    "office": {
+      "text": "Kontor",
+      "note": "At the office: på kontoret."
+    },
+    "meeting": {
+      "text": "Møte",
+      "note": "Say 'MØ-teh'. I'm in a meeting: Jeg sitter i møte."
+    },
+    "im_busy": {
+      "text": "Jeg er opptatt",
+      "note": "Opptatt also means occupied, e.g. a toilet. Swamped: Jeg har mye å gjøre."
+    },
+    "day_off": {
+      "text": "Fridag",
+      "note": "I'm off today: Jeg har fri i dag."
+    },
+    "colleague": {
+      "text": "Kollega",
+      "note": "Same word for a woman. Plural: kolleger or kollegaer."
+    },
+    "lets_start": {
+      "text": "La oss begynne",
+      "note": "Very common: Skal vi sette i gang? Casual: Da kjører vi!"
+    },
+    "good_job": {
+      "text": "Bra jobbet!",
+      "note": "Often said and written Bra jobba! Also: Godt jobbet!"
+    },
+    "table_for_two": {
+      "text": "Et bord til to, takk",
+      "note": "Also: Kan vi få et bord til to? If you booked: Vi har bestilt bord."
+    },
+    "what_recommend": {
+      "text": "Hva anbefaler du?",
+      "note": "Also: Hva kan du anbefale?"
+    },
+    "not_spicy": {
+      "text": "Ikke sterkt, takk",
+      "note": "Sterk means both strong and spicy. Not too spicy: ikke for sterkt."
+    },
+    "vegetarian_food": {
+      "text": "Vegetarisk mat",
+      "note": "Also: vegetarmat. Vegan: vegansk."
+    },
+    "more_water": {
+      "text": "Mer vann, takk",
+      "note": "Also: Kan vi få litt mer vann? Tap water: springvann."
+    },
+    "no_sugar": {
+      "text": "Uten sukker, takk",
+      "note": "Black coffee: svart kaffe. With milk: med melk."
+    },
+    "im_full": {
+      "text": "Jeg er mett",
+      "note": "Stuffed: Jeg er stappmett! After a meal at someone's home, say Takk for maten."
+    },
+    "takeaway": {
+      "text": "Ta med, takk",
+      "note": "Staff often ask: Spise her eller ta med? (eat in or take away?)"
+    },
+    "it_was_delicious": {
+      "text": "Det var veldig godt",
+      "note": "Also: Det smakte nydelig! Casual: Det var kjempegodt!"
+    },
+    "keep_change": {
+      "text": "Bare behold resten",
+      "note": "Also: Det er greit sånn. Tipping is not expected in Norway."
+    },
+    "head": {
+      "text": "Hode",
+      "note": "Say 'HOO-deh'. In casual speech often shortened to 'hue': Jeg har vondt i hue."
+    },
+    "stomach": {
+      "text": "Mage",
+      "note": "Say 'MAH-geh'. Stomach ache: vondt i magen."
+    },
+    "head_hurts": {
+      "text": "Jeg har vondt i hodet",
+      "note": "Works for any pain: Jeg har vondt i magen (stomach). Headache: hodepine."
+    },
+    "have_fever": {
+      "text": "Jeg har feber",
+      "note": "A cold: Jeg er forkjølet."
+    },
+    "medicine": {
+      "text": "Medisin",
+      "note": "Stress on the end: me-di-SEEN. Prescription: resept."
+    },
+    "call_ambulance": {
+      "text": "Ring etter ambulanse!",
+      "note": "The ambulance number in Norway is 113. People often just shout: Ring 113!"
+    },
+    "dentist": {
+      "text": "Tannlege",
+      "note": "Toothache: Jeg har tannpine."
+    },
+    "need_rest": {
+      "text": "Jeg må hvile litt",
+      "note": "The h in hvile is silent: 'VEE-leh'. Also: Jeg må slappe av (relax)."
+    },
+    "feel_better": {
+      "text": "Jeg føler meg bedre",
+      "note": "Also very common: Det går bedre nå."
+    },
+    "get_well": {
+      "text": "God bedring!"
+    },
+    "lets_meet": {
+      "text": "Skal vi møtes?",
+      "note": "Suggestions are often questions with skal vi. Also: Skal vi ta en kaffe en dag?"
+    },
+    "are_you_free": {
+      "text": "Har du tid i morgen?",
+      "note": "Also: Er du ledig i morgen?"
+    },
+    "call_me": {
+      "text": "Ring meg gjerne",
+      "note": "Gjerne makes it a friendly invitation. Text me: Send meg en melding."
+    },
+    "your_number": {
+      "text": "Hva er telefonnummeret ditt?",
+      "note": "Shorter and very common: Hva er nummeret ditt?"
+    },
+    "see_you_soon": {
+      "text": "Vi ses snart",
+      "note": "Casual: Ses snart! or Snakkes!"
+    },
+    "have_nice_day": {
+      "text": "Ha en fin dag!",
+      "note": "To return the wish: Takk, i like måte! (same to you)"
+    },
+    "good_luck": {
+      "text": "Lykke til!",
+      "note": "Y is like German ü: 'LÜK-keh til'."
+    },
+    "happy_birthday": {
+      "text": "Gratulerer med dagen!",
+      "note": "Literally 'congratulations on the day'. Also: Gratulerer med fødselsdagen!"
+    },
+    "thanks_a_lot": {
+      "text": "Tusen takk",
+      "note": "Also: Mange takk. Extra warm: Tusen hjertelig takk!"
+    },
+    "miss_you": {
+      "text": "Jeg savner deg",
+      "note": "To several people: Jeg savner dere."
     }
   }
 }

@@ -57,13 +57,14 @@ export async function endSession() {
   jar.delete(SESSION_COOKIE);
 }
 
-export type SessionUser = { id: string; email: string };
+// google_sub is set only when Google has verified the account's email.
+export type SessionUser = { id: string; email: string; google_sub: string | null };
 
 export async function currentUser(): Promise<SessionUser | null> {
   const token = (await cookies()).get(SESSION_COOKIE)?.value;
   if (!token) return null;
   const rows = await query<SessionUser>(
-    `SELECT u.id, u.email FROM fg_sessions s JOIN fg_users u ON u.id = s.user_id
+    `SELECT u.id, u.email, u.google_sub FROM fg_sessions s JOIN fg_users u ON u.id = s.user_id
      WHERE s.token_hash = $1 AND s.expires_at > now()`,
     [sha256(token)],
   );

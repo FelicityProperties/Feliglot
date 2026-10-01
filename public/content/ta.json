@@ -495,6 +495,502 @@
       "text": "வாழ்த்துக்கள்!",
       "roman": "vaazhthukkal!",
       "note": "Warmer: மனமார்ந்த வாழ்த்துக்கள் (manamaarndha vaazhthukkal), 'heartfelt congratulations'."
+    },
+    "my_family": {
+      "text": "என் குடும்பம்",
+      "roman": "en kudumbam",
+      "note": "People often say 'our family': எங்க குடும்பம் (enga kudumbam)."
+    },
+    "mother": {
+      "text": "அம்மா",
+      "roman": "ammaa",
+      "note": "Formal: தாய் (thaai). அம்மா is also a respectful way to address an older woman."
+    },
+    "father": {
+      "text": "அப்பா",
+      "roman": "appaa",
+      "note": "Formal: தந்தை (thandhai)."
+    },
+    "brother": {
+      "text": "அண்ணன்",
+      "roman": "annan",
+      "note": "Older brother; a younger one is தம்பி (thambi). அண்ணா (annaa) also politely hails a man."
+    },
+    "sister": {
+      "text": "அக்கா",
+      "roman": "akkaa",
+      "note": "Older sister; a younger one is தங்கச்சி (thangachi). அக்கா also politely hails a woman."
+    },
+    "child": {
+      "text": "பிள்ளை",
+      "roman": "pillai",
+      "note": "Son: மகன் (magan); daughter: மகள் (magal). A baby or young child is குழந்தை (kuzhandhai)."
+    },
+    "friend": {
+      "text": "நண்பன்",
+      "roman": "nanban",
+      "note": "A female friend: தோழி (thozhi). Many people just say ஃப்ரெண்டு (friend)."
+    },
+    "this_is_my_friend": {
+      "text": "இவர் என் நண்பர்",
+      "roman": "ivar en nanbar",
+      "note": "For a woman: இவங்க என் தோழி (ivanga en thozhi). Casually, among peers: இவன் என் ஃப்ரெண்டு (ivan en friend)."
+    },
+    "are_you_married": {
+      "text": "உங்களுக்கு கல்யாணம் ஆயிடுச்சா?",
+      "roman": "ungalukku kalyaanam aayiduchaa?",
+      "note": "Shorter: கல்யாணம் ஆச்சா? (kalyaanam aachaa?). Formal word for marriage: திருமணம் (thirumanam)."
+    },
+    "have_children": {
+      "text": "உங்களுக்கு குழந்தைங்க இருக்காங்களா?",
+      "roman": "ungalukku kuzhandhainga irukkaangalaa?"
+    },
+    "monday": {
+      "text": "திங்கக்கிழமை",
+      "roman": "thingakkizhamai",
+      "note": "Written: திங்கள்கிழமை (thingalkizhamai). Short: திங்கள் (thingal), an old word for the moon."
+    },
+    "tuesday": {
+      "text": "செவ்வாய்க்கிழமை",
+      "roman": "sevvaaikkizhamai",
+      "note": "Short: செவ்வாய் (sevvaai), also the planet Mars."
+    },
+    "wednesday": {
+      "text": "புதன்கிழமை",
+      "roman": "pudhankizhamai",
+      "note": "Short: புதன் (pudhan), also the planet Mercury."
+    },
+    "thursday": {
+      "text": "வியாழக்கிழமை",
+      "roman": "viyaazhakkizhamai",
+      "note": "Short: வியாழன் (viyaazhan), also the planet Jupiter."
+    },
+    "friday": {
+      "text": "வெள்ளிக்கிழமை",
+      "roman": "vellikkizhamai",
+      "note": "Short: வெள்ளி (velli), also Venus and the word for silver."
+    },
+    "saturday": {
+      "text": "சனிக்கிழமை",
+      "roman": "sanikkizhamai",
+      "note": "Short: சனி (sani), also the planet Saturn."
+    },
+    "sunday": {
+      "text": "ஞாயித்துக்கிழமை",
+      "roman": "nyaayithukkizhamai",
+      "note": "Written: ஞாயிற்றுக்கிழமை (nyaayitrukkizhamai). Short: ஞாயிறு (nyaayiru), an old word for the sun."
+    },
+    "weekend": {
+      "text": "வார இறுதி",
+      "roman": "vaara irudhi",
+      "note": "In speech most people say வீக்கெண்ட் (weekend)."
+    },
+    "what_day": {
+      "text": "இன்னைக்கு என்ன கிழமை?",
+      "roman": "innaikku enna kizhamai?",
+      "note": "For the date: இன்னைக்கு என்ன தேதி? (innaikku enna thedhi?)"
+    },
+    "next_week": {
+      "text": "அடுத்த வாரம்",
+      "roman": "adutha vaaram",
+      "note": "'Last week': போன வாரம் (pona vaaram), literally 'the week that went'."
+    },
+    "eleven": {
+      "text": "பதினொண்ணு",
+      "roman": "padhinonnu",
+      "note": "Written: பதினொன்று (padhinondru)."
+    },
+    "twelve": {
+      "text": "பன்னெண்டு",
+      "roman": "pannendu",
+      "note": "Written: பன்னிரண்டு (pannirandu)."
+    },
+    "fifteen": {
+      "text": "பதினஞ்சு",
+      "roman": "padhinanju",
+      "note": "Written: பதினைந்து (padhinaindhu)."
+    },
+    "twenty": {
+      "text": "இருபது",
+      "roman": "irubadhu",
+      "note": "Often said இருவது (iruvadhu). 25: இருபத்தஞ்சு (irubathanju)."
+    },
+    "thirty": {
+      "text": "முப்பது",
+      "roman": "muppadhu",
+      "note": "Same in speech and writing. Forty: நாப்பது (naappadhu)."
+    },
+    "fifty": {
+      "text": "அம்பது",
+      "roman": "ambadhu",
+      "note": "Written: ஐம்பது (aimbadhu)."
+    },
+    "hundred": {
+      "text": "நூறு",
+      "roman": "nooru",
+      "note": "200: இருநூறு (irunooru); 500: ஐந்நூறு (ainnooru)."
+    },
+    "thousand": {
+      "text": "ஆயிரம்",
+      "roman": "aayiram",
+      "note": "2,000: ரெண்டாயிரம் (rendaayiram); 10,000: பத்தாயிரம் (pathaayiram)."
+    },
+    "how_old": {
+      "text": "உங்களுக்கு என்ன வயசு?",
+      "roman": "ungalukku enna vayasu?",
+      "note": "Formal/written: உங்கள் வயது என்ன? (ungal vayadhu enna?)"
+    },
+    "years_old": {
+      "text": "எனக்கு … வயசு",
+      "roman": "enakku … vayasu",
+      "note": "e.g. எனக்கு முப்பது வயசு (enakku muppadhu vayasu)."
+    },
+    "red": {
+      "text": "சிவப்பு",
+      "roman": "sivappu",
+      "note": "In shops people often use English colour names: ரெட் (red)."
+    },
+    "blue": {
+      "text": "நீலம்",
+      "roman": "neelam",
+      "note": "Before a noun: நீல (neela), e.g. நீல சட்டை (neela sattai), 'a blue shirt'."
+    },
+    "green": {
+      "text": "பச்சை",
+      "roman": "pachai",
+      "note": "Also means 'raw' or 'unripe'."
+    },
+    "yellow": {
+      "text": "மஞ்சள்",
+      "roman": "manjal",
+      "note": "Also the word for turmeric."
+    },
+    "black": {
+      "text": "கருப்பு",
+      "roman": "karuppu"
+    },
+    "white": {
+      "text": "வெள்ளை",
+      "roman": "vellai",
+      "note": "Don't mix it up with வெள்ளி (velli), 'silver' or 'Friday'."
+    },
+    "what_colour": {
+      "text": "இது என்ன கலர்?",
+      "roman": "idhu enna colour?",
+      "note": "Tamil word for colour: நிறம் (niram), e.g. இது என்ன நிறம்? (idhu enna niram?)"
+    },
+    "this_one": {
+      "text": "இது",
+      "roman": "idhu",
+      "note": "To ask for it: இதை குடுங்க (idhai kudunga)."
+    },
+    "that_one": {
+      "text": "அது",
+      "roman": "adhu",
+      "note": "For something further off: அதோ அது (adho adhu), 'that one over there'."
+    },
+    "another_one": {
+      "text": "இன்னொண்ணு குடுங்க",
+      "roman": "innonnu kudunga",
+      "note": "Before a noun use இன்னொரு (innoru): இன்னொரு டீ (innoru tea)."
+    },
+    "its_hot": {
+      "text": "சூடா இருக்கு",
+      "roman": "soodaa irukku",
+      "note": "About the weather also: வெக்கையா இருக்கு (vekkaiyaa irukku), 'it's sweltering'."
+    },
+    "its_cold": {
+      "text": "குளிரா இருக்கு",
+      "roman": "kuliraa irukku",
+      "note": "'I feel cold': எனக்கு குளிருது (enakku kulirudhu)."
+    },
+    "its_raining": {
+      "text": "மழை பெய்யுது",
+      "roman": "mazhai peiyudhu",
+      "note": "Also very common: மழை வருது (mazhai varudhu), literally 'rain is coming'."
+    },
+    "its_sunny": {
+      "text": "வெயிலா இருக்கு",
+      "roman": "veyilaa irukku",
+      "note": "வெயில் (veyil) means sunshine together with the heat that comes with it."
+    },
+    "its_windy": {
+      "text": "ரொம்ப காத்து அடிக்குது",
+      "roman": "romba kaathu adikkudhu",
+      "note": "காத்து (kaathu), 'wind', is written காற்று (kaatru)."
+    },
+    "weather_today": {
+      "text": "இன்னைக்கு கிளைமேட் எப்படி இருக்கு?",
+      "roman": "innaikku climate eppadi irukku?",
+      "note": "கிளைமேட் (climate) is the everyday word for weather. Formal: வானிலை (vaanilai), as in weather reports."
+    },
+    "beautiful_day": {
+      "text": "இன்னைக்கு கிளைமேட் அருமையா இருக்கு",
+      "roman": "innaikku climate arumaiyaa irukku",
+      "note": "Also: இன்னைக்கு ரொம்ப இதமா இருக்கு (innaikku romba idhamaa irukku), 'it's lovely and mild today'."
+    },
+    "umbrella": {
+      "text": "குடை",
+      "roman": "kudai",
+      "note": "'Take an umbrella': குடை எடுத்துட்டு போங்க (kudai eduthuttu ponga)."
+    },
+    "summer": {
+      "text": "கோடைக்காலம்",
+      "roman": "kodaikkaalam",
+      "note": "In speech often வெயில் காலம் (veyil kaalam), 'the sunny season'."
+    },
+    "winter": {
+      "text": "குளிர்காலம்",
+      "roman": "kulirkaalam",
+      "note": "Rainy season: மழைக்காலம் (mazhaikkaalam)."
+    },
+    "have_reservation": {
+      "text": "நான் ரூம் புக் பண்ணியிருக்கேன்",
+      "roman": "naan room book panniyirukken",
+      "note": "Literally 'I've booked a room'. Formal word for a booking: முன்பதிவு (munpadhivu)."
+    },
+    "room": {
+      "text": "அறை",
+      "roman": "arai",
+      "note": "At hotels everyone says ரூம் (room)."
+    },
+    "passport": {
+      "text": "பாஸ்போர்ட்",
+      "roman": "passport",
+      "note": "Formal Tamil: கடவுச்சீட்டு (kadavucheettu), seen in official writing."
+    },
+    "luggage": {
+      "text": "லக்கேஜ்",
+      "roman": "luggage",
+      "note": "A suitcase: பெட்டி (petti); a bag: பை (pai)."
+    },
+    "wifi_password": {
+      "text": "வைஃபை பாஸ்வேர்ட் என்னங்க?",
+      "roman": "wifi password ennanga?",
+      "note": "The -ங்க (-nga) ending makes the question polite; among friends: என்ன? (enna?)"
+    },
+    "check_out_time": {
+      "text": "செக் அவுட் எத்தனை மணிக்கு?",
+      "roman": "check out ethanai manikku?",
+      "note": "Literally 'check-out at what hour?'. எத்தனை மணிக்கு (ethanai manikku) asks the time of anything."
+    },
+    "map": {
+      "text": "வரைபடம்",
+      "roman": "varaipadam",
+      "note": "In speech usually மேப் (map)."
+    },
+    "bus": {
+      "text": "பஸ்",
+      "roman": "bus",
+      "note": "Signs say பேருந்து (perundhu). Bus station: பஸ் ஸ்டாண்ட் (bus stand)."
+    },
+    "next_train": {
+      "text": "அடுத்த ரயில் எப்போ வரும்?",
+      "roman": "adutha rayil eppo varum?",
+      "note": "In speech also ட்ரெயின் (train). 'When does it leave?': எப்போ கிளம்பும்? (eppo kilambum?)"
+    },
+    "is_this_seat_free": {
+      "text": "இந்த சீட் காலியா இருக்கா?",
+      "roman": "indha seat kaaliyaa irukkaa?",
+      "note": "Also common: இங்கே யாராவது இருக்காங்களா? (inge yaaraavadhu irukkaangalaa?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "நீங்க என்ன வேலை பார்க்கறீங்க?",
+      "roman": "neenga enna velai paarkkareenga?",
+      "note": "Also: என்ன பண்றீங்க? (enna panreenga?), though that can also mean 'what are you doing?'"
+    },
+    "i_work_in": {
+      "text": "நான் …ல வேலை பார்க்கறேன்",
+      "roman": "naan …la velai paarkkaren",
+      "note": "e.g. நான் பேங்க்ல வேலை பார்க்கறேன் (naan bankla velai paarkkaren)."
+    },
+    "im_student": {
+      "text": "நான் மாணவன்",
+      "roman": "naan maanavan",
+      "note": "A woman says: நான் மாணவி (naan maanavi). Common too: நான் படிக்கறேன் (naan padikkaren), 'I'm studying'."
+    },
+    "office": {
+      "text": "அலுவலகம்",
+      "roman": "aluvalagam",
+      "note": "In speech everyone says ஆபீஸ் (office)."
+    },
+    "meeting": {
+      "text": "மீட்டிங்",
+      "roman": "meeting",
+      "note": "Formal: கூட்டம் (koottam), which in everyday speech usually means 'a crowd'."
+    },
+    "im_busy": {
+      "text": "நான் கொஞ்சம் வேலையா இருக்கேன்",
+      "roman": "naan konjam velaiyaa irukken",
+      "note": "வேலையா (velaiyaa), 'at work', is how Tamil says busy. Very common too: பிஸியா இருக்கேன் (busyaa irukken)."
+    },
+    "day_off": {
+      "text": "விடுமுறை நாள்",
+      "roman": "vidumurai naal",
+      "note": "In speech: லீவு (leave), e.g. நாளைக்கு லீவு (naalaikku leave), 'tomorrow is a day off'."
+    },
+    "colleague": {
+      "text": "சக ஊழியர்",
+      "roman": "saga oozhiyar",
+      "note": "Same for a woman. In speech: கூட வேலை பார்க்கறவர் (kooda velai paarkkaravar), 'someone I work with'."
+    },
+    "lets_start": {
+      "text": "ஆரம்பிக்கலாம்",
+      "roman": "aarambikkalaam",
+      "note": "Also: தொடங்கலாம் (thodangalaam), or casually ஸ்டார்ட் பண்ணலாம் (start pannalaam)."
+    },
+    "good_job": {
+      "text": "நல்லா பண்ணியிருக்கீங்க!",
+      "roman": "nallaa panniyirukkeenga!",
+      "note": "Short and common: சூப்பர்! (super!) or சபாஷ்! (sabaash!)"
+    },
+    "table_for_two": {
+      "text": "ரெண்டு பேருக்கு ஒரு டேபிள் வேணுங்க",
+      "roman": "rendu perukku oru table venunga",
+      "note": "Also: ரெண்டு பேருக்கு இடம் இருக்கா? (rendu perukku idam irukkaa?), 'is there room for two?'"
+    },
+    "what_recommend": {
+      "text": "இங்கே எது நல்லா இருக்கும்?",
+      "roman": "inge edhu nallaa irukkum?",
+      "note": "Also very common: என்ன ஸ்பெஷல்? (enna special?), 'what's the special?'"
+    },
+    "not_spicy": {
+      "text": "காரம் இல்லாம குடுங்க",
+      "roman": "kaaram illaama kudunga",
+      "note": "'Less spicy': காரம் கம்மியா (kaaram kammiyaa). காரம் (kaaram) is chilli heat."
+    },
+    "vegetarian_food": {
+      "text": "சைவ சாப்பாடு",
+      "roman": "saiva saappaadu",
+      "note": "A vegetarian restaurant is a சைவ ஹோட்டல் (saiva hotel). Non-veg: அசைவம் (asaivam)."
+    },
+    "more_water": {
+      "text": "இன்னும் கொஞ்சம் தண்ணி குடுங்க",
+      "roman": "innum konjam thanni kudunga"
+    },
+    "no_sugar": {
+      "text": "சர்க்கரை போடாதீங்க",
+      "roman": "sarkkarai podaadheenga",
+      "note": "Literally 'don't add sugar'. Also: சுகர் இல்லாம (sugar illaama). எனக்கு சுகர் (enakku sugar) means 'I'm diabetic'."
+    },
+    "im_full": {
+      "text": "வயிறு நிறைஞ்சிடுச்சு",
+      "roman": "vayiru nirainjiduchu",
+      "note": "When offered more food, just say போதும் (podhum), 'enough'."
+    },
+    "takeaway": {
+      "text": "பார்சல் பண்ணுங்க",
+      "roman": "parcel pannunga",
+      "note": "Takeaway is called 'parcel': ரெண்டு இட்லி பார்சல் (rendu idli parcel)."
+    },
+    "it_was_delicious": {
+      "text": "சாப்பாடு ரொம்ப ருசியா இருந்துச்சு",
+      "roman": "saappaadu romba rusiyaa irundhuchu",
+      "note": "Casual: சூப்பரா இருந்துச்சு! (superaa irundhuchu!)"
+    },
+    "keep_change": {
+      "text": "மீதியை வெச்சுக்கோங்க",
+      "roman": "meedhiyai vechukkonga",
+      "note": "மீதி (meedhi), 'the rest', is the usual word for change owed to you."
+    },
+    "head": {
+      "text": "தலை",
+      "roman": "thalai",
+      "note": "'Headache': தலைவலி (thalaivali)."
+    },
+    "stomach": {
+      "text": "வயிறு",
+      "roman": "vayiru"
+    },
+    "head_hurts": {
+      "text": "எனக்கு தலை வலிக்குது",
+      "roman": "enakku thalai valikkudhu",
+      "note": "Swap in any body part: வயிறு வலிக்குது (vayiru valikkudhu), 'my stomach hurts'."
+    },
+    "have_fever": {
+      "text": "எனக்கு காய்ச்சலா இருக்கு",
+      "roman": "enakku kaaichalaa irukku",
+      "note": "Also common: எனக்கு ஜுரம் (enakku juram)."
+    },
+    "medicine": {
+      "text": "மருந்து",
+      "roman": "marundhu",
+      "note": "Tablets: மாத்திரை (maathirai)."
+    },
+    "call_ambulance": {
+      "text": "ஆம்புலன்ஸை கூப்பிடுங்க!",
+      "roman": "aambulansai kooppidunga!",
+      "note": "In Tamil Nadu the ambulance number is 108."
+    },
+    "dentist": {
+      "text": "பல் டாக்டர்",
+      "roman": "pal doctor",
+      "note": "பல் (pal) means 'tooth'. Formal: பல் மருத்துவர் (pal maruthuvar)."
+    },
+    "need_rest": {
+      "text": "நான் கொஞ்சம் ஓய்வு எடுக்கணும்",
+      "roman": "naan konjam oivu edukkanum",
+      "note": "Very common too: கொஞ்சம் ரெஸ்ட் எடுக்கணும் (konjam rest edukkanum)."
+    },
+    "feel_better": {
+      "text": "இப்போ கொஞ்சம் பரவாயில்லை",
+      "roman": "ippo konjam paravaayillai",
+      "note": "Literally 'it's a bit alright now'. Also: இப்போ நல்லா இருக்கேன் (ippo nallaa irukken), 'I'm well now'."
+    },
+    "get_well": {
+      "text": "சீக்கிரம் உடம்பு சரியாயிடும்!",
+      "roman": "seekkiram udambu sariyaayidum!",
+      "note": "Literally 'the body will soon be right'. In messages: விரைவில் நலம் பெற வாழ்த்துக்கள் (viraivil nalam pera vaazhthukkal)."
+    },
+    "lets_meet": {
+      "text": "சந்திக்கலாம்",
+      "roman": "sandhikkalaam",
+      "note": "As a question: சந்திக்கலாமா? (sandhikkalaamaa?). Casual: மீட் பண்ணலாம் (meet pannalaam)."
+    },
+    "are_you_free": {
+      "text": "நாளைக்கு உங்களுக்கு நேரம் இருக்கா?",
+      "roman": "naalaikku ungalukku neram irukkaa?",
+      "note": "Literally 'do you have time tomorrow?'. Also: நாளைக்கு ஃப்ரீயா இருக்கீங்களா? (naalaikku freeyaa irukkeengalaa?)"
+    },
+    "call_me": {
+      "text": "எனக்கு போன் பண்ணுங்க",
+      "roman": "enakku phone pannunga",
+      "note": "Also: எனக்கு கால் பண்ணுங்க (enakku call pannunga)."
+    },
+    "your_number": {
+      "text": "உங்க போன் நம்பர் என்ன?",
+      "roman": "unga phone number enna?",
+      "note": "Politer: உங்க நம்பர் குடுக்க முடியுமா? (unga number kudukka mudiyumaa?)"
+    },
+    "see_you_soon": {
+      "text": "சீக்கிரம் பார்க்கலாம்",
+      "roman": "seekkiram paarkkalaam",
+      "note": "More formal: விரைவில் சந்திப்போம் (viraivil sandhippom)."
+    },
+    "have_nice_day": {
+      "text": "இந்த நாள் இனிய நாளாக அமையட்டும்!",
+      "roman": "indha naal iniya naalaaga amaiyattum!",
+      "note": "Tamil has no set everyday phrase for this; this one is used in messages and greetings."
+    },
+    "good_luck": {
+      "text": "வெற்றி பெற வாழ்த்துக்கள்!",
+      "roman": "vetri pera vaazhthukkal!",
+      "note": "In speech most people say ஆல் தி பெஸ்ட்! (all the best!)"
+    },
+    "happy_birthday": {
+      "text": "பிறந்தநாள் வாழ்த்துக்கள்!",
+      "roman": "pirandhanaal vaazhthukkal!",
+      "note": "Warmer: இனிய பிறந்தநாள் வாழ்த்துக்கள்! (iniya pirandhanaal vaazhthukkal!)"
+    },
+    "thanks_a_lot": {
+      "text": "ரொம்ப நன்றி",
+      "roman": "romba nandri",
+      "note": "Formal: மிக்க நன்றி (mikka nandri). Heartfelt: மனமார்ந்த நன்றி (manamaarndha nandri)."
+    },
+    "miss_you": {
+      "text": "உன்னை ரொம்ப மிஸ் பண்றேன்",
+      "roman": "unnai romba miss panren",
+      "note": "To an elder, say உங்களை (ungalai) instead of உன்னை (unnai)."
     }
   }
 }

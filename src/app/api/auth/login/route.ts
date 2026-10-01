@@ -18,12 +18,16 @@ export async function POST(req: Request) {
   }
 
   try {
-    const rows = await query<{ id: string; password_hash: string }>(
-      "SELECT id, password_hash FROM fg_users WHERE email = $1",
+    const rows = await query<{ id: string; password_hash: string | null; google_sub: string | null }>(
+      "SELECT id, password_hash, google_sub FROM fg_users WHERE email = $1",
       [creds.email],
     );
     const ok = await verifyPassword(creds.password, rows[0]?.password_hash ?? (await dummyHash()));
+    if (rows[0] && !rows[0].password_hash && rows[0].google_sub) {
+      return Response.json({ error: "This account signs in with Google — use “Continue with Google”." }, { status: 401 });
+    }
     if (!rows[0] || !ok) return Response.json({ error: "Wrong email or password." }, { status: 401 });
+    await query("UPDATE fg_users SET last_seen_at = now() WHERE id = $1", [rows[0].id]);
     await startSession(rows[0].id);
     return Response.json({ user: { email: creds.email } });
   } catch (e) {

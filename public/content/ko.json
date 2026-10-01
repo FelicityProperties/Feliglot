@@ -485,6 +485,505 @@
       "text": "축하합니다!",
       "roman": "Chukahamnida!",
       "note": "Happy birthday: 생일 축하해요 (saengil chukahaeyo)."
+    },
+    "my_family": {
+      "text": "우리 가족",
+      "roman": "Uri gajok",
+      "note": "Koreans say 우리 (uri), 'our', not 'my', for family. Humbler: 저희 가족 (jeohui gajok)."
+    },
+    "mother": {
+      "text": "어머니",
+      "roman": "Eomeoni",
+      "note": "Mum: 엄마 (eomma). Someone else's mother, politely: 어머님 (eomeonim)."
+    },
+    "father": {
+      "text": "아버지",
+      "roman": "Abeoji",
+      "note": "Dad: 아빠 (appa). Someone else's father, politely: 아버님 (abeonim)."
+    },
+    "brother": {
+      "text": "형",
+      "roman": "Hyeong",
+      "note": "Older brother, as a man says it. A woman says: 오빠 (oppa). Younger brother: 남동생 (namdongsaeng)."
+    },
+    "sister": {
+      "text": "누나",
+      "roman": "Nuna",
+      "note": "Older sister, as a man says it. A woman says: 언니 (eonni). Younger sister: 여동생 (yeodongsaeng)."
+    },
+    "child": {
+      "text": "아이",
+      "roman": "Ai",
+      "note": "Son: 아들 (adeul). Daughter: 딸 (ttal). In speech often shortened to 애 (ae)."
+    },
+    "friend": {
+      "text": "친구",
+      "roman": "Chingu",
+      "note": "Same word for a male or female friend. Koreans mostly use it for people their own age."
+    },
+    "this_is_my_friend": {
+      "text": "이쪽은 제 친구예요",
+      "roman": "Ijjogeun je chinguyeyo",
+      "note": "Same for a female friend. 이쪽 (ijjok), 'this side', is the polite way to point to a person."
+    },
+    "are_you_married": {
+      "text": "결혼하셨어요?",
+      "roman": "Gyeolhonhasyeosseoyo?",
+      "note": "Answers: 네, 결혼했어요 (ne, gyeolhonhaesseoyo), or 아직이요 (ajigiyo), 'not yet'."
+    },
+    "have_children": {
+      "text": "아이가 있으세요?",
+      "roman": "Aiga isseuseyo?",
+      "note": "More formal: 자녀가 있으세요? (janyeoga isseuseyo?)"
+    },
+    "monday": {
+      "text": "월요일",
+      "roman": "Woryoil",
+      "note": "월 (wol) means moon. Every day ends in 요일 (yoil), 'day of the week'."
+    },
+    "tuesday": {
+      "text": "화요일",
+      "roman": "Hwayoil",
+      "note": "화 (hwa) means fire."
+    },
+    "wednesday": {
+      "text": "수요일",
+      "roman": "Suyoil",
+      "note": "수 (su) means water."
+    },
+    "thursday": {
+      "text": "목요일",
+      "roman": "Mogyoil",
+      "note": "목 (mok) means wood."
+    },
+    "friday": {
+      "text": "금요일",
+      "roman": "Geumyoil",
+      "note": "금 (geum) means gold or metal."
+    },
+    "saturday": {
+      "text": "토요일",
+      "roman": "Toyoil",
+      "note": "토 (to) means earth."
+    },
+    "sunday": {
+      "text": "일요일",
+      "roman": "Iryoil",
+      "note": "일 (il) means sun."
+    },
+    "weekend": {
+      "text": "주말",
+      "roman": "Jumal",
+      "note": "This weekend: 이번 주말 (ibeon jumal)."
+    },
+    "what_day": {
+      "text": "오늘 무슨 요일이에요?",
+      "roman": "Oneul museun yoirieyo?",
+      "note": "For the date instead: 오늘 며칠이에요? (oneul myeochirieyo?)"
+    },
+    "next_week": {
+      "text": "다음 주",
+      "roman": "Daeum ju",
+      "note": "This week: 이번 주 (ibeon ju). Last week: 지난주 (jinanju)."
+    },
+    "eleven": {
+      "text": "열하나",
+      "roman": "Yeolhana",
+      "note": "For prices and dates: 십일 (sibil). Before a noun: 열한 (yeolhan)."
+    },
+    "twelve": {
+      "text": "열둘",
+      "roman": "Yeoldul",
+      "note": "For prices and dates: 십이 (sibi). Before a noun: 열두 (yeoldu)."
+    },
+    "fifteen": {
+      "text": "열다섯",
+      "roman": "Yeoldaseot",
+      "note": "For prices and dates: 십오 (sibo)."
+    },
+    "twenty": {
+      "text": "스물",
+      "roman": "Seumul",
+      "note": "For prices and dates: 이십 (isip). Before a noun: 스무 (seumu), as in 스무 살 (seumu sal), age 20."
+    },
+    "thirty": {
+      "text": "서른",
+      "roman": "Seoreun",
+      "note": "For prices and dates: 삼십 (samsip)."
+    },
+    "fifty": {
+      "text": "쉰",
+      "roman": "Swin",
+      "note": "For prices and dates: 오십 (osip). Native numbers this big are mostly used for ages."
+    },
+    "hundred": {
+      "text": "백",
+      "roman": "Baek",
+      "note": "There is no native word in use. Just 백, with no 일 (il), 'one', in front."
+    },
+    "thousand": {
+      "text": "천",
+      "roman": "Cheon",
+      "note": "Just 천, with no 일 (il) in front. 10,000 has its own word, 만 (man), key for prices."
+    },
+    "how_old": {
+      "text": "나이가 어떻게 되세요?",
+      "roman": "Naiga eotteoke doeseyo?",
+      "note": "To someone your age or younger: 몇 살이에요? (myeot sarieyo?). To an elder: 연세가 어떻게 되세요? (yeonsega eotteoke doeseyo?)"
+    },
+    "years_old": {
+      "text": "저는 … 살이에요",
+      "roman": "Jeoneun … sarieyo",
+      "note": "Ages use native numbers: 스무 살 (seumu sal), 20; 서른 살 (seoreun sal), 30."
+    },
+    "red": {
+      "text": "빨간색",
+      "roman": "Ppalgansaek",
+      "note": "Before a noun: 빨간 (ppalgan), as in 빨간 차 (ppalgan cha), a red car."
+    },
+    "blue": {
+      "text": "파란색",
+      "roman": "Paransaek",
+      "note": "Before a noun: 파란 (paran), as in 파란 하늘 (paran haneul), blue sky."
+    },
+    "green": {
+      "text": "초록색",
+      "roman": "Choroksaek",
+      "note": "Also 녹색 (noksaek). A green traffic light is called 파란불 (paranbul), a 'blue light'."
+    },
+    "yellow": {
+      "text": "노란색",
+      "roman": "Noransaek",
+      "note": "Before a noun: 노란 (noran)."
+    },
+    "black": {
+      "text": "검은색",
+      "roman": "Geomeunsaek",
+      "note": "Also 까만색 (kkamansaek), or just 검정 (geomjeong)."
+    },
+    "white": {
+      "text": "흰색",
+      "roman": "Huinsaek",
+      "note": "Pronounced 'hin-saek'. Also 하얀색 (hayansaek)."
+    },
+    "what_colour": {
+      "text": "무슨 색이에요?",
+      "roman": "Museun saegieyo?",
+      "note": "In a shop: 다른 색 있어요? (dareun saek isseoyo?), do you have other colours?"
+    },
+    "this_one": {
+      "text": "이거요",
+      "roman": "Igeoyo",
+      "note": "The 요 (yo) makes it polite. To ask for it: 이거 주세요 (igeo juseyo)."
+    },
+    "that_one": {
+      "text": "저거요",
+      "roman": "Jeogeoyo",
+      "note": "저거 is far from both of you. Near the person you're talking to: 그거요 (geugeoyo)."
+    },
+    "another_one": {
+      "text": "하나 더 주세요",
+      "roman": "Hana deo juseyo",
+      "note": "Side dishes are refilled free: 이거 더 주세요 (igeo deo juseyo), more of this, please."
+    },
+    "its_hot": {
+      "text": "더워요",
+      "roman": "Deowoyo",
+      "note": "Weather or feeling hot. For hot food or water: 뜨거워요 (tteugeowoyo)."
+    },
+    "its_cold": {
+      "text": "추워요",
+      "roman": "Chuwoyo",
+      "note": "Weather or feeling cold. For cold food or drinks: 차가워요 (chagawoyo)."
+    },
+    "its_raining": {
+      "text": "비가 와요",
+      "roman": "Biga wayo",
+      "note": "Snowing: 눈이 와요 (nuni wayo)."
+    },
+    "its_sunny": {
+      "text": "날씨가 맑아요",
+      "roman": "Nalssiga malgayo",
+      "note": "Blazing sun: 해가 쨍쨍해요 (haega jjaengjjaenghaeyo)."
+    },
+    "its_windy": {
+      "text": "바람이 많이 불어요",
+      "roman": "Barami mani bureoyo",
+      "note": "Literally 'the wind blows a lot'."
+    },
+    "weather_today": {
+      "text": "오늘 날씨 어때요?",
+      "roman": "Oneul nalssi eottaeyo?",
+      "note": "A likely answer: 흐려요 (heuryeoyo), it's cloudy."
+    },
+    "beautiful_day": {
+      "text": "날씨가 정말 좋네요",
+      "roman": "Nalssiga jeongmal jonneyo",
+      "note": "Koreans praise the weather, not the day. 좋네요 sounds like 'jon-ne-yo'."
+    },
+    "umbrella": {
+      "text": "우산",
+      "roman": "Usan",
+      "note": "Asking in a shop: 우산 있어요? (usan isseoyo?)"
+    },
+    "summer": {
+      "text": "여름",
+      "roman": "Yeoreum",
+      "note": "The rainy season, late June to July, is 장마 (jangma)."
+    },
+    "winter": {
+      "text": "겨울",
+      "roman": "Gyeoul",
+      "note": "Spring: 봄 (bom). Autumn: 가을 (gaeul)."
+    },
+    "have_reservation": {
+      "text": "예약했어요",
+      "roman": "Yeyakaesseoyo",
+      "note": "To check in: 체크인할게요 (chekeuinhalgeyo)."
+    },
+    "room": {
+      "text": "방",
+      "roman": "Bang",
+      "note": "Hotels also say 객실 (gaeksil). Room numbers take 호 (ho): 305호, room 305."
+    },
+    "passport": {
+      "text": "여권",
+      "roman": "Yeogwon",
+      "note": "Sounds like 'yeo-kkwon'."
+    },
+    "luggage": {
+      "text": "짐",
+      "roman": "Jim",
+      "note": "Can I leave my bags?: 짐 좀 맡겨도 돼요? (jim jom matgyeodo dwaeyo?)"
+    },
+    "wifi_password": {
+      "text": "와이파이 비밀번호가 뭐예요?",
+      "roman": "Waipai bimilbeonhoga mwoyeyo?",
+      "note": "Casual short form: 와이파이 비번 뭐예요? (waipai bibeon mwoyeyo?)"
+    },
+    "check_out_time": {
+      "text": "체크아웃은 몇 시예요?",
+      "roman": "Chekeuauseun myeot siyeyo?"
+    },
+    "map": {
+      "text": "지도",
+      "roman": "Jido",
+      "note": "Show me on the map, please: 지도에서 보여 주세요 (jidoeseo boyeo juseyo)."
+    },
+    "bus": {
+      "text": "버스",
+      "roman": "Beoseu",
+      "note": "Bus stop: 버스 정류장 (beoseu jeongnyujang)."
+    },
+    "next_train": {
+      "text": "다음 기차는 언제 있어요?",
+      "roman": "Daeum gichaneun eonje isseoyo?",
+      "note": "On the subway: 다음 지하철 언제 와요? (daeum jihacheol eonje wayo?)"
+    },
+    "is_this_seat_free": {
+      "text": "여기 자리 있어요?",
+      "roman": "Yeogi jari isseoyo?",
+      "note": "Literally 'is this seat taken?', so 네 (ne) means taken. Also: 여기 앉아도 돼요? (yeogi anjado dwaeyo?)"
+    },
+    "what_do_you_do": {
+      "text": "무슨 일 하세요?",
+      "roman": "Museun il haseyo?",
+      "note": "More formal: 직업이 어떻게 되세요? (jigeobi eotteoke doeseyo?)"
+    },
+    "i_work_in": {
+      "text": "…에서 일해요",
+      "roman": "…eseo ilhaeyo",
+      "note": "At a bank: 은행에서 일해요 (eunhaengeseo ilhaeyo). In sales: 영업 쪽에서 일해요 (yeongeop jjogeseo ilhaeyo)."
+    },
+    "im_student": {
+      "text": "저는 학생이에요",
+      "roman": "Jeoneun haksaengieyo",
+      "note": "Same for men and women. University student: 대학생 (daehaksaeng)."
+    },
+    "office": {
+      "text": "사무실",
+      "roman": "Samusil",
+      "note": "For your workplace Koreans usually say 회사 (hoesa), 'the company'."
+    },
+    "meeting": {
+      "text": "회의",
+      "roman": "Hoeui",
+      "note": "Often pronounced 'hwe-i'. I'm in a meeting: 회의 중이에요 (hoeui jungieyo)."
+    },
+    "im_busy": {
+      "text": "바빠요",
+      "roman": "Bappayo",
+      "note": "Are you busy?: 바쁘세요? (bappeuseyo?)"
+    },
+    "day_off": {
+      "text": "쉬는 날",
+      "roman": "Swineun nal",
+      "note": "Holiday leave from work: 휴가 (hyuga). A shop's closing day: 휴무 (humu)."
+    },
+    "colleague": {
+      "text": "동료",
+      "roman": "Dongnyo",
+      "note": "Same for men and women. Often 회사 동료 (hoesa dongnyo), 'work colleague'."
+    },
+    "lets_start": {
+      "text": "시작합시다",
+      "roman": "Sijakapsida",
+      "note": "Sounds like the person leading. Softer, to seniors: 시작할까요? (sijakalkkayo?), shall we start?"
+    },
+    "good_job": {
+      "text": "잘했어요!",
+      "roman": "Jalhaesseoyo!",
+      "note": "Also 최고예요! (choegoyeyo!), 'the best!'. At the end of work: 수고하셨습니다 (sugohasyeotseumnida)."
+    },
+    "table_for_two": {
+      "text": "두 명이요",
+      "roman": "Du myeongiyo",
+      "note": "Your answer to 몇 분이세요? (myeot buniseyo?), how many? Uses native 두 (du), not 이 (i)."
+    },
+    "what_recommend": {
+      "text": "여기 뭐가 맛있어요?",
+      "roman": "Yeogi mwoga masisseoyo?",
+      "note": "Literally 'what's tasty here?' – what Koreans really ask. Also: 추천 메뉴가 뭐예요? (chucheon menyuga mwoyeyo?)"
+    },
+    "not_spicy": {
+      "text": "안 맵게 해 주세요",
+      "roman": "An maepge hae juseyo",
+      "note": "Less spicy: 덜 맵게 해 주세요 (deol maepge hae juseyo). Is it spicy?: 매워요? (maewoyo?)"
+    },
+    "vegetarian_food": {
+      "text": "채식 음식",
+      "roman": "Chaesik eumsik",
+      "note": "Asking: 채식 메뉴 있어요? (chaesik menyu isseoyo?). I'm vegetarian: 저는 채식주의자예요 (jeoneun chaesikjuuijayeyo)."
+    },
+    "more_water": {
+      "text": "물 좀 더 주세요",
+      "roman": "Mul jom deo juseyo",
+      "note": "A sign saying 물은 셀프 (mureun selpeu) means you fetch it yourself."
+    },
+    "no_sugar": {
+      "text": "설탕 빼 주세요",
+      "roman": "Seoltang ppae juseyo",
+      "note": "In cafés the sweetener is usually syrup: 시럽 빼 주세요 (sireop ppae juseyo)."
+    },
+    "im_full": {
+      "text": "배불러요",
+      "roman": "Baebulleoyo",
+      "note": "To a host offering more: 많이 먹었어요 (mani meogeosseoyo), 'I've eaten a lot'."
+    },
+    "takeaway": {
+      "text": "포장해 주세요",
+      "roman": "Pojanghae juseyo",
+      "note": "Staff may ask 드시고 가세요? (deusigo gaseyo?), eating here? Answer: 포장이요 (pojangiyo)."
+    },
+    "it_was_delicious": {
+      "text": "맛있었어요",
+      "roman": "Masisseosseoyo",
+      "note": "On the way out, the classic thanks is 잘 먹었습니다 (jal meogeotseumnida)."
+    },
+    "keep_change": {
+      "text": "잔돈은 괜찮아요",
+      "roman": "Jandoneun gwaenchanayo",
+      "note": "Literally 'the change is fine'. Tipping isn't customary in Korea; mostly heard in taxis."
+    },
+    "head": {
+      "text": "머리",
+      "roman": "Meori",
+      "note": "Also means hair."
+    },
+    "stomach": {
+      "text": "배",
+      "roman": "Bae",
+      "note": "Same word as 'pear' and 'boat'; context makes it clear."
+    },
+    "head_hurts": {
+      "text": "머리가 아파요",
+      "roman": "Meoriga apayo",
+      "note": "Swap in any body part: 배가 아파요 (baega apayo), my stomach hurts."
+    },
+    "have_fever": {
+      "text": "열이 나요",
+      "roman": "Yeori nayo",
+      "note": "Also: 열이 있어요 (yeori isseoyo)."
+    },
+    "medicine": {
+      "text": "약",
+      "roman": "Yak",
+      "note": "Painkiller: 진통제 (jintongje). Cold medicine: 감기약 (gamgiyak)."
+    },
+    "call_ambulance": {
+      "text": "구급차 불러 주세요!",
+      "roman": "Gugeupcha bulleo juseyo!",
+      "note": "The ambulance number in Korea is 119."
+    },
+    "dentist": {
+      "text": "치과",
+      "roman": "Chigwa",
+      "note": "The dental clinic, as in 'going to the dentist'. The dentist in person: 치과 의사 (chigwa uisa)."
+    },
+    "need_rest": {
+      "text": "좀 쉬어야 돼요",
+      "roman": "Jom swieoya dwaeyo",
+      "note": "Also: 좀 쉬어야겠어요 (jom swieoyagesseoyo), 'I think I'd better rest'."
+    },
+    "feel_better": {
+      "text": "좀 나아졌어요",
+      "roman": "Jom naajyeosseoyo",
+      "note": "Much better: 많이 나아졌어요 (mani naajyeosseoyo)."
+    },
+    "get_well": {
+      "text": "빨리 나으세요!",
+      "roman": "Ppalli naeuseyo!",
+      "note": "Formal, in cards and messages: 쾌유를 빕니다 (kwaeyureul bimnida)."
+    },
+    "lets_meet": {
+      "text": "우리 한번 만나요",
+      "roman": "Uri hanbeon mannayo",
+      "note": "Also common: 언제 밥 한번 먹어요 (eonje bap hanbeon meogeoyo), 'let's eat sometime' – often a pleasantry, not a plan."
+    },
+    "are_you_free": {
+      "text": "내일 시간 있으세요?",
+      "roman": "Naeil sigan isseuseyo?",
+      "note": "Casual, to friends: 내일 시간 있어? (naeil sigan isseo?)"
+    },
+    "call_me": {
+      "text": "전화 주세요",
+      "roman": "Jeonhwa juseyo",
+      "note": "Text me: 문자 주세요 (munja juseyo). On KakaoTalk: 카톡 주세요 (katok juseyo)."
+    },
+    "your_number": {
+      "text": "전화번호가 어떻게 되세요?",
+      "roman": "Jeonhwabeonhoga eotteoke doeseyo?",
+      "note": "Simpler: 번호 뭐예요? (beonho mwoyeyo?). Digits are read 일, 이, 삼 (il, i, sam), and 0 as 공 (gong)."
+    },
+    "see_you_soon": {
+      "text": "곧 봬요",
+      "roman": "Got bwaeyo",
+      "note": "Casual: 곧 봐 (got bwa)."
+    },
+    "have_nice_day": {
+      "text": "좋은 하루 보내세요!",
+      "roman": "Joeun haru bonaeseyo!",
+      "note": "Casual: 좋은 하루 보내 (joeun haru bonae)."
+    },
+    "good_luck": {
+      "text": "행운을 빌어요!",
+      "roman": "Haenguneul bireoyo!",
+      "note": "Before an exam or a big day, Koreans cheer 화이팅! (hwaiting!)"
+    },
+    "happy_birthday": {
+      "text": "생일 축하해요!",
+      "roman": "Saengil chukahaeyo!",
+      "note": "To an elder: 생신 축하드려요 (saengsin chukadeuryeoyo). Casual: 생일 축하해 (saengil chukahae)."
+    },
+    "thanks_a_lot": {
+      "text": "정말 감사합니다",
+      "roman": "Jeongmal gamsahamnida",
+      "note": "Friendly: 정말 고마워요 (jeongmal gomawoyo)."
+    },
+    "miss_you": {
+      "text": "보고 싶어",
+      "roman": "Bogo sipeo",
+      "note": "Polite, e.g. to an older relative: 보고 싶어요 (bogo sipeoyo)."
     }
   }
 }

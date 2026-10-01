@@ -373,6 +373,397 @@
     "congratulations": {
       "text": "Gratulálok!",
       "note": "From a group: Gratulálunk!"
+    },
+    "my_family": {
+      "text": "A családom",
+      "note": "Család = family; the ending -om means 'my'. Hungarian keeps the a (the) in front."
+    },
+    "mother": {
+      "text": "Anya",
+      "note": "My mother: anyám, or warmer: édesanyám. What you call her: anya or anyu."
+    },
+    "father": {
+      "text": "Apa",
+      "note": "My father: apám, or warmer: édesapám. What you call him: apa or apu."
+    },
+    "brother": {
+      "text": "Fiútestvér",
+      "note": "Hungarians usually say older or younger: báty (my: bátyám), öcs (my: öcsém)."
+    },
+    "sister": {
+      "text": "Lánytestvér",
+      "note": "Usually older or younger: nővér (my: nővérem), húg (my: húgom). Nővér also means nurse."
+    },
+    "child": {
+      "text": "Gyerek",
+      "note": "Formal: gyermek. Son: fiú (my son: a fiam). Daughter: lány (my daughter: a lányom)."
+    },
+    "friend": {
+      "text": "Barát",
+      "note": "A female friend: barátnő. Casual: haver. A barátom / a barátnőm can also mean my boyfriend / girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "Ő a barátom",
+      "note": "Female: Ő a barátnőm. To make clear it's not your partner: Ő az egyik barátom (one of my friends)."
+    },
+    "are_you_married": {
+      "text": "Ön házas?",
+      "note": "Informal: Házas vagy? Házas fits anyone; you'll also hear nős (of a man) and férjnél van (of a woman)."
+    },
+    "have_children": {
+      "text": "Vannak gyerekei?",
+      "note": "Informal: Vannak gyerekeid? Also common: Van gyereke?"
+    },
+    "monday": {
+      "text": "hétfő",
+      "note": "Days take no capital letter. On Monday: hétfőn. Timetables use H, K, Sze, Cs, P, Szo, V."
+    },
+    "tuesday": {
+      "text": "kedd",
+      "note": "On Tuesday: kedden."
+    },
+    "wednesday": {
+      "text": "szerda",
+      "note": "On Wednesday: szerdán."
+    },
+    "thursday": {
+      "text": "csütörtök",
+      "note": "On Thursday: csütörtökön. Cs sounds like English ch."
+    },
+    "friday": {
+      "text": "péntek",
+      "note": "On Friday: pénteken."
+    },
+    "saturday": {
+      "text": "szombat",
+      "note": "On Saturday: szombaton."
+    },
+    "sunday": {
+      "text": "vasárnap",
+      "note": "On Sunday is just vasárnap, no ending. It comes from vásár nap, 'market day'."
+    },
+    "weekend": {
+      "text": "Hétvége",
+      "note": "At the weekend: hétvégén. Have a nice weekend: Szép hétvégét!"
+    },
+    "what_day": {
+      "text": "Milyen nap van ma?",
+      "note": "For the date: Hányadika van ma?"
+    },
+    "next_week": {
+      "text": "Jövő héten",
+      "note": "As a noun: a jövő hét. Last week: múlt héten. This week: ezen a héten."
+    },
+    "eleven": {
+      "text": "Tizenegy",
+      "note": "Ten is tíz, but 11–19 start with tizen-: tizenegy, tizenkettő, tizenhárom…"
+    },
+    "twelve": {
+      "text": "Tizenkettő",
+      "note": "Before a noun use két: tizenkét forint."
+    },
+    "fifteen": {
+      "text": "Tizenöt"
+    },
+    "twenty": {
+      "text": "Húsz",
+      "note": "21–29 start with huszon-: huszonegy, huszonöt."
+    },
+    "thirty": {
+      "text": "Harminc",
+      "note": "From 30 up, just add the unit: harmincegy (31), negyvenöt (45)."
+    },
+    "fifty": {
+      "text": "Ötven",
+      "note": "Tens: negyven (40), ötven, hatvan (60), hetven (70), nyolcvan (80), kilencven (90)."
+    },
+    "hundred": {
+      "text": "Száz",
+      "note": "Just száz, no 'one'. Two hundred: kétszáz. 150: százötven."
+    },
+    "thousand": {
+      "text": "Ezer",
+      "note": "Two thousand: kétezer. Prices: 2500 Ft = kétezer-ötszáz forint."
+    },
+    "how_old": {
+      "text": "Ön hány éves?",
+      "note": "Informal: Hány éves vagy?"
+    },
+    "years_old": {
+      "text": "… éves vagyok",
+      "note": "Éves = 'years old'. Use két, not kettő, before it."
+    },
+    "red": {
+      "text": "Piros",
+      "note": "Everyday red is piros. Vörös is a deeper red: vörösbor (red wine), vörös haj (red hair)."
+    },
+    "blue": {
+      "text": "Kék"
+    },
+    "green": {
+      "text": "Zöld"
+    },
+    "yellow": {
+      "text": "Sárga"
+    },
+    "black": {
+      "text": "Fekete"
+    },
+    "white": {
+      "text": "Fehér"
+    },
+    "what_colour": {
+      "text": "Milyen színű?",
+      "note": "Colour is szín. Pointing at something: Ez milyen színű?"
+    },
+    "this_one": {
+      "text": "Ezt",
+      "note": "As in Ezt kérem (I'll take this one). Ez becomes ezt when it's the thing you want."
+    },
+    "that_one": {
+      "text": "Azt",
+      "note": "Pointing, often with ott (there): Azt ott. Az becomes azt, just like ez → ezt."
+    },
+    "another_one": {
+      "text": "Még egyet kérek",
+      "note": "Politer: Kérhetnék még egyet?"
+    },
+    "its_hot": {
+      "text": "Meleg van",
+      "note": "Really hot: Nagyon meleg van, or Kánikula van (it's a heatwave)."
+    },
+    "its_cold": {
+      "text": "Hideg van",
+      "note": "To say you feel cold: Fázom."
+    },
+    "its_raining": {
+      "text": "Esik az eső",
+      "note": "Often just: Esik. Snowing: Esik a hó."
+    },
+    "its_sunny": {
+      "text": "Süt a nap",
+      "note": "Literally 'the sun is shining'. Also: Napos idő van."
+    },
+    "its_windy": {
+      "text": "Fúj a szél",
+      "note": "Literally 'the wind is blowing'. Also: Szeles idő van."
+    },
+    "weather_today": {
+      "text": "Milyen idő van ma?",
+      "note": "Idő means both 'weather' and 'time'. The forecast: időjárás-jelentés."
+    },
+    "beautiful_day": {
+      "text": "Gyönyörű nap van",
+      "note": "About the weather, more often: Gyönyörű idő van! or Milyen szép idő!"
+    },
+    "umbrella": {
+      "text": "Esernyő",
+      "note": "Often just: ernyő. Sunshade: napernyő."
+    },
+    "summer": {
+      "text": "Nyár",
+      "note": "In summer: nyáron."
+    },
+    "winter": {
+      "text": "Tél",
+      "note": "In winter: télen."
+    },
+    "have_reservation": {
+      "text": "Foglalásom van",
+      "note": "With your name: Szobát foglaltam Smith néven (I booked a room under Smith)."
+    },
+    "room": {
+      "text": "Szoba",
+      "note": "Room for two: kétágyas szoba. With one double bed: franciaágyas szoba."
+    },
+    "passport": {
+      "text": "Útlevél",
+      "note": "You'll hear: Az útlevelét kérem (Your passport, please)."
+    },
+    "luggage": {
+      "text": "Csomag",
+      "note": "Csomag is any bag or piece of luggage. Formal, e.g. at airports: poggyász."
+    },
+    "wifi_password": {
+      "text": "Mi a wifi jelszava?",
+      "note": "Also: Mi a jelszó a wifihez? Password: jelszó."
+    },
+    "check_out_time": {
+      "text": "Hánykor kell kijelentkezni?",
+      "note": "Also very common: Hánykor kell elhagyni a szobát? (When do I have to leave the room?)"
+    },
+    "map": {
+      "text": "Térkép"
+    },
+    "bus": {
+      "text": "Busz",
+      "note": "Bus stop: buszmegálló. In Budapest also: villamos (tram), metró."
+    },
+    "next_train": {
+      "text": "Mikor indul a következő vonat?",
+      "note": "Also common: Mikor megy a következő vonat? Indul = leaves."
+    },
+    "is_this_seat_free": {
+      "text": "Szabad ez a hely?",
+      "note": "Pointing at the seat, just: Szabad? Replies: Igen, tessék! or Foglalt (taken)."
+    },
+    "what_do_you_do": {
+      "text": "Mivel foglalkozik?",
+      "note": "Informal: Mivel foglalkozol? Also: Hol dolgozik? (Where do you work?)"
+    },
+    "i_work_in": {
+      "text": "…-ban dolgozom",
+      "note": "-ban or -ben to match the vowels: egy bankban, egy étteremben (in a restaurant)."
+    },
+    "im_student": {
+      "text": "Diák vagyok",
+      "note": "Same for a woman. At university: Egyetemista vagyok."
+    },
+    "office": {
+      "text": "Iroda"
+    },
+    "meeting": {
+      "text": "Megbeszélés",
+      "note": "Formal: értekezlet. In many offices people just say meeting."
+    },
+    "im_busy": {
+      "text": "Elfoglalt vagyok",
+      "note": "In speech often: Sok a dolgom (I've got a lot on) or Most nem érek rá (I've no time now)."
+    },
+    "day_off": {
+      "text": "Szabadnap",
+      "note": "On my day off: a szabadnapomon. Leave or holiday from work: szabadság."
+    },
+    "colleague": {
+      "text": "Kolléga",
+      "note": "A woman: kolléganő. Also common, for anyone: munkatárs."
+    },
+    "lets_start": {
+      "text": "Kezdjük!",
+      "note": "As a question: Kezdhetjük? (Shall we start?)"
+    },
+    "good_job": {
+      "text": "Szép munka!",
+      "note": "To praise the person: Ügyes vagy! Also: Ez nagyon jó lett! (That turned out great!)"
+    },
+    "table_for_two": {
+      "text": "Egy asztalt kérnék két főre",
+      "note": "Fő (head) is the usual word for counting guests. Also: két személyre."
+    },
+    "what_recommend": {
+      "text": "Mit ajánl?",
+      "note": "Informal: Mit ajánlasz? Today's special: napi ajánlat or napi menü."
+    },
+    "not_spicy": {
+      "text": "Ne legyen csípős, kérem",
+      "note": "Csípős and erős both mean hot. Mild paprika is édes (sweet)."
+    },
+    "vegetarian_food": {
+      "text": "Vegetáriánus étel",
+      "note": "On menus: húsmentes ételek (meat-free dishes)."
+    },
+    "more_water": {
+      "text": "Kérnék még vizet",
+      "note": "Also: Még egy kis vizet kérek. A jug of tap water: egy kancsó csapvíz."
+    },
+    "no_sugar": {
+      "text": "Cukor nélkül kérem",
+      "note": "With milk: tejjel. Sweetener: édesítő."
+    },
+    "im_full": {
+      "text": "Jóllaktam",
+      "note": "Turning down more food: Köszönöm, de már nem kérek."
+    },
+    "takeaway": {
+      "text": "Elvitelre kérem",
+      "note": "You may be asked: Itt fogyasztja, vagy elviszi? (Eat in or take away?)"
+    },
+    "it_was_delicious": {
+      "text": "Nagyon finom volt",
+      "note": "To a host or cook: Nagyon ízlett, köszönöm!"
+    },
+    "keep_change": {
+      "text": "Így jó lesz, köszönöm",
+      "note": "Said as you hand over the money. Also: A többi a magáé (the rest is yours)."
+    },
+    "head": {
+      "text": "Fej"
+    },
+    "stomach": {
+      "text": "Gyomor",
+      "note": "Belly or tummy: has. My stomach hurts: Fáj a hasam."
+    },
+    "head_hurts": {
+      "text": "Fáj a fejem",
+      "note": "Same pattern: Fáj a hasam (my stomach hurts), Fáj a torkom (my throat hurts)."
+    },
+    "have_fever": {
+      "text": "Lázas vagyok",
+      "note": "Also: Lázam van."
+    },
+    "medicine": {
+      "text": "Gyógyszer",
+      "note": "Painkiller: fájdalomcsillapító. Prescription: recept."
+    },
+    "call_ambulance": {
+      "text": "Hívjon mentőt!",
+      "note": "Informal: Hívj mentőt! Emergency number in Hungary: 112."
+    },
+    "dentist": {
+      "text": "Fogorvos",
+      "note": "Fog = tooth, orvos = doctor. Toothache: Fáj a fogam (my tooth hurts)."
+    },
+    "need_rest": {
+      "text": "Pihennem kell",
+      "note": "Also: Le kell feküdnöm (I need to lie down)."
+    },
+    "feel_better": {
+      "text": "Jobban vagyok",
+      "note": "Also: Jobban érzem magam. Often with már (already): Már jobban vagyok."
+    },
+    "get_well": {
+      "text": "Jobbulást!",
+      "note": "Fuller: Jobbulást kívánok! Informal: Gyógyulj meg hamar!"
+    },
+    "lets_meet": {
+      "text": "Találkozzunk!",
+      "note": "With a day: Találkozzunk holnap! Casual: Fussunk össze valamikor! (Let's catch up sometime.)"
+    },
+    "are_you_free": {
+      "text": "Ráér holnap?",
+      "note": "Informal: Ráérsz holnap? Ráér means 'has time'."
+    },
+    "call_me": {
+      "text": "Hívjon fel!",
+      "note": "Informal: Hívj fel! Text me: Írjon nekem! (informal: Írj nekem!)"
+    },
+    "your_number": {
+      "text": "Mi a telefonszáma?",
+      "note": "Informal: Mi a telefonszámod? Often shortened: Mi a száma? / Mi a számod?"
+    },
+    "see_you_soon": {
+      "text": "Hamarosan találkozunk",
+      "note": "Also: Nemsokára találkozunk. Formal goodbye: A mielőbbi viszontlátásra!"
+    },
+    "have_nice_day": {
+      "text": "Szép napot!",
+      "note": "Fuller: Szép napot kívánok! In the evening: Szép estét!"
+    },
+    "good_luck": {
+      "text": "Sok sikert!",
+      "note": "Literally 'lots of success'. Also: Sok szerencsét! (lots of luck)"
+    },
+    "happy_birthday": {
+      "text": "Boldog születésnapot!",
+      "note": "Hungarians also celebrate name days: Boldog névnapot!"
+    },
+    "thanks_a_lot": {
+      "text": "Köszönöm szépen",
+      "note": "Even warmer: Nagyon szépen köszönöm! Casual: Köszi szépen!"
+    },
+    "miss_you": {
+      "text": "Hiányzol",
+      "note": "Literally 'you are missing (to me)'. Stronger: Nagyon hiányzol!"
     }
   }
 }

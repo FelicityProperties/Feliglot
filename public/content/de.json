@@ -393,6 +393,405 @@
     "congratulations": {
       "text": "Herzlichen Glückwunsch!",
       "note": "On a birthday: Alles Gute zum Geburtstag!"
+    },
+    "my_family": {
+      "text": "Meine Familie",
+      "note": "Stress the second syllable: fa-MEE-lyuh."
+    },
+    "mother": {
+      "text": "Mutter",
+      "note": "die Mutter. Everyday word: Mama. Both parents together: die Eltern."
+    },
+    "father": {
+      "text": "Vater",
+      "note": "der Vater. The V sounds like f. Everyday word: Papa."
+    },
+    "brother": {
+      "text": "Bruder",
+      "note": "der Bruder. Plural: die Brüder."
+    },
+    "sister": {
+      "text": "Schwester",
+      "note": "die Schwester. Brothers and sisters together: die Geschwister."
+    },
+    "child": {
+      "text": "Kind",
+      "note": "das Kind, plural die Kinder. Son: der Sohn. Daughter: die Tochter."
+    },
+    "friend": {
+      "text": "Freund",
+      "note": "der Freund. Female: die Freundin. Mein Freund / meine Freundin often means boyfriend / girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "Das ist mein Freund",
+      "note": "For a female friend: Das ist meine Freundin. To rule out 'partner': Das ist ein Freund von mir."
+    },
+    "are_you_married": {
+      "text": "Sind Sie verheiratet?",
+      "note": "Casual: Bist du verheiratet?"
+    },
+    "have_children": {
+      "text": "Haben Sie Kinder?",
+      "note": "Casual: Hast du Kinder?"
+    },
+    "monday": {
+      "text": "Montag",
+      "note": "der Montag. All days are masculine. On Monday: am Montag."
+    },
+    "tuesday": {
+      "text": "Dienstag",
+      "note": "On Tuesdays: dienstags, written in lower case."
+    },
+    "wednesday": {
+      "text": "Mittwoch",
+      "note": "Literally 'mid-week' – the only day besides Sonnabend that doesn’t end in -tag."
+    },
+    "thursday": {
+      "text": "Donnerstag",
+      "note": "From Donner (thunder), after the thunder god – just like English Thursday."
+    },
+    "friday": {
+      "text": "Freitag",
+      "note": "Opening hours are often written Mo–Fr (Monday to Friday)."
+    },
+    "saturday": {
+      "text": "Samstag",
+      "note": "In northern and eastern Germany also Sonnabend."
+    },
+    "sunday": {
+      "text": "Sonntag"
+    },
+    "weekend": {
+      "text": "Wochenende",
+      "note": "das Wochenende. At the weekend: am Wochenende. Have a nice weekend: Schönes Wochenende!"
+    },
+    "what_day": {
+      "text": "Welcher Tag ist heute?",
+      "note": "Also common: Was ist heute für ein Tag? For the date: Der Wievielte ist heute?"
+    },
+    "next_week": {
+      "text": "Nächste Woche",
+      "note": "No preposition needed: Ich komme nächste Woche."
+    },
+    "eleven": {
+      "text": "Elf",
+      "note": "Rhymes with English 'shelf'."
+    },
+    "twelve": {
+      "text": "Zwölf",
+      "note": "The z sounds like ts; ö is like the vowel in 'fur', with rounded lips."
+    },
+    "fifteen": {
+      "text": "Fünfzehn",
+      "note": "Teens are built like English: fünf + zehn. But 16 is sechzehn and 17 is siebzehn."
+    },
+    "twenty": {
+      "text": "Zwanzig",
+      "note": "Units come first: 21 is einundzwanzig, 'one-and-twenty'."
+    },
+    "thirty": {
+      "text": "Dreißig",
+      "note": "The only ten spelled with ß: zwanzig, dreißig, vierzig."
+    },
+    "fifty": {
+      "text": "Fünfzig",
+      "note": "In prices, Euro stays singular: fünfzig Euro."
+    },
+    "hundred": {
+      "text": "Hundert",
+      "note": "Also einhundert. Written as one word: hundertfünfzig (150)."
+    },
+    "thousand": {
+      "text": "Tausend",
+      "note": "Also eintausend. In writing, a dot separates thousands (1.000) and a comma marks decimals."
+    },
+    "how_old": {
+      "text": "Wie alt sind Sie?",
+      "note": "Casual: Wie alt bist du?"
+    },
+    "years_old": {
+      "text": "Ich bin … Jahre alt",
+      "note": "Often just: Ich bin dreißig."
+    },
+    "red": {
+      "text": "Rot",
+      "note": "Before a noun it takes endings: ein rotes Auto. Red wine: Rotwein."
+    },
+    "blue": {
+      "text": "Blau",
+      "note": "Careful: blau sein is slang for being drunk."
+    },
+    "green": {
+      "text": "Grün",
+      "note": "ü as in fünf: say 'ee' with rounded lips."
+    },
+    "yellow": {
+      "text": "Gelb",
+      "note": "The g is hard, as in 'go'."
+    },
+    "black": {
+      "text": "Schwarz",
+      "note": "Sounds like 'shvarts'. Black coffee: schwarzer Kaffee, or just schwarz."
+    },
+    "white": {
+      "text": "Weiß",
+      "note": "Sounds like 'vice'. Same spelling as ich weiß (I know)."
+    },
+    "what_colour": {
+      "text": "Welche Farbe hat das?",
+      "note": "Also: Was für eine Farbe hat das?"
+    },
+    "this_one": {
+      "text": "Das hier",
+      "note": "Also: dieses hier. Many people match the noun: den hier, die hier."
+    },
+    "that_one": {
+      "text": "Das da",
+      "note": "Further away: das dort drüben (that one over there)."
+    },
+    "another_one": {
+      "text": "Noch eins, bitte",
+      "note": "Matching the noun: noch einen Kaffee, noch ein Bier, noch eine Cola."
+    },
+    "its_hot": {
+      "text": "Es ist heiß",
+      "note": "Pleasantly warm: Es ist warm. Feeling hot yourself: Mir ist heiß (Ich bin heiß sounds suggestive)."
+    },
+    "its_cold": {
+      "text": "Es ist kalt",
+      "note": "Feeling cold yourself: Mir ist kalt."
+    },
+    "its_raining": {
+      "text": "Es regnet",
+      "note": "Pouring down: Es schüttet or Es gießt in Strömen."
+    },
+    "its_sunny": {
+      "text": "Die Sonne scheint",
+      "note": "Also: Es ist sonnig."
+    },
+    "its_windy": {
+      "text": "Es ist windig",
+      "note": "Stormy: Es ist stürmisch."
+    },
+    "weather_today": {
+      "text": "Wie ist das Wetter heute?",
+      "note": "For the forecast: Wie wird das Wetter heute?"
+    },
+    "beautiful_day": {
+      "text": "Heute ist ein schöner Tag",
+      "note": "As an exclamation: Was für ein schöner Tag! Small talk: Schönes Wetter heute, oder?"
+    },
+    "umbrella": {
+      "text": "Regenschirm",
+      "note": "der Regenschirm, often just der Schirm."
+    },
+    "summer": {
+      "text": "Sommer",
+      "note": "der Sommer. All seasons are masculine. In summer: im Sommer."
+    },
+    "winter": {
+      "text": "Winter",
+      "note": "der Winter. Same spelling as English, but the W sounds like v: 'VIN-ter'."
+    },
+    "have_reservation": {
+      "text": "Ich habe eine Reservierung",
+      "note": "Also very common: Ich habe ein Zimmer reserviert. Add your name: auf den Namen Smith."
+    },
+    "room": {
+      "text": "Zimmer",
+      "note": "das Zimmer. The Z sounds like ts. A sign reading Zimmer frei means rooms are available."
+    },
+    "passport": {
+      "text": "Reisepass",
+      "note": "der Reisepass, usually just der Pass. An ID card is der Ausweis."
+    },
+    "luggage": {
+      "text": "Gepäck",
+      "note": "das Gepäck. Suitcase: der Koffer. Left luggage: die Gepäckaufbewahrung."
+    },
+    "wifi_password": {
+      "text": "Wie ist das WLAN-Passwort?",
+      "note": "Germans say WLAN ('VAY-lahn'); Wi-Fi is understood but less common."
+    },
+    "check_out_time": {
+      "text": "Bis wann muss ich auschecken?",
+      "note": "Also: Wann ist der Check-out?"
+    },
+    "map": {
+      "text": "Karte",
+      "note": "die Karte. A city map: der Stadtplan. Karte can also mean card, menu or ticket."
+    },
+    "bus": {
+      "text": "Bus",
+      "note": "der Bus. The u is short, as in 'put'. Bus stop: die Haltestelle."
+    },
+    "next_train": {
+      "text": "Wann fährt der nächste Zug?",
+      "note": "Platform: das Gleis. To ask: Von welchem Gleis fährt der Zug?"
+    },
+    "is_this_seat_free": {
+      "text": "Ist hier noch frei?",
+      "note": "Also: Ist dieser Platz noch frei? If it’s taken: Hier ist besetzt."
+    },
+    "what_do_you_do": {
+      "text": "Was machen Sie beruflich?",
+      "note": "Casual: Was machst du beruflich?"
+    },
+    "i_work_in": {
+      "text": "Ich arbeite in …",
+      "note": "Usually with an article: im Vertrieb (in sales), in einer Bank. For a company: bei Siemens."
+    },
+    "im_student": {
+      "text": "Ich bin Student",
+      "note": "A woman says: Ich bin Studentin. No article, as with all jobs. A school pupil: Schüler / Schülerin."
+    },
+    "office": {
+      "text": "Büro",
+      "note": "das Büro. Stress the end: bü-RO."
+    },
+    "meeting": {
+      "text": "Besprechung",
+      "note": "die Besprechung. Many offices also say das Meeting."
+    },
+    "im_busy": {
+      "text": "Ich habe viel zu tun",
+      "note": "Busy right now: Ich bin gerade beschäftigt. Also: Ich habe keine Zeit."
+    },
+    "day_off": {
+      "text": "Freier Tag",
+      "note": "Usually said: Ich habe morgen frei. On a restaurant door, Ruhetag means closed that day."
+    },
+    "colleague": {
+      "text": "Kollege",
+      "note": "der Kollege. Female: die Kollegin."
+    },
+    "lets_start": {
+      "text": "Fangen wir an",
+      "note": "Also: Lassen Sie uns anfangen. Casual: Los geht’s!"
+    },
+    "good_job": {
+      "text": "Gut gemacht!",
+      "note": "Even warmer: Das haben Sie super gemacht!"
+    },
+    "table_for_two": {
+      "text": "Einen Tisch für zwei, bitte",
+      "note": "Also: Wir sind zu zweit (there are two of us)."
+    },
+    "what_recommend": {
+      "text": "Was können Sie empfehlen?",
+      "note": "Also: Was würden Sie mir empfehlen?"
+    },
+    "not_spicy": {
+      "text": "Nicht scharf, bitte",
+      "note": "Scharf means spicy; heiß only means hot in temperature."
+    },
+    "vegetarian_food": {
+      "text": "Vegetarisches Essen",
+      "note": "Here the v sounds like English v, not f. Vegan food: veganes Essen."
+    },
+    "more_water": {
+      "text": "Noch etwas Wasser, bitte",
+      "note": "Another bottle: Noch eine Flasche Wasser, bitte. Tap water: Leitungswasser."
+    },
+    "no_sugar": {
+      "text": "Ohne Zucker, bitte",
+      "note": "Without milk: ohne Milch."
+    },
+    "im_full": {
+      "text": "Ich bin satt",
+      "note": "To a host: Danke, ich bin satt. Avoid Ich bin voll, which can mean drunk."
+    },
+    "takeaway": {
+      "text": "Zum Mitnehmen, bitte",
+      "note": "In cafés and bakeries you’ll often be asked: Hier oder zum Mitnehmen?"
+    },
+    "it_was_delicious": {
+      "text": "Es hat sehr gut geschmeckt",
+      "note": "Casual: Es war lecker! Waiters often ask: Hat es Ihnen geschmeckt?"
+    },
+    "keep_change": {
+      "text": "Stimmt so",
+      "note": "Say it as you hand over the money. Or name a rounded-up total: Machen Sie zwanzig."
+    },
+    "head": {
+      "text": "Kopf",
+      "note": "der Kopf. Pronounce both the p and the f."
+    },
+    "stomach": {
+      "text": "Bauch",
+      "note": "der Bauch. Stomach ache: Bauchschmerzen. The organ itself is der Magen."
+    },
+    "head_hurts": {
+      "text": "Ich habe Kopfschmerzen",
+      "note": "Also: Mir tut der Kopf weh."
+    },
+    "have_fever": {
+      "text": "Ich habe Fieber",
+      "note": "Also useful: Ich bin erkältet (I have a cold)."
+    },
+    "medicine": {
+      "text": "Medikament",
+      "note": "das Medikament. Also: die Medizin. Most medicines are sold only in an Apotheke."
+    },
+    "call_ambulance": {
+      "text": "Rufen Sie einen Krankenwagen!",
+      "note": "The emergency number in Germany and across the EU is 112."
+    },
+    "dentist": {
+      "text": "Zahnarzt",
+      "note": "der Zahnarzt. Female: die Zahnärztin. Toothache: Zahnschmerzen."
+    },
+    "need_rest": {
+      "text": "Ich muss mich ausruhen",
+      "note": "Also: Ich brauche etwas Ruhe."
+    },
+    "feel_better": {
+      "text": "Mir geht es besser",
+      "note": "Also: Ich fühle mich besser. Casual: Mir geht’s besser."
+    },
+    "get_well": {
+      "text": "Gute Besserung!",
+      "note": "Said to anyone who is ill, even with just a cold."
+    },
+    "lets_meet": {
+      "text": "Wollen wir uns mal treffen?",
+      "note": "Also: Treffen wir uns doch mal! To fix a time: Wann passt es Ihnen?"
+    },
+    "are_you_free": {
+      "text": "Haben Sie morgen Zeit?",
+      "note": "Casual: Hast du morgen Zeit? Also: Sind Sie morgen frei?"
+    },
+    "call_me": {
+      "text": "Rufen Sie mich an",
+      "note": "Casual: Ruf mich an! Also: Melden Sie sich (get in touch)."
+    },
+    "your_number": {
+      "text": "Wie ist Ihre Telefonnummer?",
+      "note": "Casual: Wie ist deine Nummer? Mobile number: die Handynummer."
+    },
+    "see_you_soon": {
+      "text": "Bis bald",
+      "note": "Within minutes: Bis gleich! At an agreed time: Bis dann!"
+    },
+    "have_nice_day": {
+      "text": "Einen schönen Tag noch!",
+      "note": "The usual reply: Danke, Ihnen auch! (or Dir auch!)"
+    },
+    "good_luck": {
+      "text": "Viel Glück!",
+      "note": "Also: Ich drücke Ihnen die Daumen! Germans 'press thumbs' instead of crossing fingers."
+    },
+    "happy_birthday": {
+      "text": "Alles Gute zum Geburtstag!",
+      "note": "Also: Herzlichen Glückwunsch zum Geburtstag! Wishing it early is thought to bring bad luck."
+    },
+    "thanks_a_lot": {
+      "text": "Vielen Dank",
+      "note": "Also: Danke schön or Danke sehr. Extra warm: Vielen herzlichen Dank!"
+    },
+    "miss_you": {
+      "text": "Ich vermisse dich",
+      "note": "Also, more tender: Du fehlst mir."
     }
   }
 }

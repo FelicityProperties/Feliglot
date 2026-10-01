@@ -386,6 +386,401 @@
     "congratulations": {
       "text": "Grattis!",
       "note": "More formal: Gratulerar! Birthday: Grattis på födelsedagen!"
+    },
+    "my_family": {
+      "text": "Min familj",
+      "note": "Stress on the end: fa-MILJ."
+    },
+    "mother": {
+      "text": "Mamma",
+      "note": "Formal: mor. Mormor is your mother's mother."
+    },
+    "father": {
+      "text": "Pappa",
+      "note": "Formal: far. Farfar is your father's father."
+    },
+    "brother": {
+      "text": "Bror",
+      "note": "Casual: brorsa. Plural: bröder. Brothers and sisters together: syskon."
+    },
+    "sister": {
+      "text": "Syster",
+      "note": "Casual: syrra. Plural: systrar."
+    },
+    "child": {
+      "text": "Barn",
+      "note": "Same in the plural: ett barn, två barn. Son: son. Daughter: dotter."
+    },
+    "friend": {
+      "text": "Vän",
+      "note": "Same word for a man or a woman. Casual and very common: kompis."
+    },
+    "this_is_my_friend": {
+      "text": "Det här är min vän",
+      "note": "Same for a female friend. Casual: Det här är min kompis."
+    },
+    "are_you_married": {
+      "text": "Är du gift?",
+      "note": "Many couples live together unmarried, so you may also hear: Har du sambo? (live-in partner)"
+    },
+    "have_children": {
+      "text": "Har du barn?",
+      "note": "Answers: Ja, jag har två barn. – Nej, jag har inga barn."
+    },
+    "monday": {
+      "text": "måndag",
+      "note": "Days take a small letter in Swedish. On Monday: på måndag."
+    },
+    "tuesday": {
+      "text": "tisdag"
+    },
+    "wednesday": {
+      "text": "onsdag",
+      "note": "Jokingly called lillördag (little Saturday) – a night to treat yourself."
+    },
+    "thursday": {
+      "text": "torsdag",
+      "note": "Traditional Thursday lunch: ärtsoppa och pannkakor (pea soup and pancakes)."
+    },
+    "friday": {
+      "text": "fredag",
+      "note": "Fredagsmys is the cosy Friday night in, often with tacos and crisps."
+    },
+    "saturday": {
+      "text": "lördag",
+      "note": "Lördagsgodis: children's traditional Saturday sweets."
+    },
+    "sunday": {
+      "text": "söndag",
+      "note": "Every Sunday: på söndagar."
+    },
+    "weekend": {
+      "text": "Helg",
+      "note": "Have a nice weekend: Trevlig helg! Weekend is also used in Swedish."
+    },
+    "what_day": {
+      "text": "Vilken dag är det i dag?",
+      "note": "Also: Vad är det för dag i dag?"
+    },
+    "next_week": {
+      "text": "Nästa vecka",
+      "note": "Last week: förra veckan. This week: den här veckan or i veckan."
+    },
+    "eleven": {
+      "text": "Elva"
+    },
+    "twelve": {
+      "text": "Tolv"
+    },
+    "fifteen": {
+      "text": "Femton",
+      "note": "The teens end in -ton: tretton, fjorton, femton, sexton…"
+    },
+    "twenty": {
+      "text": "Tjugo",
+      "note": "Tj is a soft 'sh' sound. Twenty-one is one word: tjugoett."
+    },
+    "thirty": {
+      "text": "Trettio",
+      "note": "In everyday speech usually 'tretti'. Thirty-five: trettiofem."
+    },
+    "fifty": {
+      "text": "Femtio",
+      "note": "In everyday speech usually 'femti'."
+    },
+    "hundred": {
+      "text": "Hundra",
+      "note": "Also: etthundra. A 100-kronor note is a hundralapp."
+    },
+    "thousand": {
+      "text": "Tusen",
+      "note": "Also: ettusen. Big numbers are written with a space: 1 000."
+    },
+    "how_old": {
+      "text": "Hur gammal är du?"
+    },
+    "years_old": {
+      "text": "Jag är … år",
+      "note": "Also: Jag är … år gammal."
+    },
+    "red": {
+      "text": "Röd",
+      "note": "With ett-words: rött. Plural: röda."
+    },
+    "blue": {
+      "text": "Blå",
+      "note": "With ett-words: blått. Plural: blå or blåa."
+    },
+    "green": {
+      "text": "Grön",
+      "note": "With ett-words: grönt. Plural: gröna."
+    },
+    "yellow": {
+      "text": "Gul",
+      "note": "With ett-words: gult. Plural: gula."
+    },
+    "black": {
+      "text": "Svart",
+      "note": "Same with ett-words. Plural: svarta."
+    },
+    "white": {
+      "text": "Vit",
+      "note": "With ett-words: vitt. Plural: vita."
+    },
+    "what_colour": {
+      "text": "Vilken färg är det?",
+      "note": "Also: Vad har den för färg?"
+    },
+    "this_one": {
+      "text": "Den här",
+      "note": "For an ett-word item: det här. Several items: de här."
+    },
+    "that_one": {
+      "text": "Den där",
+      "note": "For an ett-word item: det där. Several items: de där."
+    },
+    "another_one": {
+      "text": "En till, tack",
+      "note": "For an ett-word item: Ett till, tack."
+    },
+    "its_hot": {
+      "text": "Det är varmt",
+      "note": "Very hot: Det är jättevarmt!"
+    },
+    "its_cold": {
+      "text": "Det är kallt",
+      "note": "Freezing: Det är iskallt! Below zero: minusgrader."
+    },
+    "its_raining": {
+      "text": "Det regnar",
+      "note": "Pouring: Det spöregnar! or Det ösregnar!"
+    },
+    "its_sunny": {
+      "text": "Det är soligt",
+      "note": "Also: Solen skiner."
+    },
+    "its_windy": {
+      "text": "Det blåser",
+      "note": "Also: Det är blåsigt. Very windy: Det blåser mycket."
+    },
+    "weather_today": {
+      "text": "Hur är vädret i dag?",
+      "note": "Also: Vad är det för väder i dag? The forecast: väderprognosen."
+    },
+    "beautiful_day": {
+      "text": "Vilken fin dag!",
+      "note": "Also: Vilket fint väder! or Det är en fin dag i dag."
+    },
+    "umbrella": {
+      "text": "Paraply",
+      "note": "Ett paraply. Stress on the end: para-PLY."
+    },
+    "summer": {
+      "text": "Sommar",
+      "note": "In summer: på sommaren. Midsommar, in late June, is the big summer celebration."
+    },
+    "winter": {
+      "text": "Vinter",
+      "note": "In winter: på vintern."
+    },
+    "have_reservation": {
+      "text": "Jag har en bokning",
+      "note": "Also: Jag har bokat ett rum. Giving the name: … på namnet Andersson."
+    },
+    "room": {
+      "text": "Rum",
+      "note": "Ett rum. Single room: enkelrum. Double room: dubbelrum."
+    },
+    "passport": {
+      "text": "Pass",
+      "note": "Ett pass. Passport control: passkontrollen."
+    },
+    "luggage": {
+      "text": "Bagage",
+      "note": "Pronounced 'ba-GAHSH'. In everyday speech people often just say väskor (bags)."
+    },
+    "wifi_password": {
+      "text": "Vad är wifi-lösenordet?",
+      "note": "Wifi is said 'vaj-faj'. Also: Vad har ni för wifi-lösenord?"
+    },
+    "check_out_time": {
+      "text": "Vilken tid är utcheckningen?",
+      "note": "Also common: Hur dags måste jag checka ut?"
+    },
+    "map": {
+      "text": "Karta",
+      "note": "En karta. Can you show me on the map? – Kan du visa mig på kartan?"
+    },
+    "bus": {
+      "text": "Buss",
+      "note": "Bus stop: busshållplats, or just hållplats."
+    },
+    "next_train": {
+      "text": "När går nästa tåg?",
+      "note": "Trains and buses går (go) in Swedish. Platform: spår."
+    },
+    "is_this_seat_free": {
+      "text": "Är den här platsen ledig?",
+      "note": "Shorter: Är det ledigt här? Taken: upptaget."
+    },
+    "what_do_you_do": {
+      "text": "Vad jobbar du med?",
+      "note": "More formal: Vad arbetar du med? Vad gör du? usually means 'what are you doing right now'."
+    },
+    "i_work_in": {
+      "text": "Jag jobbar inom …",
+      "note": "Inom is for a field: inom försäljning. For a workplace use på: Jag jobbar på en bank."
+    },
+    "im_student": {
+      "text": "Jag är student",
+      "note": "Same for a woman. A school pupil is an elev."
+    },
+    "office": {
+      "text": "Kontor",
+      "note": "Ett kontor. At the office: på kontoret."
+    },
+    "meeting": {
+      "text": "Möte",
+      "note": "Ett möte. I'm in a meeting: Jag sitter i möte."
+    },
+    "im_busy": {
+      "text": "Jag är upptagen",
+      "note": "Very common, more casual: Jag har fullt upp."
+    },
+    "day_off": {
+      "text": "Ledig dag",
+      "note": "I'm off today: Jag är ledig i dag."
+    },
+    "colleague": {
+      "text": "Kollega",
+      "note": "Same for a woman. Plural: kollegor. Also: arbetskamrat."
+    },
+    "lets_start": {
+      "text": "Nu börjar vi",
+      "note": "Suggesting it: Ska vi börja? Casual: Nu kör vi!"
+    },
+    "good_job": {
+      "text": "Bra jobbat!",
+      "note": "Also: Snyggt jobbat! or Bra gjort!"
+    },
+    "table_for_two": {
+      "text": "Ett bord för två, tack",
+      "note": "As a question: Har ni ett bord för två?"
+    },
+    "what_recommend": {
+      "text": "Vad kan du rekommendera?",
+      "note": "Swedes say du to waiters too. Also: Vad tycker du att jag ska ta?"
+    },
+    "not_spicy": {
+      "text": "Inte starkt, tack",
+      "note": "Spicy-hot food is called stark (strong). Not too spicy: inte för starkt."
+    },
+    "vegetarian_food": {
+      "text": "Vegetarisk mat",
+      "note": "Asking: Har ni något vegetariskt? Vegan: vegansk."
+    },
+    "more_water": {
+      "text": "Lite mer vatten, tack",
+      "note": "Also: Kan vi få lite mer vatten? Tap water is free and good to drink."
+    },
+    "no_sugar": {
+      "text": "Utan socker, tack",
+      "note": "With milk: med mjölk. Black coffee: svart kaffe."
+    },
+    "im_full": {
+      "text": "Jag är mätt",
+      "note": "Really full: Jag är proppmätt!"
+    },
+    "takeaway": {
+      "text": "Ta med, tack",
+      "note": "Staff often ask: Äta här eller ta med? Eating in: Äta här."
+    },
+    "it_was_delicious": {
+      "text": "Det var jättegott!",
+      "note": "More formal: Det var mycket gott. To your host after a meal: Tack för maten!"
+    },
+    "keep_change": {
+      "text": "Det är bra så",
+      "note": "Said as you hand over the money. Literal but stiffer: Behåll växeln."
+    },
+    "head": {
+      "text": "Huvud",
+      "note": "Ett huvud. The head: huvudet."
+    },
+    "stomach": {
+      "text": "Mage",
+      "note": "En mage. Stomach ache: ont i magen."
+    },
+    "head_hurts": {
+      "text": "Jag har ont i huvudet",
+      "note": "Also: Jag har huvudvärk. Ont i … works for any body part: ont i magen."
+    },
+    "have_fever": {
+      "text": "Jag har feber",
+      "note": "I have a cold: Jag är förkyld (a cold: en förkylning)."
+    },
+    "medicine": {
+      "text": "Medicin",
+      "note": "Official word: läkemedel. Painkillers: värktabletter."
+    },
+    "call_ambulance": {
+      "text": "Ring ambulans!",
+      "note": "Also: Ring efter ambulans! The emergency number for ambulance, police and fire is 112."
+    },
+    "dentist": {
+      "text": "Tandläkare",
+      "note": "Same for a woman. Toothache: Jag har tandvärk."
+    },
+    "need_rest": {
+      "text": "Jag behöver vila",
+      "note": "Also: Jag måste vila lite."
+    },
+    "feel_better": {
+      "text": "Jag mår bättre",
+      "note": "Much better: Jag mår mycket bättre."
+    },
+    "get_well": {
+      "text": "Krya på dig!",
+      "note": "To several people: Krya på er! Also: Hoppas du blir frisk snart!"
+    },
+    "lets_meet": {
+      "text": "Ska vi ses?",
+      "note": "Swedes suggest plans as questions. Over coffee: Ska vi ta en fika?"
+    },
+    "are_you_free": {
+      "text": "Har du tid i morgon?",
+      "note": "Off work: Är du ledig i morgon? Casual: Kan du i morgon?"
+    },
+    "call_me": {
+      "text": "Ring mig gärna",
+      "note": "Gärna makes it friendly, like 'feel free to'. Plain: Ring mig!"
+    },
+    "your_number": {
+      "text": "Vad har du för nummer?",
+      "note": "Also: Kan jag få ditt nummer? Mobile number: mobilnummer."
+    },
+    "see_you_soon": {
+      "text": "Vi ses snart",
+      "note": "Casual: Ses snart! Keeping in touch: Vi hörs!"
+    },
+    "have_nice_day": {
+      "text": "Ha en bra dag!",
+      "note": "Also: Ha en fin dag! Shop staff often say: Ha det så bra!"
+    },
+    "good_luck": {
+      "text": "Lycka till!"
+    },
+    "happy_birthday": {
+      "text": "Grattis på födelsedagen!",
+      "note": "Short: Grattis! The birthday song is Ja, må du leva."
+    },
+    "thanks_a_lot": {
+      "text": "Tack så mycket",
+      "note": "Even warmer: Tusen tack!"
+    },
+    "miss_you": {
+      "text": "Jag saknar dig",
+      "note": "To several people: Jag saknar er."
     }
   }
 }

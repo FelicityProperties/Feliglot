@@ -360,6 +360,388 @@
     "congratulations": {
       "text": "Tabriklayman!",
       "note": "For weddings, a new baby or holidays: Muborak boʻlsin!"
+    },
+    "my_family": {
+      "text": "Mening oilam",
+      "note": "Shorter and very common: Oilam. The ending -m means 'my'."
+    },
+    "mother": {
+      "text": "Ona",
+      "note": "Calling your own mum: oyi (aya in some regions). Affectionate: onajon."
+    },
+    "father": {
+      "text": "Ota",
+      "note": "Calling your own dad: dada. Affectionate: otajon."
+    },
+    "brother": {
+      "text": "Aka",
+      "note": "Aka is an older brother (and a polite way to address any man). A younger brother is uka."
+    },
+    "sister": {
+      "text": "Opa",
+      "note": "Opa is an older sister (and a polite way to address any woman). A younger sister is singil."
+    },
+    "child": {
+      "text": "Farzand",
+      "note": "Son: oʻgʻil. Daughter: qiz. In everyday speech bola ('child, kid') is also used."
+    },
+    "friend": {
+      "text": "Doʻst",
+      "note": "Same word for men and women. Also common: oʻrtoq. A woman's female friend is often dugona."
+    },
+    "this_is_my_friend": {
+      "text": "Bu mening doʻstim",
+      "note": "A woman introducing a female friend often says: Bu mening dugonam."
+    },
+    "are_you_married": {
+      "text": "Turmush qurganmisiz?",
+      "note": "Also common: Oilalimisiz? To a man: Uylanganmisiz? To a woman: Turmushga chiqqanmisiz?"
+    },
+    "have_children": {
+      "text": "Farzandlaringiz bormi?",
+      "note": "Everyday alternative: Bolalaringiz bormi?"
+    },
+    "monday": {
+      "text": "dushanba",
+      "note": "Days are not capitalised. On Monday: dushanba kuni."
+    },
+    "tuesday": {
+      "text": "seshanba",
+      "note": "Du-, se-, chor-, pay- are the Persian numbers 2–5 (pay- from panj) joined to shanba."
+    },
+    "wednesday": {
+      "text": "chorshanba"
+    },
+    "thursday": {
+      "text": "payshanba"
+    },
+    "friday": {
+      "text": "juma",
+      "note": "The day of the Friday prayer. On Friday: juma kuni."
+    },
+    "saturday": {
+      "text": "shanba"
+    },
+    "sunday": {
+      "text": "yakshanba",
+      "note": "Yak- is Persian for 'one': the first day after shanba."
+    },
+    "weekend": {
+      "text": "Dam olish kunlari",
+      "note": "Literally 'rest days'. Also heard: hafta oxiri ('end of the week')."
+    },
+    "what_day": {
+      "text": "Bugun qaysi kun?",
+      "note": "Asking the date instead: Bugun nechanchi sana?"
+    },
+    "next_week": {
+      "text": "Kelasi hafta",
+      "note": "Also common: keyingi hafta. Last week: oʻtgan hafta."
+    },
+    "eleven": {
+      "text": "Oʻn bir",
+      "note": "Teens are oʻn ('ten') + the unit: oʻn bir, oʻn ikki, oʻn uch…"
+    },
+    "twelve": {
+      "text": "Oʻn ikki"
+    },
+    "fifteen": {
+      "text": "Oʻn besh"
+    },
+    "twenty": {
+      "text": "Yigirma",
+      "note": "Tens + unit, no 'and': yigirma bir (21), yigirma besh (25)."
+    },
+    "thirty": {
+      "text": "Oʻttiz"
+    },
+    "fifty": {
+      "text": "Ellik",
+      "note": "Forty: qirq. Sixty: oltmish. Seventy: yetmish. Eighty: sakson. Ninety: toʻqson."
+    },
+    "hundred": {
+      "text": "Yuz",
+      "note": "Yuz also means 'face'. Two hundred: ikki yuz. In formal writing (e.g. sums in contracts): bir yuz."
+    },
+    "thousand": {
+      "text": "Ming",
+      "note": "Prices run into thousands: besh ming soʻm (5,000 soʻm)."
+    },
+    "how_old": {
+      "text": "Yoshingiz nechada?",
+      "note": "Also common: Necha yoshdasiz?"
+    },
+    "years_old": {
+      "text": "Men … yoshdaman",
+      "note": "The number goes before yoshdaman: Men oʻttiz yoshdaman."
+    },
+    "red": {
+      "text": "Qizil"
+    },
+    "blue": {
+      "text": "Koʻk",
+      "note": "Koʻk is also used for green plants and tea: koʻk choy is green tea. Sky blue: havorang."
+    },
+    "green": {
+      "text": "Yashil"
+    },
+    "yellow": {
+      "text": "Sariq"
+    },
+    "black": {
+      "text": "Qora"
+    },
+    "white": {
+      "text": "Oq",
+      "note": "Oq yoʻl! ('white road') is how you wish someone a good journey."
+    },
+    "what_colour": {
+      "text": "Bu qanday rangda?",
+      "note": "Colloquial: Rangi qanaqa?"
+    },
+    "this_one": {
+      "text": "Mana bunisi",
+      "note": "To ask for it: Bunisini bering."
+    },
+    "that_one": {
+      "text": "Ana unisi",
+      "note": "Colloquial: anavi. To ask for it: Unisini bering."
+    },
+    "another_one": {
+      "text": "Yana bitta, iltimos",
+      "note": "Also: Yana bittasini bering."
+    },
+    "its_hot": {
+      "text": "Havo issiq",
+      "note": "Very hot: Juda issiq! In speech often just: Issiq."
+    },
+    "its_cold": {
+      "text": "Havo sovuq",
+      "note": "If you yourself feel cold: Sovqotyapman."
+    },
+    "its_raining": {
+      "text": "Yomgʻir yogʻyapti",
+      "note": "It's snowing: Qor yogʻyapti."
+    },
+    "its_sunny": {
+      "text": "Havo ochiq",
+      "note": "Ochiq here means 'clear'. When the sun comes out: Quyosh chiqdi."
+    },
+    "its_windy": {
+      "text": "Shamol esyapti",
+      "note": "A strong wind: kuchli shamol."
+    },
+    "weather_today": {
+      "text": "Bugun havo qanday?",
+      "note": "Colloquial: Bugun havo qanaqa?"
+    },
+    "beautiful_day": {
+      "text": "Bugun havo ajoyib",
+      "note": "Colloquial: Havo zoʻr!"
+    },
+    "umbrella": {
+      "text": "Soyabon",
+      "note": "In everyday speech also zontik."
+    },
+    "summer": {
+      "text": "Yoz",
+      "note": "In summer: yozda."
+    },
+    "winter": {
+      "text": "Qish",
+      "note": "In winter: qishda."
+    },
+    "have_reservation": {
+      "text": "Men xona band qilganman",
+      "note": "Also very common: Xona bron qilganman."
+    },
+    "room": {
+      "text": "Xona",
+      "note": "In hotels you will also hear nomer."
+    },
+    "passport": {
+      "text": "Pasport"
+    },
+    "luggage": {
+      "text": "Yuk",
+      "note": "At the airport usually bagaj. A suitcase: chamadon."
+    },
+    "wifi_password": {
+      "text": "Wi-Fi paroli qanday?",
+      "note": "Wi-Fi is said vay-fay."
+    },
+    "check_out_time": {
+      "text": "Xonani soat nechada boʻshatish kerak?",
+      "note": "Literally 'At what time must the room be vacated?'"
+    },
+    "map": {
+      "text": "Xarita"
+    },
+    "bus": {
+      "text": "Avtobus"
+    },
+    "next_train": {
+      "text": "Keyingi poyezd qachon joʻnaydi?",
+      "note": "Shorter: Keyingi poyezd qachon?"
+    },
+    "is_this_seat_free": {
+      "text": "Bu joy boʻshmi?",
+      "note": "Also: Bu yerga oʻtirsam boʻladimi? ('May I sit here?')"
+    },
+    "what_do_you_do": {
+      "text": "Kasbingiz nima?",
+      "note": "Also common: Qayerda ishlaysiz? ('Where do you work?')"
+    },
+    "i_work_in": {
+      "text": "Men …da ishlayman",
+      "note": "-da attaches to the place: Men bankda ishlayman. For a field: savdo sohasida ('in sales')."
+    },
+    "im_student": {
+      "text": "Men talabaman",
+      "note": "Same for men and women. A school pupil says: Men oʻquvchiman."
+    },
+    "office": {
+      "text": "Ofis",
+      "note": "The Uzbek word idora is also used, especially for official institutions."
+    },
+    "meeting": {
+      "text": "Yigʻilish",
+      "note": "A formal meeting: majlis. Meeting a person: uchrashuv."
+    },
+    "im_busy": {
+      "text": "Men bandman",
+      "note": "Right now: Hozir bandman."
+    },
+    "day_off": {
+      "text": "Dam olish kuni",
+      "note": "The plural, dam olish kunlari, means 'weekend'."
+    },
+    "colleague": {
+      "text": "Hamkasb",
+      "note": "Same word for men and women."
+    },
+    "lets_start": {
+      "text": "Keling, boshlaymiz",
+      "note": "Casual: Boshladik! or Qani, boshladik!"
+    },
+    "good_job": {
+      "text": "Barakalla!",
+      "note": "Also: Ofarin! Colloquial: Zoʻr!"
+    },
+    "table_for_two": {
+      "text": "Ikki kishilik stol bering, iltimos",
+      "note": "Also natural: Ikki kishilik joy bormi? ('Is there a place for two?')"
+    },
+    "what_recommend": {
+      "text": "Nima tavsiya qilasiz?",
+      "note": "Also common: Nimani maslahat berasiz?"
+    },
+    "not_spicy": {
+      "text": "Achchiq boʻlmasin, iltimos",
+      "note": "Achchiq means both spicy and bitter. Also: Qalampir solmang ('no chilli')."
+    },
+    "vegetarian_food": {
+      "text": "Vegetarian taomlar",
+      "note": "Goʻshtsiz ('without meat') is often clearer: Goʻshtsiz taom bormi?"
+    },
+    "more_water": {
+      "text": "Yana suv bering, iltimos"
+    },
+    "no_sugar": {
+      "text": "Shakarsiz, iltimos",
+      "note": "-siz means 'without'. With sugar: shakar bilan."
+    },
+    "im_full": {
+      "text": "Toʻydim",
+      "note": "Politely to a host: Rahmat, toʻydim."
+    },
+    "takeaway": {
+      "text": "Olib ketishga, iltimos",
+      "note": "Also: Oʻrab bering ('wrap it up, please') or simply Olib ketaman ('I'll take it with me')."
+    },
+    "it_was_delicious": {
+      "text": "Juda mazali boʻldi",
+      "note": "To the host or cook, add: Qoʻlingiz dard koʻrmasin! ('may your hands never ache')."
+    },
+    "keep_change": {
+      "text": "Qaytimi kerak emas",
+      "note": "Also: Qaytimi qolsin ('let the change stay')."
+    },
+    "head": {
+      "text": "Bosh"
+    },
+    "stomach": {
+      "text": "Qorin",
+      "note": "Qorin is the belly; the organ itself is oshqozon. My stomach: qornim."
+    },
+    "head_hurts": {
+      "text": "Boshim ogʻriyapti",
+      "note": "My stomach hurts: Qornim ogʻriyapti."
+    },
+    "have_fever": {
+      "text": "Isitmam bor",
+      "note": "Also: Isitmam chiqdi ('I've got a temperature')."
+    },
+    "medicine": {
+      "text": "Dori",
+      "note": "A pharmacy, dorixona, is literally 'medicine house'."
+    },
+    "call_ambulance": {
+      "text": "Tez yordam chaqiring!",
+      "note": "Ambulance emergency number: 103."
+    },
+    "dentist": {
+      "text": "Tish shifokori",
+      "note": "Colloquially: tish doktori or stomatolog."
+    },
+    "need_rest": {
+      "text": "Dam olishim kerak"
+    },
+    "feel_better": {
+      "text": "Ancha yaxshi boʻlib qoldim",
+      "note": "Also: Oʻzimni yaxshiroq his qilyapman."
+    },
+    "get_well": {
+      "text": "Tezroq sogʻayib keting!",
+      "note": "Also: Tezroq tuzalib keting!"
+    },
+    "lets_meet": {
+      "text": "Uchrashaylik",
+      "note": "Casual: Koʻrishamizmi? ('Shall we meet?')"
+    },
+    "are_you_free": {
+      "text": "Ertaga boʻshmisiz?",
+      "note": "To a friend: Ertaga boʻshmisan?"
+    },
+    "call_me": {
+      "text": "Menga qoʻngʻiroq qiling",
+      "note": "Colloquially: Menga telefon qiling."
+    },
+    "your_number": {
+      "text": "Telefon raqamingiz qanday?",
+      "note": "In everyday speech: Nomeringiz necha?"
+    },
+    "see_you_soon": {
+      "text": "Tez orada koʻrishamiz"
+    },
+    "have_nice_day": {
+      "text": "Kuningiz yaxshi oʻtsin!"
+    },
+    "good_luck": {
+      "text": "Omad tilayman!",
+      "note": "Short and casual: Omad!"
+    },
+    "happy_birthday": {
+      "text": "Tugʻilgan kuningiz bilan!",
+      "note": "To a friend: Tugʻilgan kuning bilan! Often followed by tabriklayman ('I congratulate you')."
+    },
+    "thanks_a_lot": {
+      "text": "Katta rahmat",
+      "note": "Also: Koʻp rahmat. Even warmer: Juda katta rahmat!"
+    },
+    "miss_you": {
+      "text": "Seni sogʻindim",
+      "note": "To an elder, or politely: Sizni sogʻindim."
     }
   }
 }

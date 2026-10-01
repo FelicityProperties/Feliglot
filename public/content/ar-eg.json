@@ -482,6 +482,500 @@
       "text": "مبروك!",
       "roman": "mabruk!",
       "note": "Reply: الله يبارك فيك (allah yebarek fik)."
+    },
+    "my_family": {
+      "text": "عيلتي",
+      "roman": "'elti",
+      "note": "Also: أسرتي (osreti), a bit more formal."
+    },
+    "mother": {
+      "text": "أم",
+      "roman": "omm",
+      "note": "Your own mum: ماما (mama). Respectfully: الوالدة (el-walda)."
+    },
+    "father": {
+      "text": "أب",
+      "roman": "ab",
+      "note": "Your own dad: بابا (baba). Respectfully: الوالد (el-waled)."
+    },
+    "brother": {
+      "text": "أخ",
+      "roman": "akh",
+      "note": "My brother: أخويا (akhuya)."
+    },
+    "sister": {
+      "text": "أخت",
+      "roman": "okht",
+      "note": "My sister: أختي (okhti)."
+    },
+    "child": {
+      "text": "ابن",
+      "roman": "ebn",
+      "note": "That's a son; a daughter is بنت (bent). My children: أولادي (awladi)."
+    },
+    "friend": {
+      "text": "صاحب",
+      "roman": "saheb",
+      "note": "Female: صاحبة (sahba). More formal: صديق (sadi'), صديقة (sadi'a)."
+    },
+    "this_is_my_friend": {
+      "text": "ده صاحبي",
+      "roman": "da sahbi",
+      "note": "Female friend: دي صاحبتي (di sahbeti); a man may say صديقتي (sadi'ti) to avoid 'girlfriend'."
+    },
+    "are_you_married": {
+      "text": "حضرتك متجوز؟",
+      "roman": "hadretak metgawwez?",
+      "note": "To a woman: حضرتك متجوزة؟ (hadretek metgawweza?)"
+    },
+    "have_children": {
+      "text": "حضرتك عندك أولاد؟",
+      "roman": "hadretak 'andak awlad?",
+      "note": "To a woman: hadretek 'andek awlad? (same spelling)."
+    },
+    "monday": {
+      "text": "الاتنين",
+      "roman": "el-etnein",
+      "note": "Same word as 'two' (etnein): the week is counted from Sunday."
+    },
+    "tuesday": {
+      "text": "التلات",
+      "roman": "et-talat",
+      "note": "Calendars and signs write الثلاثاء."
+    },
+    "wednesday": {
+      "text": "الأربع",
+      "roman": "el-arba'",
+      "note": "Calendars and signs write الأربعاء."
+    },
+    "thursday": {
+      "text": "الخميس",
+      "roman": "el-khamis"
+    },
+    "friday": {
+      "text": "الجمعة",
+      "roman": "eg-gom'a",
+      "note": "The weekly prayer day and Egypt's main day off."
+    },
+    "saturday": {
+      "text": "السبت",
+      "roman": "es-sabt"
+    },
+    "sunday": {
+      "text": "الحد",
+      "roman": "el-hadd",
+      "note": "Calendars and signs write الأحد."
+    },
+    "weekend": {
+      "text": "الويك إند",
+      "roman": "el-wik end",
+      "note": "Borrowed from English and widely used. In Egypt the weekend is Friday and Saturday."
+    },
+    "what_day": {
+      "text": "النهارده يوم إيه؟",
+      "roman": "en-naharda yom eh?"
+    },
+    "next_week": {
+      "text": "الأسبوع الجاي",
+      "roman": "el-osbu' eg-gai",
+      "note": "Next month: الشهر الجاي (esh-shahr eg-gai)."
+    },
+    "eleven": {
+      "text": "حداشر",
+      "roman": "hedashar",
+      "note": "Written ١١."
+    },
+    "twelve": {
+      "text": "اتناشر",
+      "roman": "etnashar",
+      "note": "Written ١٢."
+    },
+    "fifteen": {
+      "text": "خمستاشر",
+      "roman": "khamastashar",
+      "note": "Written ١٥. The numbers 13 to 19 all end in -tashar."
+    },
+    "twenty": {
+      "text": "عشرين",
+      "roman": "'eshrin",
+      "note": "Written ٢٠."
+    },
+    "thirty": {
+      "text": "تلاتين",
+      "roman": "talatin",
+      "note": "Written ٣٠."
+    },
+    "fifty": {
+      "text": "خمسين",
+      "roman": "khamsin",
+      "note": "Written ٥٠. Fifty pounds: خمسين جنيه (khamsin geneh)."
+    },
+    "hundred": {
+      "text": "مية",
+      "roman": "miyya",
+      "note": "Written ١٠٠. Before a noun it shortens: مية جنيه (meet geneh), 100 pounds."
+    },
+    "thousand": {
+      "text": "ألف",
+      "roman": "alf",
+      "note": "Written ١٠٠٠. Two thousand: ألفين (alfein)."
+    },
+    "how_old": {
+      "text": "عمر حضرتك كام؟",
+      "roman": "'omr hadretak kam?",
+      "note": "To a woman: 'omr hadretek kam? (same spelling). Casual: عمرك كام؟ ('omrak kam?)"
+    },
+    "years_old": {
+      "text": "عندي … سنة",
+      "roman": "'andi … sana",
+      "note": "With 3 to 10 the word becomes سنين (senin)."
+    },
+    "red": {
+      "text": "أحمر",
+      "roman": "ahmar",
+      "note": "Feminine: حمرا (hamra)."
+    },
+    "blue": {
+      "text": "أزرق",
+      "roman": "azra'",
+      "note": "Feminine: زرقا (zar'a)."
+    },
+    "green": {
+      "text": "أخضر",
+      "roman": "akhdar",
+      "note": "Feminine: خضرا (khadra)."
+    },
+    "yellow": {
+      "text": "أصفر",
+      "roman": "asfar",
+      "note": "Feminine: صفرا (safra)."
+    },
+    "black": {
+      "text": "إسود",
+      "roman": "eswed",
+      "note": "Feminine: سودا (soda)."
+    },
+    "white": {
+      "text": "أبيض",
+      "roman": "abyad",
+      "note": "Feminine: بيضا (beida)."
+    },
+    "what_colour": {
+      "text": "لونه إيه؟",
+      "roman": "lono eh?",
+      "note": "For a feminine noun: لونها إيه؟ (lonha eh?)"
+    },
+    "this_one": {
+      "text": "ده",
+      "roman": "da",
+      "note": "For a feminine item: دي (di)."
+    },
+    "that_one": {
+      "text": "اللي هناك ده",
+      "roman": "elli henak da",
+      "note": "Egyptian uses ده for both 'this' and 'that'. Feminine: اللي هناك دي (elli henak di)."
+    },
+    "another_one": {
+      "text": "واحد كمان، لو سمحت",
+      "roman": "wahed kaman, law samaht",
+      "note": "For a feminine item: واحدة كمان (wahda kaman). To a woman: لو سمحتي (law samahti)."
+    },
+    "its_hot": {
+      "text": "الدنيا حر",
+      "roman": "ed-donya harr",
+      "note": "Literally 'the world is hot'. Also: الجو حر (eg-gaww harr)."
+    },
+    "its_cold": {
+      "text": "الدنيا برد",
+      "roman": "ed-donya bard",
+      "note": "I'm cold: أنا بردان (ana bardan); a woman says بردانة (bardana)."
+    },
+    "its_raining": {
+      "text": "الدنيا بتمطّر",
+      "roman": "ed-donya betmattar",
+      "note": "Also: الدنيا بتشتّي (ed-donya betshatti)."
+    },
+    "its_sunny": {
+      "text": "الشمس طالعة",
+      "roman": "esh-shams tal'a",
+      "note": "Also: الدنيا شمس (ed-donya shams)."
+    },
+    "its_windy": {
+      "text": "الدنيا هوا",
+      "roman": "ed-donya hawa",
+      "note": "Strong wind: في هوا جامد (fi hawa gamed)."
+    },
+    "weather_today": {
+      "text": "الجو عامل إيه النهارده؟",
+      "roman": "eg-gaww 'amel eh en-naharda?"
+    },
+    "beautiful_day": {
+      "text": "الجو حلو أوي النهارده",
+      "roman": "eg-gaww helw awi en-naharda",
+      "note": "Very Egyptian: الجو تحفة (eg-gaww tohfa)."
+    },
+    "umbrella": {
+      "text": "شمسية",
+      "roman": "shamseyya",
+      "note": "The same word means a sunshade or beach parasol."
+    },
+    "summer": {
+      "text": "الصيف",
+      "roman": "es-seif"
+    },
+    "winter": {
+      "text": "الشتا",
+      "roman": "esh-shita",
+      "note": "In Egypt شتا (shita) also means rain."
+    },
+    "have_reservation": {
+      "text": "عندي حجز",
+      "roman": "'andi hagz",
+      "note": "Add the name: باسم (besm) + your name."
+    },
+    "room": {
+      "text": "أوضة",
+      "roman": "oda",
+      "note": "Hotel signs use the standard غرفة (ghorfa)."
+    },
+    "passport": {
+      "text": "باسبور",
+      "roman": "basbor",
+      "note": "Also: جواز السفر (gawaz es-safar)."
+    },
+    "luggage": {
+      "text": "شنط",
+      "roman": "shonat",
+      "note": "One bag: شنطة (shanta). At the airport also: العفش (el-'afsh)."
+    },
+    "wifi_password": {
+      "text": "باسورد الواي فاي إيه؟",
+      "roman": "baswerd el-wai fai eh?",
+      "note": "Also: الباسورد بتاع الواي فاي إيه؟ (el-baswerd beta' el-wai fai eh?)"
+    },
+    "check_out_time": {
+      "text": "الشيك أوت الساعة كام؟",
+      "roman": "esh-shek awt es-sa'a kam?",
+      "note": "Also: لازم أسيب الأوضة الساعة كام؟ (lazem asib el-oda es-sa'a kam?)"
+    },
+    "map": {
+      "text": "خريطة",
+      "roman": "kharita"
+    },
+    "bus": {
+      "text": "أتوبيس",
+      "roman": "otobis",
+      "note": "Shared minibus: ميكروباص (mikrobas)."
+    },
+    "next_train": {
+      "text": "القطر الجاي إمتى؟",
+      "roman": "el-'atr eg-gai emta?",
+      "note": "Also: القطر الجاي الساعة كام؟ (el-'atr eg-gai es-sa'a kam?)"
+    },
+    "is_this_seat_free": {
+      "text": "الكرسي ده فاضي؟",
+      "roman": "el-korsi da fadi?",
+      "note": "Also: في حد قاعد هنا؟ (fi had 'a'ed hena?), 'is anyone sitting here?'"
+    },
+    "what_do_you_do": {
+      "text": "حضرتك بتشتغل إيه؟",
+      "roman": "hadretak beteshtaghal eh?",
+      "note": "To a woman: حضرتك بتشتغلي إيه؟ (hadretek beteshtaghali eh?)"
+    },
+    "i_work_in": {
+      "text": "أنا بشتغل في …",
+      "roman": "ana bashtaghal fi …",
+      "note": "E.g. في بنك (fi bank), في السياحة (fes-seyaha) in tourism."
+    },
+    "im_student": {
+      "text": "أنا طالب",
+      "roman": "ana taleb",
+      "note": "A woman says: أنا طالبة (ana talba)."
+    },
+    "office": {
+      "text": "مكتب",
+      "roman": "maktab",
+      "note": "Also means 'desk'."
+    },
+    "meeting": {
+      "text": "اجتماع",
+      "roman": "egtema'",
+      "note": "In offices you'll also hear ميتنج (miting)."
+    },
+    "im_busy": {
+      "text": "أنا مشغول",
+      "roman": "ana mashghul",
+      "note": "A woman says: أنا مشغولة (ana mashghula)."
+    },
+    "day_off": {
+      "text": "أجازة",
+      "roman": "agaza",
+      "note": "Also means a holiday or vacation. I'm off today: النهارده أجازة (en-naharda agaza)."
+    },
+    "colleague": {
+      "text": "زميل",
+      "roman": "zemil",
+      "note": "Female: زميلة (zemila). My colleague: زميلي (zemili)."
+    },
+    "lets_start": {
+      "text": "يلا نبتدي",
+      "roman": "yalla nebtedi",
+      "note": "Also: يلا بينا (yalla bina), 'let's go'."
+    },
+    "good_job": {
+      "text": "برافو عليك!",
+      "roman": "brafo 'aleik!",
+      "note": "To a woman: برافو عليكي (brafo 'aleiki). Slang: عاش! ('ash!)"
+    },
+    "table_for_two": {
+      "text": "ترابيزة لاتنين، لو سمحت",
+      "roman": "tarabeiza l-etnein, law samaht",
+      "note": "To a woman: لو سمحتي (law samahti)."
+    },
+    "what_recommend": {
+      "text": "حضرتك تنصحني بإيه؟",
+      "roman": "hadretak tensahni b-eh?",
+      "note": "To a woman: حضرتك تنصحيني بإيه؟ (hadretek tensahini b-eh?)"
+    },
+    "not_spicy": {
+      "text": "من غير شطة، لو سمحت",
+      "roman": "men gheir shatta, law samaht",
+      "note": "Spicy-hot is حرّاق (harra'). To a woman: لو سمحتي (law samahti)."
+    },
+    "vegetarian_food": {
+      "text": "أكل نباتي",
+      "roman": "akl nabati",
+      "note": "I'm vegetarian: أنا نباتي (ana nabati); a woman says نباتية (nabateyya)."
+    },
+    "more_water": {
+      "text": "ميّة كمان، لو سمحت",
+      "roman": "mayya kaman, law samaht",
+      "note": "To a woman: لو سمحتي (law samahti)."
+    },
+    "no_sugar": {
+      "text": "من غير سكر، لو سمحت",
+      "roman": "men gheir sokkar, law samaht",
+      "note": "For coffee Egyptians just say سادة (sada), 'plain'."
+    },
+    "im_full": {
+      "text": "أنا شبعت",
+      "roman": "ana shebe't",
+      "note": "When offered more, Egyptians say الحمد لله (el-hamdu lellah)."
+    },
+    "takeaway": {
+      "text": "تيك أواي، لو سمحت",
+      "roman": "teik away, law samaht",
+      "note": "Egyptians use the English 'take away'. To a woman: لو سمحتي (law samahti)."
+    },
+    "it_was_delicious": {
+      "text": "الأكل كان حلو أوي",
+      "roman": "el-akl kan helw awi",
+      "note": "To the cook: تسلم إيدك (teslam idak), 'bless your hands'; to a woman: teslam idek."
+    },
+    "keep_change": {
+      "text": "خلي الباقي عشانك",
+      "roman": "khalli el-ba'i 'ashanak",
+      "note": "To a woman: khalli el-ba'i 'ashanek (same spelling)."
+    },
+    "head": {
+      "text": "راس",
+      "roman": "ras",
+      "note": "My head: راسي (rasi)."
+    },
+    "stomach": {
+      "text": "بطن",
+      "roman": "batn",
+      "note": "Doctors say معدة (me'da) for the stomach itself."
+    },
+    "head_hurts": {
+      "text": "راسي بتوجعني",
+      "roman": "rasi betewga'ni",
+      "note": "Also: عندي صداع ('andi soda'), 'I have a headache'."
+    },
+    "have_fever": {
+      "text": "عندي سخونية",
+      "roman": "'andi sokhoneyya",
+      "note": "Also: عندي حرارة ('andi harara)."
+    },
+    "medicine": {
+      "text": "دوا",
+      "roman": "dawa",
+      "note": "A prescription: روشتة (roshetta)."
+    },
+    "call_ambulance": {
+      "text": "اطلبوا الإسعاف!",
+      "roman": "otlobu el-es'af!",
+      "note": "To one man: اطلب الإسعاف! (otlob el-es'af!). Ambulance number in Egypt: 123."
+    },
+    "dentist": {
+      "text": "دكتور سنان",
+      "roman": "doktor senan",
+      "note": "Also: دكتور أسنان (doktor asnan). A woman dentist: دكتورة (doktora)."
+    },
+    "need_rest": {
+      "text": "أنا محتاج أرتاح",
+      "roman": "ana mehtag artah",
+      "note": "A woman says: أنا محتاجة أرتاح (ana mehtaga artah)."
+    },
+    "feel_better": {
+      "text": "أنا بقيت أحسن",
+      "roman": "ana be'et ahsan",
+      "note": "Also: أحسن، الحمد لله (ahsan, el-hamdu lellah)."
+    },
+    "get_well": {
+      "text": "سلامتك!",
+      "roman": "salamtak!",
+      "note": "To a woman: salamtek! (same spelling). Reply: الله يسلمك (allah yesallemak)."
+    },
+    "lets_meet": {
+      "text": "يلا نتقابل",
+      "roman": "yalla net'abel",
+      "note": "When shall we meet? نتقابل إمتى؟ (net'abel emta?)"
+    },
+    "are_you_free": {
+      "text": "حضرتك فاضي بكرة؟",
+      "roman": "hadretak fadi bokra?",
+      "note": "To a woman: حضرتك فاضية بكرة؟ (hadretek fadya bokra?)"
+    },
+    "call_me": {
+      "text": "ابقى كلمني",
+      "roman": "eb'a kallemni",
+      "note": "To a woman: ابقي كلميني (eb'i kallemini). ابقى (eb'a) softens it: 'do call me'."
+    },
+    "your_number": {
+      "text": "رقم حضرتك كام؟",
+      "roman": "ra'am hadretak kam?",
+      "note": "To a woman: ra'am hadretek kam? (same spelling). Casual: نمرتك كام؟ (nemretak kam?)"
+    },
+    "see_you_soon": {
+      "text": "أشوفك قريب",
+      "roman": "ashufak 'orayyeb",
+      "note": "To a woman: ashufek 'orayyeb (same spelling)."
+    },
+    "have_nice_day": {
+      "text": "نهارك سعيد!",
+      "roman": "naharak sa'id!",
+      "note": "To a woman: naharek sa'id! (same spelling). Also used as a greeting."
+    },
+    "good_luck": {
+      "text": "بالتوفيق!",
+      "roman": "bet-tawfi'!",
+      "note": "Also: ربنا معاك (rabbena ma'ak), 'God be with you'; to a woman: معاكي (ma'aki)."
+    },
+    "happy_birthday": {
+      "text": "كل سنة وإنت طيب!",
+      "roman": "koll sana w enta tayyeb!",
+      "note": "To a woman: كل سنة وإنتي طيبة (koll sana w enti tayyeba). Also said on holidays."
+    },
+    "thanks_a_lot": {
+      "text": "متشكر أوي",
+      "roman": "motashakker awi",
+      "note": "A woman says: متشكرة أوي (motashakkera awi). Also: ألف شكر (alf shokr)."
+    },
+    "miss_you": {
+      "text": "وحشتني",
+      "roman": "wahashtini",
+      "note": "To a woman: وحشتيني (wahashtini), stressing the long 'ti'. So much: وحشتني أوي (wahashtini awi)."
     }
   }
 }

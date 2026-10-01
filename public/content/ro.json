@@ -360,6 +360,398 @@
     "congratulations": {
       "text": "Felicitări!",
       "note": "For a birthday or name day, say: la mulți ani!"
+    },
+    "my_family": {
+      "text": "Familia mea"
+    },
+    "mother": {
+      "text": "Mamă",
+      "note": "Mum, or my mother: mama. Affectionate: mami."
+    },
+    "father": {
+      "text": "Tată",
+      "note": "Dad, or my father: tata. Affectionate: tati."
+    },
+    "brother": {
+      "text": "Frate",
+      "note": "My brother: fratele meu. Plural: frați."
+    },
+    "sister": {
+      "text": "Soră",
+      "note": "My sister: sora mea. Plural: surori."
+    },
+    "child": {
+      "text": "Copil",
+      "note": "Plural: copii. Son: fiu (or băiat); daughter: fiică (or fată)."
+    },
+    "friend": {
+      "text": "Prieten",
+      "note": "A female friend: prietenă. Careful: prietenul meu can also mean 'my boyfriend'."
+    },
+    "this_is_my_friend": {
+      "text": "El este prietenul meu",
+      "note": "For a female friend: ea este prietena mea."
+    },
+    "are_you_married": {
+      "text": "Sunteți căsătorit?",
+      "note": "To a woman: sunteți căsătorită?"
+    },
+    "have_children": {
+      "text": "Aveți copii?",
+      "note": "To a friend: ai copii?"
+    },
+    "monday": {
+      "text": "luni",
+      "note": "Days aren't capitalised. 'On Monday' is just luni; 'on Mondays': lunea."
+    },
+    "tuesday": {
+      "text": "marți",
+      "note": "Ț sounds like 'ts': MARTS."
+    },
+    "wednesday": {
+      "text": "miercuri"
+    },
+    "thursday": {
+      "text": "joi",
+      "note": "J sounds like the s in 'measure': ZHOY."
+    },
+    "friday": {
+      "text": "vineri",
+      "note": "Stress the first syllable; the final i is almost silent: VEE-nehr."
+    },
+    "saturday": {
+      "text": "sâmbătă",
+      "note": "Stress the first syllable: SÂM-bă-tă."
+    },
+    "sunday": {
+      "text": "duminică",
+      "note": "Stress the second syllable: du-MI-ni-că."
+    },
+    "weekend": {
+      "text": "Weekend",
+      "note": "Said as in English. Formal: sfârșit de săptămână. At the weekend: în weekend."
+    },
+    "what_day": {
+      "text": "Ce zi e azi?",
+      "note": "Fuller: ce zi este astăzi?"
+    },
+    "next_week": {
+      "text": "Săptămâna viitoare",
+      "note": "Also: săptămâna care vine."
+    },
+    "eleven": {
+      "text": "Unsprezece",
+      "note": "In everyday speech often shortened to unșpe."
+    },
+    "twelve": {
+      "text": "Doisprezece",
+      "note": "Before feminine and neuter nouns: douăsprezece (douăsprezece bilete). In everyday speech: doișpe."
+    },
+    "fifteen": {
+      "text": "Cincisprezece",
+      "note": "In everyday speech often shortened to cinșpe."
+    },
+    "twenty": {
+      "text": "Douăzeci",
+      "note": "From 20 on, add de before the noun: douăzeci de lei. Not when it ends in 01–19: o sută zece lei."
+    },
+    "thirty": {
+      "text": "Treizeci",
+      "note": "Tens + și + units: treizeci și cinci (35)."
+    },
+    "fifty": {
+      "text": "Cincizeci",
+      "note": "Usually pronounced cinzeci in everyday speech."
+    },
+    "hundred": {
+      "text": "O sută",
+      "note": "Two hundred: două sute. A hundred lei: o sută de lei."
+    },
+    "thousand": {
+      "text": "O mie",
+      "note": "Two thousand: două mii."
+    },
+    "how_old": {
+      "text": "Câți ani aveți?",
+      "note": "To a friend or child: câți ani ai?"
+    },
+    "years_old": {
+      "text": "Am … ani",
+      "note": "Lit. 'I have … years'. From 20 up add de: am douăzeci de ani."
+    },
+    "red": {
+      "text": "Roșu",
+      "note": "With a feminine noun: roșie (o mașină roșie)."
+    },
+    "blue": {
+      "text": "Albastru",
+      "note": "With a feminine noun: albastră."
+    },
+    "green": {
+      "text": "Verde",
+      "note": "Same form for both genders. Plural: verzi."
+    },
+    "yellow": {
+      "text": "Galben",
+      "note": "With a feminine noun: galbenă."
+    },
+    "black": {
+      "text": "Negru",
+      "note": "With a feminine noun: neagră."
+    },
+    "white": {
+      "text": "Alb",
+      "note": "With a feminine noun: albă."
+    },
+    "what_colour": {
+      "text": "Ce culoare are?",
+      "note": "Also: de ce culoare este?"
+    },
+    "this_one": {
+      "text": "Acesta",
+      "note": "For a feminine noun: aceasta. In everyday speech: ăsta / asta."
+    },
+    "that_one": {
+      "text": "Acela",
+      "note": "For a feminine noun: aceea. In everyday speech: ăla / aia."
+    },
+    "another_one": {
+      "text": "Încă unul, vă rog",
+      "note": "For a feminine noun: încă una. Or name it: încă o cafea, vă rog."
+    },
+    "its_hot": {
+      "text": "E cald",
+      "note": "I'm hot: mi-e cald. Very hot: e foarte cald."
+    },
+    "its_cold": {
+      "text": "E frig",
+      "note": "I'm cold: mi-e frig."
+    },
+    "its_raining": {
+      "text": "Plouă"
+    },
+    "its_sunny": {
+      "text": "E soare",
+      "note": "Also: e senin (the sky is clear)."
+    },
+    "its_windy": {
+      "text": "Bate vântul",
+      "note": "Lit. 'the wind is blowing'. Also: e vânt."
+    },
+    "weather_today": {
+      "text": "Cum e vremea azi?",
+      "note": "Also: ce vreme e azi?"
+    },
+    "beautiful_day": {
+      "text": "E o zi frumoasă",
+      "note": "As an exclamation: ce zi frumoasă!"
+    },
+    "umbrella": {
+      "text": "Umbrelă"
+    },
+    "summer": {
+      "text": "Vară",
+      "note": "In summer: vara."
+    },
+    "winter": {
+      "text": "Iarnă",
+      "note": "In winter: iarna."
+    },
+    "have_reservation": {
+      "text": "Am o rezervare",
+      "note": "Add your name: am o rezervare pe numele …"
+    },
+    "room": {
+      "text": "Cameră",
+      "note": "Double room: cameră dublă."
+    },
+    "passport": {
+      "text": "Pașaport"
+    },
+    "luggage": {
+      "text": "Bagaj",
+      "note": "For several bags: bagaje."
+    },
+    "wifi_password": {
+      "text": "Care este parola de la Wi-Fi?",
+      "note": "Wi-Fi is said as in English. Casually: care e parola la Wi-Fi?"
+    },
+    "check_out_time": {
+      "text": "Până la ce oră trebuie să eliberez camera?",
+      "note": "Lit. 'until what time must I vacate the room?' Also common: la ce oră e check-outul?"
+    },
+    "map": {
+      "text": "Hartă"
+    },
+    "bus": {
+      "text": "Autobuz",
+      "note": "Bus stop: stația de autobuz."
+    },
+    "next_train": {
+      "text": "Când pleacă următorul tren?",
+      "note": "To a place: când pleacă următorul tren spre …?"
+    },
+    "is_this_seat_free": {
+      "text": "Este liber locul acesta?",
+      "note": "Shorter: e liber? Or: e ocupat? (is it taken?)"
+    },
+    "what_do_you_do": {
+      "text": "Cu ce vă ocupați?",
+      "note": "To a friend: cu ce te ocupi? Also: unde lucrați? (where do you work?)"
+    },
+    "i_work_in": {
+      "text": "Lucrez în …",
+      "note": "For a field use în: lucrez în vânzări. For a workplace use la: lucrez la o bancă."
+    },
+    "im_student": {
+      "text": "Sunt student",
+      "note": "A woman says: sunt studentă. A school pupil: elev (a girl: elevă)."
+    },
+    "office": {
+      "text": "Birou",
+      "note": "Birou also means 'desk'."
+    },
+    "meeting": {
+      "text": "Ședință",
+      "note": "Meeting a person, e.g. a client: întâlnire."
+    },
+    "im_busy": {
+      "text": "Sunt ocupat",
+      "note": "A woman says: sunt ocupată."
+    },
+    "day_off": {
+      "text": "Zi liberă",
+      "note": "I have the day off: am liber. Paid holiday from work: concediu."
+    },
+    "colleague": {
+      "text": "Coleg",
+      "note": "A female colleague: colegă."
+    },
+    "lets_start": {
+      "text": "Să începem",
+      "note": "More casual: hai să începem."
+    },
+    "good_job": {
+      "text": "Bravo!",
+      "note": "Also: foarte bine! (well done)."
+    },
+    "table_for_two": {
+      "text": "O masă pentru două persoane, vă rog",
+      "note": "Casually: o masă pentru doi, vă rog."
+    },
+    "what_recommend": {
+      "text": "Ce ne recomandați?",
+      "note": "Eating alone: ce-mi recomandați?"
+    },
+    "not_spicy": {
+      "text": "Să nu fie iute, vă rog",
+      "note": "Iute and picant both mean spicy: să nu fie picant also works."
+    },
+    "vegetarian_food": {
+      "text": "Mâncare vegetariană",
+      "note": "Also look for de post (Orthodox fasting) dishes: they usually have no meat or dairy."
+    },
+    "more_water": {
+      "text": "Încă puțină apă, vă rog",
+      "note": "Another bottle: încă o sticlă de apă, vă rog."
+    },
+    "no_sugar": {
+      "text": "Fără zahăr, vă rog",
+      "note": "A little sugar: cu puțin zahăr."
+    },
+    "im_full": {
+      "text": "Sunt sătul",
+      "note": "A woman says: sunt sătulă. M-am săturat also works, but can mean 'I'm fed up'."
+    },
+    "takeaway": {
+      "text": "La pachet, vă rog",
+      "note": "Staff may ask: pentru aici sau la pachet? (for here or to go?)"
+    },
+    "it_was_delicious": {
+      "text": "A fost delicios",
+      "note": "Everyday alternative: a fost foarte bun! (it was very good)."
+    },
+    "keep_change": {
+      "text": "Păstrați restul",
+      "note": "Also: e în regulă așa (it's fine as it is)."
+    },
+    "head": {
+      "text": "Cap"
+    },
+    "stomach": {
+      "text": "Stomac",
+      "note": "The everyday word for belly is burtă: mă doare burta."
+    },
+    "head_hurts": {
+      "text": "Mă doare capul",
+      "note": "Lit. 'the head hurts me'. Same pattern: mă doare burta (my stomach hurts)."
+    },
+    "have_fever": {
+      "text": "Am febră",
+      "note": "Also: am temperatură."
+    },
+    "medicine": {
+      "text": "Medicament",
+      "note": "Plural: medicamente. Pills: pastile."
+    },
+    "call_ambulance": {
+      "text": "Chemați o ambulanță!",
+      "note": "Everyday word: chemați salvarea! The emergency number is 112."
+    },
+    "dentist": {
+      "text": "Dentist",
+      "note": "Also: stomatolog. On clinic signs: cabinet stomatologic."
+    },
+    "need_rest": {
+      "text": "Trebuie să mă odihnesc",
+      "note": "Also: am nevoie de odihnă."
+    },
+    "feel_better": {
+      "text": "Mă simt mai bine"
+    },
+    "get_well": {
+      "text": "Însănătoșire grabnică!",
+      "note": "Mostly written. Spoken: să vă faceți bine! To a friend: să te faci bine!"
+    },
+    "lets_meet": {
+      "text": "Hai să ne vedem",
+      "note": "Also: hai să ne întâlnim. Hai is the everyday 'let's'."
+    },
+    "are_you_free": {
+      "text": "Sunteți liber mâine?",
+      "note": "To a woman: sunteți liberă mâine? To a friend: ești liber mâine?"
+    },
+    "call_me": {
+      "text": "Sunați-mă",
+      "note": "To a friend: sună-mă! Also: dați-mi un telefon."
+    },
+    "your_number": {
+      "text": "Care este numărul dumneavoastră de telefon?",
+      "note": "To a friend: care e numărul tău? or îmi dai numărul tău?"
+    },
+    "see_you_soon": {
+      "text": "Pe curând!",
+      "note": "Also: ne vedem curând!"
+    },
+    "have_nice_day": {
+      "text": "O zi bună!",
+      "note": "Fuller: să aveți o zi bună! To a friend: să ai o zi bună!"
+    },
+    "good_luck": {
+      "text": "Succes!",
+      "note": "Among friends: baftă!"
+    },
+    "happy_birthday": {
+      "text": "La mulți ani!",
+      "note": "Lit. 'to many years'. Also said on name days and at New Year."
+    },
+    "thanks_a_lot": {
+      "text": "Mulțumesc foarte mult",
+      "note": "Also: mulțumesc frumos. More polite: vă mulțumesc foarte mult. Casually: mersi mult."
+    },
+    "miss_you": {
+      "text": "Mi-e dor de tine",
+      "note": "I missed you: mi-a fost dor de tine."
     }
   }
 }

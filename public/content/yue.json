@@ -483,6 +483,503 @@
       "text": "恭喜！",
       "roman": "gung1 hei2!",
       "note": "Warmer: 恭喜晒 (gung1 hei2 saai3). At Lunar New Year: 恭喜發財 (gung1 hei2 faat3 coi4)."
+    },
+    "my_family": {
+      "text": "我屋企人",
+      "roman": "ngo5 uk1 kei2 jan4",
+      "note": "屋企 (uk1 kei2) on its own means \"home\". More formal: 我嘅家人 (ngo5 ge3 gaa1 jan4)."
+    },
+    "mother": {
+      "text": "媽媽",
+      "roman": "maa4 maa1",
+      "note": "Talking about her: 阿媽 (aa3 maa1). Younger people also say 媽咪 (maa1 mi4)."
+    },
+    "father": {
+      "text": "爸爸",
+      "roman": "baa4 baa1",
+      "note": "Very common for \"my dad\": 老豆 (lou5 dau6). Also 爹哋 (de1 di4)."
+    },
+    "brother": {
+      "text": "哥哥",
+      "roman": "go4 go1",
+      "note": "Older brother, also 阿哥 (aa3 go1). Younger brother: 細佬 (sai3 lou2)."
+    },
+    "sister": {
+      "text": "家姐",
+      "roman": "gaa1 ze1",
+      "note": "Older sister. Younger sister: 細妹 (sai3 mui2)."
+    },
+    "child": {
+      "text": "仔女",
+      "roman": "zai2 neoi2",
+      "note": "Son: 仔 (zai2); daughter: 女 (neoi2). A kid in general is 細路 (sai3 lou6)."
+    },
+    "friend": {
+      "text": "朋友",
+      "roman": "pang4 jau5",
+      "note": "Same for a woman. But 男朋友 (naam4 pang4 jau5) is a boyfriend, 女朋友 (neoi5 pang4 jau5) a girlfriend."
+    },
+    "this_is_my_friend": {
+      "text": "呢個係我朋友",
+      "roman": "ni1 go3 hai6 ngo5 pang4 jau5",
+      "note": "Same for a female friend. More polite: 呢位係我朋友 (ni1 wai2 hai6 ngo5 pang4 jau5)."
+    },
+    "are_you_married": {
+      "text": "你結咗婚未呀？",
+      "roman": "nei5 git3 zo2 fan1 mei6 aa3?",
+      "note": "Literally \"married yet?\" Answers: 結咗喇 (git3 zo2 laa3), yes; 未呀 (mei6 aa3), not yet."
+    },
+    "have_children": {
+      "text": "你有冇仔女呀？",
+      "roman": "nei5 jau5 mou5 zai2 neoi2 aa3?",
+      "note": "Answer 有 (jau5), yes, or 冇 (mou5), no."
+    },
+    "monday": {
+      "text": "星期一",
+      "roman": "sing1 kei4 jat1",
+      "note": "The days are numbered from Monday. Also very common: 禮拜一 (lai5 baai3 jat1)."
+    },
+    "tuesday": {
+      "text": "星期二",
+      "roman": "sing1 kei4 ji6",
+      "note": "Here 二 stays ji6, never 兩. Also 禮拜二 (lai5 baai3 ji6)."
+    },
+    "wednesday": {
+      "text": "星期三",
+      "roman": "sing1 kei4 saam1",
+      "note": "Also 禮拜三 (lai5 baai3 saam1)."
+    },
+    "thursday": {
+      "text": "星期四",
+      "roman": "sing1 kei4 sei3",
+      "note": "Also 禮拜四 (lai5 baai3 sei3)."
+    },
+    "friday": {
+      "text": "星期五",
+      "roman": "sing1 kei4 ng5",
+      "note": "Also 禮拜五 (lai5 baai3 ng5)."
+    },
+    "saturday": {
+      "text": "星期六",
+      "roman": "sing1 kei4 luk6",
+      "note": "Also 禮拜六 (lai5 baai3 luk6)."
+    },
+    "sunday": {
+      "text": "星期日",
+      "roman": "sing1 kei4 jat6",
+      "note": "Ends in 日 (jat6), \"day\", not a number. Also 禮拜日 (lai5 baai3 jat6)."
+    },
+    "weekend": {
+      "text": "週末",
+      "roman": "zau1 mut6",
+      "note": "In everyday talk also 星期六日 (sing1 kei4 luk6 jat6), \"Saturday and Sunday\"."
+    },
+    "what_day": {
+      "text": "今日星期幾呀？",
+      "roman": "gam1 jat6 sing1 kei4 gei2 aa3?",
+      "note": "幾 (gei2), \"how many\", stands in for the number. Answer: 星期五 (sing1 kei4 ng5)."
+    },
+    "next_week": {
+      "text": "下個星期",
+      "roman": "haa6 go3 sing1 kei4",
+      "note": "Also 下個禮拜 (haa6 go3 lai5 baai3). Last week: 上個星期 (soeng6 go3 sing1 kei4)."
+    },
+    "eleven": {
+      "text": "十一",
+      "roman": "sap6 jat1"
+    },
+    "twelve": {
+      "text": "十二",
+      "roman": "sap6 ji6",
+      "note": "Even before a counter it stays 二: 十二個 (sap6 ji6 go3), twelve of them."
+    },
+    "fifteen": {
+      "text": "十五",
+      "roman": "sap6 ng5",
+      "note": "Clock minutes are counted in fives: 三點三 (saam1 dim2 saam1) means 3:15."
+    },
+    "twenty": {
+      "text": "二十",
+      "roman": "ji6 sap6",
+      "note": "In the twenties people say 廿 (jaa6): 廿五 (jaa6 ng5), 25."
+    },
+    "thirty": {
+      "text": "三十",
+      "roman": "saam1 sap6",
+      "note": "In quick speech 十 shrinks to aa6: 三十五 (35) sounds like saam1 aa6 ng5."
+    },
+    "fifty": {
+      "text": "五十",
+      "roman": "ng5 sap6",
+      "note": "Fifty dollars: 五十蚊 (ng5 sap6 man1). 蚊 (man1) is the everyday word for dollar."
+    },
+    "hundred": {
+      "text": "一百",
+      "roman": "jat1 baak3",
+      "note": "Prices drop the end: 百五 (baak3 ng5) means 150."
+    },
+    "thousand": {
+      "text": "一千",
+      "roman": "jat1 cin1",
+      "note": "Ten thousand has its own word: 一萬 (jat1 maan6)."
+    },
+    "how_old": {
+      "text": "你今年幾多歲呀？",
+      "roman": "nei5 gam1 nin4 gei2 do1 seoi3 aa3?",
+      "note": "To an older person: 你今年貴庚呀？ (nei5 gam1 nin4 gwai3 gang1 aa3?) To a child: 你幾歲呀？ (nei5 gei2 seoi3 aa3?)"
+    },
+    "years_old": {
+      "text": "我今年…歲",
+      "roman": "ngo5 gam1 nin4 … seoi3",
+      "note": "No verb needed: 我今年三十歲 (ngo5 gam1 nin4 saam1 sap6 seoi3), I'm thirty."
+    },
+    "red": {
+      "text": "紅色",
+      "roman": "hung4 sik1",
+      "note": "色 (sik1) means \"colour\". Red is lucky: think of the red packet, 利是 (lai6 si6)."
+    },
+    "blue": {
+      "text": "藍色",
+      "roman": "laam4 sik1",
+      "note": "Dark blue: 深藍色 (sam1 laam4 sik1). Light blue: 淺藍色 (cin2 laam4 sik1)."
+    },
+    "green": {
+      "text": "綠色",
+      "roman": "luk6 sik1",
+      "note": "Never give a green hat: 戴綠帽 (daai3 luk6 mou2) means being cheated on."
+    },
+    "yellow": {
+      "text": "黃色",
+      "roman": "wong4 sik1",
+      "note": "Also means \"X-rated\": 黃色笑話 (wong4 sik1 siu3 waa2) is a dirty joke."
+    },
+    "black": {
+      "text": "黑色",
+      "roman": "hak1 sik1",
+      "note": "Black coffee, though, is 齋啡 (zaai1 fe1), \"plain coffee\"."
+    },
+    "white": {
+      "text": "白色",
+      "roman": "baak6 sik1",
+      "note": "White is the colour of funerals, so avoid white flowers or gift wrap."
+    },
+    "what_colour": {
+      "text": "呢個係咩顏色呀？",
+      "roman": "ni1 go3 hai6 me1 ngaan4 sik1 aa3?",
+      "note": "In speech often shortened: 咩色呀？ (me1 sik1 aa3?)"
+    },
+    "this_one": {
+      "text": "呢個",
+      "roman": "ni1 go3",
+      "note": "個 (go3) is the general counter. For clothes use 件 (gin6): 呢件 (ni1 gin6)."
+    },
+    "that_one": {
+      "text": "嗰個",
+      "roman": "go2 go3",
+      "note": "嗰 (go2), \"that\", and the counter 個 (go3) differ only in tone."
+    },
+    "another_one": {
+      "text": "唔該再嚟一個",
+      "roman": "m4 goi1 zoi3 lai4 jat1 go3",
+      "note": "嚟 (lai4), \"come\", is the usual ordering verb. For a drink: 再嚟一杯 (zoi3 lai4 jat1 bui1)."
+    },
+    "its_hot": {
+      "text": "好熱",
+      "roman": "hou2 jit6",
+      "note": "Sweltering: 熱到死 (jit6 dou3 sei2), literally \"hot to death\"."
+    },
+    "its_cold": {
+      "text": "好凍",
+      "roman": "hou2 dung3",
+      "note": "Cantonese mostly uses 凍 (dung3) for cold; 冷 (laang5) is also heard."
+    },
+    "its_raining": {
+      "text": "落緊雨",
+      "roman": "lok6 gan2 jyu5",
+      "note": "緊 (gan2) means it's happening now. Pouring: 落大雨 (lok6 daai6 jyu5)."
+    },
+    "its_sunny": {
+      "text": "好大太陽",
+      "roman": "hou2 daai6 taai3 joeng4",
+      "note": "Literally \"very big sun\". When the sun comes out: 出太陽喇 (ceot1 taai3 joeng4 laa3)."
+    },
+    "its_windy": {
+      "text": "好大風",
+      "roman": "hou2 daai6 fung1",
+      "note": "When a typhoon hits: 打風 (daa2 fung1)."
+    },
+    "weather_today": {
+      "text": "今日天氣點呀？",
+      "roman": "gam1 jat6 tin1 hei3 dim2 aa3?",
+      "note": "Will it rain? 會唔會落雨呀？ (wui5 m4 wui5 lok6 jyu5 aa3?)"
+    },
+    "beautiful_day": {
+      "text": "今日好好天",
+      "roman": "gam1 jat6 hou2 hou2 tin1",
+      "note": "好天 (hou2 tin1) means fine weather; the first 好 means \"very\"."
+    },
+    "umbrella": {
+      "text": "遮",
+      "roman": "ze1",
+      "note": "雨傘 (jyu5 saan3) is the written word, but people say 遮. Take an umbrella: 帶遮 (daai3 ze1)."
+    },
+    "summer": {
+      "text": "夏天",
+      "roman": "haa6 tin1",
+      "note": "In speech also 熱天 (jit6 tin1), \"the hot days\"."
+    },
+    "winter": {
+      "text": "冬天",
+      "roman": "dung1 tin1",
+      "note": "In speech also 冷天 (laang5 tin1), \"the cold days\"."
+    },
+    "have_reservation": {
+      "text": "我訂咗房",
+      "roman": "ngo5 deng6 zo2 fong2",
+      "note": "Then give your surname: 我姓… (ngo5 sing3 …). At a restaurant: 我訂咗枱 (ngo5 deng6 zo2 toi2)."
+    },
+    "room": {
+      "text": "房間",
+      "roman": "fong4 gaan1",
+      "note": "Often just 房 (fong2): 單人房 (daan1 jan4 fong2), single room."
+    },
+    "passport": {
+      "text": "護照",
+      "roman": "wu6 ziu3",
+      "note": "Hong Kong ID card: 身份證 (san1 fan2 zing3)."
+    },
+    "luggage": {
+      "text": "行李",
+      "roman": "hang4 lei5",
+      "note": "A suitcase: 喼 (gip1), from English \"grip\"."
+    },
+    "wifi_password": {
+      "text": "請問Wi-Fi密碼係咩呀？",
+      "roman": "cing2 man6 Wi-Fi mat6 maa5 hai6 me1 aa3?",
+      "note": "Wi-Fi is written in English and said \"wai-fai\". Is there Wi-Fi? 有冇Wi-Fi呀？ (jau5 mou5 Wi-Fi aa3?)"
+    },
+    "check_out_time": {
+      "text": "請問幾點要退房呀？",
+      "roman": "cing2 man6 gei2 dim2 jiu3 teoi3 fong2 aa3?",
+      "note": "Many people say check out in English: 幾點check out呀？ (gei2 dim2 check out aa3?)"
+    },
+    "map": {
+      "text": "地圖",
+      "roman": "dei6 tou4"
+    },
+    "bus": {
+      "text": "巴士",
+      "roman": "baa1 si2",
+      "note": "Minibus: 小巴 (siu2 baa1). Getting off is 落車 (lok6 ce1)."
+    },
+    "next_train": {
+      "text": "下一班火車幾點開呀？",
+      "roman": "haa6 jat1 baan1 fo2 ce1 gei2 dim2 hoi1 aa3?",
+      "note": "班 (baan1) is the counter for scheduled trains and buses. On the MTR just say 車 (ce1)."
+    },
+    "is_this_seat_free": {
+      "text": "請問呢個位有冇人坐呀？",
+      "roman": "cing2 man6 ni1 go3 wai2 jau5 mou5 jan4 co5 aa3?",
+      "note": "Literally \"is anyone sitting in this seat?\" Reply if it's free: 冇人 (mou5 jan4)."
+    },
+    "what_do_you_do": {
+      "text": "請問你做邊行㗎？",
+      "roman": "cing2 man6 nei5 zou6 bin1 hong4 gaa3?",
+      "note": "Literally \"which trade are you in?\" Also 你做咩工㗎？ (nei5 zou6 me1 gung1 gaa3?)"
+    },
+    "i_work_in": {
+      "text": "我喺…做嘢",
+      "roman": "ngo5 hai2 … zou6 je5",
+      "note": "For a place, e.g. 我喺銀行做嘢 (ngo5 hai2 ngan4 hong4 zou6 je5). For a field: 我做銷售 (ngo5 zou6 siu1 sau6)."
+    },
+    "im_student": {
+      "text": "我係學生",
+      "roman": "ngo5 hai6 hok6 saang1",
+      "note": "Same for a woman. University student: 大學生 (daai6 hok6 saang1)."
+    },
+    "office": {
+      "text": "寫字樓",
+      "roman": "se2 zi6 lau4",
+      "note": "The workplace or office building. A single office room: 辦公室 (baan6 gung1 sat1)."
+    },
+    "meeting": {
+      "text": "會議",
+      "roman": "wui6 ji5",
+      "note": "In speech: 我開緊會 (ngo5 hoi1 gan2 wui2), I'm in a meeting."
+    },
+    "im_busy": {
+      "text": "我好忙",
+      "roman": "ngo5 hou2 mong4",
+      "note": "No time right now: 我唔得閒 (ngo5 m4 dak1 haan4). Swamped: 忙到飛起 (mong4 dou3 fei1 hei2)."
+    },
+    "day_off": {
+      "text": "放假",
+      "roman": "fong3 gaa3",
+      "note": "I'm off today: 我今日放假 (ngo5 gam1 jat6 fong3 gaa3). Asking for leave: 請假 (cing2 gaa3)."
+    },
+    "colleague": {
+      "text": "同事",
+      "roman": "tung4 si6",
+      "note": "Same for a woman."
+    },
+    "lets_start": {
+      "text": "我哋開始啦",
+      "roman": "ngo5 dei6 hoi1 ci2 laa1",
+      "note": "Casual, to a team: 開工啦！ (hoi1 gung1 laa1!), let's get to work."
+    },
+    "good_job": {
+      "text": "做得好！",
+      "roman": "zou6 dak1 hou2!",
+      "note": "Also 好嘢！ (hou2 je5!), great! Praising someone's skill: 好叻！ (hou2 lek1!)"
+    },
+    "table_for_two": {
+      "text": "唔該兩位",
+      "roman": "m4 goi1 loeng5 wai2",
+      "note": "Literally \"two people, please\", said as you walk in. 位 (wai2) is the polite counter for people."
+    },
+    "what_recommend": {
+      "text": "有咩好介紹呀？",
+      "roman": "jau5 me1 hou2 gaai3 siu6 aa3?",
+      "note": "Literally \"anything good to introduce?\" The house speciality: 招牌菜 (ziu1 paai4 coi3)."
+    },
+    "not_spicy": {
+      "text": "唔該唔要辣",
+      "roman": "m4 goi1 m4 jiu3 laat6",
+      "note": "Ordering shorthand: 走辣 (zau2 laat6). A little spicy: 小辣 (siu2 laat6)."
+    },
+    "vegetarian_food": {
+      "text": "素食",
+      "roman": "sou3 sik6",
+      "note": "Also 齋 (zaai1): 有冇齋菜呀？ (jau5 mou5 zaai1 coi3 aa3?), any vegetarian dishes?"
+    },
+    "more_water": {
+      "text": "唔該加水",
+      "roman": "m4 goi1 gaa1 seoi2",
+      "note": "Asks for a top-up, also of the teapot at dim sum. Another glass: 唔該俾多杯水我 (m4 goi1 bei2 do1 bui1 seoi2 ngo5)."
+    },
+    "no_sugar": {
+      "text": "唔該走糖",
+      "roman": "m4 goi1 zau2 tong4",
+      "note": "走 (zau2), \"leave\", means \"without\" when ordering. Less sweet: 少甜 (siu2 tim4)."
+    },
+    "im_full": {
+      "text": "我飽喇",
+      "roman": "ngo5 baau2 laa3",
+      "note": "Also 我食飽喇 (ngo5 sik6 baau2 laa3). Really full: 好飽 (hou2 baau2)."
+    },
+    "takeaway": {
+      "text": "唔該拎走",
+      "roman": "m4 goi1 ling1 zau2",
+      "note": "Also 外賣 (ngoi6 maai6). Eating in: 喺度食 (hai2 dou6 sik6)."
+    },
+    "it_was_delicious": {
+      "text": "真係好好食！",
+      "roman": "zan1 hai6 hou2 hou2 sik6!",
+      "note": "No past tense needed. Casual praise: 好正！ (hou2 zeng3!), excellent!"
+    },
+    "keep_change": {
+      "text": "唔使找喇",
+      "roman": "m4 sai2 zaau2 laa3",
+      "note": "找 (zaau2) means to give change. Many restaurants add a 10% service charge: 加一 (gaa1 jat1)."
+    },
+    "head": {
+      "text": "頭",
+      "roman": "tau4",
+      "note": "Dizzy: 頭暈 (tau4 wan4)."
+    },
+    "stomach": {
+      "text": "肚",
+      "roman": "tou5",
+      "note": "Diarrhoea: 肚屙 (tou5 ngo1). Feeling sick: 想嘔 (soeng2 ngau2)."
+    },
+    "head_hurts": {
+      "text": "我頭痛",
+      "roman": "ngo5 tau4 tung3",
+      "note": "Same pattern: 我肚痛 (ngo5 tou5 tung3), my stomach hurts; 我喉嚨痛 (ngo5 hau4 lung4 tung3), sore throat."
+    },
+    "have_fever": {
+      "text": "我發燒",
+      "roman": "ngo5 faat3 siu1",
+      "note": "Running a fever right now: 我發緊燒 (ngo5 faat3 gan2 siu1). A cold or flu: 感冒 (gam2 mou6)."
+    },
+    "medicine": {
+      "text": "藥",
+      "roman": "joek6",
+      "note": "Take medicine: 食藥 (sik6 joek6), literally \"eat medicine\"."
+    },
+    "call_ambulance": {
+      "text": "快啲叫白車！",
+      "roman": "faai3 di1 giu3 baak6 ce1!",
+      "note": "白車 (baak6 ce1), \"white car\", is the everyday word for ambulance. Dial 999."
+    },
+    "dentist": {
+      "text": "牙醫",
+      "roman": "ngaa4 ji1",
+      "note": "Going to the dentist: 睇牙 (tai2 ngaa4)."
+    },
+    "need_rest": {
+      "text": "我要休息下",
+      "roman": "ngo5 jiu3 jau1 sik1 haa5",
+      "note": "Casual: 我要唞下 (ngo5 jiu3 tau2 haa5)."
+    },
+    "feel_better": {
+      "text": "我好返啲喇",
+      "roman": "ngo5 hou2 faan1 di1 laa3",
+      "note": "返 (faan1) after an adjective means \"back to how it was\"."
+    },
+    "get_well": {
+      "text": "早日康復！",
+      "roman": "zou2 jat6 hong1 fuk6!",
+      "note": "To a friend: 快啲好返啦！ (faai3 di1 hou2 faan1 laa1!)"
+    },
+    "lets_meet": {
+      "text": "不如出嚟見下面啦",
+      "roman": "bat1 jyu4 ceot1 lai4 gin3 haa5 min6 laa1",
+      "note": "不如 (bat1 jyu4), \"how about\", makes a friendly suggestion. Meeting for a meal: 約食飯 (joek3 sik6 faan6)."
+    },
+    "are_you_free": {
+      "text": "你聽日得唔得閒呀？",
+      "roman": "nei5 ting1 jat6 dak1 m4 dak1 haan4 aa3?",
+      "note": "得閒 (dak1 haan4) means free. Reply 得閒 or 唔得閒 (m4 dak1 haan4)."
+    },
+    "call_me": {
+      "text": "麻煩你打電話俾我",
+      "roman": "maa4 faan4 nei5 daa2 din6 waa2 bei2 ngo5",
+      "note": "Casual: 打俾我啦 (daa2 bei2 ngo5 laa1). 俾 (bei2) here means \"to\"."
+    },
+    "your_number": {
+      "text": "請問你電話幾多號呀？",
+      "roman": "cing2 man6 nei5 din6 waa2 gei2 do1 hou6 aa3?",
+      "note": "Numbers are read digit by digit; 0 is 零 (ling4)."
+    },
+    "see_you_soon": {
+      "text": "下次見",
+      "roman": "haa6 ci3 gin3",
+      "note": "Literally \"see you next time\". Also 遲啲見 (ci4 di1 gin3). Later today: 一陣見 (jat1 zan6 gin3)."
+    },
+    "have_nice_day": {
+      "text": "祝你今日開開心心！",
+      "roman": "zuk1 nei5 gam1 jat6 hoi1 hoi1 sam1 sam1!",
+      "note": "No fixed everyday phrase. As you leave, hosts and shop staff say 慢慢行 (maan6 maan2 haang4), \"take care\"."
+    },
+    "good_luck": {
+      "text": "祝你好運！",
+      "roman": "zuk1 nei5 hou2 wan6!",
+      "note": "Before an exam or a match: 加油！ (gaa1 jau4!), literally \"add oil\"."
+    },
+    "happy_birthday": {
+      "text": "生日快樂！",
+      "roman": "saang1 jat6 faai3 lok6!"
+    },
+    "thanks_a_lot": {
+      "text": "多謝晒",
+      "roman": "do1 ze6 saai3",
+      "note": "晒 (saai3) adds \"so much\". For a favour or service: 唔該晒 (m4 goi1 saai3)."
+    },
+    "miss_you": {
+      "text": "我好掛住你",
+      "roman": "ngo5 hou2 gwaa3 zyu6 nei5",
+      "note": "掛住 (gwaa3 zyu6) is the Cantonese word for missing someone. Homesick: 好掛住屋企 (hou2 gwaa3 zyu6 uk1 kei2)."
     }
   }
 }

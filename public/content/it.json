@@ -390,6 +390,402 @@
     "congratulations": {
       "text": "Congratulazioni!",
       "note": "Also very common: complimenti! For birthdays and holidays: auguri!"
+    },
+    "my_family": {
+      "text": "La mia famiglia",
+      "note": "Gli sounds like the lli in 'million': fa-MEEL-lya."
+    },
+    "mother": {
+      "text": "Madre",
+      "note": "Everyday word: mamma. My mother: mia madre, with no article before a singular relative."
+    },
+    "father": {
+      "text": "Padre",
+      "note": "Everyday word: papà. Parents: i genitori (careful: i parenti means relatives)."
+    },
+    "brother": {
+      "text": "Fratello",
+      "note": "Brothers and sisters together: fratelli."
+    },
+    "sister": {
+      "text": "Sorella",
+      "note": "Hold the double l: so-REL-la."
+    },
+    "child": {
+      "text": "Figlio",
+      "note": "Daughter: figlia. Sons and daughters together: figli."
+    },
+    "friend": {
+      "text": "Amico",
+      "note": "Female: amica. Plurals: amici (a-MEE-chee) and amiche (a-MEE-keh)."
+    },
+    "this_is_my_friend": {
+      "text": "Questo è il mio amico",
+      "note": "For a female friend: questa è la mia amica. Also: questo è un mio amico ('a friend of mine')."
+    },
+    "are_you_married": {
+      "text": "È sposato?",
+      "note": "To a woman: è sposata? To a friend: sei sposato?"
+    },
+    "have_children": {
+      "text": "Ha figli?",
+      "note": "To a friend: hai figli?"
+    },
+    "monday": {
+      "text": "lunedì",
+      "note": "Days aren't capitalised. Monday to Friday stress the final ì: lu-ne-DEE. On Mondays: il lunedì."
+    },
+    "tuesday": {
+      "text": "martedì"
+    },
+    "wednesday": {
+      "text": "mercoledì",
+      "note": "Pronounced mer-ko-leh-DEE."
+    },
+    "thursday": {
+      "text": "giovedì",
+      "note": "Gi sounds like 'j': jo-veh-DEE."
+    },
+    "friday": {
+      "text": "venerdì"
+    },
+    "saturday": {
+      "text": "sabato",
+      "note": "Stress the first syllable: SAH-ba-to."
+    },
+    "sunday": {
+      "text": "domenica",
+      "note": "Stress the second syllable: do-MEH-nee-ka. The only feminine day: la domenica."
+    },
+    "weekend": {
+      "text": "Fine settimana",
+      "note": "Masculine: il fine settimana. Just as common: il weekend, said as in English."
+    },
+    "what_day": {
+      "text": "Che giorno è oggi?",
+      "note": "Answer: oggi è martedì."
+    },
+    "next_week": {
+      "text": "La settimana prossima",
+      "note": "Also: la prossima settimana."
+    },
+    "eleven": {
+      "text": "Undici",
+      "note": "Stress the first syllable: OON-dee-chee."
+    },
+    "twelve": {
+      "text": "Dodici",
+      "note": "Pronounced DOH-dee-chee."
+    },
+    "fifteen": {
+      "text": "Quindici",
+      "note": "Pronounced KWEEN-dee-chee. From 17 the order flips: diciassette, diciotto, diciannove."
+    },
+    "twenty": {
+      "text": "Venti",
+      "note": "Before uno and otto the final vowel drops: ventuno (21), ventotto (28)."
+    },
+    "thirty": {
+      "text": "Trenta",
+      "note": "Compounds ending in tre take an accent: ventitré, trentatré."
+    },
+    "fifty": {
+      "text": "Cinquanta",
+      "note": "The other tens: quaranta, sessanta, settanta, ottanta, novanta."
+    },
+    "hundred": {
+      "text": "Cento",
+      "note": "Pronounced CHEN-to, with no 'one' before it. Two hundred: duecento."
+    },
+    "thousand": {
+      "text": "Mille",
+      "note": "Plural: mila, as in duemila (2000) and tremila (3000)."
+    },
+    "how_old": {
+      "text": "Quanti anni ha?",
+      "note": "To a friend: quanti anni hai?"
+    },
+    "years_old": {
+      "text": "Ho … anni",
+      "note": "Uses avere ('to have'), not essere, as in ho fame. E.g. ho trent'anni."
+    },
+    "red": {
+      "text": "Rosso",
+      "note": "Colours agree with the noun: una macchina rossa, due macchine rosse."
+    },
+    "blue": {
+      "text": "Blu",
+      "note": "Never changes form. Light or sky blue: azzurro, the colour of Italy's national teams."
+    },
+    "green": {
+      "text": "Verde",
+      "note": "Same form for masculine and feminine. Plural: verdi."
+    },
+    "yellow": {
+      "text": "Giallo",
+      "note": "Feminine: gialla. Gi sounds like 'j': JAL-lo."
+    },
+    "black": {
+      "text": "Nero",
+      "note": "Feminine: nera."
+    },
+    "white": {
+      "text": "Bianco",
+      "note": "Feminine: bianca. White wine: vino bianco."
+    },
+    "what_colour": {
+      "text": "Di che colore è?",
+      "note": "Also, more casually: che colore è?"
+    },
+    "this_one": {
+      "text": "Questo",
+      "note": "For a feminine noun: questa. To be extra clear: questo qui."
+    },
+    "that_one": {
+      "text": "Quello",
+      "note": "For a feminine noun: quella. To be extra clear: quello lì."
+    },
+    "another_one": {
+      "text": "Un altro, per favore",
+      "note": "For a feminine noun: un'altra, per favore (e.g. un'altra birra)."
+    },
+    "its_hot": {
+      "text": "Fa caldo",
+      "note": "Uses fare, not essere. Casual: che caldo! Feeling hot yourself: ho caldo."
+    },
+    "its_cold": {
+      "text": "Fa freddo",
+      "note": "Casual: che freddo! Feeling cold yourself: ho freddo."
+    },
+    "its_raining": {
+      "text": "Piove",
+      "note": "Also: sta piovendo ('it's raining right now')."
+    },
+    "its_sunny": {
+      "text": "C'è il sole",
+      "note": "Lit. 'there's the sun'. Forecasts say: soleggiato."
+    },
+    "its_windy": {
+      "text": "C'è vento",
+      "note": "Also common: tira vento."
+    },
+    "weather_today": {
+      "text": "Che tempo fa oggi?",
+      "note": "Tempo means both 'weather' and 'time'."
+    },
+    "beautiful_day": {
+      "text": "È una bella giornata",
+      "note": "Casual: che bella giornata! Giornata is the day as you live it; giorno is the date."
+    },
+    "umbrella": {
+      "text": "Ombrello",
+      "note": "Pronounced om-BREL-lo. The beach umbrella you rent at the seaside: ombrellone."
+    },
+    "summer": {
+      "text": "Estate",
+      "note": "Feminine: l'estate. Pronounced es-TAH-teh. In summer: d'estate."
+    },
+    "winter": {
+      "text": "Inverno",
+      "note": "Masculine: l'inverno. In winter: d'inverno."
+    },
+    "have_reservation": {
+      "text": "Ho una prenotazione",
+      "note": "Add your name: ho una prenotazione a nome Rossi."
+    },
+    "room": {
+      "text": "Camera",
+      "note": "Single room: camera singola. With a double bed: camera matrimoniale."
+    },
+    "passport": {
+      "text": "Passaporto"
+    },
+    "luggage": {
+      "text": "Bagagli",
+      "note": "Usually plural: i bagagli. One bag: il bagaglio. Left luggage: deposito bagagli."
+    },
+    "wifi_password": {
+      "text": "Qual è la password del Wi-Fi?",
+      "note": "Qual è never takes an apostrophe. Wi-Fi is usually said 'WAI-fai', as in English."
+    },
+    "check_out_time": {
+      "text": "A che ora è il check-out?",
+      "note": "Also: entro che ora devo lasciare la camera? ('by what time must I leave the room?')"
+    },
+    "map": {
+      "text": "Mappa",
+      "note": "A printed town map is also called una cartina."
+    },
+    "bus": {
+      "text": "Autobus",
+      "note": "Stress the first syllable: OW-to-boos. A long-distance coach: il pullman."
+    },
+    "next_train": {
+      "text": "Quando parte il prossimo treno?",
+      "note": "Add the destination with per: il prossimo treno per Roma."
+    },
+    "is_this_seat_free": {
+      "text": "È libero questo posto?",
+      "note": "Also: è occupato? ('is it taken?'). Pointing at the seat, just: è libero?"
+    },
+    "what_do_you_do": {
+      "text": "Che lavoro fa?",
+      "note": "To a friend: che lavoro fai? More formal: di cosa si occupa?"
+    },
+    "i_work_in": {
+      "text": "Lavoro in …",
+      "note": "E.g. lavoro in banca. With an article, in merges: lavoro nel turismo, nella moda."
+    },
+    "im_student": {
+      "text": "Sono uno studente",
+      "note": "A woman says: sono una studentessa. In reply to che lavoro fa?, often just: studio."
+    },
+    "office": {
+      "text": "Ufficio",
+      "note": "Pronounced oof-FEE-cho. At the office: in ufficio."
+    },
+    "meeting": {
+      "text": "Riunione",
+      "note": "Also used at work: il meeting. An appointment with one person: un appuntamento."
+    },
+    "im_busy": {
+      "text": "Sono impegnato",
+      "note": "A woman says: sono impegnata. Also: ho da fare ('I've got things to do')."
+    },
+    "day_off": {
+      "text": "Giorno libero",
+      "note": "Tomorrow I'm off: domani ho il giorno libero. Annual leave: le ferie."
+    },
+    "colleague": {
+      "text": "Collega",
+      "note": "Same word for a woman, only the article changes: la collega. Plurals: colleghi, colleghe."
+    },
+    "lets_start": {
+      "text": "Cominciamo",
+      "note": "Also: iniziamo. Often with allora ('right then'): allora, cominciamo."
+    },
+    "good_job": {
+      "text": "Ottimo lavoro!",
+      "note": "Very common: bravo! (to a woman: brava!). Also: complimenti!"
+    },
+    "table_for_two": {
+      "text": "Un tavolo per due, per favore",
+      "note": "Staff often ask first: quanti siete? ('how many of you?')"
+    },
+    "what_recommend": {
+      "text": "Cosa mi consiglia?",
+      "note": "To a friend: cosa mi consigli? Also: qual è la specialità della casa?"
+    },
+    "not_spicy": {
+      "text": "Non piccante, per favore",
+      "note": "Heat usually comes from chilli, so you can also say: senza peperoncino."
+    },
+    "vegetarian_food": {
+      "text": "Cibo vegetariano",
+      "note": "On menus: piatti vegetariani. To ask: avete piatti vegetariani?"
+    },
+    "more_water": {
+      "text": "Ancora un po' d'acqua, per favore",
+      "note": "Water usually comes bottled: un'altra bottiglia d'acqua, per favore."
+    },
+    "no_sugar": {
+      "text": "Senza zucchero, per favore",
+      "note": "Zucchero is pronounced DZOOK-keh-ro."
+    },
+    "im_full": {
+      "text": "Sono pieno",
+      "note": "A woman says: sono piena. To turn down more food politely: basta così, grazie."
+    },
+    "takeaway": {
+      "text": "Da portare via, per favore",
+      "note": "Also: da asporto. Staff may ask: qui o da portare via?"
+    },
+    "it_was_delicious": {
+      "text": "Era buonissimo",
+      "note": "About the whole meal: era tutto buonissimo! For a feminine noun like la pasta: era buonissima."
+    },
+    "keep_change": {
+      "text": "Tenga il resto",
+      "note": "Often softened with pure: tenga pure il resto. To a friend: tieni il resto."
+    },
+    "head": {
+      "text": "Testa"
+    },
+    "stomach": {
+      "text": "Stomaco",
+      "note": "Stress the first syllable: STO-ma-ko. For a tummy ache Italians often say: ho mal di pancia."
+    },
+    "head_hurts": {
+      "text": "Mi fa male la testa",
+      "note": "Also very common: ho mal di testa ('I have a headache')."
+    },
+    "have_fever": {
+      "text": "Ho la febbre",
+      "note": "A slight temperature: ho qualche linea di febbre."
+    },
+    "medicine": {
+      "text": "Medicina",
+      "note": "Also: farmaco, or medicinale on packaging."
+    },
+    "call_ambulance": {
+      "text": "Chiami un'ambulanza!",
+      "note": "To a friend: chiama un'ambulanza! To a group: chiamate un'ambulanza!"
+    },
+    "dentist": {
+      "text": "Dentista",
+      "note": "Same word for a woman, only the article changes: il dentista, la dentista."
+    },
+    "need_rest": {
+      "text": "Ho bisogno di riposare",
+      "note": "Also: devo riposarmi."
+    },
+    "feel_better": {
+      "text": "Mi sento meglio",
+      "note": "Also: sto meglio."
+    },
+    "get_well": {
+      "text": "Guarisca presto!",
+      "note": "To a friend: guarisci presto! For anyone, and in cards: auguri di pronta guarigione!"
+    },
+    "lets_meet": {
+      "text": "Vediamoci",
+      "note": "As a question: ci vediamo? Fixing a time: vediamoci alle otto."
+    },
+    "are_you_free": {
+      "text": "È libero domani?",
+      "note": "To a woman: è libera domani? To a friend: sei libero domani?"
+    },
+    "call_me": {
+      "text": "Mi chiami",
+      "note": "Also: mi telefoni. Often softened with pure: mi chiami pure. To a friend: chiamami!"
+    },
+    "your_number": {
+      "text": "Qual è il Suo numero di telefono?",
+      "note": "To a friend: qual è il tuo numero? Also: mi dà il Suo numero?"
+    },
+    "see_you_soon": {
+      "text": "A presto",
+      "note": "Also: ci vediamo presto."
+    },
+    "have_nice_day": {
+      "text": "Buona giornata!",
+      "note": "In the evening: buona serata!"
+    },
+    "good_luck": {
+      "text": "Buona fortuna!",
+      "note": "Before an exam or a show: in bocca al lupo! The reply is crepi!"
+    },
+    "happy_birthday": {
+      "text": "Buon compleanno!",
+      "note": "Also simply: tanti auguri! (the words of the birthday song)."
+    },
+    "thanks_a_lot": {
+      "text": "Grazie mille",
+      "note": "Also: molte grazie, or grazie infinite."
+    },
+    "miss_you": {
+      "text": "Mi manchi",
+      "note": "The person missed is the subject (lit. 'you are lacking to me'). To several people: mi mancate."
     }
   }
 }

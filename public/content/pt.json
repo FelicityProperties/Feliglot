@@ -381,6 +381,401 @@
     "congratulations": {
       "text": "Parabéns!",
       "note": "Also what you say for 'happy birthday'."
+    },
+    "my_family": {
+      "text": "Minha família",
+      "note": "Minha goes with feminine nouns, meu with masculine ones: minha mãe, meu pai."
+    },
+    "mother": {
+      "text": "Mãe",
+      "note": "Nasal ãe, roughly 'my' said through the nose. Small children say mamãe."
+    },
+    "father": {
+      "text": "Pai",
+      "note": "Children say papai. Os pais means the parents (mother and father)."
+    },
+    "brother": {
+      "text": "Irmão",
+      "note": "Irmãos also means siblings, brothers and sisters together."
+    },
+    "sister": {
+      "text": "Irmã",
+      "note": "Older sister: irmã mais velha. Younger sister: irmã mais nova."
+    },
+    "child": {
+      "text": "Filho",
+      "note": "Daughter: filha. Sons and daughters together: filhos. Lh sounds like lli in 'million'."
+    },
+    "friend": {
+      "text": "Amigo",
+      "note": "Female: amiga."
+    },
+    "this_is_my_friend": {
+      "text": "Esse é o meu amigo",
+      "note": "For a female friend: Essa é a minha amiga. Textbooks write este/esta; in speech Brazilians say esse/essa."
+    },
+    "are_you_married": {
+      "text": "Você é casado?",
+      "note": "To a woman: Você é casada? More formal: O senhor é casado? (to a woman: A senhora é casada?)"
+    },
+    "have_children": {
+      "text": "Você tem filhos?",
+      "note": "More formal: O senhor tem filhos? (to a woman: A senhora)"
+    },
+    "monday": {
+      "text": "segunda-feira",
+      "note": "Days aren't capitalised. In speech -feira is dropped: segunda, terça… On Monday: na segunda."
+    },
+    "tuesday": {
+      "text": "terça-feira"
+    },
+    "wednesday": {
+      "text": "quarta-feira"
+    },
+    "thursday": {
+      "text": "quinta-feira"
+    },
+    "friday": {
+      "text": "sexta-feira",
+      "note": "Brazilians greet the start of the weekend with Sextou! (roughly 'Friday's here!')."
+    },
+    "saturday": {
+      "text": "sábado",
+      "note": "Saturday and Sunday never take -feira."
+    },
+    "sunday": {
+      "text": "domingo"
+    },
+    "weekend": {
+      "text": "Fim de semana",
+      "note": "Have a good weekend: Bom fim de semana!"
+    },
+    "what_day": {
+      "text": "Que dia é hoje?",
+      "note": "Answer with the weekday (Hoje é sexta) or the date (Hoje é dia cinco)."
+    },
+    "next_week": {
+      "text": "Semana que vem",
+      "note": "Also: na próxima semana. Same pattern: mês que vem (next month), ano que vem (next year)."
+    },
+    "eleven": {
+      "text": "Onze",
+      "note": "11 to 15 have their own words; 16 to 19 are built on ten: dezesseis, dezessete, dezoito, dezenove."
+    },
+    "twelve": {
+      "text": "Doze",
+      "note": "A dozen: uma dúzia."
+    },
+    "fifteen": {
+      "text": "Quinze",
+      "note": "Quinze dias (fifteen days) is a common way to say two weeks."
+    },
+    "twenty": {
+      "text": "Vinte",
+      "note": "In most of Brazil a t before a final e sounds like ch: VEEN-chee."
+    },
+    "thirty": {
+      "text": "Trinta",
+      "note": "Tens and units are joined with e (and): trinta e um, trinta e dois."
+    },
+    "fifty": {
+      "text": "Cinquenta",
+      "note": "The u is pronounced: seen-KWEN-ta."
+    },
+    "hundred": {
+      "text": "Cem",
+      "note": "Exactly 100 is cem; 101 to 199 use cento: cento e um, cento e cinquenta."
+    },
+    "thousand": {
+      "text": "Mil",
+      "note": "No um in front, just mil. Two thousand: dois mil. The final l sounds like w."
+    },
+    "how_old": {
+      "text": "Quantos anos você tem?",
+      "note": "More formal: Quantos anos o senhor tem? (to a woman: a senhora)"
+    },
+    "years_old": {
+      "text": "Tenho … anos",
+      "note": "Literally 'I have … years': age uses ter, never ser. Also common: Estou com … anos."
+    },
+    "red": {
+      "text": "Vermelho",
+      "note": "Feminine: vermelha (uma camisa vermelha)."
+    },
+    "blue": {
+      "text": "Azul",
+      "note": "Same for masculine and feminine; plural: azuis. The final l sounds like w."
+    },
+    "green": {
+      "text": "Verde",
+      "note": "Same for masculine and feminine. In most of Brazil the final de sounds like 'jee': VAYR-jee."
+    },
+    "yellow": {
+      "text": "Amarelo",
+      "note": "Feminine: amarela."
+    },
+    "black": {
+      "text": "Preto",
+      "note": "Feminine: preta."
+    },
+    "white": {
+      "text": "Branco",
+      "note": "Feminine: branca. White wine: vinho branco."
+    },
+    "what_colour": {
+      "text": "De que cor é?",
+      "note": "Also common: Qual é a cor?"
+    },
+    "this_one": {
+      "text": "Esse aqui",
+      "note": "For a feminine noun: essa aqui. Textbooks write este; in speech Brazilians say esse."
+    },
+    "that_one": {
+      "text": "Aquele ali",
+      "note": "For a feminine noun: aquela ali."
+    },
+    "another_one": {
+      "text": "Mais um, por favor",
+      "note": "For a feminine noun: mais uma (mais uma cerveja). Outro/outra also works: Outra cerveja, por favor."
+    },
+    "its_hot": {
+      "text": "Está calor",
+      "note": "In speech: Tá calor! or Que calor! Also: Está quente."
+    },
+    "its_cold": {
+      "text": "Está frio",
+      "note": "In speech: Tá frio! or Que frio!"
+    },
+    "its_raining": {
+      "text": "Está chovendo",
+      "note": "In speech: Tá chovendo. In Portugal: Está a chover."
+    },
+    "its_sunny": {
+      "text": "Está fazendo sol",
+      "note": "In speech: Tá sol! or Tá fazendo sol."
+    },
+    "its_windy": {
+      "text": "Está ventando",
+      "note": "In speech: Tá ventando. Wind: o vento."
+    },
+    "weather_today": {
+      "text": "Como está o tempo hoje?",
+      "note": "In speech: Como tá o tempo hoje? Tempo means both weather and time."
+    },
+    "beautiful_day": {
+      "text": "Está um dia lindo",
+      "note": "As an exclamation: Que dia lindo! Also: Que dia bonito!"
+    },
+    "umbrella": {
+      "text": "Guarda-chuva",
+      "note": "Literally 'rain-guard'. A beach umbrella is a guarda-sol."
+    },
+    "summer": {
+      "text": "Verão",
+      "note": "In Brazil summer runs from December to March."
+    },
+    "winter": {
+      "text": "Inverno",
+      "note": "In Brazil winter runs from June to September."
+    },
+    "have_reservation": {
+      "text": "Tenho uma reserva",
+      "note": "Then give the name: em nome de … (in the name of …)."
+    },
+    "room": {
+      "text": "Quarto",
+      "note": "Also means bedroom. Double room: quarto de casal. Single: quarto de solteiro."
+    },
+    "passport": {
+      "text": "Passaporte"
+    },
+    "luggage": {
+      "text": "Bagagem",
+      "note": "Your suitcases: as malas. Hand luggage: bagagem de mão."
+    },
+    "wifi_password": {
+      "text": "Qual é a senha do Wi-Fi?",
+      "note": "Brazilians say Wi-Fi as 'wai-fai'. Senha means password or PIN."
+    },
+    "check_out_time": {
+      "text": "Qual é o horário do check-out?",
+      "note": "Brazilian hotels use the English word. Also: Até que horas posso ficar no quarto?"
+    },
+    "map": {
+      "text": "Mapa",
+      "note": "Masculine despite the -a: o mapa."
+    },
+    "bus": {
+      "text": "Ônibus",
+      "note": "Same in the plural: os ônibus. Bus stop: ponto de ônibus. In Portugal: autocarro."
+    },
+    "next_train": {
+      "text": "Quando sai o próximo trem?",
+      "note": "Sai means 'leaves'. Also: Que horas sai o próximo trem? For the subway: o próximo metrô."
+    },
+    "is_this_seat_free": {
+      "text": "Esse lugar está livre?",
+      "note": "Also very common: Tem alguém sentado aqui? (Is anyone sitting here?)"
+    },
+    "what_do_you_do": {
+      "text": "O que você faz?",
+      "note": "Very Brazilian: Você trabalha com o quê? More formal: O que o senhor faz?"
+    },
+    "i_work_in": {
+      "text": "Trabalho em …",
+      "note": "For a field Brazilians usually say com: Trabalho com vendas. Em merges with articles: num banco, na escola."
+    },
+    "im_student": {
+      "text": "Sou estudante",
+      "note": "Same for men and women. At university: Faço faculdade."
+    },
+    "office": {
+      "text": "Escritório",
+      "note": "A doctor's or dentist's office is a consultório."
+    },
+    "meeting": {
+      "text": "Reunião",
+      "note": "Nasal ão, as in não. I'm in a meeting: Estou em reunião."
+    },
+    "im_busy": {
+      "text": "Estou ocupado",
+      "note": "A woman says: Estou ocupada. In speech: Tô ocupado."
+    },
+    "day_off": {
+      "text": "Dia de folga",
+      "note": "I'm off tomorrow: Amanhã estou de folga. A public holiday is a feriado."
+    },
+    "colleague": {
+      "text": "Colega de trabalho",
+      "note": "Same word for a woman: a colega. Colega on its own can also mean classmate."
+    },
+    "lets_start": {
+      "text": "Vamos começar",
+      "note": "Casual: Bora começar! or just Bora! (from vamos embora)."
+    },
+    "good_job": {
+      "text": "Ótimo trabalho!",
+      "note": "Casual: Mandou bem! Careful: Bom trabalho! often means 'have a good day at work'."
+    },
+    "table_for_two": {
+      "text": "Uma mesa para dois, por favor",
+      "note": "In speech para becomes pra: Uma mesa pra dois."
+    },
+    "what_recommend": {
+      "text": "O que você recomenda?",
+      "note": "More formal: O que o senhor recomenda? (to a woman: a senhora). Casual: O que é bom aqui?"
+    },
+    "not_spicy": {
+      "text": "Sem pimenta, por favor",
+      "note": "Pimenta is chili pepper. To check first: É apimentado? (Is it spicy?)"
+    },
+    "vegetarian_food": {
+      "text": "Comida vegetariana",
+      "note": "To ask: Tem alguma opção vegetariana?"
+    },
+    "more_water": {
+      "text": "Mais água, por favor",
+      "note": "Politer: Pode trazer mais água, por favor?"
+    },
+    "no_sugar": {
+      "text": "Sem açúcar, por favor",
+      "note": "Coffee and juice often come already sweetened, so say it when ordering. Sweetener: adoçante."
+    },
+    "im_full": {
+      "text": "Estou satisfeito",
+      "note": "A woman says: Estou satisfeita. In speech: Tô satisfeito, or Comi demais! (I ate too much!)"
+    },
+    "takeaway": {
+      "text": "Para viagem, por favor",
+      "note": "Literally 'for the trip'. Also: Para levar. In speech: Pra viagem."
+    },
+    "it_was_delicious": {
+      "text": "Estava delicioso",
+      "note": "In speech: Tava uma delícia! or Tava ótimo!"
+    },
+    "keep_change": {
+      "text": "Pode ficar com o troco",
+      "note": "Troco is the change. Restaurants usually add an optional 10% service charge: os dez por cento."
+    },
+    "head": {
+      "text": "Cabeça",
+      "note": "Ç sounds like s: ka-BAY-sa."
+    },
+    "stomach": {
+      "text": "Estômago",
+      "note": "In everyday speech people often say barriga (belly): Estou com dor de barriga."
+    },
+    "head_hurts": {
+      "text": "Estou com dor de cabeça",
+      "note": "Built with estar com, like Estou com fome. Also: Minha cabeça está doendo."
+    },
+    "have_fever": {
+      "text": "Estou com febre",
+      "note": "In speech: Tô com febre."
+    },
+    "medicine": {
+      "text": "Remédio",
+      "note": "The everyday word; medicamento is more technical. Medicina is the science or the degree."
+    },
+    "call_ambulance": {
+      "text": "Chamem uma ambulância!",
+      "note": "To one person: Chame uma ambulância! Ambulance in Brazil (SAMU): dial 192."
+    },
+    "dentist": {
+      "text": "Dentista",
+      "note": "Same word for men and women: o dentista, a dentista."
+    },
+    "need_rest": {
+      "text": "Preciso descansar",
+      "note": "Preciso takes a verb directly, but de before a noun: Preciso de um médico."
+    },
+    "feel_better": {
+      "text": "Estou me sentindo melhor",
+      "note": "Shorter: Estou melhor. In speech: Tô melhor."
+    },
+    "get_well": {
+      "text": "Melhoras!",
+      "note": "Fuller: Desejo melhoras! Casual: Fica bom logo! (to a woman: Fica boa logo!)"
+    },
+    "lets_meet": {
+      "text": "Vamos marcar alguma coisa",
+      "note": "Often just: Vamos marcar! Brazilians say it warmly even when no date gets set."
+    },
+    "are_you_free": {
+      "text": "Você está livre amanhã?",
+      "note": "More formal: O senhor está livre amanhã? (to a woman: a senhora). In speech: Tá livre amanhã?"
+    },
+    "call_me": {
+      "text": "Me ligue",
+      "note": "In casual speech: Me liga! Asking is softer still: Pode me ligar?"
+    },
+    "your_number": {
+      "text": "Qual é o seu número de telefone?",
+      "note": "Shorter: Qual é o seu número? Almost everyone uses WhatsApp, nicknamed zap."
+    },
+    "see_you_soon": {
+      "text": "Até breve",
+      "note": "In everyday speech: Até logo! or A gente se vê! (We'll see each other!)"
+    },
+    "have_nice_day": {
+      "text": "Tenha um bom dia!",
+      "note": "Usual reply: Igualmente! or Pra você também!"
+    },
+    "good_luck": {
+      "text": "Boa sorte!",
+      "note": "Also common: Tomara que dê tudo certo! (I hope it all goes well!)"
+    },
+    "happy_birthday": {
+      "text": "Feliz aniversário!",
+      "note": "Just as common: Parabéns! The birthday song is Parabéns pra você."
+    },
+    "thanks_a_lot": {
+      "text": "Muito obrigado",
+      "note": "A woman says: Muito obrigada. Casual: Valeu mesmo!"
+    },
+    "miss_you": {
+      "text": "Estou com saudade de você",
+      "note": "Saudade means missing someone. In speech: Tô com saudade! (or saudades). Also: Sinto sua falta."
     }
   }
 }

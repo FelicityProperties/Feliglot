@@ -449,6 +449,476 @@
       "text": "Շնորհավո՜ր",
       "roman": "Shnorhavor!",
       "note": "Also for holidays: Շնորհավոր Նոր տարի (shnorhavor Nor tari), Happy New Year."
+    },
+    "my_family": {
+      "text": "Իմ ընտանիքը",
+      "roman": "Im yntaniky",
+      "note": "Everyday: Ընտանիքս (yntaniks)."
+    },
+    "mother": {
+      "text": "Մայր",
+      "roman": "Mayr",
+      "note": "Everyday: մամա (mama). Affectionate: մայրիկ (mayrik)."
+    },
+    "father": {
+      "text": "Հայր",
+      "roman": "Hayr",
+      "note": "Everyday: պապա (papa). Affectionate: հայրիկ (hayrik)."
+    },
+    "brother": {
+      "text": "Եղբայր",
+      "roman": "Yeghbayr",
+      "note": "Colloquial: ախպեր (akhper), also used like 'bro' between friends."
+    },
+    "sister": {
+      "text": "Քույր",
+      "roman": "Kuyr"
+    },
+    "child": {
+      "text": "Երեխա",
+      "roman": "Yerekha",
+      "note": "Son: տղա (tgha), daughter: աղջիկ (aghjik). They also mean 'boy' and 'girl'."
+    },
+    "friend": {
+      "text": "Ընկեր",
+      "roman": "Ynker",
+      "note": "A female friend: ընկերուհի (ynkeruhi)."
+    },
+    "this_is_my_friend": {
+      "text": "Սա իմ ընկերն է",
+      "roman": "Sa im ynkern e",
+      "note": "For a female friend: Սա իմ ընկերուհին է (sa im ynkeruhin e)."
+    },
+    "are_you_married": {
+      "text": "Ամուսնացա՞ծ եք",
+      "roman": "Amusnatsats ek?",
+      "note": "Asked the same way to a man or a woman."
+    },
+    "have_children": {
+      "text": "Երեխաներ ունե՞ք",
+      "roman": "Yerekhaner unek?"
+    },
+    "monday": {
+      "text": "երկուշաբթի",
+      "roman": "yerkushabti",
+      "note": "Monday to Thursday are numbered: երկու (yerku), two + շաբթի (shabti), and so on."
+    },
+    "tuesday": {
+      "text": "երեքշաբթի",
+      "roman": "yerekshabti"
+    },
+    "wednesday": {
+      "text": "չորեքշաբթի",
+      "roman": "chorekshabti",
+      "note": "Uses չորեք (chorek), an old form of չորս (chors), four."
+    },
+    "thursday": {
+      "text": "հինգշաբթի",
+      "roman": "hingshabti"
+    },
+    "friday": {
+      "text": "ուրբաթ",
+      "roman": "urbat"
+    },
+    "saturday": {
+      "text": "շաբաթ",
+      "roman": "shabat",
+      "note": "The same word also means 'week'."
+    },
+    "sunday": {
+      "text": "կիրակի",
+      "roman": "kiraki"
+    },
+    "weekend": {
+      "text": "Շաբաթ-կիրակի",
+      "roman": "Shabat-kiraki",
+      "note": "Also: հանգստյան օրեր (hangstyan orer), days off."
+    },
+    "what_day": {
+      "text": "Այսօր ի՞նչ օր է",
+      "roman": "Aysor inch or e?"
+    },
+    "next_week": {
+      "text": "Հաջորդ շաբաթ",
+      "roman": "Hajord shabat",
+      "note": "Everyday: մյուս շաբաթ (myus shabat)."
+    },
+    "eleven": {
+      "text": "Տասնմեկ",
+      "roman": "Tasnmek",
+      "note": "11 to 19 are տասն (tasn), ten + the unit: տասնչորս (tasnchors), 14."
+    },
+    "twelve": {
+      "text": "Տասներկու",
+      "roman": "Tasnerku"
+    },
+    "fifteen": {
+      "text": "Տասնհինգ",
+      "roman": "Tasnhing"
+    },
+    "twenty": {
+      "text": "Քսան",
+      "roman": "Ksan"
+    },
+    "thirty": {
+      "text": "Երեսուն",
+      "roman": "Yeresun"
+    },
+    "fifty": {
+      "text": "Հիսուն",
+      "roman": "Hisun"
+    },
+    "hundred": {
+      "text": "Հարյուր",
+      "roman": "Haryur",
+      "note": "No 'one' needed. 200 is երկու հարյուր (yerku haryur)."
+    },
+    "thousand": {
+      "text": "Հազար",
+      "roman": "Hazar"
+    },
+    "how_old": {
+      "text": "Քանի՞ տարեկան եք",
+      "roman": "Kani tarekan ek?",
+      "note": "To a friend or a child: Քանի՞ տարեկան ես (kani tarekan es?)."
+    },
+    "years_old": {
+      "text": "Ես … տարեկան եմ",
+      "roman": "Yes … tarekan em",
+      "note": "For example: Ես քսան տարեկան եմ (yes ksan tarekan em)."
+    },
+    "red": {
+      "text": "Կարմիր",
+      "roman": "Karmir"
+    },
+    "blue": {
+      "text": "Կապույտ",
+      "roman": "Kapuyt",
+      "note": "Light blue has its own word: երկնագույն (yerknaguyn)."
+    },
+    "green": {
+      "text": "Կանաչ",
+      "roman": "Kanach"
+    },
+    "yellow": {
+      "text": "Դեղին",
+      "roman": "Deghin"
+    },
+    "black": {
+      "text": "Սև",
+      "roman": "Sev"
+    },
+    "white": {
+      "text": "Սպիտակ",
+      "roman": "Spitak"
+    },
+    "what_colour": {
+      "text": "Ի՞նչ գույնի է",
+      "roman": "Inch guyni e?"
+    },
+    "this_one": {
+      "text": "Այս մեկը",
+      "roman": "Ays meky",
+      "note": "Everyday: էս մեկը (es meky), or simply սա (sa)."
+    },
+    "that_one": {
+      "text": "Այն մեկը",
+      "roman": "Ayn meky",
+      "note": "Everyday: էն մեկը (en meky). Near the person you speak to: այդ մեկը (ayd meky)."
+    },
+    "another_one": {
+      "text": "Եվս մեկը, խնդրում եմ",
+      "roman": "Yevs meky, khndrum em",
+      "note": "Everyday: Մի հատ էլ (mi hat el)."
+    },
+    "its_hot": {
+      "text": "Շոգ է",
+      "roman": "Shog e",
+      "note": "Շոգ is for hot air (weather or a stuffy room), not hot objects. Pleasantly warm: Տաք է (tak e)."
+    },
+    "its_cold": {
+      "text": "Ցուրտ է",
+      "roman": "Tsurt e",
+      "note": "I'm cold: Մրսում եմ (mrsum em)."
+    },
+    "its_raining": {
+      "text": "Անձրև է գալիս",
+      "roman": "Andzrev e galis",
+      "note": "Same pattern for snow: Ձյուն է գալիս (dzyun e galis)."
+    },
+    "its_sunny": {
+      "text": "Արևոտ է",
+      "roman": "Arevot e",
+      "note": "Also: Արև է (arev e)."
+    },
+    "its_windy": {
+      "text": "Քամի է",
+      "roman": "Kami e",
+      "note": "Also: Քամի է փչում (kami e pchum), the wind is blowing."
+    },
+    "weather_today": {
+      "text": "Այսօր ինչպիսի՞ եղանակ է",
+      "roman": "Aysor inchpisi yeghanak e?",
+      "note": "Everyday: Եղանակը ո՞նց է (yeghanaky vonts e?)."
+    },
+    "beautiful_day": {
+      "text": "Հրաշալի օր է",
+      "roman": "Hrashali or e",
+      "note": "Also: Ի՜նչ լավ եղանակ է (inch lav yeghanak e!)."
+    },
+    "umbrella": {
+      "text": "Անձրևանոց",
+      "roman": "Andzrevanots",
+      "note": "Colloquial: զոնտիկ (zontik)."
+    },
+    "summer": {
+      "text": "Ամառ",
+      "roman": "Amar"
+    },
+    "winter": {
+      "text": "Ձմեռ",
+      "roman": "Dzmer"
+    },
+    "have_reservation": {
+      "text": "Ես ամրագրում ունեմ",
+      "roman": "Yes amragrum unem",
+      "note": "Also: Համար եմ ամրագրել (hamar em amragrel), I've booked a room."
+    },
+    "room": {
+      "text": "Համար",
+      "roman": "Hamar",
+      "note": "The same word means 'number'. A room in a home: սենյակ (senyak)."
+    },
+    "passport": {
+      "text": "Անձնագիր",
+      "roman": "Andznagir"
+    },
+    "luggage": {
+      "text": "Ուղեբեռ",
+      "roman": "Ugheber",
+      "note": "A suitcase: ճամպրուկ (champruk)."
+    },
+    "wifi_password": {
+      "text": "Վայ-ֆայի գաղտնաբառն ի՞նչ է",
+      "roman": "Vay-fayi gaghtnabarn inch e?",
+      "note": "Վայ-ֆայ is usually written Wi-Fi, in Latin letters."
+    },
+    "check_out_time": {
+      "text": "Ժամը քանիսի՞ն պետք է ազատել համարը",
+      "roman": "Zhamy kanisin petk e azatel hamary?",
+      "note": "Literally 'At what time must the room be vacated?'"
+    },
+    "map": {
+      "text": "Քարտեզ",
+      "roman": "Kartez"
+    },
+    "bus": {
+      "text": "Ավտոբուս",
+      "roman": "Avtobus",
+      "note": "A minibus: մարշրուտկա (marshrutka), very common in Yerevan."
+    },
+    "next_train": {
+      "text": "Ե՞րբ է հաջորդ գնացքը",
+      "roman": "Yerb e hajord gnatsky?"
+    },
+    "is_this_seat_free": {
+      "text": "Այս տեղն ազա՞տ է",
+      "roman": "Ays teghn azat e?",
+      "note": "Also: Այստեղ ազա՞տ է (aystegh azat e?)."
+    },
+    "what_do_you_do": {
+      "text": "Ինչո՞վ եք զբաղվում",
+      "roman": "Inchov ek zbaghvum?",
+      "note": "Also: Որտե՞ղ եք աշխատում (vortegh ek ashkhatum?), where do you work?"
+    },
+    "i_work_in": {
+      "text": "Ես …-ում եմ աշխատում",
+      "roman": "Yes …-um em ashkhatum",
+      "note": "-ում (-um) joins the place: բանկում (bankum), in a bank. A field: վաճառքի ոլորտում (vacharki volortum)."
+    },
+    "im_student": {
+      "text": "Ես ուսանող եմ",
+      "roman": "Yes usanogh em",
+      "note": "Women say this too, or Ես ուսանողուհի եմ (yes usanoghuhi em). A school pupil: աշակերտ (ashakert)."
+    },
+    "office": {
+      "text": "Գրասենյակ",
+      "roman": "Grasenyak",
+      "note": "Also common: օֆիս (ofis)."
+    },
+    "meeting": {
+      "text": "Հանդիպում",
+      "roman": "Handipum",
+      "note": "A formal staff meeting: ժողով (zhoghov)."
+    },
+    "im_busy": {
+      "text": "Զբաղված եմ",
+      "roman": "Zbaghvats em",
+      "note": "Also: Գործ ունեմ (gorts unem), I've got things to do."
+    },
+    "day_off": {
+      "text": "Հանգստյան օր",
+      "roman": "Hangstyan or",
+      "note": "Also: ազատ օր (azat or), a free day."
+    },
+    "colleague": {
+      "text": "Գործընկեր",
+      "roman": "Gortsynker",
+      "note": "Used for women too, or գործընկերուհի (gortsynkeruhi). Casual: կոլեգա (kolega)."
+    },
+    "lets_start": {
+      "text": "Եկեք սկսենք",
+      "roman": "Yekek sksenk",
+      "note": "Casual: Դե, սկսենք (de, sksenk)."
+    },
+    "good_job": {
+      "text": "Ապրե՛ք",
+      "roman": "Aprek!",
+      "note": "Literally 'may you live'. To a friend or a child: Ապրե՛ս (apres!)."
+    },
+    "table_for_two": {
+      "text": "Սեղան երկու հոգու համար, խնդրում եմ",
+      "roman": "Seghan yerku hogu hamar, khndrum em",
+      "note": "Also: Երկու հոգու համար սեղան կլինի՞ (yerku hogu hamar seghan klini?)."
+    },
+    "what_recommend": {
+      "text": "Ի՞նչ կառաջարկեք",
+      "roman": "Inch karajarkek?"
+    },
+    "not_spicy": {
+      "text": "Կծու չլինի, խնդրում եմ",
+      "roman": "Ktsu chlini, khndrum em"
+    },
+    "vegetarian_food": {
+      "text": "Բուսակերական ուտելիք",
+      "roman": "Busakerakan utelik",
+      "note": "Lenten dishes, պասուց (pasuts), have no meat or dairy: handy for vegetarians."
+    },
+    "more_water": {
+      "text": "Էլի ջուր բերեք, խնդրում եմ",
+      "roman": "Eli jur berek, khndrum em",
+      "note": "Also: Մի քիչ էլ ջուր (mi kich el jur), a little more water."
+    },
+    "no_sugar": {
+      "text": "Առանց շաքարի, խնդրում եմ",
+      "roman": "Arants shakari, khndrum em"
+    },
+    "im_full": {
+      "text": "Կուշտ եմ",
+      "roman": "Kusht em",
+      "note": "Also very common: Կշտացա (kshtatsa), I've had enough."
+    },
+    "takeaway": {
+      "text": "Տանելու, խնդրում եմ",
+      "roman": "Tanelu, khndrum em",
+      "note": "Also: Հետս կտանեմ (hets ktanem), I'll take it with me."
+    },
+    "it_was_delicious": {
+      "text": "Շատ համեղ էր",
+      "roman": "Shat hamegh er",
+      "note": "Everyday: Շատ համով էր (shat hamov er)."
+    },
+    "keep_change": {
+      "text": "Մանրը պետք չէ",
+      "roman": "Manry petk che",
+      "note": "In speech often Մանրը պետք չի (manry petk chi). Also: Մանրը թողեք ձեզ (manry toghek dzez)."
+    },
+    "head": {
+      "text": "Գլուխ",
+      "roman": "Glukh"
+    },
+    "stomach": {
+      "text": "Ստամոքս",
+      "roman": "Stamoks",
+      "note": "For a tummy ache people say փոր (por), belly: Փորս ցավում է (pors tsavum e)."
+    },
+    "head_hurts": {
+      "text": "Գլուխս ցավում է",
+      "roman": "Glukhs tsavum e",
+      "note": "Same pattern for other aches: Ատամս ցավում է (atams tsavum e), my tooth hurts."
+    },
+    "have_fever": {
+      "text": "Ջերմություն ունեմ",
+      "roman": "Jermutyun unem",
+      "note": "Everyday: Ջերմ ունեմ (jerm unem)."
+    },
+    "medicine": {
+      "text": "Դեղ",
+      "roman": "Degh",
+      "note": "Plural: դեղեր (degher). Pills: հաբեր (haber)."
+    },
+    "call_ambulance": {
+      "text": "Շտապ օգնություն կանչե՛ք",
+      "roman": "Shtap ognutyun kanchek!"
+    },
+    "dentist": {
+      "text": "Ատամնաբույժ",
+      "roman": "Atamnabuyzh",
+      "note": "In everyday speech: ատամի բժիշկ (atami bzhishk)."
+    },
+    "need_rest": {
+      "text": "Ես պետք է հանգստանամ",
+      "roman": "Yes petk e hangstanam",
+      "note": "Also: Ինձ հանգիստ է պետք (indz hangist e petk)."
+    },
+    "feel_better": {
+      "text": "Ինձ ավելի լավ եմ զգում",
+      "roman": "Indz aveli lav em zgum",
+      "note": "Everyday: Ավելի լավ եմ (aveli lav em). Fully recovered: Լավացել եմ (lavatsel em)."
+    },
+    "get_well": {
+      "text": "Շուտ առողջացե՛ք",
+      "roman": "Shut aroghjatsek!",
+      "note": "To a friend: Շուտ լավացի՛ր (shut lavatsir!)."
+    },
+    "lets_meet": {
+      "text": "Եկեք հանդիպենք",
+      "roman": "Yekek handipenk",
+      "note": "To a friend: Արի հանդիպենք (ari handipenk)."
+    },
+    "are_you_free": {
+      "text": "Վաղն ազա՞տ եք",
+      "roman": "Vaghn azat ek?",
+      "note": "To a friend: Վաղն ազա՞տ ես (vaghn azat es?)."
+    },
+    "call_me": {
+      "text": "Զանգեք ինձ",
+      "roman": "Zangek indz",
+      "note": "To a friend: Զանգիր ինձ (zangir indz). More formal: Զանգահարեք ինձ (zangaharek indz)."
+    },
+    "your_number": {
+      "text": "Ձեր հեռախոսահամարն ի՞նչ է",
+      "roman": "Dzer herakhosahamarn inch e?",
+      "note": "Also: Ձեր համարը կտա՞ք (dzer hamary ktak?), can I have your number?"
+    },
+    "see_you_soon": {
+      "text": "Շուտով կտեսնվենք",
+      "roman": "Shutov ktesnvenk"
+    },
+    "have_nice_day": {
+      "text": "Լավ օր անցկացրե՛ք",
+      "roman": "Lav or antskatsrek!",
+      "note": "Also: Հաճելի օր եմ մաղթում (hacheli or em maghtum), I wish you a pleasant day."
+    },
+    "good_luck": {
+      "text": "Հաջողությո՜ւն",
+      "roman": "Hajoghutyun!",
+      "note": "Also common in the plural: Հաջողություննե՜ր (hajoghutyunner!)."
+    },
+    "happy_birthday": {
+      "text": "Ծնունդդ շնորհավո՜ր",
+      "roman": "Tsnundd shnorhavor!",
+      "note": "Formally: Շնորհավորում եմ ձեր ծննդյան օրը (shnorhavorum em dzer tsnndyan ory)."
+    },
+    "thanks_a_lot": {
+      "text": "Շատ շնորհակալ եմ",
+      "roman": "Shat shnorhakal em",
+      "note": "Also: Մեծ շնորհակալություն (mets shnorhakalutyun). Casual: Շատ մերսի (shat mersi)."
+    },
+    "miss_you": {
+      "text": "Կարոտել եմ քեզ",
+      "roman": "Karotel em kez",
+      "note": "Also: Քեզ շատ եմ կարոտել (kez shat em karotel), I've really missed you."
     }
   }
 }

@@ -377,6 +377,388 @@
     "congratulations": {
       "text": "¡Felicidades!",
       "note": "Spain also: ¡Enhorabuena! Latin America also: ¡Felicitaciones!"
+    },
+    "my_family": {
+      "text": "Mi familia"
+    },
+    "mother": {
+      "text": "Madre",
+      "note": "Everyday word: mamá, with the stress on the last syllable."
+    },
+    "father": {
+      "text": "Padre",
+      "note": "Everyday word: papá. Both parents together: los padres."
+    },
+    "brother": {
+      "text": "Hermano",
+      "note": "Brothers and sisters together: hermanos."
+    },
+    "sister": {
+      "text": "Hermana"
+    },
+    "child": {
+      "text": "Hijo",
+      "note": "Daughter: hija. Children (sons and daughters together): hijos."
+    },
+    "friend": {
+      "text": "Amigo",
+      "note": "Female: amiga."
+    },
+    "this_is_my_friend": {
+      "text": "Este es mi amigo",
+      "note": "For a female friend: Esta es mi amiga."
+    },
+    "are_you_married": {
+      "text": "¿Está usted casado?",
+      "note": "To a woman: ¿Está usted casada? In Latin America ser is also common: ¿Es usted casado?"
+    },
+    "have_children": {
+      "text": "¿Tiene usted hijos?",
+      "note": "Hijos covers sons and daughters. To a friend: ¿Tienes hijos?"
+    },
+    "monday": {
+      "text": "lunes",
+      "note": "Days are not capitalised in Spanish. On Monday: el lunes."
+    },
+    "tuesday": {
+      "text": "martes",
+      "note": "Same form in the plural: los martes means 'on Tuesdays'."
+    },
+    "wednesday": {
+      "text": "miércoles",
+      "note": "Keep the accent: MIÉR-co-les."
+    },
+    "thursday": {
+      "text": "jueves"
+    },
+    "friday": {
+      "text": "viernes"
+    },
+    "saturday": {
+      "text": "sábado",
+      "note": "On Saturdays: los sábados."
+    },
+    "sunday": {
+      "text": "domingo"
+    },
+    "weekend": {
+      "text": "Fin de semana",
+      "note": "Have a good weekend: ¡Buen fin de semana! Casual in Spain: el finde."
+    },
+    "what_day": {
+      "text": "¿Qué día es hoy?",
+      "note": "Answer: Hoy es martes."
+    },
+    "next_week": {
+      "text": "La semana que viene",
+      "note": "Also: la próxima semana."
+    },
+    "eleven": {
+      "text": "Once",
+      "note": "Nothing to do with English 'once': say 'ON-seh' ('ON-theh' in most of Spain)."
+    },
+    "twelve": {
+      "text": "Doce"
+    },
+    "fifteen": {
+      "text": "Quince",
+      "note": "A quarter past the hour: y cuarto (in Latin America also y quince)."
+    },
+    "twenty": {
+      "text": "Veinte",
+      "note": "21 to 29 are one word: veintiuno, veintidós, veintitrés…"
+    },
+    "thirty": {
+      "text": "Treinta",
+      "note": "Only tens and units are joined with y: treinta y uno, treinta y dos… but ciento uno, mil dos."
+    },
+    "fifty": {
+      "text": "Cincuenta"
+    },
+    "hundred": {
+      "text": "Cien",
+      "note": "Ciento in 101–199: ciento uno, ciento veinte. But cien mil (100,000)."
+    },
+    "thousand": {
+      "text": "Mil",
+      "note": "No uno in front: mil, dos mil, tres mil."
+    },
+    "how_old": {
+      "text": "¿Cuántos años tiene usted?",
+      "note": "To a friend or child: ¿Cuántos años tienes?"
+    },
+    "years_old": {
+      "text": "Tengo … años",
+      "note": "Uses tener ('to have'), not ser."
+    },
+    "red": {
+      "text": "Rojo",
+      "note": "Feminine: roja (una casa roja)."
+    },
+    "blue": {
+      "text": "Azul",
+      "note": "Same form for masculine and feminine. Plural: azules."
+    },
+    "green": {
+      "text": "Verde",
+      "note": "Same form for masculine and feminine."
+    },
+    "yellow": {
+      "text": "Amarillo",
+      "note": "Feminine: amarilla."
+    },
+    "black": {
+      "text": "Negro",
+      "note": "Feminine: negra."
+    },
+    "white": {
+      "text": "Blanco",
+      "note": "Feminine: blanca."
+    },
+    "what_colour": {
+      "text": "¿De qué color es?"
+    },
+    "this_one": {
+      "text": "Este",
+      "note": "For a feminine noun: esta. To be extra clear: este de aquí."
+    },
+    "that_one": {
+      "text": "Ese",
+      "note": "For a feminine noun: esa. For something far off: aquel / aquella."
+    },
+    "another_one": {
+      "text": "Otro, por favor",
+      "note": "For a feminine noun (otra cerveza): Otra, por favor."
+    },
+    "its_hot": {
+      "text": "Hace calor",
+      "note": "Weather uses hacer. If you feel hot yourself: Tengo calor."
+    },
+    "its_cold": {
+      "text": "Hace frío",
+      "note": "If you feel cold yourself: Tengo frío."
+    },
+    "its_raining": {
+      "text": "Está lloviendo",
+      "note": "Also: Llueve."
+    },
+    "its_sunny": {
+      "text": "Hace sol",
+      "note": "Also: Está soleado."
+    },
+    "its_windy": {
+      "text": "Hace viento",
+      "note": "Also: Hay viento."
+    },
+    "weather_today": {
+      "text": "¿Qué tiempo hace hoy?",
+      "note": "In Latin America also: ¿Cómo está el clima hoy?"
+    },
+    "beautiful_day": {
+      "text": "¡Qué día tan bonito!",
+      "note": "Also: Hace un día precioso."
+    },
+    "umbrella": {
+      "text": "Paraguas",
+      "note": "Same form in singular and plural: el paraguas, los paraguas."
+    },
+    "summer": {
+      "text": "Verano",
+      "note": "In summer: en verano. Seasons are not capitalised in a sentence."
+    },
+    "winter": {
+      "text": "Invierno",
+      "note": "In winter: en invierno."
+    },
+    "have_reservation": {
+      "text": "Tengo una reserva",
+      "note": "In Latin America also: Tengo una reservación."
+    },
+    "room": {
+      "text": "Habitación",
+      "note": "In Latin America also: cuarto. Double room: habitación doble."
+    },
+    "passport": {
+      "text": "Pasaporte"
+    },
+    "luggage": {
+      "text": "Equipaje",
+      "note": "A suitcase: una maleta (in Argentina and Uruguay, una valija)."
+    },
+    "wifi_password": {
+      "text": "¿Cuál es la contraseña del wifi?",
+      "note": "Also: la clave del wifi. Said 'WEE-fee' in Spain, often 'WHY-fy' in Latin America."
+    },
+    "check_out_time": {
+      "text": "¿A qué hora hay que dejar la habitación?",
+      "note": "Shorter: ¿A qué hora es la salida? Many hotels also use check-out: ¿A qué hora es el check-out?"
+    },
+    "map": {
+      "text": "Mapa",
+      "note": "Masculine despite the -a: el mapa."
+    },
+    "bus": {
+      "text": "Autobús",
+      "note": "Varies in Latin America: bus, camión (Mexico), colectivo (Argentina), guagua (Caribbean)."
+    },
+    "next_train": {
+      "text": "¿Cuándo sale el próximo tren?",
+      "note": "Also: ¿A qué hora sale el próximo tren?"
+    },
+    "is_this_seat_free": {
+      "text": "¿Está libre este asiento?",
+      "note": "Also: ¿Está ocupado? (is it taken?). Pointing at a chair: ¿Está libre esta silla?"
+    },
+    "what_do_you_do": {
+      "text": "¿A qué se dedica usted?",
+      "note": "Also: ¿En qué trabaja usted? To a friend: ¿A qué te dedicas?"
+    },
+    "i_work_in": {
+      "text": "Trabajo en …",
+      "note": "E.g. Trabajo en ventas; Trabajo en un banco."
+    },
+    "im_student": {
+      "text": "Soy estudiante",
+      "note": "Same for men and women."
+    },
+    "office": {
+      "text": "Oficina"
+    },
+    "meeting": {
+      "text": "Reunión",
+      "note": "I have a meeting: Tengo una reunión."
+    },
+    "im_busy": {
+      "text": "Estoy ocupado",
+      "note": "A woman says: Estoy ocupada."
+    },
+    "day_off": {
+      "text": "Día libre",
+      "note": "A public holiday: un día festivo (in Latin America also un feriado)."
+    },
+    "colleague": {
+      "text": "Compañero de trabajo",
+      "note": "Female: compañera de trabajo. Also: colega (same for both)."
+    },
+    "lets_start": {
+      "text": "Empecemos",
+      "note": "Also very common: Vamos a empezar."
+    },
+    "good_job": {
+      "text": "¡Buen trabajo!",
+      "note": "Also: ¡Bien hecho!"
+    },
+    "table_for_two": {
+      "text": "Una mesa para dos, por favor"
+    },
+    "what_recommend": {
+      "text": "¿Qué me recomienda?",
+      "note": "To a friend: ¿Qué me recomiendas?"
+    },
+    "not_spicy": {
+      "text": "Sin picante, por favor",
+      "note": "To check first: ¿Pica? (is it spicy?)"
+    },
+    "vegetarian_food": {
+      "text": "Comida vegetariana",
+      "note": "To ask: ¿Tienen platos vegetarianos?"
+    },
+    "more_water": {
+      "text": "Más agua, por favor"
+    },
+    "no_sugar": {
+      "text": "Sin azúcar, por favor"
+    },
+    "im_full": {
+      "text": "Estoy lleno",
+      "note": "A woman says: Estoy llena. Also: No puedo más."
+    },
+    "takeaway": {
+      "text": "Para llevar, por favor"
+    },
+    "it_was_delicious": {
+      "text": "Estaba delicioso",
+      "note": "Also very common: Estaba muy rico. About the whole meal: Estaba todo delicioso."
+    },
+    "keep_change": {
+      "text": "Quédese con el cambio",
+      "note": "In Spain also: Quédese con la vuelta. To a friend: Quédate con el cambio."
+    },
+    "head": {
+      "text": "Cabeza"
+    },
+    "stomach": {
+      "text": "Estómago",
+      "note": "Informal 'tummy': la barriga (in Latin America also la panza). My stomach hurts: Me duele el estómago."
+    },
+    "head_hurts": {
+      "text": "Me duele la cabeza",
+      "note": "Spanish says la cabeza, not mi cabeza. Also: Tengo dolor de cabeza."
+    },
+    "have_fever": {
+      "text": "Tengo fiebre"
+    },
+    "medicine": {
+      "text": "Medicamento",
+      "note": "Also: medicina. In parts of Latin America: remedio."
+    },
+    "call_ambulance": {
+      "text": "¡Llame a una ambulancia!",
+      "note": "To a friend (tú): ¡Llama a una ambulancia!"
+    },
+    "dentist": {
+      "text": "Dentista",
+      "note": "Same for men and women: el dentista, la dentista."
+    },
+    "need_rest": {
+      "text": "Necesito descansar"
+    },
+    "feel_better": {
+      "text": "Me siento mejor",
+      "note": "In Spain also: Me encuentro mejor."
+    },
+    "get_well": {
+      "text": "¡Que se mejore pronto!",
+      "note": "To a friend: ¡Que te mejores pronto!"
+    },
+    "lets_meet": {
+      "text": "¿Nos vemos?",
+      "note": "Ask it with a rising tone; flat Nos vemos means 'see you'. Spain also: ¿Quedamos? With a day: ¿Nos vemos el sábado?"
+    },
+    "are_you_free": {
+      "text": "¿Está usted libre mañana?",
+      "note": "To a friend: ¿Estás libre mañana? Also: ¿Tiene tiempo mañana?"
+    },
+    "call_me": {
+      "text": "Llámeme",
+      "note": "To a friend: Llámame."
+    },
+    "your_number": {
+      "text": "¿Cuál es su número de teléfono?",
+      "note": "Also: ¿Me da su número? To a friend: ¿Cuál es tu número?"
+    },
+    "see_you_soon": {
+      "text": "Hasta pronto",
+      "note": "Casual: Nos vemos pronto."
+    },
+    "have_nice_day": {
+      "text": "¡Que tenga un buen día!",
+      "note": "To a friend: ¡Que tengas un buen día!"
+    },
+    "good_luck": {
+      "text": "¡Buena suerte!",
+      "note": "Often just: ¡Suerte!"
+    },
+    "happy_birthday": {
+      "text": "¡Feliz cumpleaños!"
+    },
+    "thanks_a_lot": {
+      "text": "Muchas gracias",
+      "note": "Even warmer: Muchísimas gracias."
+    },
+    "miss_you": {
+      "text": "Te extraño",
+      "note": "In Spain: Te echo de menos."
     }
   }
 }

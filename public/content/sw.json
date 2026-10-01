@@ -386,6 +386,404 @@
     "congratulations": {
       "text": "Hongera!",
       "note": "To several people: hongereni!"
+    },
+    "my_family": {
+      "text": "Familia yangu",
+      "note": "Possessives follow the noun: mama yangu (my mother), rafiki yangu (my friend)."
+    },
+    "mother": {
+      "text": "Mama",
+      "note": "Also a respectful way to address any older woman. Parents: wazazi."
+    },
+    "father": {
+      "text": "Baba",
+      "note": "Also a respectful way to address an older man."
+    },
+    "brother": {
+      "text": "Kaka",
+      "note": "Usually an older brother; a younger sibling is mdogo wangu. Ndugu covers any sibling or relative."
+    },
+    "sister": {
+      "text": "Dada",
+      "note": "Usually an older sister; a younger sibling is mdogo wangu. Also a friendly way to address a young woman."
+    },
+    "child": {
+      "text": "Mtoto",
+      "note": "Plural: watoto. My child: mwanangu. Son: mtoto wa kiume; daughter: mtoto wa kike."
+    },
+    "friend": {
+      "text": "Rafiki",
+      "note": "Same word for a man or a woman. Plural: marafiki."
+    },
+    "this_is_my_friend": {
+      "text": "Huyu ni rafiki yangu",
+      "note": "Same for a male or female friend. Huyu means 'this person'."
+    },
+    "are_you_married": {
+      "text": "Umeoa?",
+      "note": "Asking a woman: umeolewa? Kuoa is what a man does, kuolewa what a woman does."
+    },
+    "have_children": {
+      "text": "Una watoto?",
+      "note": "Answers: nina watoto wawili (I have two children), sina watoto (I have none)."
+    },
+    "monday": {
+      "text": "Jumatatu",
+      "note": "Literally 'day three': the Swahili week counts from Saturday."
+    },
+    "tuesday": {
+      "text": "Jumanne",
+      "note": "Literally 'day four'. Say both n's: Juma-n-ne."
+    },
+    "wednesday": {
+      "text": "Jumatano",
+      "note": "Literally 'day five'."
+    },
+    "thursday": {
+      "text": "Alhamisi",
+      "note": "From Arabic, like Ijumaa, so it breaks the Juma- pattern."
+    },
+    "friday": {
+      "text": "Ijumaa",
+      "note": "The Muslim day of prayer. Say every vowel: I-ju-ma-a."
+    },
+    "saturday": {
+      "text": "Jumamosi",
+      "note": "Literally 'day one': the count of the week starts here."
+    },
+    "sunday": {
+      "text": "Jumapili",
+      "note": "Literally 'day two'."
+    },
+    "weekend": {
+      "text": "Mwisho wa wiki",
+      "note": "In everyday speech, especially in Kenya, wikendi is very common."
+    },
+    "what_day": {
+      "text": "Leo ni siku gani?",
+      "note": "Answer: leo ni Ijumaa. For the date: leo ni tarehe ngapi?"
+    },
+    "next_week": {
+      "text": "Wiki ijayo",
+      "note": "Last week: wiki iliyopita."
+    },
+    "eleven": {
+      "text": "Kumi na moja",
+      "note": "Literally 'ten and one'; up to 19 the pattern is the same: kumi na tisa."
+    },
+    "twelve": {
+      "text": "Kumi na mbili",
+      "note": "With people: watu kumi na wawili."
+    },
+    "fifteen": {
+      "text": "Kumi na tano"
+    },
+    "twenty": {
+      "text": "Ishirini",
+      "note": "From Arabic, like all the tens up to ninety. 21 is ishirini na moja."
+    },
+    "thirty": {
+      "text": "Thelathini",
+      "note": "The th is said as in English 'think'."
+    },
+    "fifty": {
+      "text": "Hamsini",
+      "note": "The noun comes first: shilingi hamsini (fifty shillings)."
+    },
+    "hundred": {
+      "text": "Mia moja",
+      "note": "Often just mia. Mia mbili is 200, mia tano is 500."
+    },
+    "thousand": {
+      "text": "Elfu moja",
+      "note": "Often just elfu. Prices are often in thousands: elfu kumi (10,000)."
+    },
+    "how_old": {
+      "text": "Una miaka mingapi?",
+      "note": "Also: una umri gani? (what is your age?)"
+    },
+    "years_old": {
+      "text": "Nina miaka …",
+      "note": "Literally 'I have … years': nina miaka thelathini (I'm 30)."
+    },
+    "red": {
+      "text": "Nyekundu",
+      "note": "Agrees with the noun: shati jekundu (shirt), kitabu chekundu (book)."
+    },
+    "blue": {
+      "text": "Bluu",
+      "note": "Also spelled buluu. It never changes: shati la bluu. Sky blue: samawati."
+    },
+    "green": {
+      "text": "Kijani",
+      "note": "From jani (leaf). It never changes: shati la kijani."
+    },
+    "yellow": {
+      "text": "Njano",
+      "note": "Also manjano (originally 'turmeric'). It never changes: shati la njano."
+    },
+    "black": {
+      "text": "Nyeusi",
+      "note": "Agrees with the noun: shati jeusi (shirt), kitabu cheusi (book)."
+    },
+    "white": {
+      "text": "Nyeupe",
+      "note": "Agrees with the noun: shati jeupe (shirt), kitabu cheupe (book)."
+    },
+    "what_colour": {
+      "text": "Ni rangi gani?",
+      "note": "Pointing at something: hii ni rangi gani? (what colour is this?)"
+    },
+    "this_one": {
+      "text": "Hiki",
+      "note": "Agrees with the item: hiki for kitu (thing), hii for nguo or chupa. Hii is widely understood."
+    },
+    "that_one": {
+      "text": "Kile",
+      "note": "For nguo or chupa: ile. Near the listener rather than far away: hicho or hiyo."
+    },
+    "another_one": {
+      "text": "Naomba nyingine",
+      "note": "Nyingine fits soda, chai or a bottle; for kitu say kingine. Also: moja tena (one more)."
+    },
+    "its_hot": {
+      "text": "Kuna joto",
+      "note": "Joto is the heat of the weather; hot water is maji ya moto."
+    },
+    "its_cold": {
+      "text": "Kuna baridi",
+      "note": "I'm cold: nina baridi or nasikia baridi."
+    },
+    "its_raining": {
+      "text": "Mvua inanyesha",
+      "note": "Literally 'rain is falling'. Also short: kunanyesha."
+    },
+    "its_sunny": {
+      "text": "Kuna jua",
+      "note": "Strong sun: kuna jua kali."
+    },
+    "its_windy": {
+      "text": "Kuna upepo",
+      "note": "Strong wind: upepo mkali."
+    },
+    "weather_today": {
+      "text": "Hali ya hewa ikoje leo?",
+      "note": "Hali ya hewa, literally 'state of the air', is the usual word for the weather."
+    },
+    "beautiful_day": {
+      "text": "Leo ni siku nzuri",
+      "note": "About the weather itself: hali ya hewa ni nzuri leo."
+    },
+    "umbrella": {
+      "text": "Mwavuli",
+      "note": "Plural: miavuli. Used against the sun as much as the rain."
+    },
+    "summer": {
+      "text": "Kiangazi",
+      "note": "East Africa has dry and rainy seasons; kiangazi is the hot dry one. Also: majira ya joto."
+    },
+    "winter": {
+      "text": "Majira ya baridi",
+      "note": "East Africa has no real winter; on the coast the cool June–August season is kipupwe."
+    },
+    "have_reservation": {
+      "text": "Nimehifadhi chumba",
+      "note": "Literally 'I have reserved a room'. In everyday speech many just say nina booking."
+    },
+    "room": {
+      "text": "Chumba",
+      "note": "Plural: vyumba. For one person: chumba cha mtu mmoja; for two: cha watu wawili."
+    },
+    "passport": {
+      "text": "Pasipoti",
+      "note": "On official forms: hati ya kusafiria."
+    },
+    "luggage": {
+      "text": "Mizigo",
+      "note": "Singular: mzigo (one bag or load). A suitcase: sanduku."
+    },
+    "wifi_password": {
+      "text": "Nenosiri la Wi-Fi ni lipi?",
+      "note": "In speech most people use the English word: password ya Wi-Fi ni ipi?"
+    },
+    "check_out_time": {
+      "text": "Muda wa kuondoka ni saa ngapi?",
+      "note": "Mind Swahili time: saa tano asubuhi is 11 am. Hotels also just say check-out."
+    },
+    "map": {
+      "text": "Ramani"
+    },
+    "bus": {
+      "text": "Basi",
+      "note": "Plural: mabasi. A minibus is a matatu (Kenya) or daladala (Tanzania)."
+    },
+    "next_train": {
+      "text": "Treni inayofuata ni saa ngapi?",
+      "note": "Inayofuata: 'the one that follows'. For a bus: basi linalofuata ni saa ngapi?"
+    },
+    "is_this_seat_free": {
+      "text": "Kiti hiki kina mtu?",
+      "note": "Literally 'does this seat have someone?'; hakina mtu means it's free. Also: kuna mtu hapa?"
+    },
+    "what_do_you_do": {
+      "text": "Unafanya kazi gani?",
+      "note": "Also: kazi yako ni nini? (what is your job?)"
+    },
+    "i_work_in": {
+      "text": "Ninafanya kazi katika …",
+      "note": "Speech often uses kwenye: ninafanya kazi kwenye benki. A type of work: kazi ya mauzo (sales)."
+    },
+    "im_student": {
+      "text": "Mimi ni mwanafunzi",
+      "note": "Same for men and women. A university student is also called mwanachuo."
+    },
+    "office": {
+      "text": "Ofisi",
+      "note": "At the office: ofisini, as in niko ofisini (I'm at the office)."
+    },
+    "meeting": {
+      "text": "Mkutano",
+      "note": "A work meeting is often kikao: niko kikaoni (I'm in a meeting)."
+    },
+    "im_busy": {
+      "text": "Nina shughuli nyingi",
+      "note": "Casual: niko bize. Also: nimebanwa (I'm tied up)."
+    },
+    "day_off": {
+      "text": "Siku ya mapumziko",
+      "note": "Longer leave or holiday: likizo. Casually: leo niko off (I'm off today)."
+    },
+    "colleague": {
+      "text": "Mfanyakazi mwenzangu",
+      "note": "Literally 'my fellow worker'; same for men and women. Often just mwenzangu."
+    },
+    "lets_start": {
+      "text": "Tuanze",
+      "note": "Also: haya, tuanze! (right, let's start!)"
+    },
+    "good_job": {
+      "text": "Kazi nzuri!",
+      "note": "Also very common: umefanya vizuri! (you did well). Casual: safi sana!"
+    },
+    "table_for_two": {
+      "text": "Meza ya watu wawili, tafadhali",
+      "note": "Also: tunaomba meza ya watu wawili (we'd like a table for two)."
+    },
+    "what_recommend": {
+      "text": "Unapendekeza nini?",
+      "note": "Also natural: chakula gani kizuri hapa? (which food is good here?)"
+    },
+    "not_spicy": {
+      "text": "Bila pilipili, tafadhali",
+      "note": "Pilipili is chilli. Just a little: pilipili kidogo."
+    },
+    "vegetarian_food": {
+      "text": "Chakula kisicho na nyama",
+      "note": "A vegetarian: mlaji mboga. Careful: mboga can mean any side dish, even a meat stew."
+    },
+    "more_water": {
+      "text": "Naomba maji zaidi",
+      "note": "Or: niongezee maji (top up my water)."
+    },
+    "no_sugar": {
+      "text": "Bila sukari, tafadhali",
+      "note": "Tea often comes already sweetened, so ask early. A little sugar: sukari kidogo."
+    },
+    "im_full": {
+      "text": "Nimeshiba",
+      "note": "Add asante to be polite. Hosts may insist: ongeza! (have more!)"
+    },
+    "takeaway": {
+      "text": "Nifungie, tafadhali",
+      "note": "Literally 'wrap it for me'. In Kenya also: nipakie, or ni ya kubeba (it's to carry)."
+    },
+    "it_was_delicious": {
+      "text": "Chakula kilikuwa kitamu",
+      "note": "Agrees with the noun: for tea, chai ilikuwa tamu. Add sana for 'very'."
+    },
+    "keep_change": {
+      "text": "Baki na chenji",
+      "note": "Chenji (from English) is the everyday word. Also: usinirudishie chenji (don't give me change)."
+    },
+    "head": {
+      "text": "Kichwa",
+      "note": "A headache: maumivu ya kichwa."
+    },
+    "stomach": {
+      "text": "Tumbo",
+      "note": "My stomach hurts: tumbo linaniuma."
+    },
+    "head_hurts": {
+      "text": "Kichwa kinaniuma",
+      "note": "Also common: kichwa kinauma, or naumwa kichwa."
+    },
+    "have_fever": {
+      "text": "Nina homa",
+      "note": "Homa can also mean a flu-like illness; homa ya malaria is malaria."
+    },
+    "medicine": {
+      "text": "Dawa",
+      "note": "Same word for one or many. To take medicine: kunywa dawa or kumeza dawa (swallow)."
+    },
+    "call_ambulance": {
+      "text": "Ita ambulensi!",
+      "note": "Formal word: gari la wagonjwa. Shouting to a crowd: iteni ambulensi!"
+    },
+    "dentist": {
+      "text": "Daktari wa meno",
+      "note": "Meno means teeth; one tooth is jino. Toothache: jino linauma."
+    },
+    "need_rest": {
+      "text": "Ninahitaji kupumzika",
+      "note": "Also: nataka kupumzika kidogo (I want to rest a bit)."
+    },
+    "feel_better": {
+      "text": "Ninajisikia nafuu",
+      "note": "Also very common: nimepata nafuu (I've got better). Nafuu also means 'cheap'."
+    },
+    "get_well": {
+      "text": "Ugua pole!",
+      "note": "The usual wish to a sick person, literally 'be ill gently'. Also: upone haraka!"
+    },
+    "lets_meet": {
+      "text": "Tukutane",
+      "note": "Add a time or place: tukutane kesho (let's meet tomorrow)."
+    },
+    "are_you_free": {
+      "text": "Una nafasi kesho?",
+      "note": "Nafasi means room or time. Answers: nina nafasi (I'm free), sina nafasi (I'm not)."
+    },
+    "call_me": {
+      "text": "Nipigie simu, tafadhali",
+      "note": "Casual: nipigie. Text me: nitumie ujumbe."
+    },
+    "your_number": {
+      "text": "Namba yako ya simu ni ipi?",
+      "note": "In Kenya also nambari. Very common: naomba namba yako (may I have your number?)"
+    },
+    "see_you_soon": {
+      "text": "Tutaonana hivi karibuni",
+      "note": "Casual among friends: tuonane! or baadaye!"
+    },
+    "have_nice_day": {
+      "text": "Uwe na siku njema!",
+      "note": "Often just siku njema! To several people: muwe na siku njema!"
+    },
+    "good_luck": {
+      "text": "Kila la heri!",
+      "note": "Also: bahati njema! (good fortune)."
+    },
+    "happy_birthday": {
+      "text": "Heri ya siku ya kuzaliwa!",
+      "note": "Also heard: siku njema ya kuzaliwa!"
+    },
+    "thanks_a_lot": {
+      "text": "Asante sana",
+      "note": "To several people: asanteni sana. Warmer still: nashukuru sana (I'm very grateful)."
+    },
+    "miss_you": {
+      "text": "Nimekukumbuka",
+      "note": "Literally 'I have remembered you'. Add sana for 'so much'. Casual: nimekumisi."
     }
   }
 }

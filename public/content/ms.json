@@ -370,6 +370,390 @@
     },
     "congratulations": {
       "text": "Tahniah!"
+    },
+    "my_family": {
+      "text": "Keluarga saya",
+      "note": "Possessives follow the noun: ibu saya (my mother), kawan saya (my friend)."
+    },
+    "mother": {
+      "text": "Ibu",
+      "note": "Children usually say mak or emak. Parents: ibu bapa."
+    },
+    "father": {
+      "text": "Bapa",
+      "note": "Children usually say ayah or abah."
+    },
+    "brother": {
+      "text": "Abang",
+      "note": "An older brother; a younger one is adik lelaki. Abang is also a friendly way to address a man."
+    },
+    "sister": {
+      "text": "Kakak",
+      "note": "An older sister; a younger one is adik perempuan. Kak is also a friendly way to address a woman."
+    },
+    "child": {
+      "text": "Anak",
+      "note": "Son: anak lelaki; daughter: anak perempuan. Children in general: kanak-kanak."
+    },
+    "friend": {
+      "text": "Kawan",
+      "note": "Same for a man or a woman. Also rakan (more formal) or sahabat (a close friend)."
+    },
+    "this_is_my_friend": {
+      "text": "Ini kawan saya",
+      "note": "Same for a male or female friend."
+    },
+    "are_you_married": {
+      "text": "Encik sudah berkahwin?",
+      "note": "To a woman: cik sudah berkahwin? Casual: dah kahwin?"
+    },
+    "have_children": {
+      "text": "Encik ada anak?",
+      "note": "To a woman: puan ada anak? A polite 'no' is belum lagi (not yet)."
+    },
+    "monday": {
+      "text": "Isnin",
+      "note": "Day names usually follow hari: hari Isnin. On Monday: pada hari Isnin."
+    },
+    "tuesday": {
+      "text": "Selasa"
+    },
+    "wednesday": {
+      "text": "Rabu"
+    },
+    "thursday": {
+      "text": "Khamis"
+    },
+    "friday": {
+      "text": "Jumaat",
+      "note": "Many offices take a long lunch break on Friday for midday prayers."
+    },
+    "saturday": {
+      "text": "Sabtu"
+    },
+    "sunday": {
+      "text": "Ahad",
+      "note": "Also hari Minggu, the usual word in Indonesia."
+    },
+    "weekend": {
+      "text": "Hujung minggu",
+      "note": "In a few states, such as Kelantan, the weekend is Friday and Saturday."
+    },
+    "what_day": {
+      "text": "Hari ini hari apa?",
+      "note": "Casual: hari ni hari apa?"
+    },
+    "next_week": {
+      "text": "Minggu depan",
+      "note": "More formal: minggu hadapan."
+    },
+    "eleven": {
+      "text": "Sebelas",
+      "note": "The teens use belas: dua belas (12), tiga belas (13) and so on."
+    },
+    "twelve": {
+      "text": "Dua belas"
+    },
+    "fifteen": {
+      "text": "Lima belas"
+    },
+    "twenty": {
+      "text": "Dua puluh",
+      "note": "Tens use puluh. Twenty-one: dua puluh satu."
+    },
+    "thirty": {
+      "text": "Tiga puluh"
+    },
+    "fifty": {
+      "text": "Lima puluh",
+      "note": "With prices: lima puluh ringgit (RM50)."
+    },
+    "hundred": {
+      "text": "Seratus",
+      "note": "Se- means one: seratus (100), but dua ratus (200)."
+    },
+    "thousand": {
+      "text": "Seribu",
+      "note": "Two thousand: dua ribu. A million: sejuta."
+    },
+    "how_old": {
+      "text": "Berapa umur encik?",
+      "note": "To a woman: berapa umur cik? (puan if she is older or married)."
+    },
+    "years_old": {
+      "text": "Umur saya … tahun",
+      "note": "Also saya berumur … tahun."
+    },
+    "red": {
+      "text": "Merah",
+      "note": "Colours follow the noun: baju merah (a red shirt)."
+    },
+    "blue": {
+      "text": "Biru",
+      "note": "Dark blue: biru tua; light blue: biru muda."
+    },
+    "green": {
+      "text": "Hijau"
+    },
+    "yellow": {
+      "text": "Kuning"
+    },
+    "black": {
+      "text": "Hitam"
+    },
+    "white": {
+      "text": "Putih"
+    },
+    "what_colour": {
+      "text": "Apa warnanya?",
+      "note": "Casual: warna apa ni? (what colour is this?)"
+    },
+    "this_one": {
+      "text": "Yang ini",
+      "note": "Casual: yang ni."
+    },
+    "that_one": {
+      "text": "Yang itu",
+      "note": "Casual: yang tu."
+    },
+    "another_one": {
+      "text": "Minta satu lagi",
+      "note": "With an item: teh tarik satu lagi (another teh tarik)."
+    },
+    "its_hot": {
+      "text": "Panasnya!",
+      "note": "The -nya makes it an exclamation, like 'so hot!'. Plainly: cuaca panas."
+    },
+    "its_cold": {
+      "text": "Sejuknya!",
+      "note": "Plainly: cuaca sejuk."
+    },
+    "its_raining": {
+      "text": "Sedang hujan",
+      "note": "Casual: tengah hujan. Heavy rain: hujan lebat."
+    },
+    "its_sunny": {
+      "text": "Cuaca cerah",
+      "note": "Cerah means clear and bright. Blazing sun: panas terik."
+    },
+    "its_windy": {
+      "text": "Anginnya kuat",
+      "note": "Also berangin (windy): hari ini berangin."
+    },
+    "weather_today": {
+      "text": "Bagaimana cuaca hari ini?",
+      "note": "Casual: cuaca hari ni macam mana?"
+    },
+    "beautiful_day": {
+      "text": "Cantiknya cuaca hari ini!",
+      "note": "Cantik (pretty) is often used for nice weather. Plainer: cuaca baik hari ini."
+    },
+    "umbrella": {
+      "text": "Payung"
+    },
+    "summer": {
+      "text": "Musim panas",
+      "note": "Malaysia is hot all year; its seasons are musim hujan (rainy) and musim kemarau (dry)."
+    },
+    "winter": {
+      "text": "Musim sejuk",
+      "note": "Literally 'cold season'. Indonesian says musim dingin."
+    },
+    "have_reservation": {
+      "text": "Saya ada tempahan",
+      "note": "Many people simply say booking: saya ada booking."
+    },
+    "room": {
+      "text": "Bilik",
+      "note": "Bilik air is a bathroom, bilik tidur a bedroom."
+    },
+    "passport": {
+      "text": "Pasport"
+    },
+    "luggage": {
+      "text": "Bagasi",
+      "note": "Everyday: beg (bags), as in beg saya (my bags)."
+    },
+    "wifi_password": {
+      "text": "Apa kata laluan Wi-Fi?",
+      "note": "Most people just say password: password Wi-Fi apa?"
+    },
+    "check_out_time": {
+      "text": "Pukul berapa daftar keluar?",
+      "note": "Most people just say check-out: check-out pukul berapa?"
+    },
+    "map": {
+      "text": "Peta"
+    },
+    "bus": {
+      "text": "Bas",
+      "note": "Bus stop: perhentian bas. Bus station: stesen bas."
+    },
+    "next_train": {
+      "text": "Pukul berapa kereta api seterusnya?",
+      "note": "For LRT or MRT people say tren: tren seterusnya pukul berapa?"
+    },
+    "is_this_seat_free": {
+      "text": "Tempat duduk ini kosong?",
+      "note": "Also common: ada orang duduk sini? (is anyone sitting here?)"
+    },
+    "what_do_you_do": {
+      "text": "Encik bekerja sebagai apa?",
+      "note": "To a woman: cik (or puan) bekerja sebagai apa? Casual: kerja apa?"
+    },
+    "i_work_in": {
+      "text": "Saya bekerja di …",
+      "note": "Di is for a place: di bank. For a field: dalam bidang …, e.g. dalam bidang jualan (sales)."
+    },
+    "im_student": {
+      "text": "Saya pelajar",
+      "note": "Same for a man or a woman. At university: pelajar universiti."
+    },
+    "office": {
+      "text": "Pejabat",
+      "note": "Casual: ofis."
+    },
+    "meeting": {
+      "text": "Mesyuarat",
+      "note": "In everyday office talk many people say meeting."
+    },
+    "im_busy": {
+      "text": "Saya sibuk",
+      "note": "Busy right now: saya tengah sibuk."
+    },
+    "day_off": {
+      "text": "Hari cuti",
+      "note": "Cuti means leave or a holiday: saya cuti hari ini (I'm off today)."
+    },
+    "colleague": {
+      "text": "Rakan sekerja",
+      "note": "Same for a man or a woman. Casual: kawan sekerja or kawan ofis."
+    },
+    "lets_start": {
+      "text": "Mari kita mulakan",
+      "note": "Casual: jom mula!"
+    },
+    "good_job": {
+      "text": "Syabas!",
+      "note": "Everyday: bagus! Slang: terbaik!"
+    },
+    "table_for_two": {
+      "text": "Minta meja untuk dua orang",
+      "note": "Staff often ask berapa orang? (how many?): just answer dua orang."
+    },
+    "what_recommend": {
+      "text": "Apa yang sedap di sini?",
+      "note": "Literally 'what's tasty here?' More formal: apa yang encik cadangkan?"
+    },
+    "not_spicy": {
+      "text": "Jangan pedas, ya",
+      "note": "Just a little less spicy: kurang pedas."
+    },
+    "vegetarian_food": {
+      "text": "Makanan vegetarian",
+      "note": "I'm vegetarian: saya vegetarian, or saya makan sayur sahaja."
+    },
+    "more_water": {
+      "text": "Minta air lagi",
+      "note": "Also tambah air, ya (top up the water)."
+    },
+    "no_sugar": {
+      "text": "Jangan letak gula, ya",
+      "note": "Less sweet: kurang manis. Kosong after a drink means no sugar: teh O kosong."
+    },
+    "im_full": {
+      "text": "Saya sudah kenyang",
+      "note": "Casual: dah kenyang."
+    },
+    "takeaway": {
+      "text": "Bungkus, ya",
+      "note": "Very common slang: tapau. Eating in: makan sini."
+    },
+    "it_was_delicious": {
+      "text": "Makanannya sedap sangat",
+      "note": "Malay has no past tense, so this covers 'was'. Casual: sedap betul!"
+    },
+    "keep_change": {
+      "text": "Simpan saja bakinya",
+      "note": "Casual: tak payah baki. Tipping isn't expected in Malaysia."
+    },
+    "head": {
+      "text": "Kepala"
+    },
+    "stomach": {
+      "text": "Perut"
+    },
+    "head_hurts": {
+      "text": "Saya sakit kepala",
+      "note": "Same pattern: sakit perut (stomachache), sakit tekak (sore throat)."
+    },
+    "have_fever": {
+      "text": "Saya demam",
+      "note": "No verb needed: demam means having a fever. A cold is selsema."
+    },
+    "medicine": {
+      "text": "Ubat",
+      "note": "Taking medicine is makan ubat, literally 'eating' it."
+    },
+    "call_ambulance": {
+      "text": "Panggil ambulans!",
+      "note": "The emergency number is 999."
+    },
+    "dentist": {
+      "text": "Doktor gigi",
+      "note": "Gigi means teeth; a toothache is sakit gigi."
+    },
+    "need_rest": {
+      "text": "Saya perlu berehat",
+      "note": "Casual: saya kena rehat (I have to rest). Also common: nak rehat kejap (I want a short rest)."
+    },
+    "feel_better": {
+      "text": "Saya sudah rasa lebih baik",
+      "note": "Casual: dah okey sikit (a bit better now)."
+    },
+    "get_well": {
+      "text": "Semoga cepat sembuh!",
+      "note": "Also semoga lekas sembuh."
+    },
+    "lets_meet": {
+      "text": "Jom jumpa!",
+      "note": "More formal: mari kita berjumpa."
+    },
+    "are_you_free": {
+      "text": "Encik lapang esok?",
+      "note": "To a woman: cik lapang esok? Many people say free: esok free tak?"
+    },
+    "call_me": {
+      "text": "Telefon saya, ya",
+      "note": "Many people just say call: nanti call saya."
+    },
+    "your_number": {
+      "text": "Berapa nombor telefon encik?",
+      "note": "To a woman: berapa nombor telefon cik? Malay asks for numbers with berapa."
+    },
+    "see_you_soon": {
+      "text": "Nanti kita jumpa lagi",
+      "note": "Shorter: jumpa lagi. Sampai jumpa lagi is also heard, mostly on TV and radio."
+    },
+    "have_nice_day": {
+      "text": "Semoga hari anda ceria!",
+      "note": "Less set than in English. Shop staff more often say terima kasih, datang lagi! (come again)."
+    },
+    "good_luck": {
+      "text": "Semoga berjaya!",
+      "note": "Literally 'may you succeed'."
+    },
+    "happy_birthday": {
+      "text": "Selamat hari jadi!",
+      "note": "Also selamat hari lahir."
+    },
+    "thanks_a_lot": {
+      "text": "Terima kasih banyak",
+      "note": "Warmer: terima kasih banyak-banyak."
+    },
+    "miss_you": {
+      "text": "Saya rindu awak",
+      "note": "Between close friends: aku rindu kau. To family, use their title: rindu mak (I miss you, Mum)."
     }
   }
 }

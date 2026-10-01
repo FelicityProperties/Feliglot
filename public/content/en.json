@@ -300,6 +300,306 @@
     },
     "congratulations": {
       "text": "Congratulations!"
+    },
+    "my_family": {
+      "text": "My family"
+    },
+    "mother": {
+      "text": "Mother"
+    },
+    "father": {
+      "text": "Father"
+    },
+    "brother": {
+      "text": "Brother"
+    },
+    "sister": {
+      "text": "Sister"
+    },
+    "child": {
+      "text": "Child"
+    },
+    "friend": {
+      "text": "Friend"
+    },
+    "this_is_my_friend": {
+      "text": "This is my friend"
+    },
+    "are_you_married": {
+      "text": "Are you married?"
+    },
+    "have_children": {
+      "text": "Do you have children?"
+    },
+    "monday": {
+      "text": "Monday"
+    },
+    "tuesday": {
+      "text": "Tuesday"
+    },
+    "wednesday": {
+      "text": "Wednesday"
+    },
+    "thursday": {
+      "text": "Thursday"
+    },
+    "friday": {
+      "text": "Friday"
+    },
+    "saturday": {
+      "text": "Saturday"
+    },
+    "sunday": {
+      "text": "Sunday"
+    },
+    "weekend": {
+      "text": "Weekend"
+    },
+    "what_day": {
+      "text": "What day is it today?"
+    },
+    "next_week": {
+      "text": "Next week"
+    },
+    "eleven": {
+      "text": "Eleven"
+    },
+    "twelve": {
+      "text": "Twelve"
+    },
+    "fifteen": {
+      "text": "Fifteen"
+    },
+    "twenty": {
+      "text": "Twenty"
+    },
+    "thirty": {
+      "text": "Thirty"
+    },
+    "fifty": {
+      "text": "Fifty"
+    },
+    "hundred": {
+      "text": "One hundred"
+    },
+    "thousand": {
+      "text": "One thousand"
+    },
+    "how_old": {
+      "text": "How old are you?"
+    },
+    "years_old": {
+      "text": "I'm … years old"
+    },
+    "red": {
+      "text": "Red"
+    },
+    "blue": {
+      "text": "Blue"
+    },
+    "green": {
+      "text": "Green"
+    },
+    "yellow": {
+      "text": "Yellow"
+    },
+    "black": {
+      "text": "Black"
+    },
+    "white": {
+      "text": "White"
+    },
+    "what_colour": {
+      "text": "What colour is it?"
+    },
+    "this_one": {
+      "text": "This one"
+    },
+    "that_one": {
+      "text": "That one"
+    },
+    "another_one": {
+      "text": "Another one, please"
+    },
+    "its_hot": {
+      "text": "It's hot"
+    },
+    "its_cold": {
+      "text": "It's cold"
+    },
+    "its_raining": {
+      "text": "It's raining"
+    },
+    "its_sunny": {
+      "text": "It's sunny"
+    },
+    "its_windy": {
+      "text": "It's windy"
+    },
+    "weather_today": {
+      "text": "What's the weather like today?"
+    },
+    "beautiful_day": {
+      "text": "It's a beautiful day"
+    },
+    "umbrella": {
+      "text": "Umbrella"
+    },
+    "summer": {
+      "text": "Summer"
+    },
+    "winter": {
+      "text": "Winter"
+    },
+    "have_reservation": {
+      "text": "I have a reservation"
+    },
+    "room": {
+      "text": "Room"
+    },
+    "passport": {
+      "text": "Passport"
+    },
+    "luggage": {
+      "text": "Luggage"
+    },
+    "wifi_password": {
+      "text": "What's the Wi-Fi password?"
+    },
+    "check_out_time": {
+      "text": "What time is check-out?"
+    },
+    "map": {
+      "text": "Map"
+    },
+    "bus": {
+      "text": "Bus"
+    },
+    "next_train": {
+      "text": "When is the next train?"
+    },
+    "is_this_seat_free": {
+      "text": "Is this seat free?"
+    },
+    "what_do_you_do": {
+      "text": "What do you do?"
+    },
+    "i_work_in": {
+      "text": "I work in …"
+    },
+    "im_student": {
+      "text": "I'm a student"
+    },
+    "office": {
+      "text": "Office"
+    },
+    "meeting": {
+      "text": "Meeting"
+    },
+    "im_busy": {
+      "text": "I'm busy"
+    },
+    "day_off": {
+      "text": "Day off"
+    },
+    "colleague": {
+      "text": "Colleague"
+    },
+    "lets_start": {
+      "text": "Let's start"
+    },
+    "good_job": {
+      "text": "Good job!"
+    },
+    "table_for_two": {
+      "text": "A table for two, please"
+    },
+    "what_recommend": {
+      "text": "What do you recommend?"
+    },
+    "not_spicy": {
+      "text": "Not spicy, please"
+    },
+    "vegetarian_food": {
+      "text": "Vegetarian food"
+    },
+    "more_water": {
+      "text": "More water, please"
+    },
+    "no_sugar": {
+      "text": "No sugar, please"
+    },
+    "im_full": {
+      "text": "I'm full"
+    },
+    "takeaway": {
+      "text": "To take away, please"
+    },
+    "it_was_delicious": {
+      "text": "It was delicious"
+    },
+    "keep_change": {
+      "text": "Keep the change"
+    },
+    "head": {
+      "text": "Head"
+    },
+    "stomach": {
+      "text": "Stomach"
+    },
+    "head_hurts": {
+      "text": "My head hurts"
+    },
+    "have_fever": {
+      "text": "I have a fever"
+    },
+    "medicine": {
+      "text": "Medicine"
+    },
+    "call_ambulance": {
+      "text": "Call an ambulance!"
+    },
+    "dentist": {
+      "text": "Dentist"
+    },
+    "need_rest": {
+      "text": "I need to rest"
+    },
+    "feel_better": {
+      "text": "I feel better"
+    },
+    "get_well": {
+      "text": "Get well soon!"
+    },
+    "lets_meet": {
+      "text": "Let's meet up"
+    },
+    "are_you_free": {
+      "text": "Are you free tomorrow?"
+    },
+    "call_me": {
+      "text": "Call me"
+    },
+    "your_number": {
+      "text": "What's your phone number?"
+    },
+    "see_you_soon": {
+      "text": "See you soon"
+    },
+    "have_nice_day": {
+      "text": "Have a nice day!"
+    },
+    "good_luck": {
+      "text": "Good luck!"
+    },
+    "happy_birthday": {
+      "text": "Happy birthday!"
+    },
+    "thanks_a_lot": {
+      "text": "Thank you very much"
+    },
+    "miss_you": {
+      "text": "I miss you"
     }
   }
 }

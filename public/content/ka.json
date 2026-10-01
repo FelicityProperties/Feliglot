@@ -481,6 +481,499 @@
       "text": "გილოცავთ!",
       "roman": "gilotsavt!",
       "note": "To a friend: გილოცავ! (gilotsav!)"
+    },
+    "my_family": {
+      "text": "ჩემი ოჯახი",
+      "roman": "chemi ojakhi"
+    },
+    "mother": {
+      "text": "დედა",
+      "roman": "deda",
+      "note": "Careful: მამა (mama) is father! Mum, affectionately: დედიკო (dediko)."
+    },
+    "father": {
+      "text": "მამა",
+      "roman": "mama",
+      "note": "Mother is დედა (deda), not mama! Dad, affectionately: მამიკო (mamiko)."
+    },
+    "brother": {
+      "text": "ძმა",
+      "roman": "dzma",
+      "note": "One syllable: dz glides straight into ma."
+    },
+    "sister": {
+      "text": "და",
+      "roman": "da",
+      "note": "Same as და (da), 'and': context makes it clear."
+    },
+    "child": {
+      "text": "შვილი",
+      "roman": "shvili",
+      "note": "A kid in general is ბავშვი (bavshvi). Many surnames end in -შვილი (-shvili), 'child of'."
+    },
+    "friend": {
+      "text": "მეგობარი",
+      "roman": "megobari",
+      "note": "Same for a woman. Close friends: ძმაკაცი (dzmakatsi) between men, დაქალი (dakali) between women."
+    },
+    "this_is_my_friend": {
+      "text": "ეს ჩემი მეგობარია",
+      "roman": "es chemi megobaria",
+      "note": "Same for a female friend. Introducing: გაიცანით, ჩემი მეგობარი (gaitsanit, chemi megobari)."
+    },
+    "are_you_married": {
+      "text": "დაოჯახებული ხართ?",
+      "roman": "daojakhebuli khart?",
+      "note": "To a man also: ცოლიანი ხართ? (tsoliani khart?); to a woman: გათხოვილი ხართ? (gatkhovili khart?)"
+    },
+    "have_children": {
+      "text": "შვილები გყავთ?",
+      "roman": "shvilebi gqavt?",
+      "note": "გყავთ (gqavt) is 'have' for people and animals; for things it is გაქვთ (gakvt)."
+    },
+    "monday": {
+      "text": "ორშაბათი",
+      "roman": "orshabati",
+      "note": "From ორი (ori), two: the second day of the week, counting from Sunday."
+    },
+    "tuesday": {
+      "text": "სამშაბათი",
+      "roman": "samshabati",
+      "note": "From სამი (sami), three."
+    },
+    "wednesday": {
+      "text": "ოთხშაბათი",
+      "roman": "otkhshabati",
+      "note": "From ოთხი (otkhi), four."
+    },
+    "thursday": {
+      "text": "ხუთშაბათი",
+      "roman": "khutshabati",
+      "note": "From ხუთი (khuti), five."
+    },
+    "friday": {
+      "text": "პარასკევი",
+      "roman": "paraskevi",
+      "note": "Not built on a number like Monday–Thursday: it comes from Greek."
+    },
+    "saturday": {
+      "text": "შაბათი",
+      "roman": "shabati",
+      "note": "Monday to Thursday are all built on this word, with a number in front."
+    },
+    "sunday": {
+      "text": "კვირა",
+      "roman": "kvira",
+      "note": "Also the word for 'week': ერთი კვირა (erti kvira), one week."
+    },
+    "weekend": {
+      "text": "შაბათ-კვირა",
+      "roman": "shabat-kvira",
+      "note": "Literally 'Saturday-Sunday'. This weekend: ამ შაბათ-კვირას (am shabat-kviras)."
+    },
+    "what_day": {
+      "text": "დღეს რა დღეა?",
+      "roman": "dghes ra dghea?",
+      "note": "Answer: დღეს ორშაბათია (dghes orshabatia), today is Monday."
+    },
+    "next_week": {
+      "text": "მომავალ კვირას",
+      "roman": "momaval kviras",
+      "note": "Last week: წინა კვირას (tsina kviras)."
+    },
+    "eleven": {
+      "text": "თერთმეტი",
+      "roman": "tertmeti",
+      "note": "Literally 'ten-one-more': 11–19 all end in -მეტი (-meti), 'more'."
+    },
+    "twelve": {
+      "text": "თორმეტი",
+      "roman": "tormeti",
+      "note": "13: ცამეტი (tsameti); 14: თოთხმეტი (totkhmeti)."
+    },
+    "fifteen": {
+      "text": "თხუთმეტი",
+      "roman": "tkhutmeti",
+      "note": "16–19: თექვსმეტი (tekvsmeti), ჩვიდმეტი (chvidmeti), თვრამეტი (tvrameti), ცხრამეტი (tskhrameti)."
+    },
+    "twenty": {
+      "text": "ოცი",
+      "roman": "otsi",
+      "note": "Georgian counts in twenties: 21 is ოცდაერთი (otsdaerti), 'twenty and one'."
+    },
+    "thirty": {
+      "text": "ოცდაათი",
+      "roman": "otsdaati",
+      "note": "Literally 'twenty and ten'. 40 is ორმოცი (ormotsi), 'two twenties'."
+    },
+    "fifty": {
+      "text": "ორმოცდაათი",
+      "roman": "ormotsdaati",
+      "note": "Literally 'two twenties and ten'. 60 is სამოცი (samotsi), 'three twenties'."
+    },
+    "hundred": {
+      "text": "ასი",
+      "roman": "asi",
+      "note": "Hundreds join the number: ორასი (orasi), 200; სამასი (samasi), 300."
+    },
+    "thousand": {
+      "text": "ათასი",
+      "roman": "atasi",
+      "note": "2000: ორი ათასი (ori atasi). Don't mix it up with ათი (ati), ten."
+    },
+    "how_old": {
+      "text": "რამდენი წლის ხართ?",
+      "roman": "ramdeni tslis khart?",
+      "note": "To a friend or a child: რამდენი წლის ხარ? (ramdeni tslis khar?)"
+    },
+    "years_old": {
+      "text": "… წლის ვარ",
+      "roman": "… tslis var",
+      "note": "The number comes first: ოცდაათი წლის ვარ (otsdaati tslis var), I'm thirty."
+    },
+    "red": {
+      "text": "წითელი",
+      "roman": "tsiteli",
+      "note": "Red wine: წითელი ღვინო (tsiteli ghvino)."
+    },
+    "blue": {
+      "text": "ლურჯი",
+      "roman": "lurji",
+      "note": "Light or sky blue counts as a separate colour: ცისფერი (tsisperi)."
+    },
+    "green": {
+      "text": "მწვანე",
+      "roman": "mtsvane",
+      "note": "Starts with three consonants: m-ts-vane."
+    },
+    "yellow": {
+      "text": "ყვითელი",
+      "roman": "qviteli",
+      "note": "Orange: ნარინჯისფერი (narinjisperi)."
+    },
+    "black": {
+      "text": "შავი",
+      "roman": "shavi",
+      "note": "The Black Sea: შავი ზღვა (shavi zghva)."
+    },
+    "white": {
+      "text": "თეთრი",
+      "roman": "tetri",
+      "note": "Also the name of Georgia's coins: 100 tetri make one lari."
+    },
+    "what_colour": {
+      "text": "რა ფერისაა?",
+      "roman": "ra perisaa?",
+      "note": "In speech also: რა ფერია? (ra peria?)"
+    },
+    "this_one": {
+      "text": "აი, ეს",
+      "roman": "ai, es",
+      "note": "Or just ეს (es). Georgian has three: ეს (es), this; ეგ (eg), that near you; ის (is), that over there."
+    },
+    "that_one": {
+      "text": "აი, ის",
+      "roman": "ai, is",
+      "note": "If it's near the person you're talking to: აი, ეგ (ai, eg)."
+    },
+    "another_one": {
+      "text": "კიდევ ერთი, თუ შეიძლება",
+      "roman": "kidev erti, tu sheidzleba"
+    },
+    "its_hot": {
+      "text": "ცხელა",
+      "roman": "tskhela",
+      "note": "Pleasantly warm: თბილა (tbila), the same root as Tbilisi."
+    },
+    "its_cold": {
+      "text": "ცივა",
+      "roman": "tsiva",
+      "note": "I'm cold: მცივა (mtsiva)."
+    },
+    "its_raining": {
+      "text": "წვიმს",
+      "roman": "tsvims",
+      "note": "It's snowing: თოვს (tovs)."
+    },
+    "its_sunny": {
+      "text": "მზიანი ამინდია",
+      "roman": "mziani amindia",
+      "note": "In speech also: მზეა (mzea)."
+    },
+    "its_windy": {
+      "text": "ქარია",
+      "roman": "karia",
+      "note": "Also: ქარი ქრის (kari kris), the wind is blowing."
+    },
+    "weather_today": {
+      "text": "დღეს როგორი ამინდია?",
+      "roman": "dghes rogori amindia?"
+    },
+    "beautiful_day": {
+      "text": "მშვენიერი დღეა",
+      "roman": "mshvenieri dghea",
+      "note": "Also: რა კარგი ამინდია! (ra kargi amindia!), what lovely weather!"
+    },
+    "umbrella": {
+      "text": "ქოლგა",
+      "roman": "kolga"
+    },
+    "summer": {
+      "text": "ზაფხული",
+      "roman": "zapkhuli",
+      "note": "In summer: ზაფხულში (zapkhulshi)."
+    },
+    "winter": {
+      "text": "ზამთარი",
+      "roman": "zamtari",
+      "note": "In winter: ზამთარში (zamtarshi). Spring: გაზაფხული (gazapkhuli); autumn: შემოდგომა (shemodgoma)."
+    },
+    "have_reservation": {
+      "text": "ოთახი დაჯავშნილი მაქვს",
+      "roman": "otakhi dajavshnili makvs",
+      "note": "Shorter: ჯავშანი მაქვს (javshani makvs)."
+    },
+    "room": {
+      "text": "ოთახი",
+      "roman": "otakhi",
+      "note": "In hotels people often say ნომერი (nomeri)."
+    },
+    "passport": {
+      "text": "პასპორტი",
+      "roman": "pasporti"
+    },
+    "luggage": {
+      "text": "ბარგი",
+      "roman": "bargi",
+      "note": "A suitcase: ჩემოდანი (chemodani)."
+    },
+    "wifi_password": {
+      "text": "ვაიფაის პაროლი რა არის?",
+      "roman": "vaipais paroli ra aris?",
+      "note": "Usually written Wi-Fi. Also: ინტერნეტის პაროლი (internetis paroli)."
+    },
+    "check_out_time": {
+      "text": "ოთახი რომელ საათამდე უნდა დავტოვო?",
+      "roman": "otakhi romel saatamde unda davtovo?",
+      "note": "Literally 'by what time must I leave the room?'"
+    },
+    "map": {
+      "text": "რუკა",
+      "roman": "ruka"
+    },
+    "bus": {
+      "text": "ავტობუსი",
+      "roman": "avtobusi",
+      "note": "Between towns most people take a მარშრუტკა (marshrutka), a minibus."
+    },
+    "next_train": {
+      "text": "შემდეგი მატარებელი როდის გადის?",
+      "roman": "shemdegi matarebeli rodis gadis?",
+      "note": "გადის (gadis) means 'departs'. Ticket office: სალარო (salaro)."
+    },
+    "is_this_seat_free": {
+      "text": "ეს ადგილი თავისუფალია?",
+      "roman": "es adgili tavisupalia?",
+      "note": "Also very natural: აქ ხომ არავინ ზის? (ak khom aravin zis?), is anyone sitting here?"
+    },
+    "what_do_you_do": {
+      "text": "რას საქმიანობთ?",
+      "roman": "ras sakmianobt?",
+      "note": "Also common: სად მუშაობთ? (sad mushaobt?), where do you work?"
+    },
+    "i_work_in": {
+      "text": "…ში ვმუშაობ",
+      "roman": "…shi vmushaob",
+      "note": "-ში (-shi) is joined to the word: ბანკში ვმუშაობ (bankshi vmushaob), I work in a bank."
+    },
+    "im_student": {
+      "text": "სტუდენტი ვარ",
+      "roman": "studenti var",
+      "note": "Same for a woman. A school pupil: მოსწავლე (mostsavle)."
+    },
+    "office": {
+      "text": "ოფისი",
+      "roman": "opisi",
+      "note": "I'm at work: სამსახურში ვარ (samsakhurshi var)."
+    },
+    "meeting": {
+      "text": "შეხვედრა",
+      "roman": "shekhvedra",
+      "note": "I have a meeting: შეხვედრა მაქვს (shekhvedra makvs)."
+    },
+    "im_busy": {
+      "text": "დაკავებული ვარ",
+      "roman": "dakavebuli var",
+      "note": "Casual: საქმე მაქვს (sakme makvs), I've got things to do."
+    },
+    "day_off": {
+      "text": "დასვენების დღე",
+      "roman": "dasvenebis dghe",
+      "note": "I'm off today: დღეს ვისვენებ (dghes visveneb)."
+    },
+    "colleague": {
+      "text": "კოლეგა",
+      "roman": "kolega",
+      "note": "Same for a woman. Also: თანამშრომელი (tanamshromeli), co-worker."
+    },
+    "lets_start": {
+      "text": "დავიწყოთ",
+      "roman": "davitsqot",
+      "note": "As a question: დავიწყოთ? (davitsqot?), shall we start?"
+    },
+    "good_job": {
+      "text": "ყოჩაღ!",
+      "roman": "qochagh!",
+      "note": "Also: შესანიშნავია! (shesanishnavia!), excellent! Casual: მაგარია! (magaria!)"
+    },
+    "table_for_two": {
+      "text": "მაგიდა ორი კაცისთვის, თუ შეიძლება",
+      "roman": "magida ori katsistvis, tu sheidzleba",
+      "note": "კაცი (katsi) here just means 'person'. Or simply: ორნი ვართ (orni vart), there are two of us."
+    },
+    "what_recommend": {
+      "text": "რას გვირჩევთ?",
+      "roman": "ras gvirchevt?",
+      "note": "If you're eating alone: რას მირჩევთ? (ras mirchevt?)"
+    },
+    "not_spicy": {
+      "text": "ცხარე არ იყოს, თუ შეიძლება",
+      "roman": "tskhare ar iqos, tu sheidzleba",
+      "note": "To ask: ცხარეა? (tskharea?), is it spicy?"
+    },
+    "vegetarian_food": {
+      "text": "ვეგეტარიანული საჭმელი",
+      "roman": "vegetarianuli sachmeli",
+      "note": "On menus: ვეგეტარიანული კერძები (vegetarianuli kerdzebi). Lenten სამარხვო (samarkhvo) dishes are meat-free too."
+    },
+    "more_water": {
+      "text": "კიდევ წყალი, თუ შეიძლება",
+      "roman": "kidev tsqali, tu sheidzleba",
+      "note": "Fuller: კიდევ წყალი მოგვიტანეთ (kidev tsqali mogvitanet), bring us more water."
+    },
+    "no_sugar": {
+      "text": "შაქრის გარეშე, თუ შეიძლება",
+      "roman": "shakris gareshe, tu sheidzleba",
+      "note": "With sugar: შაქრით (shakrit)."
+    },
+    "im_full": {
+      "text": "დავნაყრდი",
+      "roman": "davnaqrdi",
+      "note": "Also: მაძღარი ვარ (madzghari var). Expect a Georgian host to offer more anyway!"
+    },
+    "takeaway": {
+      "text": "წასაღებად, თუ შეიძლება",
+      "roman": "tsasaghebad, tu sheidzleba",
+      "note": "Also: თან წავიღებ (tan tsavigheb), I'll take it with me."
+    },
+    "it_was_delicious": {
+      "text": "ძალიან გემრიელი იყო",
+      "roman": "dzalian gemrieli iqo",
+      "note": "To a host who cooked: ხელები დაგილოცათ (khelebi dagilotsat), bless your hands."
+    },
+    "keep_change": {
+      "text": "ხურდა დაიტოვეთ",
+      "roman": "khurda daitovet",
+      "note": "Also common: ხურდა არ მინდა (khurda ar minda), I don't need the change."
+    },
+    "head": {
+      "text": "თავი",
+      "roman": "tavi",
+      "note": "Also means 'self': თავს ცუდად ვგრძნობ (tavs tsudad vgrdznob), I feel unwell."
+    },
+    "stomach": {
+      "text": "მუცელი",
+      "roman": "mutseli",
+      "note": "This is the belly; the organ itself is კუჭი (kuchi)."
+    },
+    "head_hurts": {
+      "text": "თავი მტკივა",
+      "roman": "tavi mtkiva",
+      "note": "Same pattern for any part: მუცელი მტკივა (mutseli mtkiva), my stomach hurts."
+    },
+    "have_fever": {
+      "text": "სიცხე მაქვს",
+      "roman": "sitskhe makvs",
+      "note": "Also common: ტემპერატურა მაქვს (temperatura makvs)."
+    },
+    "medicine": {
+      "text": "წამალი",
+      "roman": "tsamali",
+      "note": "A prescription: რეცეპტი (retsepti)."
+    },
+    "call_ambulance": {
+      "text": "გამოიძახეთ სასწრაფო!",
+      "roman": "gamoidzakhet sastsrapo!",
+      "note": "Full name: სასწრაფო დახმარება (sastsrapo dakhmareba). The emergency number is 112."
+    },
+    "dentist": {
+      "text": "სტომატოლოგი",
+      "roman": "stomatologi",
+      "note": "In everyday speech also კბილის ექიმი (kbilis ekimi), 'tooth doctor'."
+    },
+    "need_rest": {
+      "text": "დასვენება მჭირდება",
+      "roman": "dasveneba mchirdeba"
+    },
+    "feel_better": {
+      "text": "უკეთ ვარ",
+      "roman": "uket var",
+      "note": "Fuller: თავს უკეთ ვგრძნობ (tavs uket vgrdznob)."
+    },
+    "get_well": {
+      "text": "მალე გამოჯანმრთელდით!",
+      "roman": "male gamojanmrteldit!",
+      "note": "To a friend: მალე გამოჯანმრთელდი! (male gamojanmrteldi!)"
+    },
+    "lets_meet": {
+      "text": "შევხვდეთ",
+      "roman": "shevkhvdet",
+      "note": "Casual: მოდი, შევხვდეთ (modi, shevkhvdet). When shall we meet? როდის შევხვდეთ? (rodis shevkhvdet?)"
+    },
+    "are_you_free": {
+      "text": "ხვალ თავისუფალი ხართ?",
+      "roman": "khval tavisupali khart?",
+      "note": "To a friend: ხვალ გცალია? (khval gtsalia?), have you got time tomorrow?"
+    },
+    "call_me": {
+      "text": "დამირეკეთ",
+      "roman": "damireket",
+      "note": "To a friend: დამირეკე (damireke)."
+    },
+    "your_number": {
+      "text": "თქვენი ტელეფონის ნომერი რა არის?",
+      "roman": "tkveni teleponis nomeri ra aris?",
+      "note": "To a friend, shorter: შენი ნომერი რა არის? (sheni nomeri ra aris?)"
+    },
+    "see_you_soon": {
+      "text": "მალე შევხვდებით",
+      "roman": "male shevkhvdebit",
+      "note": "Casual: მალე გნახავ! (male gnakhav!)"
+    },
+    "have_nice_day": {
+      "text": "კარგ დღეს გისურვებთ!",
+      "roman": "karg dghes gisurvebt!",
+      "note": "To a friend: კარგ დღეს გისურვებ! (karg dghes gisurveb!)"
+    },
+    "good_luck": {
+      "text": "წარმატებები!",
+      "roman": "tsarmatebebi!",
+      "note": "Fuller: წარმატებებს გისურვებთ! (tsarmatebebs gisurvebt!)"
+    },
+    "happy_birthday": {
+      "text": "გილოცავთ დაბადების დღეს!",
+      "roman": "gilotsavt dabadebis dghes!",
+      "note": "To a friend: გილოცავ დაბადების დღეს! (gilotsav dabadebis dghes!)"
+    },
+    "thanks_a_lot": {
+      "text": "დიდი მადლობა",
+      "roman": "didi madloba",
+      "note": "More formal: დიდ მადლობას გიხდით (did madlobas gikhdit)."
+    },
+    "miss_you": {
+      "text": "მენატრები",
+      "roman": "menatrebi",
+      "note": "On meeting again: მომენატრე! (momenatre!), I missed you."
     }
   }
 }

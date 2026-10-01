@@ -478,6 +478,492 @@
       "text": "مبارک ہو!",
       "roman": "Mubarak ho!",
       "note": "Formal or written: mubarakbaad (مبارکباد)."
+    },
+    "my_family": {
+      "text": "میرا خاندان",
+      "roman": "Mera khandaan",
+      "note": "For your household: mere ghar wale (میرے گھر والے). Many people also say meri family."
+    },
+    "mother": {
+      "text": "امی",
+      "roman": "Ammi",
+      "note": "What you call your own mother. General word: maan (ماں); formal: walida (والدہ)."
+    },
+    "father": {
+      "text": "ابو",
+      "roman": "Abbu",
+      "note": "What you call your own father. Formal and polite: walid (والد); baap (باپ) can sound blunt."
+    },
+    "brother": {
+      "text": "بھائی",
+      "roman": "Bhai",
+      "note": "Also a friendly, polite way to address any man, e.g. a driver or shopkeeper."
+    },
+    "sister": {
+      "text": "بہن",
+      "roman": "Behen",
+      "note": "To address a woman politely, people often say baji (باجی) or behen ji (بہن جی)."
+    },
+    "child": {
+      "text": "بچہ",
+      "roman": "Bachcha",
+      "note": "A girl: bachchi (بچی). Son: beta (بیٹا); daughter: beti (بیٹی)."
+    },
+    "friend": {
+      "text": "دوست",
+      "roman": "Dost",
+      "note": "Same word for a male or female friend. A woman's female friend is also called saheli (سہیلی)."
+    },
+    "this_is_my_friend": {
+      "text": "یہ میرا دوست ہے",
+      "roman": "Yeh mera dost hai",
+      "note": "For a female friend: yeh meri dost hai (یہ میری دوست ہے). More respectful: yeh mere dost hain."
+    },
+    "are_you_married": {
+      "text": "کیا آپ شادی شدہ ہیں؟",
+      "roman": "Kya aap shaadi shuda hain?",
+      "note": "Same for men and women. Also common: kya aap ki shaadi ho gayi hai?"
+    },
+    "have_children": {
+      "text": "کیا آپ کے بچے ہیں؟",
+      "roman": "Kya aap ke bachche hain?",
+      "note": "Often asked as: aap ke kitne bachche hain? (آپ کے کتنے بچے ہیں؟), 'how many children do you have?'"
+    },
+    "monday": {
+      "text": "پیر",
+      "roman": "Peer",
+      "note": "Also: somwaar (سوموار)."
+    },
+    "tuesday": {
+      "text": "منگل",
+      "roman": "Mangal"
+    },
+    "wednesday": {
+      "text": "بدھ",
+      "roman": "Budh"
+    },
+    "thursday": {
+      "text": "جمعرات",
+      "roman": "Jumeraat",
+      "note": "From juma + raat: 'the eve of Friday'."
+    },
+    "friday": {
+      "text": "جمعہ",
+      "roman": "Juma",
+      "note": "A common Friday greeting: Juma mubarak (جمعہ مبارک)."
+    },
+    "saturday": {
+      "text": "ہفتہ",
+      "roman": "Hafta",
+      "note": "Also means 'week'; context makes it clear."
+    },
+    "sunday": {
+      "text": "اتوار",
+      "roman": "Itwaar"
+    },
+    "weekend": {
+      "text": "ویک اینڈ",
+      "roman": "Weekend",
+      "note": "The English word is the everyday one. Formal: ikhtitaam-e-hafta (اختتامِ ہفتہ)."
+    },
+    "what_day": {
+      "text": "آج کون سا دن ہے؟",
+      "roman": "Aaj kaun sa din hai?"
+    },
+    "next_week": {
+      "text": "اگلے ہفتے",
+      "roman": "Agle hafte",
+      "note": "As in 'I'll go next week'. As a subject ('next week is busy'): agla hafta (اگلا ہفتہ)."
+    },
+    "eleven": {
+      "text": "گیارہ",
+      "roman": "Gyaarah",
+      "note": "Every number up to 100 has its own irregular word. Urdu digits: ۱۱"
+    },
+    "twelve": {
+      "text": "بارہ",
+      "roman": "Baarah",
+      "note": "Urdu digits: ۱۲"
+    },
+    "fifteen": {
+      "text": "پندرہ",
+      "roman": "Pandrah",
+      "note": "Urdu digits: ۱۵"
+    },
+    "twenty": {
+      "text": "بیس",
+      "roman": "Bees",
+      "note": "Urdu digits: ۲۰"
+    },
+    "thirty": {
+      "text": "تیس",
+      "roman": "Tees",
+      "note": "Urdu digits: ۳۰"
+    },
+    "fifty": {
+      "text": "پچاس",
+      "roman": "Pachaas",
+      "note": "Urdu digits: ۵۰"
+    },
+    "hundred": {
+      "text": "ایک سو",
+      "roman": "Ek sau",
+      "note": "With prices people often say just sau (سو). Urdu digits: ۱۰۰"
+    },
+    "thousand": {
+      "text": "ایک ہزار",
+      "roman": "Ek hazaar",
+      "note": "A hundred thousand is ek lakh (ایک لاکھ). Urdu digits: ۱۰۰۰"
+    },
+    "how_old": {
+      "text": "آپ کی عمر کیا ہے؟",
+      "roman": "Aap ki umar kya hai?",
+      "note": "Also: aap kitne saal ke hain? (to a woman: kitne saal ki hain?)"
+    },
+    "years_old": {
+      "text": "میری عمر … سال ہے",
+      "roman": "Meri umar … saal hai",
+      "note": "Same for men and women. Also: main … saal ka hoon (a woman: saal ki hoon)."
+    },
+    "red": {
+      "text": "لال",
+      "roman": "Laal",
+      "note": "Also: surkh (سرخ), a little more formal. Neither changes for gender."
+    },
+    "blue": {
+      "text": "نیلا",
+      "roman": "Neela",
+      "note": "With feminine nouns: neeli (نیلی)."
+    },
+    "green": {
+      "text": "ہرا",
+      "roman": "Hara",
+      "note": "With feminine nouns: hari (ہری). Also: sabz (سبز), which never changes."
+    },
+    "yellow": {
+      "text": "پیلا",
+      "roman": "Peela",
+      "note": "With feminine nouns: peeli (پیلی). Also: zard (زرد), which never changes."
+    },
+    "black": {
+      "text": "کالا",
+      "roman": "Kaala",
+      "note": "With feminine nouns: kaali (کالی). Also: siyah (سیاہ), which never changes."
+    },
+    "white": {
+      "text": "سفید",
+      "roman": "Safed",
+      "note": "Never changes for gender."
+    },
+    "what_colour": {
+      "text": "یہ کس رنگ کا ہے؟",
+      "roman": "Yeh kis rang ka hai?",
+      "note": "For a feminine item: yeh kis rang ki hai? (یہ کس رنگ کی ہے؟)"
+    },
+    "this_one": {
+      "text": "یہ والا",
+      "roman": "Yeh wala",
+      "note": "For a feminine item: yeh wali (یہ والی)."
+    },
+    "that_one": {
+      "text": "وہ والا",
+      "roman": "Woh wala",
+      "note": "For a feminine item: woh wali (وہ والی)."
+    },
+    "another_one": {
+      "text": "ایک اور دے دیجیے",
+      "roman": "Ek aur de dijiye",
+      "note": "Casual: ek aur (ایک اور)."
+    },
+    "its_hot": {
+      "text": "گرمی ہے",
+      "roman": "Garmi hai",
+      "note": "Literally 'there's heat'. Very common: bohat garmi hai! (بہت گرمی ہے!)"
+    },
+    "its_cold": {
+      "text": "سردی ہے",
+      "roman": "Sardi hai",
+      "note": "Literally 'there's cold'. Also: thand hai (ٹھنڈ ہے)."
+    },
+    "its_raining": {
+      "text": "بارش ہو رہی ہے",
+      "roman": "Baarish ho rahi hai"
+    },
+    "its_sunny": {
+      "text": "دھوپ نکلی ہوئی ہے",
+      "roman": "Dhoop nikli hui hai",
+      "note": "Dhoop is sunshine. Also simply: dhoop hai (دھوپ ہے)."
+    },
+    "its_windy": {
+      "text": "ہوا چل رہی ہے",
+      "roman": "Hawa chal rahi hai",
+      "note": "Literally 'the wind is blowing'. Strong wind: tez hawa (تیز ہوا)."
+    },
+    "weather_today": {
+      "text": "آج موسم کیسا ہے؟",
+      "roman": "Aaj mausam kaisa hai?"
+    },
+    "beautiful_day": {
+      "text": "آج موسم بہت اچھا ہے",
+      "roman": "Aaj mausam bohat achha hai",
+      "note": "Also: aaj mausam bara suhana hai (آج موسم بڑا سہانا ہے), 'lovely and pleasant'."
+    },
+    "umbrella": {
+      "text": "چھتری",
+      "roman": "Chhatri"
+    },
+    "summer": {
+      "text": "گرمیاں",
+      "roman": "Garmiyan",
+      "note": "Also: garmi ka mausam (گرمی کا موسم). In summer: garmiyon mein."
+    },
+    "winter": {
+      "text": "سردیاں",
+      "roman": "Sardiyan",
+      "note": "Also: sardi ka mausam (سردی کا موسم). In winter: sardiyon mein."
+    },
+    "have_reservation": {
+      "text": "میری بکنگ ہے",
+      "roman": "Meri booking hai",
+      "note": "Booking is the usual word. Also: mere naam par booking hai, 'it's booked in my name'."
+    },
+    "room": {
+      "text": "کمرہ",
+      "roman": "Kamra",
+      "note": "At hotel desks the English room (روم) is common too."
+    },
+    "passport": {
+      "text": "پاسپورٹ",
+      "roman": "Passport"
+    },
+    "luggage": {
+      "text": "سامان",
+      "roman": "Samaan",
+      "note": "Also means 'stuff, things' in general."
+    },
+    "wifi_password": {
+      "text": "وائی فائی کا پاس ورڈ کیا ہے؟",
+      "roman": "Wi-Fi ka password kya hai?"
+    },
+    "check_out_time": {
+      "text": "چیک آؤٹ کتنے بجے ہے؟",
+      "roman": "Check-out kitne baje hai?",
+      "note": "Also: check-out ka waqt kya hai? (چیک آؤٹ کا وقت کیا ہے؟)"
+    },
+    "map": {
+      "text": "نقشہ",
+      "roman": "Naqsha",
+      "note": "On a phone people usually just say map (میپ) or location."
+    },
+    "bus": {
+      "text": "بس",
+      "roman": "Bus",
+      "note": "Spelled and said like bas, 'just / enough'; context tells them apart."
+    },
+    "next_train": {
+      "text": "اگلی ٹرین کب ہے؟",
+      "roman": "Agli train kab hai?",
+      "note": "At what time: agli train kitne baje hai? (اگلی ٹرین کتنے بجے ہے؟)"
+    },
+    "is_this_seat_free": {
+      "text": "کیا یہ سیٹ خالی ہے؟",
+      "roman": "Kya yeh seat khaali hai?",
+      "note": "Khaali means empty. Pointing at it, just: khaali hai? (خالی ہے؟)"
+    },
+    "what_do_you_do": {
+      "text": "آپ کیا کرتے ہیں؟",
+      "roman": "Aap kya karte hain?",
+      "note": "To a woman: aap kya karti hain? (آپ کیا کرتی ہیں؟)"
+    },
+    "i_work_in": {
+      "text": "میں … میں کام کرتا ہوں",
+      "roman": "Main … mein kaam karta hoon",
+      "note": "A woman says: kaam karti hoon (کام کرتی ہوں). میں is both main (I) and mein (in)."
+    },
+    "im_student": {
+      "text": "میں طالبِ علم ہوں",
+      "roman": "Main talib-e-ilm hoon",
+      "note": "A woman says: main taliba hoon (میں طالبہ ہوں). Also common: main student hoon."
+    },
+    "office": {
+      "text": "دفتر",
+      "roman": "Daftar",
+      "note": "Just as common: office (آفس)."
+    },
+    "meeting": {
+      "text": "میٹنگ",
+      "roman": "Meeting",
+      "note": "The everyday word at work. Formal: ijlaas (اجلاس)."
+    },
+    "im_busy": {
+      "text": "میں مصروف ہوں",
+      "roman": "Main masroof hoon",
+      "note": "Same for men and women."
+    },
+    "day_off": {
+      "text": "چھٹی",
+      "roman": "Chhutti",
+      "note": "Also a holiday or leave. 'It's my day off': aaj meri chhutti hai (آج میری چھٹی ہے)."
+    },
+    "colleague": {
+      "text": "کولیگ",
+      "roman": "Colleague",
+      "note": "The usual word at work, same for men and women. Formal Urdu: rafeeq-e-kaar (رفیقِ کار)."
+    },
+    "lets_start": {
+      "text": "چلیں، شروع کرتے ہیں",
+      "roman": "Chalein, shuru karte hain"
+    },
+    "good_job": {
+      "text": "شاباش!",
+      "roman": "Shabaash!",
+      "note": "Said to someone junior or a child. To a peer or senior: bohat achha kaam kiya! (بہت اچھا کام کیا!)"
+    },
+    "table_for_two": {
+      "text": "دو لوگوں کے لیے ٹیبل چاہیے",
+      "roman": "Do logon ke liye table chahiye",
+      "note": "Politer: do logon ke liye table mil jaaye gi? Table is the usual word; mez (میز) is the Urdu one."
+    },
+    "what_recommend": {
+      "text": "یہاں کیا اچھا ملتا ہے؟",
+      "roman": "Yahan kya achha milta hai?",
+      "note": "Literally 'what's good here?'. Also: aap kya mashwara dein ge? (آپ کیا مشورہ دیں گے؟)"
+    },
+    "not_spicy": {
+      "text": "مرچ نہ ڈالیے گا",
+      "roman": "Mirch na daaliye ga",
+      "note": "Literally 'please don't add chilli'. Easier to get: mirch kam daaliye ga (مرچ کم ڈالیے گا), 'less chilli'."
+    },
+    "vegetarian_food": {
+      "text": "سبزی والا کھانا",
+      "roman": "Sabzi wala khaana",
+      "note": "Gosht often means red meat only, so add: chicken aur machhli bhi nahin (no chicken or fish either)."
+    },
+    "more_water": {
+      "text": "تھوڑا پانی اور دے دیجیے",
+      "roman": "Thora paani aur de dijiye"
+    },
+    "no_sugar": {
+      "text": "چینی نہ ڈالیے گا",
+      "roman": "Cheeni na daaliye ga",
+      "note": "Tea often comes sweetened by default. Also: baghair cheeni ke (بغیر چینی کے), 'without sugar'."
+    },
+    "im_full": {
+      "text": "میرا پیٹ بھر گیا ہے",
+      "roman": "Mera pet bhar gaya hai",
+      "note": "Same for men and women. To decline more food politely: bas, shukriya (بس، شکریہ)."
+    },
+    "takeaway": {
+      "text": "پیک کر دیجیے",
+      "roman": "Pack kar dijiye",
+      "note": "Also: parcel kar dijiye (پارسل کر دیجیے). Works for leftovers too."
+    },
+    "it_was_delicious": {
+      "text": "کھانا بہت مزیدار تھا",
+      "roman": "Khaana bohat mazedaar tha",
+      "note": "Also very common: maza aa gaya! (مزہ آ گیا!), 'that was great!'"
+    },
+    "keep_change": {
+      "text": "باقی پیسے آپ رکھ لیجیے",
+      "roman": "Baqi paise aap rakh lijiye",
+      "note": "Shorter: baqi rakh lijiye (باقی رکھ لیجیے)."
+    },
+    "head": {
+      "text": "سر",
+      "roman": "Sar"
+    },
+    "stomach": {
+      "text": "پیٹ",
+      "roman": "Pet",
+      "note": "Stomach ache: pet mein dard (پیٹ میں درد)."
+    },
+    "head_hurts": {
+      "text": "میرے سر میں درد ہے",
+      "roman": "Mere sar mein dard hai",
+      "note": "A headache: sar dard (سر درد). Also: mera sar dukh raha hai (میرا سر دکھ رہا ہے)."
+    },
+    "have_fever": {
+      "text": "مجھے بخار ہے",
+      "roman": "Mujhe bukhaar hai"
+    },
+    "medicine": {
+      "text": "دوا",
+      "roman": "Dawa",
+      "note": "Also very common in speech: dawai (دوائی)."
+    },
+    "call_ambulance": {
+      "text": "ایمبولینس بلائیے!",
+      "roman": "Ambulance bulaiye!",
+      "note": "In a real emergency: jaldi ambulance bulao! Numbers in Pakistan: 1122 (Rescue), 115 (Edhi)."
+    },
+    "dentist": {
+      "text": "دانتوں کا ڈاکٹر",
+      "roman": "Daanton ka doctor",
+      "note": "Also simply: dentist (ڈینٹسٹ)."
+    },
+    "need_rest": {
+      "text": "مجھے آرام کی ضرورت ہے",
+      "roman": "Mujhe aaraam ki zaroorat hai",
+      "note": "Also: mujhe aaraam karna hai (مجھے آرام کرنا ہے)."
+    },
+    "feel_better": {
+      "text": "اب میری طبیعت بہتر ہے",
+      "roman": "Ab meri tabiyat behtar hai",
+      "note": "Same for men and women. Also: ab main behtar hoon (اب میں بہتر ہوں)."
+    },
+    "get_well": {
+      "text": "اللہ آپ کو جلد شفا دے!",
+      "roman": "Allah aap ko jald shifa de!",
+      "note": "The usual wish. Without religious wording: jaldi theek ho jaaiye! (جلدی ٹھیک ہو جائیے!)"
+    },
+    "lets_meet": {
+      "text": "کبھی ملتے ہیں",
+      "roman": "Kabhi milte hain",
+      "note": "Literally 'let's meet sometime'. To fix a day: kal milte hain (کل ملتے ہیں), 'let's meet tomorrow'."
+    },
+    "are_you_free": {
+      "text": "کیا آپ کل فارغ ہیں؟",
+      "roman": "Kya aap kal farigh hain?",
+      "note": "Same for men and women. Casual: kal free ho? (کل فری ہو؟)"
+    },
+    "call_me": {
+      "text": "مجھے فون کیجیے گا",
+      "roman": "Mujhe phone kijiye ga",
+      "note": "Kijiye ga is a gentle 'please do'. Casual: mujhe call karna (مجھے کال کرنا)."
+    },
+    "your_number": {
+      "text": "آپ کا فون نمبر کیا ہے؟",
+      "roman": "Aap ka phone number kya hai?",
+      "note": "Also common: apna number de dijiye (اپنا نمبر دے دیجیے), 'please give me your number'."
+    },
+    "see_you_soon": {
+      "text": "جلد ملیں گے",
+      "roman": "Jald milein ge",
+      "note": "Usually followed by Allah hafiz. Also: jald mulaqaat ho gi (جلد ملاقات ہو گی)."
+    },
+    "have_nice_day": {
+      "text": "آپ کا دن اچھا گزرے!",
+      "roman": "Aap ka din achha guzre!",
+      "note": "A modern phrase; in person people often just say Allah hafiz."
+    },
+    "good_luck": {
+      "text": "اللہ آپ کو کامیاب کرے!",
+      "roman": "Allah aap ko kaamyaab kare!",
+      "note": "Said before an exam, interview or new venture. Casual: best of luck!"
+    },
+    "happy_birthday": {
+      "text": "سالگرہ مبارک ہو!",
+      "roman": "Saalgirah mubarak ho!"
+    },
+    "thanks_a_lot": {
+      "text": "بہت شکریہ",
+      "roman": "Bohat shukriya",
+      "note": "Even warmer: bohat bohat shukriya. Also: aap ki meharbani (آپ کی مہربانی), 'very kind of you'."
+    },
+    "miss_you": {
+      "text": "مجھے تمہاری یاد آتی ہے",
+      "roman": "Mujhe tumhari yaad aati hai",
+      "note": "Same for men and women. To an elder: mujhe aap ki yaad aati hai (مجھے آپ کی یاد آتی ہے)."
     }
   }
 }

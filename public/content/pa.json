@@ -481,6 +481,496 @@
       "text": "ਵਧਾਈਆਂ!",
       "roman": "vadhaiyan!",
       "note": "Equally common: ਮੁਬਾਰਕਾਂ! (mubaarkaan!). Warmer: ਲੱਖ-ਲੱਖ ਵਧਾਈਆਂ! (lakh-lakh vadhaiyan!)"
+    },
+    "my_family": {
+      "text": "ਮੇਰਾ ਪਰਿਵਾਰ",
+      "roman": "mera parivaar",
+      "note": "Warm and very Punjabi: ਮੇਰਾ ਟੱਬਰ (mera tabbar)."
+    },
+    "mother": {
+      "text": "ਮਾਂ",
+      "roman": "maa",
+      "note": "Said with a nasal a. Respectful: ਮਾਤਾ ਜੀ (maata ji); at home, ਮੰਮੀ (mummy) is very common."
+    },
+    "father": {
+      "text": "ਪਿਤਾ",
+      "roman": "pita",
+      "note": "Usually ਪਿਤਾ ਜੀ (pita ji). At home: ਡੈਡੀ (daddy) or ਬਾਪੂ ਜੀ (baapu ji). Parents: ਮਾਂ-ਪਿਓ (maa-pio)."
+    },
+    "brother": {
+      "text": "ਭਰਾ",
+      "roman": "bhra",
+      "note": "ਭ sounds like a low-toned 'p': praa. Warm, very Punjabi: ਵੀਰ (veer), used especially by sisters."
+    },
+    "sister": {
+      "text": "ਭੈਣ",
+      "roman": "bhain",
+      "note": "Respectful, e.g. for an older sister: ਭੈਣ ਜੀ (bhain ji)."
+    },
+    "child": {
+      "text": "ਬੱਚਾ",
+      "roman": "bachcha",
+      "note": "A girl: ਬੱਚੀ (bachchi). Son: ਪੁੱਤ (putt); daughter: ਧੀ (dhi)."
+    },
+    "friend": {
+      "text": "ਦੋਸਤ",
+      "roman": "dost",
+      "note": "Also for a woman friend; women call their female friends ਸਹੇਲੀ (saheli). Casual: ਯਾਰ (yaar)."
+    },
+    "this_is_my_friend": {
+      "text": "ਇਹ ਮੇਰਾ ਦੋਸਤ ਹੈ",
+      "roman": "eh mera dost hai",
+      "note": "For a female friend: ਇਹ ਮੇਰੀ ਦੋਸਤ ਹੈ (eh meri dost hai)."
+    },
+    "are_you_married": {
+      "text": "ਕੀ ਤੁਹਾਡਾ ਵਿਆਹ ਹੋ ਗਿਆ ਹੈ?",
+      "roman": "ki tuhaada viaah ho gaya hai?",
+      "note": "Works for anyone. Replies: ਹਾਂ ਜੀ, ਹੋ ਗਿਆ (haan ji, ho gaya) or ਨਹੀਂ ਜੀ, ਹਾਲੇ ਨਹੀਂ (nahin ji, haale nahin)."
+    },
+    "have_children": {
+      "text": "ਕੀ ਤੁਹਾਡੇ ਬੱਚੇ ਹਨ?",
+      "roman": "ki tuhaade bachche han?",
+      "note": "Spoken: ਤੁਹਾਡੇ ਬੱਚੇ ਨੇ? (tuhaade bachche ne?) How many? ਕਿੰਨੇ ਬੱਚੇ ਨੇ? (kinne bachche ne?)"
+    },
+    "monday": {
+      "text": "ਸੋਮਵਾਰ",
+      "roman": "somvaar",
+      "note": "On Monday: ਸੋਮਵਾਰ ਨੂੰ (somvaar nu). The same pattern works for every day."
+    },
+    "tuesday": {
+      "text": "ਮੰਗਲਵਾਰ",
+      "roman": "mangalvaar"
+    },
+    "wednesday": {
+      "text": "ਬੁੱਧਵਾਰ",
+      "roman": "buddhvaar"
+    },
+    "thursday": {
+      "text": "ਵੀਰਵਾਰ",
+      "roman": "veervaar"
+    },
+    "friday": {
+      "text": "ਸ਼ੁੱਕਰਵਾਰ",
+      "roman": "shukkarvaar"
+    },
+    "saturday": {
+      "text": "ਸ਼ਨਿੱਚਰਵਾਰ",
+      "roman": "shanichcharvaar",
+      "note": "Also ਸ਼ਨੀਵਾਰ (shanivaar)."
+    },
+    "sunday": {
+      "text": "ਐਤਵਾਰ",
+      "roman": "aitvaar"
+    },
+    "weekend": {
+      "text": "ਵੀਕਐਂਡ",
+      "roman": "veekaind",
+      "note": "The English word is what most people say. Also simply ਸ਼ਨੀ-ਐਤਵਾਰ (shani-aitvaar), 'Saturday-Sunday'."
+    },
+    "what_day": {
+      "text": "ਅੱਜ ਕਿਹੜਾ ਦਿਨ ਹੈ?",
+      "roman": "ajj kehda din hai?",
+      "note": "Also common: ਅੱਜ ਕੀ ਵਾਰ ਹੈ? (ajj ki vaar hai?), with ਵਾਰ as in ਸੋਮਵਾਰ."
+    },
+    "next_week": {
+      "text": "ਅਗਲੇ ਹਫ਼ਤੇ",
+      "roman": "agle hafte",
+      "note": "As a subject, e.g. 'next week is busy': ਅਗਲਾ ਹਫ਼ਤਾ (agla hafta)."
+    },
+    "eleven": {
+      "text": "ਗਿਆਰਾਂ",
+      "roman": "giaaraan",
+      "note": "Gurmukhi digits: ੧੧"
+    },
+    "twelve": {
+      "text": "ਬਾਰਾਂ",
+      "roman": "baaraan",
+      "note": "Gurmukhi digits: ੧੨"
+    },
+    "fifteen": {
+      "text": "ਪੰਦਰਾਂ",
+      "roman": "pandraan",
+      "note": "Gurmukhi digits: ੧੫"
+    },
+    "twenty": {
+      "text": "ਵੀਹ",
+      "roman": "veeh",
+      "note": "Gurmukhi digits: ੨੦. The final ਹ is barely heard; it gives the vowel a tone."
+    },
+    "thirty": {
+      "text": "ਤੀਹ",
+      "roman": "teeh",
+      "note": "Gurmukhi digits: ੩੦"
+    },
+    "fifty": {
+      "text": "ਪੰਜਾਹ",
+      "roman": "panjaah",
+      "note": "Gurmukhi digits: ੫੦"
+    },
+    "hundred": {
+      "text": "ਇੱਕ ਸੌ",
+      "roman": "ikk sau",
+      "note": "Gurmukhi digits: ੧੦੦. Often just ਸੌ (sau)."
+    },
+    "thousand": {
+      "text": "ਇੱਕ ਹਜ਼ਾਰ",
+      "roman": "ikk hazaar",
+      "note": "Gurmukhi digits: ੧੦੦੦. Often just ਹਜ਼ਾਰ (hazaar)."
+    },
+    "how_old": {
+      "text": "ਤੁਹਾਡੀ ਉਮਰ ਕਿੰਨੀ ਹੈ?",
+      "roman": "tuhaadi umar kinni hai?",
+      "note": "Casual: ਕਿੰਨੇ ਸਾਲ ਦੇ ਹੋ? (kinne saal de ho?)"
+    },
+    "years_old": {
+      "text": "ਮੈਂ … ਸਾਲ ਦਾ ਹਾਂ",
+      "roman": "main … saal da haan",
+      "note": "A woman says: ਮੈਂ … ਸਾਲ ਦੀ ਹਾਂ (main … saal di haan)."
+    },
+    "red": {
+      "text": "ਲਾਲ",
+      "roman": "laal",
+      "note": "Doesn't change for gender, unlike most colours: ਨੀਲਾ/ਨੀਲੀ (neela/neeli)."
+    },
+    "blue": {
+      "text": "ਨੀਲਾ",
+      "roman": "neela",
+      "note": "Feminine: ਨੀਲੀ (neeli)."
+    },
+    "green": {
+      "text": "ਹਰਾ",
+      "roman": "hara",
+      "note": "Feminine: ਹਰੀ (hari)."
+    },
+    "yellow": {
+      "text": "ਪੀਲਾ",
+      "roman": "peela",
+      "note": "Feminine: ਪੀਲੀ (peeli)."
+    },
+    "black": {
+      "text": "ਕਾਲਾ",
+      "roman": "kaala",
+      "note": "Feminine: ਕਾਲੀ (kaali)."
+    },
+    "white": {
+      "text": "ਚਿੱਟਾ",
+      "roman": "chitta",
+      "note": "Feminine: ਚਿੱਟੀ (chitti)."
+    },
+    "what_colour": {
+      "text": "ਇਸ ਦਾ ਰੰਗ ਕੀ ਹੈ?",
+      "roman": "is da rang ki hai?",
+      "note": "Also common: ਇਹ ਕਿਹੜੇ ਰੰਗ ਦਾ ਹੈ? (eh kehde rang da hai?)"
+    },
+    "this_one": {
+      "text": "ਇਹ ਵਾਲਾ",
+      "roman": "eh vaala",
+      "note": "For a feminine noun: ਇਹ ਵਾਲੀ (eh vaali)."
+    },
+    "that_one": {
+      "text": "ਉਹ ਵਾਲਾ",
+      "roman": "oh vaala",
+      "note": "For a feminine noun: ਉਹ ਵਾਲੀ (oh vaali)."
+    },
+    "another_one": {
+      "text": "ਇੱਕ ਹੋਰ ਦੇ ਦਿਓ ਜੀ",
+      "roman": "ikk hor de deo ji",
+      "note": "ਹੋਰ (hor) alone means 'more': ਹੋਰ ਚਾਹ (hor chaa), 'more tea'."
+    },
+    "its_hot": {
+      "text": "ਗਰਮੀ ਹੈ",
+      "roman": "garmi hai",
+      "note": "'I feel hot': ਮੈਨੂੰ ਗਰਮੀ ਲੱਗ ਰਹੀ ਹੈ (mainu garmi lagg rahi hai)."
+    },
+    "its_cold": {
+      "text": "ਠੰਢ ਹੈ",
+      "roman": "thandh hai",
+      "note": "'I feel cold': ਮੈਨੂੰ ਠੰਢ ਲੱਗ ਰਹੀ ਹੈ (mainu thandh lagg rahi hai)."
+    },
+    "its_raining": {
+      "text": "ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ",
+      "roman": "meenh pai reha hai",
+      "note": "Also common: ਬਾਰਿਸ਼ ਹੋ ਰਹੀ ਹੈ (baarish ho rahi hai)."
+    },
+    "its_sunny": {
+      "text": "ਧੁੱਪ ਨਿਕਲੀ ਹੋਈ ਹੈ",
+      "roman": "dhupp nikli hoi hai",
+      "note": "ਧੁੱਪ (dhupp) is sunshine; the sun itself is ਸੂਰਜ (sooraj)."
+    },
+    "its_windy": {
+      "text": "ਹਵਾ ਚੱਲ ਰਹੀ ਹੈ",
+      "roman": "hava chall rahi hai",
+      "note": "Strong wind: ਤੇਜ਼ ਹਵਾ ਚੱਲ ਰਹੀ ਹੈ (tez hava chall rahi hai)."
+    },
+    "weather_today": {
+      "text": "ਅੱਜ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?",
+      "roman": "ajj mausam keho jeha hai?",
+      "note": "Casual: ਅੱਜ ਮੌਸਮ ਕਿਵੇਂ ਦਾ ਹੈ? (ajj mausam kiven da hai?)"
+    },
+    "beautiful_day": {
+      "text": "ਅੱਜ ਬਹੁਤ ਸੋਹਣਾ ਦਿਨ ਹੈ",
+      "roman": "ajj bahut sohna din hai",
+      "note": "About the weather itself: ਮੌਸਮ ਬਹੁਤ ਵਧੀਆ ਹੈ (mausam bahut vadhiya hai)."
+    },
+    "umbrella": {
+      "text": "ਛਤਰੀ",
+      "roman": "chhatri"
+    },
+    "summer": {
+      "text": "ਗਰਮੀਆਂ",
+      "roman": "garmiyan",
+      "note": "In summer: ਗਰਮੀਆਂ ਵਿੱਚ (garmiyan vich). Traditional word: ਹੁਨਾਲ (hunaal)."
+    },
+    "winter": {
+      "text": "ਸਰਦੀਆਂ",
+      "roman": "sardiyan",
+      "note": "In winter: ਸਰਦੀਆਂ ਵਿੱਚ (sardiyan vich). Traditional word: ਸਿਆਲ (siaal)."
+    },
+    "have_reservation": {
+      "text": "ਮੇਰੀ ਬੁਕਿੰਗ ਹੈ",
+      "roman": "meri buking hai",
+      "note": "Giving your name: ਮੇਰੇ ਨਾਮ 'ਤੇ ਬੁਕਿੰਗ ਹੈ (mere naam te buking hai), 'booked in my name'."
+    },
+    "room": {
+      "text": "ਕਮਰਾ",
+      "roman": "kamra",
+      "note": "Any rooms free? ਕੋਈ ਕਮਰਾ ਖ਼ਾਲੀ ਹੈ? (koi kamra khaali hai?)"
+    },
+    "passport": {
+      "text": "ਪਾਸਪੋਰਟ",
+      "roman": "paasport"
+    },
+    "luggage": {
+      "text": "ਸਾਮਾਨ",
+      "roman": "saamaan",
+      "note": "Also means 'things, belongings' in general. A bag: ਬੈਗ (baig)."
+    },
+    "wifi_password": {
+      "text": "ਵਾਈ-ਫ਼ਾਈ ਦਾ ਪਾਸਵਰਡ ਕੀ ਹੈ?",
+      "roman": "vaai-faai da paasvard ki hai?"
+    },
+    "check_out_time": {
+      "text": "ਚੈੱਕ-ਆਊਟ ਕਿੰਨੇ ਵਜੇ ਹੈ?",
+      "roman": "chaik-aaut kinne vaje hai?",
+      "note": "Or: ਕਮਰਾ ਕਿੰਨੇ ਵਜੇ ਖ਼ਾਲੀ ਕਰਨਾ ਹੈ? (kamra kinne vaje khaali karna hai?), 'when must the room be free?'"
+    },
+    "map": {
+      "text": "ਨਕਸ਼ਾ",
+      "roman": "naksha",
+      "note": "On a phone, people usually say ਮੈਪ (map)."
+    },
+    "bus": {
+      "text": "ਬੱਸ",
+      "roman": "bas",
+      "note": "Spelt and said like ਬੱਸ (bas), 'just, enough'; context tells them apart."
+    },
+    "next_train": {
+      "text": "ਅਗਲੀ ਗੱਡੀ ਕਦੋਂ ਹੈ?",
+      "roman": "agli gaddi kadon hai?",
+      "note": "At a station ਗੱਡੀ (gaddi) means the train; elsewhere it's any vehicle. ਟਰੇਨ (train) is also used."
+    },
+    "is_this_seat_free": {
+      "text": "ਕੀ ਇਹ ਸੀਟ ਖ਼ਾਲੀ ਹੈ?",
+      "roman": "ki eh seet khaali hai?",
+      "note": "Spoken, simply: ਸੀਟ ਖ਼ਾਲੀ ਹੈ ਜੀ? (seet khaali hai ji?)"
+    },
+    "what_do_you_do": {
+      "text": "ਤੁਸੀਂ ਕੀ ਕੰਮ ਕਰਦੇ ਹੋ?",
+      "roman": "tusi ki kamm karde ho?",
+      "note": "Polite ਤੁਸੀਂ (tusi) takes ਕਰਦੇ (karde) when asking a woman too."
+    },
+    "i_work_in": {
+      "text": "ਮੈਂ … ਵਿੱਚ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+      "roman": "main … vich kamm karda haan",
+      "note": "A woman says: ਮੈਂ … ਵਿੱਚ ਕੰਮ ਕਰਦੀ ਹਾਂ (main … vich kamm kardi haan)."
+    },
+    "im_student": {
+      "text": "ਮੈਂ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+      "roman": "main vidiaarthi haan",
+      "note": "A woman says: ਮੈਂ ਵਿਦਿਆਰਥਣ ਹਾਂ (main vidiaarthan haan). The English ਸਟੂਡੈਂਟ (student) is common too."
+    },
+    "office": {
+      "text": "ਦਫ਼ਤਰ",
+      "roman": "daftar",
+      "note": "ਆਫ਼ਿਸ (office) is just as common."
+    },
+    "meeting": {
+      "text": "ਮੀਟਿੰਗ",
+      "roman": "meeting",
+      "note": "The English word is the everyday one. ਬੈਠਕ (baithak) is used for formal or political meetings."
+    },
+    "im_busy": {
+      "text": "ਮੈਂ ਰੁੱਝਿਆ ਹੋਇਆ ਹਾਂ",
+      "roman": "main rujjheya hoya haan",
+      "note": "A woman says: ਮੈਂ ਰੁੱਝੀ ਹੋਈ ਹਾਂ (main rujjhi hoi haan). Everyday: ਮੈਂ ਬਿਜ਼ੀ ਹਾਂ (main bizi haan)."
+    },
+    "day_off": {
+      "text": "ਛੁੱਟੀ",
+      "roman": "chhutti",
+      "note": "Also 'holiday' or 'leave'. I'm off today: ਅੱਜ ਮੇਰੀ ਛੁੱਟੀ ਹੈ (ajj meri chhutti hai)."
+    },
+    "colleague": {
+      "text": "ਸਹਿਕਰਮੀ",
+      "roman": "sehkarmi",
+      "note": "Formal, same for women. In speech: ਨਾਲ ਕੰਮ ਕਰਨ ਵਾਲਾ (naal kamm karan vaala); for a woman ਵਾਲੀ (vaali)."
+    },
+    "lets_start": {
+      "text": "ਚਲੋ, ਸ਼ੁਰੂ ਕਰੀਏ",
+      "roman": "chalo, shuru kariye",
+      "note": "ਚਲੋ (chalo) works like 'come on' and starts many 'let's' suggestions."
+    },
+    "good_job": {
+      "text": "ਸ਼ਾਬਾਸ਼!",
+      "roman": "shaabaash!",
+      "note": "Said to juniors or children. To a peer or boss: ਬਹੁਤ ਵਧੀਆ ਕੰਮ ਕੀਤਾ! (bahut vadhiya kamm keeta!)"
+    },
+    "table_for_two": {
+      "text": "ਦੋ ਜਣਿਆਂ ਲਈ ਟੇਬਲ ਦੇ ਦਿਓ ਜੀ",
+      "roman": "do janiyan lai tebal de deo ji",
+      "note": "ਜਣਿਆਂ (janiyan) means 'people'. The Punjabi word for table is ਮੇਜ਼ (mez), but restaurants say ਟੇਬਲ."
+    },
+    "what_recommend": {
+      "text": "ਇੱਥੇ ਕੀ ਵਧੀਆ ਬਣਦਾ ਹੈ ਜੀ?",
+      "roman": "itthe ki vadhiya banda hai ji?",
+      "note": "Literally 'what's made well here?' Or: ਤੁਸੀਂ ਕੀ ਸਲਾਹ ਦਿਓਗੇ? (tusi ki salaah deoge?)"
+    },
+    "not_spicy": {
+      "text": "ਤਿੱਖਾ ਨਾ ਬਣਾਇਓ ਜੀ",
+      "roman": "tikkha na banaio ji",
+      "note": "Or ask for less chilli: ਮਿਰਚਾਂ ਘੱਟ ਪਾਇਓ ਜੀ (mirchaan ghatt paaio ji)."
+    },
+    "vegetarian_food": {
+      "text": "ਸ਼ਾਕਾਹਾਰੀ ਖਾਣਾ",
+      "roman": "shaakaahaari khaana",
+      "note": "In speech ਵੈੱਜ (veg) is very common; in Punjab also ਵੈਸ਼ਨੋ (vaishno)."
+    },
+    "more_water": {
+      "text": "ਹੋਰ ਪਾਣੀ ਦੇ ਦਿਓ ਜੀ",
+      "roman": "hor paani de deo ji"
+    },
+    "no_sugar": {
+      "text": "ਖੰਡ ਨਾ ਪਾਇਓ ਜੀ",
+      "roman": "khand na paaio ji",
+      "note": "Sugar is also ਚੀਨੀ (cheeni). Unsweetened tea: ਫਿੱਕੀ ਚਾਹ (phikki chaa)."
+    },
+    "im_full": {
+      "text": "ਮੈਂ ਰੱਜ ਗਿਆ ਹਾਂ",
+      "roman": "main rajj gaya haan",
+      "note": "A woman says: ਮੈਂ ਰੱਜ ਗਈ ਹਾਂ (main rajj gayi haan). To turn down more food: ਬੱਸ ਜੀ (bas ji)."
+    },
+    "takeaway": {
+      "text": "ਪੈਕ ਕਰ ਦਿਓ ਜੀ",
+      "roman": "paik kar deo ji",
+      "note": "Also: ਨਾਲ ਲੈ ਕੇ ਜਾਣਾ ਹੈ (naal lai ke jaana hai), 'it's to take with me'."
+    },
+    "it_was_delicious": {
+      "text": "ਬਹੁਤ ਸੁਆਦ ਸੀ",
+      "roman": "bahut suaad si",
+      "note": "ਸੀ (si) is the past of ਹੈ (hai). Heartfelt: ਮਜ਼ਾ ਆ ਗਿਆ! (maza aa gaya!)"
+    },
+    "keep_change": {
+      "text": "ਬਾਕੀ ਪੈਸੇ ਰੱਖ ਲਓ ਜੀ",
+      "roman": "baaki paise rakh lao ji",
+      "note": "Often just ਬਾਕੀ ਰੱਖ ਲਓ (baaki rakh lao)."
+    },
+    "head": {
+      "text": "ਸਿਰ",
+      "roman": "sir",
+      "note": "Short i as in 'sit', not like English 'sir'."
+    },
+    "stomach": {
+      "text": "ਢਿੱਡ",
+      "roman": "dhidd",
+      "note": "ਪੇਟ (pet) is also used, especially with doctors."
+    },
+    "head_hurts": {
+      "text": "ਮੇਰਾ ਸਿਰ ਦੁਖ ਰਿਹਾ ਹੈ",
+      "roman": "mera sir dukh reha hai",
+      "note": "Also: ਮੇਰੇ ਸਿਰ ਵਿੱਚ ਦਰਦ ਹੈ (mere sir vich dard hai)."
+    },
+    "have_fever": {
+      "text": "ਮੈਨੂੰ ਬੁਖ਼ਾਰ ਹੈ",
+      "roman": "mainu bukhaar hai",
+      "note": "Same for men and women."
+    },
+    "medicine": {
+      "text": "ਦਵਾਈ",
+      "roman": "davaai",
+      "note": "Medicine is 'eaten' in Punjabi: ਦਵਾਈ ਖਾ ਲਓ (davaai khaa lao), 'take your medicine'."
+    },
+    "call_ambulance": {
+      "text": "ਐਂਬੂਲੈਂਸ ਬੁਲਾਓ!",
+      "roman": "aimbulains bulao!"
+    },
+    "dentist": {
+      "text": "ਦੰਦਾਂ ਦਾ ਡਾਕਟਰ",
+      "roman": "dandaan da daaktar",
+      "note": "Literally 'teeth doctor'. ਡੈਂਟਿਸਟ (dentist) is also understood."
+    },
+    "need_rest": {
+      "text": "ਮੈਨੂੰ ਆਰਾਮ ਦੀ ਲੋੜ ਹੈ",
+      "roman": "mainu aaraam di lod hai",
+      "note": "Everyday: ਮੈਂ ਥੋੜ੍ਹਾ ਆਰਾਮ ਕਰਨਾ ਹੈ (main thoda aaraam karna hai)."
+    },
+    "feel_better": {
+      "text": "ਹੁਣ ਮੈਂ ਪਹਿਲਾਂ ਨਾਲੋਂ ਠੀਕ ਹਾਂ",
+      "roman": "hun main pehlaan naalon theek haan",
+      "note": "Very common: ਹੁਣ ਆਰਾਮ ਹੈ (hun aaraam hai), 'it has eased now'."
+    },
+    "get_well": {
+      "text": "ਛੇਤੀ ਠੀਕ ਹੋ ਜਾਓ!",
+      "roman": "chheti theek ho jao!",
+      "note": "Warmer, with a blessing: ਰੱਬ ਕਰੇ ਤੁਸੀਂ ਛੇਤੀ ਠੀਕ ਹੋ ਜਾਓ (rabb kare tusi chheti theek ho jao)."
+    },
+    "lets_meet": {
+      "text": "ਚਲੋ, ਕਦੇ ਮਿਲੀਏ",
+      "roman": "chalo, kade miliye",
+      "note": "ਆਪਾਂ (aapaan) is the friendly 'we': ਆਪਾਂ ਕੱਲ੍ਹ ਮਿਲੀਏ? (aapaan kall miliye?), 'shall we meet tomorrow?'"
+    },
+    "are_you_free": {
+      "text": "ਕੀ ਤੁਸੀਂ ਕੱਲ੍ਹ ਨੂੰ ਵਿਹਲੇ ਹੋ?",
+      "roman": "ki tusi kall nu vehle ho?",
+      "note": "Casual: ਕੱਲ੍ਹ ਟਾਈਮ ਹੈ? (kall time hai?), 'got time tomorrow?'"
+    },
+    "call_me": {
+      "text": "ਮੈਨੂੰ ਫ਼ੋਨ ਕਰਨਾ ਜੀ",
+      "roman": "mainu fon karna ji",
+      "note": "A gentle request for later. Call me right now: ਮੈਨੂੰ ਹੁਣੇ ਫ਼ੋਨ ਕਰੋ (mainu hune fon karo)."
+    },
+    "your_number": {
+      "text": "ਤੁਹਾਡਾ ਫ਼ੋਨ ਨੰਬਰ ਕੀ ਹੈ?",
+      "roman": "tuhaada fon nambar ki hai?",
+      "note": "Casual: ਆਪਣਾ ਨੰਬਰ ਦੇ ਦਿਓ (aapna nambar de deo), 'give me your number'."
+    },
+    "see_you_soon": {
+      "text": "ਛੇਤੀ ਮਿਲਾਂਗੇ",
+      "roman": "chheti milaange",
+      "note": "Also: ਜਲਦੀ ਮਿਲਦੇ ਹਾਂ (jaldi milde haan)."
+    },
+    "have_nice_day": {
+      "text": "ਤੁਹਾਡਾ ਦਿਨ ਵਧੀਆ ਲੰਘੇ!",
+      "roman": "tuhaada din vadhiya langhe!",
+      "note": "A modern phrase. The traditional warm parting is ਰੱਬ ਰਾਖਾ (rabb raakha)."
+    },
+    "good_luck": {
+      "text": "ਸ਼ੁਭ ਕਾਮਨਾਵਾਂ!",
+      "roman": "shubh kaamnaavaan!",
+      "note": "Formal, like 'best wishes'. In speech the English ਗੁੱਡ ਲੱਕ (good luck) or ਬੈਸਟ ਆਫ਼ ਲੱਕ (best of luck)."
+    },
+    "happy_birthday": {
+      "text": "ਜਨਮ ਦਿਨ ਮੁਬਾਰਕ!",
+      "roman": "janam din mubaarak!",
+      "note": "Also: ਜਨਮ ਦਿਨ ਦੀਆਂ ਵਧਾਈਆਂ! (janam din diyan vadhaiyan!)"
+    },
+    "thanks_a_lot": {
+      "text": "ਬਹੁਤ-ਬਹੁਤ ਧੰਨਵਾਦ",
+      "roman": "bahut-bahut dhanvaad",
+      "note": "Warmer in everyday speech: ਬਹੁਤ ਮਿਹਰਬਾਨੀ ਜੀ (bahut meharbaani ji)."
+    },
+    "miss_you": {
+      "text": "ਮੈਨੂੰ ਤੇਰੀ ਯਾਦ ਆਉਂਦੀ ਹੈ",
+      "roman": "mainu teri yaad aundi hai",
+      "note": "Uses the close ਤੇਰੀ (teri). To an elder: ਤੁਹਾਡੀ (tuhaadi). Same for men and women."
     }
   }
 }

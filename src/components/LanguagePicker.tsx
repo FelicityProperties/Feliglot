@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { ChevronRight, Search } from "lucide-react";
 import { LANGUAGES, REGIONS, type Region } from "@/lib/languages";
 import { useProgress, useSpeakLanguage } from "@/lib/store";
 import { UNITS } from "@/lib/curriculum";
@@ -29,17 +30,18 @@ export default function LanguagePicker({ limit }: { limit?: number }) {
   return (
     <div>
       <div className="flex flex-col gap-3 sm:flex-row">
-        <label htmlFor="lang-search" className="sr-only">
-          Find a language
+        <label className="flex h-14 w-full items-center gap-3 rounded-2xl border border-sand-300 bg-card px-4 shadow-soft focus-within:border-primary">
+          <Search size={20} className="shrink-0 text-ink-500" aria-hidden />
+          <span className="sr-only">Find a language</span>
+          <input
+            id="lang-search"
+            type="search"
+            value={q}
+            onChange={(e) => setQ(e.target.value)}
+            placeholder="Search — e.g. Japanese, Swahili, हिन्दी"
+            className="w-full bg-transparent text-base outline-none"
+          />
         </label>
-        <input
-          id="lang-search"
-          type="search"
-          value={q}
-          onChange={(e) => setQ(e.target.value)}
-          placeholder="Find a language — e.g. Japanese, Swahili, हिन्दी"
-          className="w-full rounded-2xl border border-sand-300 bg-white px-5 py-3 text-base outline-none focus:border-teal-600"
-        />
         <label htmlFor="lang-region" className="sr-only">
           Region
         </label>
@@ -47,7 +49,7 @@ export default function LanguagePicker({ limit }: { limit?: number }) {
           id="lang-region"
           value={region}
           onChange={(e) => setRegion(e.target.value as Region | "All")}
-          className="rounded-2xl border border-sand-300 bg-white px-4 py-3 text-base"
+          className="h-14 rounded-2xl border border-sand-300 bg-card px-4 text-base shadow-soft"
         >
           <option value="All">All regions</option>
           {REGIONS.map((r) => (
@@ -60,26 +62,25 @@ export default function LanguagePicker({ limit }: { limit?: number }) {
         {query || region !== "All" ? `${list.length} ${list.length === 1 ? "language" : "languages"} found` : ""}
       </p>
 
-      <ul className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
+      <ul className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {shown.map((l) => {
           const done = progress.done[l.code]?.length ?? 0;
           return (
             <li key={l.code}>
               <Link
                 href={`/learn/${l.code}`}
-                className="flex h-full flex-col rounded-2xl border border-sand-200 bg-white p-4 transition hover:border-teal-600 hover:shadow-sm"
+                className="grid h-full min-h-24 grid-cols-[auto_minmax(0,1fr)_auto] items-center gap-4 rounded-3xl border border-sand-300 bg-card p-5 shadow-soft transition hover:-translate-y-1 hover:border-primary"
               >
-                <span dir={l.dir} lang={l.speech} className="truncate text-xl font-semibold text-ink-900">
+                <span dir={l.dir} lang={l.speech} className="max-w-28 truncate font-display text-2xl font-bold text-primary">
                   {l.nativeName}
                 </span>
-                <span className="mt-0.5 text-sm text-ink-600">{l.name}</span>
-                <span className="mt-2 text-xs text-ink-500">
-                  {l.code === speak
-                    ? "You speak this"
-                    : done
-                      ? `${done} of ${UNITS.length} lessons done`
-                      : "Start learning →"}
+                <span className="flex min-w-0 flex-col">
+                  <strong className="truncate font-display text-lg text-ink-900">{l.name}</strong>
+                  <small className="text-ink-500">
+                    {l.code === speak ? "You speak this" : done ? `${done} of ${UNITS.length} lessons done` : "Start learning"}
+                  </small>
                 </span>
+                <ChevronRight size={18} className="text-ink-500" aria-hidden />
               </Link>
             </li>
           );

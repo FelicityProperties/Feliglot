@@ -391,6 +391,406 @@
     "congratulations": {
       "text": "Baie geluk!",
       "note": "On a birthday: Veels geluk met jou verjaarsdag!"
+    },
+    "my_family": {
+      "text": "My familie",
+      "note": "Familie is the wider family. Your own household (parents and children) is your gesin."
+    },
+    "mother": {
+      "text": "Ma",
+      "note": "The everyday word: my ma. Formal or written: moeder. Small children say mamma."
+    },
+    "father": {
+      "text": "Pa",
+      "note": "The everyday word: my pa. Formal or written: vader. Small children say pappa. Parents: ouers."
+    },
+    "brother": {
+      "text": "Broer",
+      "note": "Plural: broers. The oe sounds like the 'oo' in 'food'."
+    },
+    "sister": {
+      "text": "Suster",
+      "note": "Plural: susters. In hospitals, Suster is also how you address a nurse."
+    },
+    "child": {
+      "text": "Kind",
+      "note": "Plural: kinders. Son: seun. Daughter: dogter."
+    },
+    "friend": {
+      "text": "Vriend",
+      "note": "A female friend: vriendin. Casual: maat or pel (mate, buddy)."
+    },
+    "this_is_my_friend": {
+      "text": "Dit is my vriend",
+      "note": "For a female friend: Dit is my vriendin. To rule out 'partner': Dit is 'n vriend (or vriendin) van my."
+    },
+    "are_you_married": {
+      "text": "Is u getroud?",
+      "note": "Casual: Is jy getroud?"
+    },
+    "have_children": {
+      "text": "Het u kinders?",
+      "note": "Casual: Het jy kinders?"
+    },
+    "monday": {
+      "text": "Maandag",
+      "note": "Days are always capitalised in Afrikaans. On Monday: op Maandag, or just Maandag."
+    },
+    "tuesday": {
+      "text": "Dinsdag",
+      "note": "The final g is throaty, like the ch in Scottish 'loch': 'DINS-dakh'."
+    },
+    "wednesday": {
+      "text": "Woensdag",
+      "note": "The w is a v sound and oe sounds like 'oo': 'VOONS-dakh'."
+    },
+    "thursday": {
+      "text": "Donderdag",
+      "note": "From donder (thunder), just like English Thursday (Thor's day)."
+    },
+    "friday": {
+      "text": "Vrydag",
+      "note": "The y sounds like the 'ay' in 'say': 'FRAY-dakh'."
+    },
+    "saturday": {
+      "text": "Saterdag",
+      "note": "Said 'SAH-tuhr-dakh', with the r pronounced."
+    },
+    "sunday": {
+      "text": "Sondag",
+      "note": "On Sundays: op Sondae."
+    },
+    "weekend": {
+      "text": "Naweek",
+      "note": "Have a lovely weekend: Lekker naweek!"
+    },
+    "what_day": {
+      "text": "Watter dag is dit vandag?",
+      "note": "For the date: Wat is die datum vandag?"
+    },
+    "next_week": {
+      "text": "Volgende week",
+      "note": "Last week: verlede week. This week: hierdie week."
+    },
+    "eleven": {
+      "text": "Elf",
+      "note": "Sounds just like English 'elf'."
+    },
+    "twelve": {
+      "text": "Twaalf",
+      "note": "Said 'twahlf'. 13 to 19 end in -tien: dertien, veertien."
+    },
+    "fifteen": {
+      "text": "Vyftien",
+      "note": "Said 'FAYF-teen'."
+    },
+    "twenty": {
+      "text": "Twintig",
+      "note": "21 is een-en-twintig: the units come first, as in 'one-and-twenty'."
+    },
+    "thirty": {
+      "text": "Dertig",
+      "note": "Said 'DEHR-tikh'. 35 is vyf-en-dertig."
+    },
+    "fifty": {
+      "text": "Vyftig",
+      "note": "Said 'FAYF-tikh'."
+    },
+    "hundred": {
+      "text": "Honderd",
+      "note": "Also: eenhonderd. 200 is tweehonderd."
+    },
+    "thousand": {
+      "text": "Duisend",
+      "note": "Also: eenduisend. The ui is roughly the 'ay' in 'say', said with rounded lips."
+    },
+    "how_old": {
+      "text": "Hoe oud is u?",
+      "note": "Casual: Hoe oud is jy?"
+    },
+    "years_old": {
+      "text": "Ek is … jaar oud",
+      "note": "Jaar stays singular after a number: Ek is dertig jaar oud. Often just: Ek is dertig."
+    },
+    "red": {
+      "text": "Rooi",
+      "note": "Sounds like 'roy'."
+    },
+    "blue": {
+      "text": "Blou",
+      "note": "Said roughly like English 'blow'."
+    },
+    "green": {
+      "text": "Groen",
+      "note": "Throaty g, and oe sounds like 'oo': 'khroon'."
+    },
+    "yellow": {
+      "text": "Geel",
+      "note": "Throaty g: 'KHEE-ul'."
+    },
+    "black": {
+      "text": "Swart",
+      "note": "Black coffee: swart koffie."
+    },
+    "white": {
+      "text": "Wit",
+      "note": "Said 'vit'. White wine: witwyn."
+    },
+    "what_colour": {
+      "text": "Watter kleur is dit?",
+      "note": "Casual: Wat se kleur is dit?"
+    },
+    "this_one": {
+      "text": "Hierdie een",
+      "note": "Also: dié een, with the stress on dié."
+    },
+    "that_one": {
+      "text": "Daardie een",
+      "note": "In speech usually shortened: daai een."
+    },
+    "another_one": {
+      "text": "Nog een, asseblief",
+      "note": "Naming the item: Nog 'n koffie, asseblief."
+    },
+    "its_hot": {
+      "text": "Dit is warm",
+      "note": "Warm covers 'hot' for weather. In speech: Dis warm! Scorching: Dis snikheet."
+    },
+    "its_cold": {
+      "text": "Dit is koud",
+      "note": "In speech: Dis koud! Freezing: Dis yskoud."
+    },
+    "its_raining": {
+      "text": "Dit reën",
+      "note": "The ë splits the word into two syllables: re-ën."
+    },
+    "its_sunny": {
+      "text": "Die son skyn",
+      "note": "Also: Dis sonnig. The y sounds like the 'ay' in 'say': 'skayn'."
+    },
+    "its_windy": {
+      "text": "Dit waai",
+      "note": "Literally 'it's blowing'. Also: Dis winderig. Very windy: Dit waai kwaai."
+    },
+    "weather_today": {
+      "text": "Hoe is die weer vandag?",
+      "note": "Also very common: Hoe lyk die weer vandag?"
+    },
+    "beautiful_day": {
+      "text": "Dit is 'n pragtige dag",
+      "note": "Warmer: Wat 'n pragtige dag! In speech dit is usually becomes dis."
+    },
+    "umbrella": {
+      "text": "Sambreel",
+      "note": "Said 'sum-BREE-ul'."
+    },
+    "summer": {
+      "text": "Somer",
+      "note": "In summer: in die somer. In South Africa, summer is December to February."
+    },
+    "winter": {
+      "text": "Winter",
+      "note": "Same word as English, but said 'VIN-tuhr'. In South Africa, winter is June to August."
+    },
+    "have_reservation": {
+      "text": "Ek het 'n bespreking",
+      "note": "Also: Ek het 'n kamer bespreek (I booked a room)."
+    },
+    "room": {
+      "text": "Kamer",
+      "note": "Said 'KAH-muhr'. Double room: dubbelkamer."
+    },
+    "passport": {
+      "text": "Paspoort",
+      "note": "Your passport, please: U paspoort, asseblief."
+    },
+    "luggage": {
+      "text": "Bagasie",
+      "note": "Throaty g: 'buh-KHAH-see'. A suitcase is a tas."
+    },
+    "wifi_password": {
+      "text": "Wat is die wagwoord vir die Wi-Fi?",
+      "note": "Wagwoord is password. Wi-Fi is said as in English; many people write wifi."
+    },
+    "check_out_time": {
+      "text": "Hoe laat moet ek uitboek?",
+      "note": "Checking in is inboek. Many people also just say uitcheck."
+    },
+    "map": {
+      "text": "Kaart",
+      "note": "Also means 'card'. Street map: straatkaart."
+    },
+    "bus": {
+      "text": "Bus",
+      "note": "The same word as English. Bus stop: bushalte."
+    },
+    "next_train": {
+      "text": "Wanneer is die volgende trein?",
+      "note": "Also: Hoe laat vertrek die volgende trein?"
+    },
+    "is_this_seat_free": {
+      "text": "Is hierdie plek vry?",
+      "note": "A seat is a sitplek. Also very common: Sit hier iemand? (Is anyone sitting here?)"
+    },
+    "what_do_you_do": {
+      "text": "Watter werk doen u?",
+      "note": "Casual: Wat werk jy? On forms, occupation is beroep."
+    },
+    "i_work_in": {
+      "text": "Ek werk in …",
+      "note": "For a company or workplace use by: Ek werk by 'n bank."
+    },
+    "im_student": {
+      "text": "Ek is 'n student",
+      "note": "A woman says the same. A school pupil is a leerder."
+    },
+    "office": {
+      "text": "Kantoor",
+      "note": "At the office: op kantoor."
+    },
+    "meeting": {
+      "text": "Vergadering",
+      "note": "Said 'fuhr-KHAH-duh-ring'. In speech many people also just say meeting."
+    },
+    "im_busy": {
+      "text": "Ek is besig",
+      "note": "Said 'BEE-sukh'. Very busy: Ek is baie besig."
+    },
+    "day_off": {
+      "text": "Afdag",
+      "note": "In speech often: Ek is môre af (I'm off tomorrow). A day of leave from work: 'n verlofdag."
+    },
+    "colleague": {
+      "text": "Kollega",
+      "note": "Same word for a woman. Plural: kollegas."
+    },
+    "lets_start": {
+      "text": "Kom ons begin",
+      "note": "Also: Laat ons begin (a little more formal)."
+    },
+    "good_job": {
+      "text": "Mooi so!",
+      "note": "Also: Goed gedoen! or Knap gedoen!"
+    },
+    "table_for_two": {
+      "text": "'n Tafel vir twee, asseblief",
+      "note": "Politer: Kan ons 'n tafel vir twee kry, asseblief?"
+    },
+    "what_recommend": {
+      "text": "Wat sal u aanbeveel?",
+      "note": "Casual: Wat sal jy aanbeveel? Also: Wat is lekker hier?"
+    },
+    "not_spicy": {
+      "text": "Nie pittig nie, asseblief",
+      "note": "Note the double nie. Only mild: Nie te pittig nie, asseblief."
+    },
+    "vegetarian_food": {
+      "text": "Vegetariese kos",
+      "note": "I'm vegetarian: Ek is 'n vegetariër."
+    },
+    "more_water": {
+      "text": "Nog water, asseblief",
+      "note": "Politer: Kan ons nog water kry, asseblief?"
+    },
+    "no_sugar": {
+      "text": "Sonder suiker, asseblief",
+      "note": "With milk but no sugar: met melk, sonder suiker."
+    },
+    "im_full": {
+      "text": "Ek is vol",
+      "note": "Politer at the table: Ek is versadig, dankie. Casual: Ek het my dik geëet."
+    },
+    "takeaway": {
+      "text": "Om weg te neem, asseblief",
+      "note": "Also: Om saam te neem. Takeaways: wegneemetes."
+    },
+    "it_was_delicious": {
+      "text": "Dit was heerlik",
+      "note": "Casual: Dit was baie lekker!"
+    },
+    "keep_change": {
+      "text": "Hou maar die kleingeld",
+      "note": "Maar softens it, like 'just'. A tip is 'n fooitjie."
+    },
+    "head": {
+      "text": "Kop",
+      "note": "Headache: hoofpyn or kopseer."
+    },
+    "stomach": {
+      "text": "Maag",
+      "note": "Throaty g: 'mahkh'. Stomach ache: maagpyn."
+    },
+    "head_hurts": {
+      "text": "My kop is seer",
+      "note": "Seer means sore. Also: Ek het hoofpyn."
+    },
+    "have_fever": {
+      "text": "Ek het koors",
+      "note": "Feeling feverish: Ek voel koorsig."
+    },
+    "medicine": {
+      "text": "Medisyne",
+      "note": "Said 'meh-dee-SAY-nuh'. Also: medikasie. Pills: pille."
+    },
+    "call_ambulance": {
+      "text": "Bel 'n ambulans!",
+      "note": "In South Africa the ambulance number is 10177."
+    },
+    "dentist": {
+      "text": "Tandarts",
+      "note": "Tand is tooth, arts is doctor. Toothache: tandpyn."
+    },
+    "need_rest": {
+      "text": "Ek moet rus",
+      "note": "Also: Ek het rus nodig. Going to lie down: Ek gaan 'n bietjie lê."
+    },
+    "feel_better": {
+      "text": "Ek voel beter",
+      "note": "Also: Dit gaan beter met my."
+    },
+    "get_well": {
+      "text": "Beterskap!",
+      "note": "Fuller: Ek hoop jy voel gou beter!"
+    },
+    "lets_meet": {
+      "text": "Kom ons kry mekaar",
+      "note": "Kry mekaar is the everyday way to say meet up. Also: Kom ons spreek iets af (let's arrange something)."
+    },
+    "are_you_free": {
+      "text": "Is u môre vry?",
+      "note": "Casual: Is jy môre vry? Also: Het jy môre tyd?"
+    },
+    "call_me": {
+      "text": "Bel my, asseblief",
+      "note": "Casual: Gee my 'n luitjie! (give me a ring)."
+    },
+    "your_number": {
+      "text": "Wat is u telefoonnommer?",
+      "note": "Casual: Wat is jou nommer? Cellphone number: selnommer."
+    },
+    "see_you_soon": {
+      "text": "Sien jou gou",
+      "note": "Also: Tot gou! or Sien jou binnekort."
+    },
+    "have_nice_day": {
+      "text": "Geniet die dag!",
+      "note": "Casual: Lekker dag! Later in the day: Lekker dag verder!"
+    },
+    "good_luck": {
+      "text": "Sterkte!",
+      "note": "Also: Alles van die beste! Careful: Baie geluk! means congratulations."
+    },
+    "happy_birthday": {
+      "text": "Veels geluk met jou verjaarsdag!",
+      "note": "Short: Veels geluk! To someone older: met u verjaarsdag. Also heard: Gelukkige verjaarsdag!"
+    },
+    "thanks_a_lot": {
+      "text": "Baie dankie",
+      "note": "Even warmer: Baie, baie dankie! Formal: Hartlik dank."
+    },
+    "miss_you": {
+      "text": "Ek mis jou",
+      "note": "Also very common and warmer: Ek verlang na jou."
     }
   }
 }

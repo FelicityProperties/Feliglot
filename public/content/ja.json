@@ -467,6 +467,500 @@
       "text": "おめでとうございます！",
       "roman": "Omedetō gozaimasu!",
       "note": "Among friends: おめでとう (omedetō)."
+    },
+    "my_family": {
+      "text": "私の家族",
+      "roman": "Watashi no kazoku",
+      "note": "Natives usually say just 家族 (kazoku) or うちの家族 (uchi no kazoku)."
+    },
+    "mother": {
+      "text": "母",
+      "roman": "Haha",
+      "note": "Your own mother, talking to others. Someone else's, or calling yours: お母さん (okāsan)."
+    },
+    "father": {
+      "text": "父",
+      "roman": "Chichi",
+      "note": "Your own father, talking to others. Someone else's, or calling yours: お父さん (otōsan)."
+    },
+    "brother": {
+      "text": "兄",
+      "roman": "Ani",
+      "note": "Your older brother. Younger: 弟 (otōto). Someone else's older brother: お兄さん (oniisan)."
+    },
+    "sister": {
+      "text": "姉",
+      "roman": "Ane",
+      "note": "Your older sister. Younger: 妹 (imōto). Someone else's older sister: お姉さん (onēsan)."
+    },
+    "child": {
+      "text": "子ども",
+      "roman": "Kodomo",
+      "note": "Someone else's: お子さん (okosan). Son: 息子 (musuko); daughter: 娘 (musume)."
+    },
+    "friend": {
+      "text": "友達",
+      "roman": "Tomodachi",
+      "note": "Same for men and women. More formal: 友人 (yūjin)."
+    },
+    "this_is_my_friend": {
+      "text": "こちらは私の友達です",
+      "roman": "Kochira wa watashi no tomodachi desu",
+      "note": "こちら (kochira) is the polite \"this\" for people. With a name: 友達の…です (tomodachi no … desu)."
+    },
+    "are_you_married": {
+      "text": "結婚していますか？",
+      "roman": "Kekkon shite imasu ka?",
+      "note": "Politer: ご結婚されていますか (gokekkon sarete imasu ka). Quite personal with new acquaintances."
+    },
+    "have_children": {
+      "text": "お子さんはいますか？",
+      "roman": "Okosan wa imasu ka?",
+      "note": "More respectful: お子さんはいらっしゃいますか (okosan wa irasshaimasu ka)."
+    },
+    "monday": {
+      "text": "月曜日",
+      "roman": "Getsuyōbi",
+      "note": "Often shortened to 月曜 (getsuyō). 月 is the moon."
+    },
+    "tuesday": {
+      "text": "火曜日",
+      "roman": "Kayōbi",
+      "note": "火 is fire."
+    },
+    "wednesday": {
+      "text": "水曜日",
+      "roman": "Suiyōbi",
+      "note": "水 is water."
+    },
+    "thursday": {
+      "text": "木曜日",
+      "roman": "Mokuyōbi",
+      "note": "木 is tree, or wood."
+    },
+    "friday": {
+      "text": "金曜日",
+      "roman": "Kin'yōbi",
+      "note": "金 is gold, or metal."
+    },
+    "saturday": {
+      "text": "土曜日",
+      "roman": "Doyōbi",
+      "note": "土 is earth, or soil."
+    },
+    "sunday": {
+      "text": "日曜日",
+      "roman": "Nichiyōbi",
+      "note": "日 is the sun."
+    },
+    "weekend": {
+      "text": "週末",
+      "roman": "Shūmatsu",
+      "note": "In speech also 土日 (donichi), \"Saturday and Sunday\"."
+    },
+    "what_day": {
+      "text": "今日は何曜日ですか？",
+      "roman": "Kyō wa nan'yōbi desu ka?",
+      "note": "Asking the date instead: 今日は何日ですか (kyō wa nannichi desu ka)."
+    },
+    "next_week": {
+      "text": "来週",
+      "roman": "Raishū",
+      "note": "This week: 今週 (konshū); last week: 先週 (senshū)."
+    },
+    "eleven": {
+      "text": "十一",
+      "roman": "Jūichi",
+      "note": "Literally \"ten one\"; 12 to 19 work the same way."
+    },
+    "twelve": {
+      "text": "十二",
+      "roman": "Jūni"
+    },
+    "fifteen": {
+      "text": "十五",
+      "roman": "Jūgo"
+    },
+    "twenty": {
+      "text": "二十",
+      "roman": "Nijū",
+      "note": "Literally \"two tens\"; 21 is 二十一 (nijūichi)."
+    },
+    "thirty": {
+      "text": "三十",
+      "roman": "Sanjū"
+    },
+    "fifty": {
+      "text": "五十",
+      "roman": "Gojū"
+    },
+    "hundred": {
+      "text": "百",
+      "roman": "Hyaku",
+      "note": "Sound changes: 三百 (sanbyaku), 六百 (roppyaku), 八百 (happyaku)."
+    },
+    "thousand": {
+      "text": "千",
+      "roman": "Sen",
+      "note": "Sound changes: 三千 (sanzen), 八千 (hassen). 10,000 has its own word: 一万 (ichiman)."
+    },
+    "how_old": {
+      "text": "おいくつですか？",
+      "roman": "Oikutsu desu ka?",
+      "note": "Plainer: 何歳ですか (nansai desu ka), often used with children."
+    },
+    "years_old": {
+      "text": "…歳です",
+      "roman": "… sai desu",
+      "note": "Sound changes: 一歳 (issai), 八歳 (hassai), 十歳 (jussai). Age 20 has its own word: 二十歳 (hatachi)."
+    },
+    "red": {
+      "text": "赤",
+      "roman": "Aka",
+      "note": "Before a noun: 赤い (akai), as in 赤い車 (akai kuruma), a red car."
+    },
+    "blue": {
+      "text": "青",
+      "roman": "Ao",
+      "note": "Before a noun: 青い (aoi). Also covers some greens: a green traffic light is 青信号 (aoshingō)."
+    },
+    "green": {
+      "text": "緑",
+      "roman": "Midori",
+      "note": "Takes の before a noun: 緑の車 (midori no kuruma). Also グリーン (gurīn)."
+    },
+    "yellow": {
+      "text": "黄色",
+      "roman": "Kiiro",
+      "note": "Before a noun: 黄色い (kiiroi)."
+    },
+    "black": {
+      "text": "黒",
+      "roman": "Kuro",
+      "note": "Before a noun: 黒い (kuroi)."
+    },
+    "white": {
+      "text": "白",
+      "roman": "Shiro",
+      "note": "Before a noun: 白い (shiroi)."
+    },
+    "what_colour": {
+      "text": "何色ですか？",
+      "roman": "Naniiro desu ka?",
+      "note": "何色 is read naniiro here; nanshoku would mean \"how many colours\"."
+    },
+    "this_one": {
+      "text": "これ",
+      "roman": "Kore",
+      "note": "Japanese has three: これ (near me), それ (sore, near you), あれ (are, far from both)."
+    },
+    "that_one": {
+      "text": "あれ",
+      "roman": "Are",
+      "note": "Far from both of you. If it is near the person you're talking to: それ (sore)."
+    },
+    "another_one": {
+      "text": "もう一つお願いします",
+      "roman": "Mō hitotsu onegai shimasu",
+      "note": "For a drink: もう一杯お願いします (mō ippai onegai shimasu)."
+    },
+    "its_hot": {
+      "text": "暑いですね",
+      "roman": "Atsui desu ne",
+      "note": "ね (ne) invites agreement, like \"isn't it\". Hot to the touch is 熱い, also atsui."
+    },
+    "its_cold": {
+      "text": "寒いですね",
+      "roman": "Samui desu ne",
+      "note": "Cold to the touch, e.g. water or a drink: 冷たい (tsumetai)."
+    },
+    "its_raining": {
+      "text": "雨が降っています",
+      "roman": "Ame ga futte imasu",
+      "note": "In speech often 降ってます (futtemasu)."
+    },
+    "its_sunny": {
+      "text": "晴れています",
+      "roman": "Harete imasu",
+      "note": "Forecasts say 晴れ (hare); cloudy is 曇り (kumori)."
+    },
+    "its_windy": {
+      "text": "風が強いです",
+      "roman": "Kaze ga tsuyoi desu",
+      "note": "Literally \"the wind is strong\". Typhoon: 台風 (taifū)."
+    },
+    "weather_today": {
+      "text": "今日の天気はどうですか？",
+      "roman": "Kyō no tenki wa dō desu ka?",
+      "note": "Weather forecast: 天気予報 (tenki yohō)."
+    },
+    "beautiful_day": {
+      "text": "いい天気ですね",
+      "roman": "Ii tenki desu ne",
+      "note": "A classic small-talk opener with neighbours and shopkeepers."
+    },
+    "umbrella": {
+      "text": "傘",
+      "roman": "Kasa",
+      "note": "Cheap clear ones from convenience stores: ビニール傘 (binīrugasa)."
+    },
+    "summer": {
+      "text": "夏",
+      "roman": "Natsu",
+      "note": "Hot and muggy, as Japanese summers are: 蒸し暑い (mushiatsui)."
+    },
+    "winter": {
+      "text": "冬",
+      "roman": "Fuyu",
+      "note": "Spring is 春 (haru), autumn 秋 (aki)."
+    },
+    "have_reservation": {
+      "text": "予約しています",
+      "roman": "Yoyaku shite imasu",
+      "note": "With your name: 予約している…です (yoyaku shite iru … desu)."
+    },
+    "room": {
+      "text": "部屋",
+      "roman": "Heya",
+      "note": "Staff say お部屋 (oheya). Room number: 部屋番号 (heya bangō)."
+    },
+    "passport": {
+      "text": "パスポート",
+      "roman": "Pasupōto"
+    },
+    "luggage": {
+      "text": "荷物",
+      "roman": "Nimotsu",
+      "note": "Leaving bags at a hotel: 荷物を預かってもらえますか (nimotsu o azukatte moraemasu ka)."
+    },
+    "wifi_password": {
+      "text": "Wi-Fiのパスワードは何ですか？",
+      "roman": "Waifai no pasuwādo wa nan desu ka?",
+      "note": "Wi-Fi is written in Latin letters and read waifai."
+    },
+    "check_out_time": {
+      "text": "チェックアウトは何時ですか？",
+      "roman": "Chekkuauto wa nanji desu ka?"
+    },
+    "map": {
+      "text": "地図",
+      "roman": "Chizu",
+      "note": "Asking to be shown: 地図で教えてもらえますか (chizu de oshiete moraemasu ka)."
+    },
+    "bus": {
+      "text": "バス",
+      "roman": "Basu",
+      "note": "Bus stop: バス停 (basutei)."
+    },
+    "next_train": {
+      "text": "次の電車は何時ですか？",
+      "roman": "Tsugi no densha wa nanji desu ka?",
+      "note": "Bullet train: 新幹線 (shinkansen). Which platform?: 何番線ですか (nanbansen desu ka)."
+    },
+    "is_this_seat_free": {
+      "text": "この席は空いていますか？",
+      "roman": "Kono seki wa aite imasu ka?",
+      "note": "Simpler and very common: ここ、いいですか (koko, ii desu ka)."
+    },
+    "what_do_you_do": {
+      "text": "お仕事は何をされていますか？",
+      "roman": "Oshigoto wa nani o sarete imasu ka?",
+      "note": "Simpler: お仕事は何ですか (oshigoto wa nan desu ka)."
+    },
+    "i_work_in": {
+      "text": "…で働いています",
+      "roman": "… de hataraite imasu",
+      "note": "For a place. For a field: …の仕事をしています (… no shigoto o shite imasu)."
+    },
+    "im_student": {
+      "text": "学生です",
+      "roman": "Gakusei desu",
+      "note": "Same for men and women. University student: 大学生 (daigakusei)."
+    },
+    "office": {
+      "text": "オフィス",
+      "roman": "Ofisu",
+      "note": "Also 事務所 (jimusho). \"At the office\" is usually 会社で (kaisha de), \"at the company\"."
+    },
+    "meeting": {
+      "text": "会議",
+      "roman": "Kaigi",
+      "note": "Also ミーティング (mītingu), often for smaller, less formal meetings."
+    },
+    "im_busy": {
+      "text": "忙しいです",
+      "roman": "Isogashii desu",
+      "note": "Declining an invitation, softer: ちょっと用事があって (chotto yōji ga atte), \"I have something on\"."
+    },
+    "day_off": {
+      "text": "休み",
+      "roman": "Yasumi",
+      "note": "明日は休みです (ashita wa yasumi desu): tomorrow is my day off. Paid leave: 有給 (yūkyū)."
+    },
+    "colleague": {
+      "text": "同僚",
+      "roman": "Dōryō",
+      "note": "Same for men and women. In speech often 会社の人 (kaisha no hito), \"someone from work\"."
+    },
+    "lets_start": {
+      "text": "始めましょう",
+      "roman": "Hajimemashō",
+      "note": "Casual: 始めよう (hajimeyō). Opening a meeting: それでは始めます (sore de wa hajimemasu)."
+    },
+    "good_job": {
+      "text": "さすがですね！",
+      "roman": "Sasuga desu ne!",
+      "note": "Literally \"just as expected of you\". To a junior: よくやったね (yoku yatta ne)."
+    },
+    "table_for_two": {
+      "text": "二人でお願いします",
+      "roman": "Futari de onegai shimasu",
+      "note": "Staff ask 何名様ですか (nanmeisama desu ka). 二人 (futari) is the special word for two people."
+    },
+    "what_recommend": {
+      "text": "おすすめは何ですか？",
+      "roman": "Osusume wa nan desu ka?",
+      "note": "Menus often mark recommended dishes with おすすめ."
+    },
+    "not_spicy": {
+      "text": "辛くしないでください",
+      "roman": "Karaku shinaide kudasai",
+      "note": "Is it spicy?: 辛いですか (karai desu ka). No wasabi, at sushi places: さび抜きで (sabinuki de)."
+    },
+    "vegetarian_food": {
+      "text": "ベジタリアン料理",
+      "roman": "Bejitarian ryōri",
+      "note": "Many soups and sauces contain fish stock, だし (dashi), even without visible meat."
+    },
+    "more_water": {
+      "text": "お水のおかわりをお願いします",
+      "roman": "Omizu no okawari o onegai shimasu",
+      "note": "おかわり (okawari) is a refill or second helping, also of rice or coffee. Water is free."
+    },
+    "no_sugar": {
+      "text": "砂糖なしでお願いします",
+      "roman": "Satō nashi de onegai shimasu",
+      "note": "No milk either: ブラックで (burakku de), \"black\". Unsweetened drinks are labelled 無糖 (mutō)."
+    },
+    "im_full": {
+      "text": "お腹がいっぱいです",
+      "roman": "Onaka ga ippai desu",
+      "note": "Turning down more food: もう結構です (mō kekkō desu). Casual: お腹いっぱい (onaka ippai)."
+    },
+    "takeaway": {
+      "text": "持ち帰りでお願いします",
+      "roman": "Mochikaeri de onegai shimasu",
+      "note": "Also テイクアウトで (teikuauto de). Staff may ask お持ち帰りですか (omochikaeri desu ka)."
+    },
+    "it_was_delicious": {
+      "text": "おいしかったです",
+      "roman": "Oishikatta desu",
+      "note": "When leaving, also ごちそうさまでした (gochisōsama deshita), \"thank you for the meal\"."
+    },
+    "keep_change": {
+      "text": "おつりは結構です",
+      "roman": "Otsuri wa kekkō desu",
+      "note": "Tipping isn't customary in Japan, so this is rarely needed and may be politely refused."
+    },
+    "head": {
+      "text": "頭",
+      "roman": "Atama",
+      "note": "Headache: 頭痛 (zutsū)."
+    },
+    "stomach": {
+      "text": "お腹",
+      "roman": "Onaka",
+      "note": "The organ itself is 胃 (i), as in 胃が痛い (i ga itai)."
+    },
+    "head_hurts": {
+      "text": "頭が痛いです",
+      "roman": "Atama ga itai desu",
+      "note": "Works for any body part: お腹が痛いです (onaka ga itai desu)."
+    },
+    "have_fever": {
+      "text": "熱があります",
+      "roman": "Netsu ga arimasu",
+      "note": "Feeling a bit feverish: 熱っぽいです (netsuppoi desu)."
+    },
+    "medicine": {
+      "text": "薬",
+      "roman": "Kusuri",
+      "note": "Painkillers: 痛み止め (itamidome). Cold medicine: 風邪薬 (kazegusuri)."
+    },
+    "call_ambulance": {
+      "text": "救急車を呼んでください！",
+      "roman": "Kyūkyūsha o yonde kudasai!",
+      "note": "The ambulance and fire number in Japan is 119, said hyakujūkyūban."
+    },
+    "dentist": {
+      "text": "歯医者",
+      "roman": "Haisha",
+      "note": "Clinic signs usually say 歯科 (shika)."
+    },
+    "need_rest": {
+      "text": "少し休みたいです",
+      "roman": "Sukoshi yasumitai desu",
+      "note": "Literally \"I'd like to rest a little\". Staying off work: 今日は休みます (kyō wa yasumimasu)."
+    },
+    "feel_better": {
+      "text": "よくなりました",
+      "roman": "Yoku narimashita",
+      "note": "Often with おかげさまで (okagesama de), \"thanks to you\", or だいぶ (daibu), \"much\"."
+    },
+    "get_well": {
+      "text": "お大事に！",
+      "roman": "Odaiji ni!",
+      "note": "Politer: お大事になさってください (odaiji ni nasatte kudasai)."
+    },
+    "lets_meet": {
+      "text": "今度会いましょう",
+      "roman": "Kondo aimashō",
+      "note": "今度 (kondo) is \"some time soon\". Casual: また会おうね (mata aō ne)."
+    },
+    "are_you_free": {
+      "text": "明日はお時間ありますか？",
+      "roman": "Ashita wa ojikan arimasu ka?",
+      "note": "Also common: 明日は空いていますか (ashita wa aite imasu ka). Friends: 明日空いてる？ (ashita aiteru?)"
+    },
+    "call_me": {
+      "text": "電話してください",
+      "roman": "Denwa shite kudasai",
+      "note": "More formal, e.g. at work: お電話ください (odenwa kudasai). Friends: 電話して (denwa shite)."
+    },
+    "your_number": {
+      "text": "電話番号を教えていただけますか？",
+      "roman": "Denwa bangō o oshiete itadakemasu ka?",
+      "note": "Friends often swap contacts on LINE, Japan's main messaging app, instead."
+    },
+    "see_you_soon": {
+      "text": "また近いうちに",
+      "roman": "Mata chikai uchi ni",
+      "note": "Casual: またね (mata ne)."
+    },
+    "have_nice_day": {
+      "text": "よい一日を！",
+      "roman": "Yoi ichinichi o!",
+      "note": "Less common than in English. Very common: よい週末を (yoi shūmatsu o), \"have a nice weekend\"."
+    },
+    "good_luck": {
+      "text": "頑張ってください！",
+      "roman": "Ganbatte kudasai!",
+      "note": "Literally \"do your best\". Among friends: 頑張って (ganbatte)."
+    },
+    "happy_birthday": {
+      "text": "お誕生日おめでとうございます！",
+      "roman": "Otanjōbi omedetō gozaimasu!",
+      "note": "Among friends: 誕生日おめでとう (tanjōbi omedetō)."
+    },
+    "thanks_a_lot": {
+      "text": "どうもありがとうございます",
+      "roman": "Dōmo arigatō gozaimasu",
+      "note": "For something already done, often ありがとうございました (arigatō gozaimashita)."
+    },
+    "miss_you": {
+      "text": "会いたいな",
+      "roman": "Aitai na",
+      "note": "Literally \"I want to see you\". Also 寂しいよ (sabishii yo), \"I feel lonely\"."
     }
   }
 }
