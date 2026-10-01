@@ -1,26 +1,29 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { Fragment, useRef, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ArrowRight, BarChart3, Check, Flame, Star, Target, Trophy } from "lucide-react";
 import { badges } from "@/lib/achievements";
 import { UNITS } from "@/lib/curriculum";
+import { languageName, useT } from "@/lib/i18n";
 import { getLanguage } from "@/lib/languages";
 import { GOALS, addDays } from "@/lib/progress";
 import { bestStreak, deleteAccount, logIn, logOut, setGoal, signUp, streak, useAccount, useProgress, useToday, type Account } from "@/lib/store";
 import { track } from "@/lib/track";
+import type { UiKey } from "@/lib/ui";
 import Feli from "./Feli";
 
 export default function AccountPanel() {
   const account = useAccount();
-  if (account.status === "loading") return <p className="text-ink-600">Loading…</p>;
+  const { t } = useT();
+  if (account.status === "loading") return <p className="text-ink-600">{t("account.loading")}</p>;
   if (account.status === "off") {
     return (
       <div className="space-y-6">
         <div>
-          <h1 className="text-3xl font-black">Your progress</h1>
-          <p className="mt-2 text-ink-600">Accounts aren&apos;t switched on yet. Your progress is saved on this device.</p>
+          <h1 className="text-3xl font-black">{t("account.off.title")}</h1>
+          <p className="mt-2 text-ink-600">{t("account.off.body")}</p>
         </div>
         <Profile account={null} />
       </div>
@@ -32,17 +35,30 @@ export default function AccountPanel() {
 
 // ---------------------------------------------------------------------------
 
+// A message written here (kept as its key, so it follows the language) or one sent back by the server (shown as is).
+type Message = { key: UiKey } | string;
+
+// The learner's language as a BCP 47 tag, for dates and numbers.
+function useLocale() {
+  const { t, lang } = useT();
+  return { t, lang, tag: getLanguage(lang)?.speech ?? "en" };
+}
+
+// Fills "{name}" slots in translated text with elements (e.g. links).
+function rich(text: string, parts: Record<string, React.ReactNode>) {
+  return text.split(/\{(\w+)\}/).map((s, i) => <Fragment key={i}>{i % 2 ? (parts[s] ?? `{${s}}`) : s}</Fragment>);
+}
+
 function SignIn({ google }: { google: boolean }) {
   const params = useSearchParams();
   const progress = useProgress();
+  const { t, tag } = useLocale();
   const [mode, setMode] = useState<"signup" | "login">("signup");
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [busy, setBusy] = useState(false);
-  const [error, setError] = useState<string | null>(
-    params.get("error") === "google" ? "Google sign-in didn't work this time — please try again, or use your email." : null,
-  );
+  const [error, setError] = useState<Message | null>(params.get("error") === "google" ? { key: "account.signIn.googleFailed" } : null);
   const lessons = Object.values(progress.done).reduce((n, u) => n + u.length, 0);
 
   async function submit(e: React.FormEvent) {
@@ -51,7 +67,7 @@ function SignIn({ google }: { google: boolean }) {
     setError(null);
     const r = mode === "signup" ? await signUp(email, password, name) : await logIn(email, password);
     setBusy(false);
-    if (!r.ok) setError(r.error ?? "Something went wrong.");
+    if (!r.ok) setError(r.error ?? { key: "account.somethingWrong" });
     else setPassword("");
   }
 
@@ -59,16 +75,26 @@ function SignIn({ google }: { google: boolean }) {
     <div className="-mx-4 -mt-6 grid overflow-hidden sm:mx-0 sm:mt-0 sm:rounded-3xl sm:border sm:border-sand-300 lg:grid-cols-2">
       <section className="flex flex-col justify-between gap-6 bg-primary p-8 text-on-primary sm:p-12">
         <div>
-          <p className="text-xs font-extrabold tracking-[0.12em] uppercase">{mode === "signup" ? "Free forever" : "Welcome back"}</p>
+          <p className="text-xs font-extrabold tracking-[0.12em] uppercase">
+            {mode === "signup" ? t("account.signIn.eyebrowSignup") : t("account.signIn.eyebrowLogin")}
+          </p>
           <h1 className="mt-3 text-4xl leading-none font-black sm:text-5xl">
-            Your next five minutes
-            <br />
-            start here.
+            {t("account.signIn.headline")
+              .split("\n")
+              .map((line, i) => (
+                <Fragment key={i}>
+                  {i > 0 && <br />}
+                  {line}
+                </Fragment>
+              ))}
           </h1>
           <p className="mt-3 opacity-90">
             {lessons > 0
-              ? `Save your ${lessons} ${lessons === 1 ? "lesson" : "lessons"} and ${progress.xp} points, and keep learning on any device.`
-              : "Feli keeps your place: streak, points and every phrase you've learned, on every device."}
+              ? t("account.signIn.saveProgress", {
+                  lessons: t("account.signIn.lessonCount", { n: lessons }),
+                  points: t("account.signIn.pointCount", { n: progress.xp, points: progress.xp.toLocaleString(tag) }),
+                })
+              : t("account.signIn.pitch")}
           </p>
         </div>
         <Feli size={180} className="self-center" decorative />
@@ -76,11 +102,11 @@ function SignIn({ google }: { google: boolean }) {
 
       <section className="bg-background p-6 sm:p-10">
         <div className="mx-auto grid max-w-md gap-4">
-          <div className="flex gap-2 rounded-2xl bg-sand-100 p-1" role="group" aria-label="Create an account or log in">
+          <div className="flex gap-2 rounded-2xl bg-sand-100 p-1" role="group" aria-label={t("account.signIn.modeGroup")}>
             {(
               [
-                ["signup", "Create account"],
-                ["login", "Log in"],
+                ["signup", t("account.signIn.createAccount")],
+                ["login", t("account.signIn.logIn")],
               ] as const
             ).map(([m, label]) => (
               <button
@@ -100,24 +126,24 @@ function SignIn({ google }: { google: boolean }) {
           {google && (
             <>
               <a href="/api/auth/google?returnTo=/account" className="btn-secondary w-full">
-                <GoogleLogo /> Continue with Google
+                <GoogleLogo /> {t("account.signIn.google")}
               </a>
               <div className="flex items-center gap-3 text-xs text-ink-500">
-                <span className="h-px flex-1 bg-sand-300" /> or with email <span className="h-px flex-1 bg-sand-300" />
+                <span className="h-px flex-1 bg-sand-300" /> {t("account.signIn.orEmail")} <span className="h-px flex-1 bg-sand-300" />
               </div>
             </>
           )}
 
           <form onSubmit={submit} className="grid gap-4">
             {mode === "signup" && (
-              <Field id="name" label="First name (optional)">
+              <Field id="name" label={t("account.signIn.firstName")}>
                 <input id="name" autoComplete="given-name" maxLength={60} value={name} onChange={(e) => setName(e.target.value)} className="input" />
               </Field>
             )}
-            <Field id="email" label="Email">
+            <Field id="email" label={t("account.signIn.email")}>
               <input id="email" type="email" autoComplete="email" required value={email} onChange={(e) => setEmail(e.target.value)} className="input" />
             </Field>
-            <Field id="password" label="Password" hint="At least 8 characters.">
+            <Field id="password" label={t("account.signIn.password")} hint={t("account.signIn.passwordHint")}>
               <input
                 id="password"
                 type="password"
@@ -132,23 +158,27 @@ function SignIn({ google }: { google: boolean }) {
             </Field>
             {error && (
               <p role="alert" className="rounded-xl bg-danger-soft p-3 text-danger">
-                {error}
+                {typeof error === "string" ? error : t(error.key)}
               </p>
             )}
             <button type="submit" disabled={busy} className="btn-primary w-full disabled:opacity-50">
-              {busy ? "One moment…" : mode === "signup" ? "Create account" : "Log in"} <ArrowRight size={18} aria-hidden />
+              {busy ? t("account.signIn.busy") : mode === "signup" ? t("account.signIn.createAccount") : t("account.signIn.logIn")}{" "}
+              <ArrowRight size={18} aria-hidden />
             </button>
           </form>
           <p className="text-center text-xs text-ink-500">
-            By continuing you agree to our{" "}
-            <Link href="/terms" className="underline">
-              terms
-            </Link>{" "}
-            and{" "}
-            <Link href="/privacy" className="underline">
-              privacy policy
-            </Link>
-            .
+            {rich(t("account.signIn.agree"), {
+              terms: (
+                <Link href="/terms" className="underline">
+                  {t("account.signIn.terms")}
+                </Link>
+              ),
+              privacy: (
+                <Link href="/privacy" className="underline">
+                  {t("account.signIn.privacy")}
+                </Link>
+              ),
+            })}
           </p>
         </div>
       </section>
@@ -191,12 +221,13 @@ function Profile({ account }: { account: SignedIn | null }) {
   const progress = useProgress();
   const today = useToday();
   const params = useSearchParams();
+  const { t, lang, tag } = useLocale();
   const days = streak(progress.days);
   const best = bestStreak(progress.days);
   const lessons = Object.values(progress.done).reduce((n, u) => n + u.length, 0);
   const courses = Object.entries(progress.done).filter(([code, u]) => u.length > 0 && getLanguage(code));
   const earned = badges(progress, best);
-  const joined = account?.joined ? new Date(account.joined).toLocaleDateString("en-GB", { month: "long", year: "numeric" }) : null;
+  const joined = account?.joined ? new Date(account.joined).toLocaleDateString(tag, { month: "long", year: "numeric" }) : null;
 
   // 13 weeks of activity, oldest first, levelled against the daily goal.
   const heat = today
@@ -212,7 +243,7 @@ function Profile({ account }: { account: SignedIn | null }) {
     <div className="space-y-6">
       {params.get("welcome") && account && (
         <p role="status" className="rounded-2xl bg-success-soft p-4 font-bold text-success">
-          Welcome to Feliglot{account.name ? `, ${account.name}` : ""}! Your progress now saves to your account.
+          {account.name ? t("account.profile.welcomeNamed", { name: account.name }) : t("account.profile.welcome")}
         </p>
       )}
 
@@ -228,25 +259,25 @@ function Profile({ account }: { account: SignedIn | null }) {
             )}
           </div>
           <div className="min-w-0">
-            <p className="eyebrow">Learner profile</p>
+            <p className="eyebrow">{t("account.profile.eyebrow")}</p>
             <h1 className="truncate text-3xl font-black">{account.name ?? account.email.split("@")[0]}</h1>
             <p className="truncate text-sm text-ink-500">
               {account.email}
-              {joined ? ` · learning since ${joined}` : ""} · {courses.length} {courses.length === 1 ? "course" : "courses"}
+              {joined ? ` · ${t("account.profile.learningSince", { date: joined })}` : ""} · {t("account.profile.courseCount", { n: courses.length })}
             </p>
           </div>
           <p className="text-sm text-ink-600" role="status">
-            {account.saving ? "Saving…" : account.saveFailed ? "Couldn't save just now — we'll retry." : "✓ Synced to your account"}
+            {account.saving ? t("account.profile.saving") : account.saveFailed ? t("account.profile.saveFailed") : t("account.profile.synced")}
           </p>
         </section>
       )}
 
       <dl className="grid grid-cols-2 gap-3 sm:grid-cols-4">
         {[
-          [Star, progress.xp.toLocaleString("en-US"), "total points"],
-          [Trophy, String(lessons), lessons === 1 ? "lesson passed" : "lessons passed"],
-          [Flame, `${days}`, "day streak"],
-          [Target, `${best}`, "best streak"],
+          [Star, progress.xp.toLocaleString(tag), t("account.stats.totalPoints")],
+          [Trophy, lessons.toLocaleString(tag), t("account.stats.lessonsPassed", { n: lessons })],
+          [Flame, days.toLocaleString(tag), t("account.stats.dayStreak", { n: days })],
+          [Target, best.toLocaleString(tag), t("account.stats.bestStreak")],
         ].map(([Icon, v, label]) => {
           const I = Icon as typeof Star;
           return (
@@ -262,31 +293,36 @@ function Profile({ account }: { account: SignedIn | null }) {
 
       <div className="grid gap-6 lg:grid-cols-[1.2fr_.8fr]">
         <section className="panel">
-          <p className="eyebrow">Consistency</p>
-          <h2 className="mt-1 text-xl font-extrabold">Your last 13 weeks</h2>
+          <p className="eyebrow">{t("account.heat.eyebrow")}</p>
+          <h2 className="mt-1 text-xl font-extrabold">{t("account.heat.title")}</h2>
           <div
             className="mt-5 grid grid-flow-col grid-rows-7 gap-1.5 overflow-x-auto pb-1"
             style={{ gridAutoColumns: "14px" }}
-            aria-label={`Activity over the last 13 weeks: ${heat.filter((h) => h.level > 0).length} active days`}
+            aria-label={t("account.heat.label", { n: heat.filter((h) => h.level > 0).length })}
             role="img"
           >
             {heat.map((h) => (
-              <i key={h.d} className="heat block h-3.5 w-3.5 rounded-[4px]" data-level={h.level} title={`${h.d}: ${h.xp} points`} />
+              <i
+                key={h.d}
+                className="heat block h-3.5 w-3.5 rounded-[4px]"
+                data-level={h.level}
+                title={t("account.heat.day", { n: h.xp, date: h.d, points: h.xp.toLocaleString(tag) })}
+              />
             ))}
           </div>
           <div className="mt-2 flex items-center justify-end gap-1 text-[11px] text-ink-500" aria-hidden>
-            Less
+            {t("account.heat.less")}
             {[0, 1, 2, 3, 4].map((l) => (
               <i key={l} className="heat block h-3 w-3 rounded-[3px]" data-level={l} />
             ))}
-            More
+            {t("account.heat.more")}
           </div>
         </section>
 
         <section className="panel" id="goal">
-          <p className="eyebrow">Daily goal</p>
-          <h2 className="mt-1 text-xl font-extrabold">Choose your pace</h2>
-          <div className="mt-4 grid gap-2" role="radiogroup" aria-label="Daily goal">
+          <p className="eyebrow">{t("account.goal.eyebrow")}</p>
+          <h2 className="mt-1 text-xl font-extrabold">{t("account.goal.title")}</h2>
+          <div className="mt-4 grid gap-2" role="radiogroup" aria-label={t("account.goal.group")}>
             {GOALS.map((g, gi) => {
               const active = progress.goal === g.xp;
               // One tab stop for the group; arrow keys move between goals.
@@ -316,11 +352,11 @@ function Profile({ account }: { account: SignedIn | null }) {
                 >
                   <Target size={20} className="text-primary" aria-hidden />
                   <span>
-                    <strong className="block font-display">{g.label}</strong>
-                    <small className="text-ink-500">{g.blurb}</small>
+                    <strong className="block font-display">{t(`account.goal.${g.xp}.label`)}</strong>
+                    <small className="text-ink-500">{t(`account.goal.${g.xp}.blurb`)}</small>
                   </span>
                   <span className="flex items-center gap-2 font-bold">
-                    {g.xp} pts {active && <Check size={18} className="text-primary" aria-hidden />}
+                    {t("account.goal.points", { n: g.xp.toLocaleString(tag) })} {active && <Check size={18} className="text-primary" aria-hidden />}
                   </span>
                 </button>
               );
@@ -329,27 +365,28 @@ function Profile({ account }: { account: SignedIn | null }) {
         </section>
 
         <section className="panel">
-          <p className="eyebrow">In progress</p>
-          <h2 className="mt-1 text-xl font-extrabold">Your courses</h2>
+          <p className="eyebrow">{t("account.courses.eyebrow")}</p>
+          <h2 className="mt-1 text-xl font-extrabold">{t("account.courses.title")}</h2>
           {courses.length === 0 ? (
             <p className="mt-3 text-ink-600">
-              No lessons passed yet.{" "}
+              {t("account.courses.none")}{" "}
               <Link href="/learn" className="font-bold text-primary underline">
-                Pick a language
+                {t("account.courses.pick")}
               </Link>
             </p>
           ) : (
             <ul className="mt-4 space-y-4">
               {courses.map(([code, units]) => {
                 const l = getLanguage(code)!;
+                const name = languageName(code, lang);
                 const pct = Math.round((units.length / UNITS.length) * 100);
                 return (
                   <li key={code}>
                     <Link href={`/learn/${code}`} className="block">
                       <span className="mb-1.5 flex justify-between text-sm">
                         <strong className="font-display">
-                          {l.name}
-                          {l.nativeName !== l.name && (
+                          {name}
+                          {l.nativeName !== name && (
                             <>
                               {" "}
                               <span dir={l.dir} lang={l.speech} className="font-normal text-ink-500">
@@ -359,7 +396,7 @@ function Profile({ account }: { account: SignedIn | null }) {
                           )}
                         </strong>
                         <small className="text-ink-500">
-                          {units.length}/{UNITS.length} lessons
+                          {t("account.courses.lessons", { n: UNITS.length, done: units.length })}
                         </small>
                       </span>
                       <span className="block h-2.5 overflow-hidden rounded-full bg-sand-200" aria-hidden>
@@ -374,24 +411,26 @@ function Profile({ account }: { account: SignedIn | null }) {
         </section>
 
         <section className="panel">
-          <p className="eyebrow">Achievements</p>
+          <p className="eyebrow">{t("account.badges.eyebrow")}</p>
           <h2 className="mt-1 text-xl font-extrabold">
-            {earned.filter((b) => b.earned).length} of {earned.length} badges
+            {t("account.badges.count", { n: earned.length, earned: earned.filter((b) => b.earned).length })}
           </h2>
           <ul className="mt-4 grid grid-cols-3 gap-2">
             {earned.map((b) => (
               <li
                 key={b.id}
                 className="flex flex-col items-center rounded-2xl bg-sand-100 px-1 py-3 text-center"
-                title={b.how}
+                title={t(`account.badge.${b.id}.how` as UiKey)}
               >
                 <span className={`text-2xl ${b.earned ? "" : "opacity-35 grayscale"}`} aria-hidden>
                   {b.icon}
                 </span>
-                <strong className={`mt-1 text-xs leading-tight ${b.earned ? "" : "text-ink-600"}`}>{b.title}</strong>
+                <strong className={`mt-1 text-xs leading-tight ${b.earned ? "" : "text-ink-600"}`}>
+                  {t(`account.badge.${b.id}.title` as UiKey)}
+                </strong>
                 <small className="text-[11px] leading-tight text-ink-600">
-                  {b.earned ? "Earned" : b.how}
-                  <span className="sr-only">{b.earned ? "" : " — not yet earned"}</span>
+                  {b.earned ? t("account.badges.earned") : t(`account.badge.${b.id}.how` as UiKey)}
+                  <span className="sr-only">{b.earned ? "" : t("account.badges.notEarned")}</span>
                 </small>
               </li>
             ))}
@@ -406,7 +445,8 @@ function Profile({ account }: { account: SignedIn | null }) {
 
 function AccountActions({ admin }: { admin: boolean }) {
   const [confirming, setConfirming] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const { t } = useT();
+  const [error, setError] = useState<Message | null>(null);
   const deleteButton = useRef<HTMLButtonElement>(null);
   function cancel() {
     setConfirming(false);
@@ -418,15 +458,15 @@ function AccountActions({ admin }: { admin: boolean }) {
     <section className="flex flex-col items-center gap-4 border-t border-sand-300 pt-6">
       {admin && (
         <Link href="/admin" className="btn-secondary">
-          <BarChart3 size={18} aria-hidden /> Owner dashboard
+          <BarChart3 size={18} aria-hidden /> {t("account.actions.dashboard")}
         </Link>
       )}
       <button onClick={() => void logOut()} className="font-bold text-danger">
-        Log out
+        {t("account.actions.logOut")}
       </button>
       {!confirming ? (
         <button ref={deleteButton} onClick={() => setConfirming(true)} className="text-sm text-ink-500 underline">
-          Delete my account
+          {t("account.actions.delete")}
         </button>
       ) : (
         <div
@@ -438,25 +478,25 @@ function AccountActions({ admin }: { admin: boolean }) {
           }}
         >
           <p id="del-title" className="font-bold">
-            Delete your account and all saved progress? This can&apos;t be undone.
+            {t("account.actions.confirm")}
           </p>
           {error && (
             <p role="alert" className="mt-2 font-bold text-danger">
-              {error}
+              {typeof error === "string" ? error : t(error.key)}
             </p>
           )}
           <div className="mt-3 flex justify-center gap-3">
             <button onClick={cancel} className="btn-secondary" autoFocus>
-              Keep it
+              {t("account.actions.keep")}
             </button>
             <button
               onClick={async () => {
                 const r = await deleteAccount();
-                if (!r.ok) setError(r.error ?? "Something went wrong.");
+                if (!r.ok) setError(r.error ?? { key: "account.somethingWrong" });
               }}
               className="inline-flex min-h-12 items-center rounded-2xl bg-danger px-5 font-display font-extrabold text-on-danger"
             >
-              Delete forever
+              {t("account.actions.deleteForever")}
             </button>
           </div>
         </div>

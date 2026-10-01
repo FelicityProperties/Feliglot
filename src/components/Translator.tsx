@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { languageName, useT } from "@/lib/i18n";
 import { LANGUAGES_BY_NAME, getLanguage } from "@/lib/languages";
 import { CONCEPTS, UNITS } from "@/lib/curriculum";
 import { useSpeakLanguage } from "@/lib/store";
@@ -10,16 +11,17 @@ import { DENSE_SCRIPT, NO_SPACES, fold } from "@/lib/fold";
 import type { LangContent, TranslateResult } from "@/lib/types";
 import { ArrowLeftRight, Sparkles } from "lucide-react";
 import { track } from "@/lib/track";
+import type { UiKey } from "@/lib/ui";
 import SpeakButton from "./SpeakButton";
 
 const MAX = 300;
 const UNIT_OF = Object.fromEntries(UNITS.flatMap((u) => u.concepts.map((c) => [c.id, u.slug])));
-// Bidi isolates keep an English sentence readable inside a right-to-left box.
-const LRI = "⁦";
+// Bidi isolates keep a sentence in the site's language readable inside a box in the other direction.
 const FSI = "⁨";
 const PDI = "⁩";
 
 function LangSelect({ id, label, value, onChange }: { id: string; label: string; value: string; onChange: (v: string) => void }) {
+  const { lang } = useT();
   return (
     <div className="flex-1">
       <label htmlFor={id} className="mb-1 block text-sm font-medium text-ink-600">
@@ -31,11 +33,13 @@ function LangSelect({ id, label, value, onChange }: { id: string; label: string;
         onChange={(e) => onChange(e.target.value)}
         className="input py-3"
       >
-        {LANGUAGES_BY_NAME.map((l) => (
-          <option key={l.code} value={l.code}>
-            {l.name === l.nativeName ? l.name : `${l.name} — ${l.nativeName}`}
-          </option>
-        ))}
+        {LANGUAGES_BY_NAME.map((l) => ({ l, name: languageName(l.code, lang) }))
+          .sort((a, b) => a.name.localeCompare(b.name, getLanguage(lang)?.speech))
+          .map(({ l, name }) => (
+            <option key={l.code} value={l.code}>
+              {name === l.nativeName ? name : `${name} — ${l.nativeName}`}
+            </option>
+          ))}
       </select>
     </div>
   );
@@ -71,6 +75,7 @@ function findMatches(query: string, from: LangContent): string[] {
 
 export default function Translator() {
   const speak = useSpeakLanguage();
+  const { t, lang } = useT();
   const [fromChoice, setFrom] = useState<string | null>(null);
   const [toChoice, setTo] = useState<string | null>(null);
   const from = fromChoice ?? speak;
@@ -79,7 +84,7 @@ export default function Translator() {
   const to = preferredTo !== from ? preferredTo : from === "en" ? "es" : "en";
   const [text, setText] = useState("");
   const [aiEnabled, setAiEnabled] = useState<boolean | null>(null);
-  const [ai, setAi] = useState<{ loading: boolean; result?: TranslateResult; error?: string; for?: string }>({ loading: false });
+  const [ai, setAi] = useState<{ loading: boolean; result?: TranslateResult; error?: string | { key: UiKey }; for?: string }>({ loading: false });
 
   const fromState = useContent(from);
   const toState = useContent(to);
@@ -87,6 +92,8 @@ export default function Translator() {
   const toContent = toState.content;
   const toLang = getLanguage(to)!;
   const fromLang = getLanguage(from) ?? getLanguage("en")!;
+  const fromName = languageName(fromLang.code, lang, false);
+  const toName = languageName(toLang.code, lang, false);
   // The course to send learners to: whichever side isn't their own language.
   const learnLang = to === speak && from !== speak ? from : to;
 
@@ -132,37 +139,41 @@ export default function Translator() {
         body: JSON.stringify({ text: input, from, to }),
       });
       const d = await r.json().catch(() => ({}));
-      if (!r.ok || !d.result) setAi({ loading: false, error: d.error ?? "Something went wrong — please try again." });
+      if (!r.ok || !d.result) setAi({ loading: false, error: d.error ?? { key: "account.translate.error" } });
       else {
         setAi({ loading: false, result: d.result, for: `${from}>${to}:${input}` });
         track("translate_ai", { lang: to });
       }
     } catch {
-      setAi({ loading: false, error: "No connection — please try again." });
+      setAi({ loading: false, error: { key: "account.translate.offline" } });
     }
   }
 
-  const example = fromContent?.phrases.how_much?.text ?? "How much is this?";
+  const example = fromContent?.phrases.how_much?.text ?? t("account.translate.exampleFallback");
   const busy = !text.trim() || ai.loading;
-  const status = ai.loading ? "Translating…" : aiCurrent && ai.result ? `Translation ready: ${ai.result.translation}` : "";
+  const status = ai.loading
+    ? t("account.translate.translating")
+    : aiCurrent && ai.result
+      ? t("account.translate.ready", { translation: ai.result.translation })
+      : "";
 
   return (
     <div>
       <div className="flex flex-col gap-3 sm:flex-row sm:items-end">
-        <LangSelect id="from" label="From" value={from} onChange={pickFrom} />
+        <LangSelect id="from" label={t("account.translate.from")} value={from} onChange={pickFrom} />
         <button
           type="button"
           onClick={swap}
           className="grid h-12 w-12 place-items-center self-center rounded-2xl border border-sand-300 bg-card text-primary shadow-soft sm:self-end"
-          aria-label="Swap languages"
+          aria-label={t("account.translate.swap")}
         >
           <ArrowLeftRight size={20} aria-hidden />
         </button>
-        <LangSelect id="to" label="To" value={to} onChange={pickTo} />
+        <LangSelect id="to" label={t("account.translate.to")} value={to} onChange={pickTo} />
       </div>
 
       <label htmlFor="text" className="sr-only">
-        Text to translate, in {fromLang.name}
+        {t("account.translate.textLabel", { language: fromName })}
       </label>
       <textarea
         id="text"
@@ -171,7 +182,7 @@ export default function Translator() {
         value={text}
         onChange={(e) => setText(e.target.value.slice(0, MAX))}
         rows={3}
-        placeholder={`${LRI}Type in ${fromLang.name} — e.g. “${FSI}${example}${PDI}”${PDI}`}
+        placeholder={`${FSI}${t("account.translate.placeholder", { language: fromName, example: `${FSI}${example}${PDI}` })}${PDI}`}
         className="input mt-4 min-h-32 resize-y text-xl"
       />
       <div className="mt-1 flex items-center justify-between gap-3 text-xs text-ink-500">
@@ -180,7 +191,7 @@ export default function Translator() {
         </span>
         {aiEnabled && (
           <button onClick={translate} aria-disabled={busy} className={`btn-primary py-2! ${busy ? "opacity-50" : ""}`}>
-            {ai.loading ? "Translating…" : "Translate & explain ✨"}
+            {ai.loading ? t("account.translate.translating") : t("account.translate.button")}
           </button>
         )}
       </div>
@@ -190,29 +201,29 @@ export default function Translator() {
       </p>
       {ai.error && (
         <p role="alert" className="mt-4 rounded-xl bg-red-50 p-4 text-red-700">
-          {ai.error}
+          {typeof ai.error === "string" ? ai.error : t(ai.error.key)}
         </p>
       )}
 
       {aiCurrent && ai.result && (
         <section className="mt-6 rounded-3xl bg-primary-soft p-6">
           <h2 className="eyebrow flex items-center gap-1.5">
-            <Sparkles size={14} aria-hidden /> AI translation
+            <Sparkles size={14} aria-hidden /> {t("account.translate.aiTitle")}
           </h2>
           <p dir={toLang.dir} lang={toLang.speech} className="mt-2 font-display text-3xl font-black text-ink-900">
             {ai.result.translation}
           </p>
           {ai.result.romanization && <p className="text-lg text-teal-700">{ai.result.romanization}</p>}
           <div className="mt-2">
-            <SpeakButton text={ai.result.translation} tag={toLang.speech} languageName={toLang.name} />
+            <SpeakButton text={ai.result.translation} tag={toLang.speech} languageName={toName} />
           </div>
           {ai.result.breakdown.length > 0 && (
             <table className="mt-5 w-full rounded-2xl bg-card text-start text-sm">
-              <caption className="sr-only">Word by word</caption>
+              <caption className="sr-only">{t("account.translate.wordByWord")}</caption>
               <thead className="text-ink-500">
                 <tr>
-                  <th className="py-1 pr-3 text-start font-medium">Word</th>
-                  <th className="py-1 text-start font-medium">Meaning</th>
+                  <th className="py-1 pr-3 text-start font-medium">{t("account.translate.word")}</th>
+                  <th className="py-1 text-start font-medium">{t("account.translate.meaning")}</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-sand-200">
@@ -241,16 +252,16 @@ export default function Translator() {
               💡 {ai.result.note}
             </p>
           )}
-          <p className="mt-3 text-xs text-ink-500">AI translations can contain mistakes.</p>
+          <p className="mt-3 text-xs text-ink-500">{t("account.translate.aiWarning")}</p>
         </section>
       )}
 
       <section className="mt-8">
-        <p className="eyebrow">Phrasebook matches</p>
-        <h2 className="mt-1 text-xl font-extrabold text-ink-900">From the Feliglot courses</h2>
+        <p className="eyebrow">{t("account.translate.matchesEyebrow")}</p>
+        <h2 className="mt-1 text-xl font-extrabold text-ink-900">{t("account.translate.matchesTitle")}</h2>
         {fromState.failed || toState.failed ? (
           <p className="mt-2 text-ink-600">
-            Couldn&apos;t load the phrases.{" "}
+            {t("account.translate.loadFailed")}{" "}
             <button
               className="font-medium text-teal-700 underline"
               onClick={() => {
@@ -258,20 +269,20 @@ export default function Translator() {
                 if (toState.failed) toState.retry();
               }}
             >
-              Try again
+              {t("account.translate.retry")}
             </button>
           </p>
         ) : !ready ? (
           <p className="mt-2 text-ink-600">
-            Start typing to find matching phrases from our courses — instant and free.
-            {aiEnabled === false && " Full-sentence AI translation is coming soon."}
+            {t("account.translate.startTyping")}
+            {aiEnabled === false && ` ${t("account.translate.aiSoon")}`}
           </p>
         ) : !fromContent || !toContent ? (
-          <p className="mt-2 text-ink-600">Loading phrases…</p>
+          <p className="mt-2 text-ink-600">{t("account.translate.loadingPhrases")}</p>
         ) : matches.length === 0 ? (
           <p className="mt-2 text-ink-600">
-            No phrasebook match.
-            {aiEnabled && " Use “Translate & explain” for anything else."}
+            {t("account.translate.noMatch")}
+            {aiEnabled && ` ${t("account.translate.useAi")}`}
           </p>
         ) : (
           <ul className="mt-3 grid gap-3 sm:grid-cols-2">
@@ -291,10 +302,10 @@ export default function Translator() {
                     {dst?.note && <p className="mt-1 text-sm text-ink-500">💡 {dst.note}</p>}
                   </div>
                   <div className="flex flex-wrap items-center gap-3">
-                    {dst && <SpeakButton text={dst.text} tag={toLang.speech} languageName={toLang.name} />}
+                    {dst && <SpeakButton text={dst.text} tag={toLang.speech} languageName={toName} />}
                     {learnLang !== speak && (
                       <Link href={`/learn/${learnLang}/${UNIT_OF[id]}`} className="text-sm text-teal-700 hover:underline">
-                        Learn it in the {getLanguage(learnLang)?.name} course →
+                        {t("account.translate.learnIt", { language: languageName(learnLang, lang, false) })}
                       </Link>
                     )}
                   </div>

@@ -1,6 +1,10 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
+import { X } from "lucide-react";
+import { languageName, useT } from "@/lib/i18n";
+import type { UiKey } from "@/lib/ui";
 import type { LangInfo, LessonPhrase } from "@/lib/types";
 import type { Meaning, Result, Shown } from "@/lib/quiz";
 import { markUnitDone } from "@/lib/store";
@@ -28,19 +32,56 @@ function useFocusOnChange<T extends HTMLElement>(key: unknown) {
   return ref;
 }
 
+// The lesson page's header (the page itself renders on the server).
+export function LessonHeader({
+  code,
+  unit,
+  emoji,
+  level,
+  number,
+  count,
+}: {
+  code: string;
+  unit: string;
+  emoji: string;
+  level: number;
+  number: number;
+  count: number;
+}) {
+  const { t, lang } = useT();
+  const language = languageName(code, lang, false);
+  return (
+    <div className="mb-6 grid grid-cols-[auto_1fr_auto] items-center gap-3 sm:gap-4">
+      <Link
+        href={`/learn/${code}`}
+        className="grid h-12 w-12 place-items-center rounded-2xl border border-sand-300 bg-card shadow-soft"
+        aria-label={t("lesson.header.close", { language })}
+      >
+        <X size={20} aria-hidden />
+      </Link>
+      <div className="min-w-0">
+        <p className="text-xs text-ink-500">{t("lesson.header.meta", { language: languageName(code, lang), level, lesson: number })}</p>
+        <h1 className="text-xl leading-tight font-black tracking-tight break-words sm:text-2xl">
+          <span aria-hidden>{emoji}</span> {t(`course.unit.${unit}.title` as UiKey)}
+        </h1>
+      </div>
+      <span className="rounded-xl bg-sand-100 px-2.5 py-1.5 text-xs font-bold text-ink-600">{t("lesson.header.phrases", { n: count })}</span>
+    </div>
+  );
+}
+
 export default function LessonPlayer({
   lang,
   unit,
-  title,
   phrases,
   next,
 }: {
   lang: LangInfo;
   unit: string;
-  title: string;
   phrases: LessonPhrase[];
   next?: { slug: string; title: string };
 }) {
+  const { t } = useT();
   const [mode, setMode] = useState<Mode>("learn");
   const { shown, meaning, ready, base } = useMeanings(lang.code, phrases);
   const [results, setResults] = useState<Result[] | null>(null);
@@ -57,12 +98,12 @@ export default function LessonPlayer({
 
   return (
     <div>
-      <nav aria-label="Lesson steps" className="mb-6 flex gap-2">
+      <nav aria-label={t("lesson.steps.label")} className="mb-6 flex gap-2">
         {(
           [
-            ["learn", "Learn"],
-            ["cards", "Flashcards"],
-            ["quiz", "Quiz"],
+            ["learn", t("lesson.steps.learn")],
+            ["cards", t("lesson.steps.cards")],
+            ["quiz", t("lesson.steps.quiz")],
           ] as const
         ).map(([m, label], n) => (
           <button
@@ -87,16 +128,23 @@ export default function LessonPlayer({
         (results ? (
           <LessonComplete
             results={results}
-            title={`${title}: done!`}
+            title={t("lesson.complete.done", { title: t(`course.unit.${unit}.title` as UiKey) })}
             onRetry={() => {
               setResults(null);
               setAttempt((a) => a + 1);
             }}
-            next={next ? { href: `/learn/${lang.code}/${next.slug}`, label: `Next: ${next.title}` } : undefined}
-            back={{ href: `/learn/${lang.code}`, label: "Back to the course" }}
+            next={
+              next
+                ? {
+                    href: `/learn/${lang.code}/${next.slug}`,
+                    label: t("lesson.complete.next", { title: t(`course.unit.${next.slug}.title` as UiKey) }),
+                  }
+                : undefined
+            }
+            back={{ href: `/learn/${lang.code}`, label: t("lesson.complete.backToCourse") }}
           />
         ) : !ready ? (
-          <p className="text-ink-600">Loading…</p>
+          <p className="text-ink-600">{t("lesson.loading")}</p>
         ) : (
           // Remount for each attempt, and when the meaning language changes, so a quiz never mixes languages.
           <QuizRunner key={`${base}:${attempt}`} lang={lang} items={shown} meaning={meaning} onFinish={finish} />
@@ -123,6 +171,7 @@ function Target({ lang, p, size }: { lang: LangInfo; p: Shown; size: "md" | "lg"
 type Common = { lang: LangInfo; phrases: Shown[]; meaning: Meaning };
 
 function LearnList({ lang, phrases, meaning, onNext }: Common & { onNext: () => void }) {
+  const { t } = useT();
   return (
     <div>
       <ul className="space-y-3">
@@ -139,19 +188,20 @@ function LearnList({ lang, phrases, meaning, onNext }: Common & { onNext: () => 
               {p.note && <p className="mt-2 rounded-xl bg-sand-100 px-3 py-2 text-sm text-ink-600">💡 {p.note}</p>}
             </div>
             <div className="shrink-0">
-              <SpeakButton text={p.text} tag={lang.speech} languageName={lang.name} />
+              <SpeakButton text={p.text} tag={lang.speech} languageName={lang.name} code={lang.code} />
             </div>
           </li>
         ))}
       </ul>
       <button onClick={onNext} className="btn-primary mt-6 w-full sm:w-auto">
-        Practise with flashcards →
+        {t("lesson.learn.toCards")}
       </button>
     </div>
   );
 }
 
 function Flashcards({ lang, phrases, meaning, onNext }: Common & { onNext: () => void }) {
+  const { t } = useT();
   const [i, setI] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const headingRef = useFocusOnChange<HTMLParagraphElement>(i);
@@ -169,7 +219,7 @@ function Flashcards({ lang, phrases, meaning, onNext }: Common & { onNext: () =>
         <div className="h-full rounded-full bg-primary transition-[width] duration-300" style={{ width: `${((i + 1) / phrases.length) * 100}%` }} />
       </div>
       <p ref={headingRef} tabIndex={-1} className="mb-3 text-sm text-ink-500 outline-none">
-        Card {i + 1} of {phrases.length} — tap the card to turn it over
+        {t("lesson.cards.progress", { n: i + 1, total: phrases.length })}
       </p>
       <button
         onClick={() => {
@@ -185,13 +235,14 @@ function Flashcards({ lang, phrases, meaning, onNext }: Common & { onNext: () =>
           <Target lang={lang} p={p} size="lg" />
         ) : (
           <>
-            <span className="text-sm font-bold uppercase tracking-wide text-ink-500">How do you say…</span>
+            <span className="text-sm font-bold uppercase tracking-wide text-ink-500">{t("lesson.cards.howDoYouSay")}</span>
             <span dir={meaning.dir} lang={meaning.lang} className="mt-2 font-display text-3xl font-bold">
               {p.meaning}
             </span>
           </>
         )}
-        <span className="sr-only">{flipped ? " (tap to see the meaning)" : " (tap to see the answer)"}</span>
+        <span className="sr-only">{" "}
+          {flipped ? t("lesson.cards.tapForMeaning") : t("lesson.cards.tapForAnswer")}</span>
       </button>
       <p className="sr-only" aria-live="polite">
         {flipped && (
@@ -204,15 +255,15 @@ function Flashcards({ lang, phrases, meaning, onNext }: Common & { onNext: () =>
       {flipped && p.note && <p className="mt-3 max-w-md text-center text-sm text-ink-500">💡 {p.note}</p>}
       <div className="mt-6 flex w-full max-w-md gap-3">
         <button disabled={i === 0} onClick={() => go(i - 1)} className="btn-secondary flex-1 disabled:opacity-40">
-          ← Back
+          {t("lesson.cards.back")}
         </button>
         {last ? (
           <button onClick={onNext} className="btn-primary flex-1">
-            Take the quiz →
+            {t("lesson.cards.toQuiz")}
           </button>
         ) : (
           <button onClick={() => go(i + 1)} className="btn-primary flex-1">
-            Next →
+            {t("lesson.cards.next")}
           </button>
         )}
       </div>

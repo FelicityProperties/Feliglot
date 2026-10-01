@@ -44,9 +44,29 @@ function subscribe(cb: () => void) {
 
 // --- The language the learner already speaks -------------------------------
 
+// Until the learner picks one, use the first browser language Feliglot has
+// (an Arabic phone in the UAE gets Gulf Arabic, a Swiss German one German).
+const ALIASES: Record<string, string> = { no: "nb", nn: "nb", tl: "fil", iw: "he", in: "id" };
+const GULF = /^ar-(ae|sa|kw|qa|bh|om)$/;
+let detected: string | undefined;
+function browserLanguage(): string {
+  if (detected) return detected;
+  detected = "en";
+  for (const raw of navigator.languages ?? [navigator.language]) {
+    const tag = raw.toLowerCase();
+    const base = tag.split("-")[0];
+    const code = GULF.test(tag) ? "ar-gulf" : tag === "ar-eg" ? "ar-eg" : /^zh-(hk|mo)/.test(tag) ? "yue" : (ALIASES[base] ?? base);
+    if (getLanguage(code)) {
+      detected = code;
+      break;
+    }
+  }
+  return detected;
+}
+
 function speakSnapshot(): string {
   const code = read(SPEAK_KEY);
-  return code && getLanguage(code) ? code : "en";
+  return code && getLanguage(code) ? code : browserLanguage();
 }
 
 export function useSpeakLanguage(): string {

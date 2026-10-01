@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import LanguagePicker from "@/components/LanguagePicker";
+import T from "@/components/T";
 import { CONCEPTS, UNITS } from "@/lib/curriculum";
 import { LANGUAGES } from "@/lib/languages";
 
@@ -11,10 +12,14 @@ export const metadata: Metadata = {
 export default function LanguagesPage() {
   return (
     <div>
-      <p className="eyebrow">Start here</p>
-      <h1 className="mt-1 text-4xl font-black tracking-tight">All languages</h1>
+      <p className="eyebrow">
+        <T k="app.home.pick.eyebrow" />
+      </p>
+      <h1 className="mt-1 text-4xl font-black tracking-tight">
+        <T k="app.languages.title" />
+      </h1>
       <p className="mt-2 mb-6 text-ink-600">
-        {LANGUAGES.length} courses, each with the same {CONCEPTS.length} everyday phrases in {UNITS.length} short lessons.
+        <T k="app.languages.intro" vars={{ courses: LANGUAGES.length, phrases: CONCEPTS.length, lessons: UNITS.length }} />
       </p>
       <LanguagePicker />
     </div>

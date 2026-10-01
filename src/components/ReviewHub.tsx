@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { CONCEPTS, UNITS } from "@/lib/curriculum";
+import { languageName, useT } from "@/lib/i18n";
 import { getLanguage } from "@/lib/languages";
 import { dueCards, knownCount } from "@/lib/progress";
 import type { Result } from "@/lib/quiz";
@@ -19,6 +20,7 @@ const SESSION = 12; // phrases per review session
 const EN = Object.fromEntries(CONCEPTS.map((c) => [c.id, c.en]));
 
 export default function ReviewHub({ initialLang }: { initialLang?: string }) {
+  const { t, lang: ui } = useT();
   const progress = useProgress();
   const today = useToday();
   const [lang, setLang] = useState<string | null>(initialLang ?? null);
@@ -66,10 +68,10 @@ export default function ReviewHub({ initialLang }: { initialLang?: string }) {
         <div className="flex justify-center">
           <Feli mood="think" size={110} />
         </div>
-        <p className="mt-4 text-lg text-ink-700">Nothing to review yet.</p>
-        <p className="mt-1 text-ink-600">Pass a lesson and its phrases come back here — just before you&apos;d forget them.</p>
+        <p className="mt-4 text-lg text-ink-700">{t("lesson.review.empty")}</p>
+        <p className="mt-1 text-ink-600">{t("lesson.review.emptyHint")}</p>
         <Link href="/learn" className="btn-primary mt-6">
-          Choose a language
+          {t("lesson.review.chooseLanguage")}
         </Link>
       </div>
     );
@@ -79,6 +81,7 @@ export default function ReviewHub({ initialLang }: { initialLang?: string }) {
     <ul className="space-y-3">
       {byLang.map(([code, { due, total }]) => {
         const l = getLanguage(code)!;
+        const name = languageName(code, ui);
         return (
           <li
             key={code}
@@ -91,14 +94,15 @@ export default function ReviewHub({ initialLang }: { initialLang?: string }) {
                 <span dir={l.dir} lang={l.speech}>
                   {l.nativeName}
                 </span>
-                {l.nativeName !== l.name && <span className="text-sm font-medium text-ink-500"> {l.name}</span>}
+                {l.nativeName !== name && <span className="text-sm font-medium text-ink-500"> {name}</span>}
               </p>
               <p className="text-sm text-ink-600">
-                {due ? `${due} ready to review` : "All caught up"} · {knownCount(progress, code)} of {total} well known
+                {due ? t("lesson.review.due", { n: due }) : t("lesson.review.caughtUp")} ·{" "}
+                {t("lesson.review.known", { known: knownCount(progress, code), n: total })}
               </p>
             </div>
             <button onClick={() => setLang(code)} disabled={!due} className="btn-primary shrink-0 disabled:opacity-40">
-              {due ? "Review" : "Done ✓"}
+              {due ? t("lesson.review.start") : t("lesson.review.allDone")}
             </button>
           </li>
         );
@@ -109,6 +113,7 @@ export default function ReviewHub({ initialLang }: { initialLang?: string }) {
 
 function ReviewSession({ code, onExit }: { code: string; onExit: () => void }) {
   const l = getLanguage(code)!;
+  const { t, lang: ui } = useT();
   const progress = useProgress();
   const today = useToday();
   const { content, failed, retry } = useContent(code);
@@ -135,33 +140,33 @@ function ReviewSession({ code, onExit }: { code: string; onExit: () => void }) {
   if (failed)
     return (
       <p className="text-ink-600">
-        Couldn&apos;t load the phrases.{" "}
+        {t("lesson.review.loadFailed")}{" "}
         <button onClick={retry} className="font-medium text-primary underline">
-          Try again
+          {t("lesson.tryAgain")}
         </button>
       </p>
     );
-  if (!content || !ready) return <p className="text-ink-600">Loading…</p>;
+  if (!content || !ready) return <p className="text-ink-600">{t("lesson.loading")}</p>;
 
   if (results)
     return (
       <LessonComplete
         results={results}
-        title="Review done!"
+        title={t("lesson.review.done")}
         onRetry={() => {
           setResults(null);
           setRound((r) => r + 1);
         }}
-        back={{ onClick: onExit, label: "Back to reviews" }}
+        back={{ onClick: onExit, label: t("lesson.review.backToReviews") }}
       />
     );
 
   if (!items.length)
     return (
       <div className="text-center">
-        <p className="text-ink-700">All caught up in {l.name} for today.</p>
+        <p className="text-ink-700">{t("lesson.review.caughtUpIn", { language: languageName(code, ui, false) })}</p>
         <button onClick={onExit} className="btn-secondary mt-4">
-          Back
+          {t("lesson.review.back")}
         </button>
       </div>
     );
@@ -169,7 +174,7 @@ function ReviewSession({ code, onExit }: { code: string; onExit: () => void }) {
   return (
     <div>
       <button onClick={onExit} className="mb-4 text-sm text-ink-500 hover:text-primary">
-        ← All reviews
+        {t("lesson.review.allReviews")}
       </button>
       <QuizRunner
         key={`${base}:${round}`}

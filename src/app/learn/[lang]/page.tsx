@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
+import T, { LangName } from "@/components/T";
 import UnitGrid from "@/components/UnitGrid";
-import { ArrowLeft } from "lucide-react";
+import BackToLanguages from "@/components/BackToLanguages";
 import { CONCEPTS, UNITS } from "@/lib/curriculum";
 import { loadContent } from "@/lib/content";
 import { LANGUAGES, getLanguage } from "@/lib/languages";
+import type { UiKey } from "@/lib/ui";
 
 export const dynamicParams = false;
 
@@ -43,13 +44,13 @@ export default async function CoursePage({ params }: { params: Promise<{ lang: s
   return (
     <div className="mx-auto max-w-3xl">
       <div className="flex items-center gap-4">
-        <Link href="/learn" className="grid h-12 w-12 shrink-0 place-items-center rounded-2xl border border-sand-300 bg-card shadow-soft" aria-label="All languages">
-          <ArrowLeft size={20} aria-hidden />
-        </Link>
+        <BackToLanguages />
         <div className="min-w-0">
-          <p className="text-xs text-ink-500">Learning</p>
+          <p className="text-xs text-ink-500">
+            <T k="app.course.learning" />
+          </p>
           <h1 className="text-3xl leading-tight font-black tracking-tight break-words">
-            {l.name}{" "}
+            <LangName code={l.code} />{" "}
             {l.nativeName !== l.name && (
               <span dir={l.dir} lang={l.speech} className="text-primary">
                 {l.nativeName}
@@ -59,8 +60,17 @@ export default async function CoursePage({ params }: { params: Promise<{ lang: s
         </div>
       </div>
       <p className="mt-3 mb-6 max-w-2xl text-ink-600">
-        {l.tagline ?? `${CONCEPTS.length} everyday ${l.name} phrases in ${UNITS.length} short lessons.`}
-        {l.romanization && " Every phrase is also written in Latin letters so you can read it from day one."}
+        {l.tagline ? (
+          <T k={`app.tagline.${l.code}` as UiKey} />
+        ) : (
+          <T k="app.course.intro" vars={{ phrases: CONCEPTS.length, lessons: UNITS.length }} />
+        )}
+        {l.romanization && (
+          <>
+            {" "}
+            <T k="app.course.romanized" />
+          </>
+        )}
       </p>
       <UnitGrid lang={l.code} dir={l.dir} previews={previews} />
     </div>
