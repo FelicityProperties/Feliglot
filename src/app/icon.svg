@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 190">
-
-<path d="M52 136C35 141 25 132 27 119" fill="none" stroke="#432a0e" stroke-width="11" stroke-linecap="round"/>
-<path d="M128 136c17 5 27-4 26-18" fill="none" stroke="#432a0e" stroke-width="11" stroke-linecap="round"/>
-<path d="M48 73 48 35l25 21M132 73V35l-25 21" fill="#ffd28f" stroke="#432a0e" stroke-width="7" stroke-linejoin="round"/>
-<path d="m53 44 13 11H53zM127 44l-13 11h13z" fill="#f8986c"/>
-<rect x="42" y="51" width="96" height="109" rx="47" fill="#ffd28f" stroke="#432a0e" stroke-width="7"/>
-<circle cx="73" cy="91" r="6" fill="#432a0e"/><circle cx="107" cy="91" r="6" fill="#432a0e"/><path d="m86 103 4 4 4-4" fill="none" stroke="#432a0e" stroke-width="4" stroke-linecap="round"/><path d="M78 113q12 14 24 0" fill="none" stroke="#432a0e" stroke-width="5" stroke-linecap="round"/>
-<path d="M68 156v19M112 156v19" stroke="#432a0e" stroke-width="10" stroke-linecap="round"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Feliglot favicon (designed in Lovable): Feli's face on a teal tile -->
+  <rect width="64" height="64" rx="14" fill="#00796b"/>
+  <path d="M13 29 8 5l18 12z" fill="#f8986c" stroke="#f8986c" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M51 29l5-24-18 12z" fill="#f8986c" stroke="#f8986c" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="32" cy="38" r="21" fill="#ffd28f"/>
+  <circle cx="24" cy="36" r="3.6" fill="#432a0e"/>
+  <circle cx="40" cy="36" r="3.6" fill="#432a0e"/>
+  <path d="M26 45q6 5 12 0" fill="none" stroke="#432a0e" stroke-width="3.2" stroke-linecap="round"/>
 </svg>

@@ -17,12 +17,20 @@ const SITE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://feliglot.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
-  title: { default: "Feliglot — Learn any language, from the one you speak", template: "%s · Feliglot" },
+  title: {
+    default: "Feliglot — Learn any language, from the one you speak",
+    template: "%s · Feliglot",
+  },
   description: `Free five-minute lessons in ${LANGUAGES.length} languages. Hear every phrase, practise with flashcards, speak and type your answers, and review just before you'd forget — from the language you already speak.`,
   applicationName: "Feliglot",
   openGraph: { siteName: "Feliglot", type: "website" },
   appleWebApp: { capable: true, title: "Feliglot", statusBarStyle: "default" },
-  icons: { apple: "/icons/apple-touch-icon.png" },
+  // Setting icons here drops the automatic icon.svg link, so it is listed again.
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    apple: "/icons/apple-touch-icon.png",
+    other: [{ rel: "mask-icon", url: "/favicon-mono.svg", color: "#00796b" }],
+  },
 };
 
 export const viewport: Viewport = {
@@ -39,20 +47,31 @@ const NAV = [
   { href: "/translate", label: "Translate" },
 ];
 
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
       <body className="min-h-screen antialiased">
-        <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:rounded-xl focus:bg-card focus:p-3">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:rounded-xl focus:bg-card focus:p-3"
+        >
           Skip to content
         </a>
         <header className="sticky top-0 z-30 border-b border-sand-300 bg-background/90 backdrop-blur-md">
           <div className="px-safe mx-auto flex max-w-6xl items-center justify-between gap-3 py-2.5">
-            <Link href="/" className="flex items-center gap-2 font-display text-2xl font-black text-primary">
+            <Link
+              href="/"
+              className="flex items-center gap-2 font-display text-2xl font-black text-primary"
+            >
               <Feli size={34} decorative />
               Feliglot
             </Link>
-            <nav aria-label="Sections" className="hidden items-center gap-6 font-display font-extrabold text-ink-700 md:flex">
+            <nav
+              aria-label="Sections"
+              className="hidden items-center gap-6 font-display font-extrabold text-ink-700 md:flex"
+            >
               {NAV.map((n) => (
                 <Link key={n.href} href={n.href} className="hover:text-primary">
                   {n.label}
@@ -72,13 +91,17 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           </div>
         </header>
         {/* The bottom tab bar shows below md, the header links from md up. */}
-        <main id="main" className="px-safe mx-auto max-w-6xl pt-6 pb-28 sm:pt-10 md:pb-16">
+        <main
+          id="main"
+          className="px-safe mx-auto max-w-6xl pt-6 pb-28 sm:pt-10 md:pb-16"
+        >
           {children}
         </main>
         <footer className="px-safe mx-auto max-w-6xl border-t border-sand-300 pt-8 pb-28 text-sm text-ink-500 md:pb-10">
           <p>
-            Feliglot is a Felicity project. Course phrases were written and checked by AI and are waiting on review by
-            native speakers — if something sounds off, tell us.
+            Feliglot is a Felicity project. Course phrases were written and
+            checked by AI and are waiting on review by native speakers — if
+            something sounds off, tell us.
           </p>
           <p className="mt-3 flex gap-4">
             <Link href="/privacy" className="underline hover:text-primary">
